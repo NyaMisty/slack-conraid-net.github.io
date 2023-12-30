@@ -1,0 +1,11 @@
+fluffychat-bin: fluffychat-bin (Matrix Client)
+fluffychat-bin:
+fluffychat-bin: FluffyChat is an open source, nonprofit and cute matrix messenger app.
+fluffychat-bin: The app is easy to use but secure and decentralized.
+fluffychat-bin:
+fluffychat-bin:
+fluffychat-bin:
+fluffychat-bin:
+fluffychat-bin:
+fluffychat-bin:
+fluffychat-bin:

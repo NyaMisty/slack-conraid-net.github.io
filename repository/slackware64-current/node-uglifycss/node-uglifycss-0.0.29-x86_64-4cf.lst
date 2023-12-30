@@ -1,0 +1,87 @@
+++========================================
+||
+||   Package:  ./node-uglifycss/node-uglifycss-0.0.29-x86_64-4cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-08-11 12:12 ./
+drwxr-xr-x root/root         0 2022-08-11 12:12 install/
+-rw-r--r-- root/root       292 2022-08-11 12:12 install/doinst.sh
+-rw-r--r-- root/root       831 2022-08-11 12:12 install/slack-desc
+drwxr-xr-x root/root         0 2022-08-11 12:12 usr/
+drwxr-xr-x root/root         0 2022-08-11 12:12 usr/bin/
+drwxr-xr-x root/root         0 2022-08-11 12:12 usr/doc/
+drwxr-xr-x root/root         0 2022-08-11 12:12 usr/doc/node-uglifycss-0.0.29/
+-rw-r--r-- root/root      2805 2022-08-11 12:12 usr/doc/node-uglifycss-0.0.29/node-uglifycss.SlackBuild
+drwxr-xr-x root/root         0 2022-08-11 12:12 usr/lib64/
+drwxr-xr-x root/root         0 2022-08-11 12:12 usr/lib64/node_modules/
+drwxr-xr-x root/root         0 2022-08-11 12:12 usr/lib64/node_modules/root/
+-rw-r--r-- root/root      1078 2022-08-11 12:12 usr/lib64/node_modules/root/LICENSE
+-rw-r--r-- root/root      3908 2022-08-11 12:12 usr/lib64/node_modules/root/README.md
+-rw-r--r-- root/root      2693 2022-08-11 12:12 usr/lib64/node_modules/root/defaults.js
+-rw-r--r-- root/root      7303 2022-08-11 12:12 usr/lib64/node_modules/root/index.js
+drwxr-xr-x root/root         0 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/
+drwxr-xr-x root/root         0 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/.bin/
+drwxr-xr-x root/root         0 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/inherits/
+-rw-r--r-- root/root       749 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/inherits/LICENSE
+-rw-r--r-- root/root      1625 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/inherits/README.md
+-rw-r--r-- root/root       250 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/inherits/inherits.js
+-rw-r--r-- root/root       753 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/inherits/inherits_browser.js
+-rw-r--r-- root/root       581 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/inherits/package.json
+drwxr-xr-x root/root         0 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/murl/
+-rw-r--r-- root/root      1124 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/murl/README.md
+-rw-r--r-- root/root      2316 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/murl/index.js
+-rw-r--r-- root/root       364 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/murl/package.json
+drwxr-xr-x root/root         0 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/murl/tests/
+-rwxr-xr-x root/root       884 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/murl/tests/index.js
+-rw-r--r-- root/root       252 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/murl/tests/test-match-negative.js
+-rw-r--r-- root/root       849 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/murl/tests/test-match-positive.js
+-rw-r--r-- root/root       448 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/murl/tests/test-match-strict.js
+-rw-r--r-- root/root       432 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/murl/tests/test-match.js
+-rw-r--r-- root/root       656 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/murl/tests/test-replace.js
+drwxr-xr-x root/root         0 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/network-address/
+-rw-r--r-- root/root       373 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/network-address/README.md
+-rwxr-xr-x root/root        55 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/network-address/cli.js
+-rw-r--r-- root/root       312 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/network-address/index.js
+-rw-r--r-- root/root       363 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/network-address/package.json
+drwxr-xr-x root/root         0 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/protein/
+-rw-r--r-- root/root      4235 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/protein/README.md
+-rw-r--r-- root/root       456 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/protein/example.js
+-rw-r--r-- root/root      1762 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/protein/index.js
+-rw-r--r-- root/root       323 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/protein/package.json
+drwxr-xr-x root/root         0 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/protein/tests/
+-rwxr-xr-x root/root       876 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/protein/tests/index.js
+-rw-r--r-- root/root       261 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/protein/tests/test-connect-compatible.js
+-rw-r--r-- root/root       654 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/protein/tests/test-double-mixin.js
+-rw-r--r-- root/root       364 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/protein/tests/test-getters-and-setters.js
+-rw-r--r-- root/root       408 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/protein/tests/test-no-leaks.js
+-rw-r--r-- root/root       300 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/protein/tests/test-prototypical.js
+-rw-r--r-- root/root       268 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/protein/tests/test-simple-request.js
+-rw-r--r-- root/root       273 2022-08-11 12:12 usr/lib64/node_modules/root/node_modules/protein/tests/test-simple-response.js
+-rw-r--r-- root/root       515 2022-08-11 12:12 usr/lib64/node_modules/root/package.json
+drwxr-xr-x root/root         0 2022-08-11 12:12 usr/lib64/node_modules/root/tests/
+-rwxr-xr-x root/root      1008 2022-08-11 12:12 usr/lib64/node_modules/root/tests/index.js
+-rw-r--r-- root/root       964 2022-08-11 12:12 usr/lib64/node_modules/root/tests/test-body-parsers.js
+-rw-r--r-- root/root       850 2022-08-11 12:12 usr/lib64/node_modules/root/tests/test-errors.js
+-rw-r--r-- root/root       534 2022-08-11 12:12 usr/lib64/node_modules/root/tests/test-flow-control.js
+-rw-r--r-- root/root       916 2022-08-11 12:12 usr/lib64/node_modules/root/tests/test-fork.js
+-rw-r--r-- root/root       742 2022-08-11 12:12 usr/lib64/node_modules/root/tests/test-match.js
+-rw-r--r-- root/root       581 2022-08-11 12:12 usr/lib64/node_modules/root/tests/test-matches.js
+-rw-r--r-- root/root       386 2022-08-11 12:12 usr/lib64/node_modules/root/tests/test-multi-listen.js
+-rw-r--r-- root/root       652 2022-08-11 12:12 usr/lib64/node_modules/root/tests/test-plugins.js
+-rw-r--r-- root/root       367 2022-08-11 12:12 usr/lib64/node_modules/root/tests/test-random-port-cluster.js
+-rw-r--r-- root/root       303 2022-08-11 12:12 usr/lib64/node_modules/root/tests/test-random-port.js
+-rw-r--r-- root/root       652 2022-08-11 12:12 usr/lib64/node_modules/root/tests/test-rewrite.js
+-rw-r--r-- root/root       457 2022-08-11 12:12 usr/lib64/node_modules/root/tests/test-route-app.js
+-rw-r--r-- root/root       607 2022-08-11 12:12 usr/lib64/node_modules/root/tests/test-route.js
+-rw-r--r-- root/root      1175 2022-08-11 12:12 usr/lib64/node_modules/root/tests/test-routes.js
+-rw-r--r-- root/root       508 2022-08-11 12:12 usr/lib64/node_modules/root/tests/test-sub-app-route.js
+-rw-r--r-- root/root       933 2022-08-11 12:12 usr/lib64/node_modules/root/tests/test-urls.js
+drwxr-xr-x root/root         0 2022-08-11 12:12 usr/lib64/node_modules/uglifycss/
+-rw-r--r-- root/root      1059 2022-08-11 12:12 usr/lib64/node_modules/uglifycss/LICENSE
+-rw-r--r-- root/root      2271 2022-08-11 12:12 usr/lib64/node_modules/uglifycss/README.md
+-rw-r--r-- root/root       885 2022-08-11 12:12 usr/lib64/node_modules/uglifycss/index.js
+-rw-r--r-- root/root       658 2022-08-11 12:12 usr/lib64/node_modules/uglifycss/package.json
+-rwxr-xr-x root/root      3968 2022-08-11 12:12 usr/lib64/node_modules/uglifycss/uglifycss
+-rw-r--r-- root/root     29615 2022-08-11 12:12 usr/lib64/node_modules/uglifycss/uglifycss-lib.js
+
+

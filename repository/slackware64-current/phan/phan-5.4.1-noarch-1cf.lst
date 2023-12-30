@@ -1,0 +1,20 @@
+++========================================
+||
+||   Package:  ./phan/phan-5.4.1-noarch-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-08-31 15:35 ./
+drwxr-xr-x root/root         0 2022-08-31 15:35 install/
+-rw-r--r-- root/root       724 2022-08-31 15:35 install/slack-desc
+-rw-r--r-- root/root         8 2022-08-31 15:35 install/slack-required
+drwxr-xr-x root/root         0 2022-08-31 15:35 usr/
+drwxr-xr-x root/root         0 2022-08-31 15:35 usr/bin/
+-rwxr-xr-x root/root  11358749 2022-08-31 15:35 usr/bin/phan
+drwxr-xr-x root/root         0 2022-08-31 15:35 usr/doc/
+drwxr-xr-x root/root         0 2022-08-31 15:35 usr/doc/phan-5.4.1/
+-rw-r--r-- 1000/users     1531 2022-08-26 11:12 usr/doc/phan-5.4.1/LICENSE
+-rw-r--r-- 1000/users     1002 2022-08-26 11:12 usr/doc/phan-5.4.1/LICENSE.LANGUAGE_SERVER
+-rw-r--r-- 1000/users     1636 2022-08-26 11:12 usr/doc/phan-5.4.1/LICENSE.PHP_PARSER
+-rw-r--r-- root/root      2217 2022-08-31 15:35 usr/doc/phan-5.4.1/phan.SlackBuild
+
+

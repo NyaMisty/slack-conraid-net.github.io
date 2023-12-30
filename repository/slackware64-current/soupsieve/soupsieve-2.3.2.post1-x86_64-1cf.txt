@@ -1,0 +1,11 @@
+soupsieve: soupsieve (A modern CSS selector implementation for BeautifulSoup)
+soupsieve:
+soupsieve: Soup Sieve is a CSS selector library designed to be used with
+soupsieve: Beautiful Soup 4. It aims to provide selecting, matching, and
+soupsieve: filtering using modern CSS selectors. Soup Sieve currently provides
+soupsieve: selectors from the CSS level 1 specifications up through the latest
+soupsieve: CSS level 4 drafts (though some are not yet implemented).
+soupsieve:
+soupsieve:
+soupsieve:
+soupsieve:

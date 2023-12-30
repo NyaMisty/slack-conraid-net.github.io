@@ -1,0 +1,18 @@
+PACKAGE NAME:  cld2-20150820_git-x86_64-3cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./cld2
+PACKAGE SIZE (compressed):  5280 K
+PACKAGE SIZE (uncompressed):  9630 K
+PACKAGE DESCRIPTION:
+cld2: cld2 (Compact Language Detector 2)
+cld2:
+cld2: CLD2 probabilistically detects over 80 languages in Unicode UTF-8
+cld2: text, either plain text or HTML/XML. Legacy encodings must be
+cld2: converted to valid UTF-8 by the caller.
+cld2:
+cld2:
+cld2:
+cld2:
+cld2:
+cld2:
+

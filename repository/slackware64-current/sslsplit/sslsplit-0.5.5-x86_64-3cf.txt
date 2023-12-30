@@ -1,0 +1,11 @@
+sslsplit: sslsplit (transparent and scalable SSL/TLS interception)
+sslsplit:
+sslsplit: SSLsplit is a tool for man-in-the-middle attacks against SSL/TLS 
+sslsplit: encrypted network connections. Connections are transparently 
+sslsplit: intercepted through a network address translation engine and 
+sslsplit: redirected to SSLsplit.
+sslsplit:
+sslsplit:
+sslsplit:
+sslsplit:
+sslsplit:

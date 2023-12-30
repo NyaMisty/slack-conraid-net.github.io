@@ -1,0 +1,28 @@
+++========================================
+||
+||   Package:  ./libminizip/libminizip-1.2.13-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-10-14 11:01 ./
+drwxr-xr-x root/root         0 2022-10-14 11:01 install/
+-rw-r--r-- root/root       204 2022-10-14 11:01 install/doinst.sh
+-rw-r--r-- root/root       758 2022-10-14 11:01 install/slack-desc
+drwxr-xr-x root/root         0 2022-10-14 11:01 usr/
+drwxr-xr-x root/root         0 2022-10-14 11:01 usr/doc/
+drwxr-xr-x root/root         0 2022-10-14 11:01 usr/doc/libminizip-1.2.13/
+-rw-r--r-- root/root       109 2010-02-15 12:53 usr/doc/libminizip-1.2.13/MiniZip64_Changes.txt
+-rw-r--r-- root/root      3048 2010-02-15 12:53 usr/doc/libminizip-1.2.13/MiniZip64_info.txt
+-rw-r--r-- root/root      4325 2022-10-14 11:01 usr/doc/libminizip-1.2.13/libminizip.SlackBuild
+drwxr-xr-x root/root         0 2022-10-14 11:01 usr/include/
+drwxr-xr-x root/root         0 2022-10-14 11:01 usr/include/minizip/
+-rw-r--r-- root/root      4797 2022-10-14 11:01 usr/include/minizip/crypt.h
+-rw-r--r-- root/root      7128 2022-10-14 11:01 usr/include/minizip/ioapi.h
+-rw-r--r-- root/root       708 2022-10-14 11:01 usr/include/minizip/mztools.h
+-rw-r--r-- root/root     16352 2022-10-14 11:01 usr/include/minizip/unzip.h
+-rw-r--r-- root/root     15622 2022-10-14 11:01 usr/include/minizip/zip.h
+drwxr-xr-x root/root         0 2022-10-14 11:01 usr/lib64/
+-rwxr-xr-x root/root     54376 2022-10-14 11:01 usr/lib64/libminizip.so.1.0.0
+drwxr-xr-x root/root         0 2022-10-14 11:01 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       251 2022-10-14 11:01 usr/lib64/pkgconfig/minizip.pc
+
+

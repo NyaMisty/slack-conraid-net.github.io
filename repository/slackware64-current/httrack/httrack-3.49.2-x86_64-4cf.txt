@@ -1,0 +1,11 @@
+httrack: HTTrack
+httrack:
+httrack: HTTrack is a free (GPL, libre/free software) and easy-to-use offline
+httrack: browser utility.
+httrack:
+httrack: Home: http://www.httrack.com
+httrack:
+httrack:
+httrack:
+httrack:
+httrack:

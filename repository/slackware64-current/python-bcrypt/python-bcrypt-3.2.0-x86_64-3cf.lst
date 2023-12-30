@@ -1,0 +1,34 @@
+++========================================
+||
+||   Package:  ./python-bcrypt/python-bcrypt-3.2.0-x86_64-3cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-26 11:49 ./
+drwxr-xr-x root/root         0 2020-10-26 11:49 install/
+-rw-r--r-- root/root       754 2020-10-26 11:49 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-26 11:49 usr/
+drwxr-xr-x root/root         0 2020-10-26 11:49 usr/doc/
+drwxr-xr-x root/root         0 2020-10-26 11:49 usr/doc/python-bcrypt-3.2.0/
+-rw-r--r-- root/root     10850 2020-08-16 19:21 usr/doc/python-bcrypt-3.2.0/LICENSE
+-rw-r--r-- root/root      6468 2020-08-16 19:21 usr/doc/python-bcrypt-3.2.0/README.rst
+-rw-r--r-- root/root      3268 2020-10-26 11:49 usr/doc/python-bcrypt-3.2.0/python-bcrypt.SlackBuild
+drwxr-xr-x root/root         0 2020-10-26 11:49 usr/lib64/
+drwxr-xr-x root/root         0 2020-10-26 11:49 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2020-10-26 11:49 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2020-10-26 11:49 usr/lib64/python3.9/site-packages/bcrypt/
+drwxr-xr-x root/root         0 2020-10-26 11:49 usr/lib64/python3.9/site-packages/bcrypt-3.2.0-py3.9.egg-info/
+-rw-r--r-- root/root      9123 2020-10-26 11:49 usr/lib64/python3.9/site-packages/bcrypt-3.2.0-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       583 2020-10-26 11:49 usr/lib64/python3.9/site-packages/bcrypt-3.2.0-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2020-10-26 11:49 usr/lib64/python3.9/site-packages/bcrypt-3.2.0-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root         1 2020-08-16 19:22 usr/lib64/python3.9/site-packages/bcrypt-3.2.0-py3.9.egg-info/not-zip-safe
+-rw-r--r-- root/root        70 2020-10-26 11:49 usr/lib64/python3.9/site-packages/bcrypt-3.2.0-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root        15 2020-10-26 11:49 usr/lib64/python3.9/site-packages/bcrypt-3.2.0-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root      1320 2020-08-16 19:21 usr/lib64/python3.9/site-packages/bcrypt/__about__.py
+-rw-r--r-- root/root      5774 2020-08-16 19:21 usr/lib64/python3.9/site-packages/bcrypt/__init__.py
+drwxr-xr-x root/root         0 2020-10-26 11:49 usr/lib64/python3.9/site-packages/bcrypt/__pycache__/
+-rw-r--r-- root/root       723 2020-10-26 11:49 usr/lib64/python3.9/site-packages/bcrypt/__pycache__/__about__.cpython-39.pyc
+-rw-r--r-- root/root      3286 2020-10-26 11:49 usr/lib64/python3.9/site-packages/bcrypt/__pycache__/__init__.cpython-39.pyc
+-rwxr-xr-x root/root     43512 2020-10-26 11:49 usr/lib64/python3.9/site-packages/bcrypt/_bcrypt.abi3.so
+-rw-r--r-- root/root         0 2020-08-16 19:21 usr/lib64/python3.9/site-packages/bcrypt/py.typed
+
+

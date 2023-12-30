@@ -1,0 +1,33 @@
+++========================================
+||
+||   Package:  ./chkrootkit/chkrootkit-0.55-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-02-16 09:25 ./
+drwxr-xr-x root/root         0 2022-02-16 09:25 install/
+-rw-r--r-- root/root      1010 2022-02-16 09:25 install/slack-desc
+drwxr-xr-x root/root         0 2022-02-16 09:25 usr/
+drwxr-xr-x root/root         0 2022-02-16 09:25 usr/doc/
+drwxr-xr-x root/root         0 2022-02-16 09:25 usr/doc/chkrootkit-0.55/
+-rw-r--r-- root/root      5000 2021-06-09 17:05 usr/doc/chkrootkit-0.55/ACKNOWLEDGMENTS
+-rw-r--r-- root/root      1343 2021-03-08 05:40 usr/doc/chkrootkit-0.55/COPYRIGHT
+-rw-r--r-- root/root     15243 2021-06-11 06:20 usr/doc/chkrootkit-0.55/README
+-rw-r--r-- root/root      1323 2021-03-08 05:40 usr/doc/chkrootkit-0.55/README.chklastlog
+-rw-r--r-- root/root      1292 2021-03-08 05:40 usr/doc/chkrootkit-0.55/README.chkwtmp
+-rw-r--r-- root/root      3442 2022-02-16 09:25 usr/doc/chkrootkit-0.55/chkrootkit.SlackBuild
+drwxr-xr-x root/root         0 2022-02-16 09:25 usr/sbin/
+-rwxr-xr-x root/root        55 2022-02-16 09:25 usr/sbin/chkrootkit
+drwxr-xr-x root/root         0 2022-02-16 09:25 usr/share/
+drwxr-xr-x root/root         0 2022-02-16 09:25 usr/share/chkrootkit/
+drwxr-xr-x root/root         0 2022-02-16 09:25 usr/share/chkrootkit/bin/
+-rwxr-xr-x root/root     14248 2022-02-16 09:25 usr/share/chkrootkit/bin/check_wtmpx
+-rwxr-xr-x root/root     14528 2022-02-16 09:25 usr/share/chkrootkit/bin/chkdirs
+-rwxr-xr-x root/root     14544 2022-02-16 09:25 usr/share/chkrootkit/bin/chklastlog
+-rwxr-xr-x root/root     14664 2022-02-16 09:25 usr/share/chkrootkit/bin/chkproc
+-rwxr-xr-x root/root     85646 2022-02-16 09:25 usr/share/chkrootkit/bin/chkrootkit
+-rwxr-xr-x root/root     14520 2022-02-16 09:25 usr/share/chkrootkit/bin/chkutmp
+-rwxr-xr-x root/root     14456 2022-02-16 09:25 usr/share/chkrootkit/bin/chkwtmp
+-rwxr-xr-x root/root     14608 2022-02-16 09:25 usr/share/chkrootkit/bin/ifpromisc
+-rwxr-xr-x root/root    748256 2022-02-16 09:25 usr/share/chkrootkit/bin/strings-static
+
+

@@ -1,0 +1,22 @@
+++========================================
+||
+||   Package:  ./wp-cli/wp-cli-2.5.0-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-05-20 10:21 ./
+drwxr-xr-x root/root         0 2021-05-20 10:21 etc/
+drwxr-xr-x root/root         0 2021-05-20 10:21 etc/bash_completion.d/
+-rw-r--r-- root/root       495 2021-05-20 10:21 etc/bash_completion.d/wp
+drwxr-xr-x root/root         0 2021-05-20 10:21 install/
+-rw-r--r-- root/root       702 2021-05-20 10:21 install/slack-desc
+drwxr-xr-x root/root         0 2021-05-20 10:21 usr/
+drwxr-xr-x root/root         0 2021-05-20 10:21 usr/bin/
+-rwxr-xr-x root/root   6094557 2021-05-20 10:21 usr/bin/wp
+drwxr-xr-x root/root         0 2021-05-20 10:21 usr/doc/
+drwxr-xr-x root/root         0 2021-05-20 10:21 usr/doc/wp-cli-2.5.0/
+drwxr-xr-x 1000/users        0 2021-05-20 09:40 usr/doc/wp-cli-2.5.0/files/
+-rw-r--r-- 1000/users     1144 2021-05-20 09:40 usr/doc/wp-cli-2.5.0/files/LICENSE
+-rw-r--r-- 1000/users      495 2021-05-20 09:40 usr/doc/wp-cli-2.5.0/files/wp-completion.bash
+-rw-r--r-- root/root      2708 2021-05-20 10:21 usr/doc/wp-cli-2.5.0/wp-cli.SlackBuild
+
+

@@ -1,0 +1,18 @@
+PACKAGE NAME:  pyrit-0.5.0-x86_64-9cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./pyrit
+PACKAGE SIZE (compressed):  120 K
+PACKAGE SIZE (uncompressed):  780 K
+PACKAGE DESCRIPTION:
+pyrit: pyrit (WPA precomputed cracker)
+pyrit:
+pyrit: Pyrit allows you to create massive databases of pre-computed
+pyrit: WPA/WAP2-PSK authentication phase in a space-time-tradeoff.
+pyrit: By using the computational power of Multi-Core CPUs and other
+pyrit: platforms through ATI-Stream, Nvidia CUDA and OpenCL, it is currently
+pyrit: by far the most powerful attack against one of the world's most used
+pyrit: security-protocols.
+pyrit:
+pyrit:
+pytit:
+

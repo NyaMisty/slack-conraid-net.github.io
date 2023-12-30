@@ -1,0 +1,84 @@
+++========================================
+||
+||   Package:  ./urlwatch/urlwatch-2.25-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-30 14:45 ./
+drwxr-xr-x root/root         0 2022-07-30 14:45 install/
+-rw-r--r-- root/root       771 2022-07-30 14:45 install/slack-desc
+-rw-r--r-- root/root        52 2022-07-30 14:45 install/slack-required
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/bin/
+-rwxr-xr-x root/root       960 2022-07-30 14:45 usr/bin/urlwatch
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/doc/
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/doc/urlwatch-2.25/
+-rw-r--r-- root/root      1408 2022-03-15 14:37 usr/doc/urlwatch-2.25/COPYING
+-rw-r--r-- root/root      1144 2022-03-15 14:37 usr/doc/urlwatch-2.25/README.md
+-rw-r--r-- root/root      3519 2022-07-30 14:45 usr/doc/urlwatch-2.25/urlwatch.SlackBuild
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch/
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch-2.25-py3.9.egg-info/
+-rw-r--r-- root/root       617 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch-2.25-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root      1910 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch-2.25-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch-2.25-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root        47 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch-2.25-py3.9.egg-info/entry_points.txt
+-rw-r--r-- root/root        61 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch-2.25-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root         9 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch-2.25-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root       594 2022-03-15 14:40 usr/lib64/python3.9/site-packages/urlwatch/__init__.py
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch/__pycache__/
+-rw-r--r-- root/root       757 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      3508 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch/__pycache__/browser.cpython-39.pyc
+-rw-r--r-- root/root      2404 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch/__pycache__/cli.cpython-39.pyc
+-rw-r--r-- root/root     13174 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch/__pycache__/command.cpython-39.pyc
+-rw-r--r-- root/root      3789 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch/__pycache__/config.cpython-39.pyc
+-rw-r--r-- root/root     29461 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch/__pycache__/filters.cpython-39.pyc
+-rw-r--r-- root/root      6454 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch/__pycache__/handler.cpython-39.pyc
+-rw-r--r-- root/root      2948 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch/__pycache__/html2txt.cpython-39.pyc
+-rw-r--r-- root/root       892 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch/__pycache__/ical2txt.cpython-39.pyc
+-rw-r--r-- root/root     13229 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch/__pycache__/jobs.cpython-39.pyc
+-rw-r--r-- root/root      3561 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch/__pycache__/mailer.cpython-39.pyc
+-rw-r--r-- root/root      2314 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch/__pycache__/main.cpython-39.pyc
+-rw-r--r-- root/root      1928 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch/__pycache__/migration.cpython-39.pyc
+-rw-r--r-- root/root     30912 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch/__pycache__/reporters.cpython-39.pyc
+-rw-r--r-- root/root     19073 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch/__pycache__/storage.cpython-39.pyc
+-rw-r--r-- root/root      3677 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch/__pycache__/util.cpython-39.pyc
+-rw-r--r-- root/root      3037 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch/__pycache__/worker.cpython-39.pyc
+-rw-r--r-- root/root      1873 2022-07-30 14:45 usr/lib64/python3.9/site-packages/urlwatch/__pycache__/xmpp.cpython-39.pyc
+-rw-r--r-- root/root      4737 2022-03-15 14:38 usr/lib64/python3.9/site-packages/urlwatch/browser.py
+-rw-r--r-- root/root      4355 2022-03-15 14:38 usr/lib64/python3.9/site-packages/urlwatch/cli.py
+-rw-r--r-- root/root     17244 2022-03-15 14:38 usr/lib64/python3.9/site-packages/urlwatch/command.py
+-rw-r--r-- root/root      6200 2022-03-15 14:38 usr/lib64/python3.9/site-packages/urlwatch/config.py
+-rw-r--r-- root/root     32497 2022-03-15 14:38 usr/lib64/python3.9/site-packages/urlwatch/filters.py
+-rw-r--r-- root/root      8970 2022-03-15 14:38 usr/lib64/python3.9/site-packages/urlwatch/handler.py
+-rw-r--r-- root/root      5361 2022-03-15 14:38 usr/lib64/python3.9/site-packages/urlwatch/html2txt.py
+-rw-r--r-- root/root      2631 2022-03-15 14:38 usr/lib64/python3.9/site-packages/urlwatch/ical2txt.py
+-rw-r--r-- root/root     15513 2022-03-15 14:38 usr/lib64/python3.9/site-packages/urlwatch/jobs.py
+-rw-r--r-- root/root      4821 2022-03-15 14:38 usr/lib64/python3.9/site-packages/urlwatch/mailer.py
+-rw-r--r-- root/root      3689 2022-03-15 14:38 usr/lib64/python3.9/site-packages/urlwatch/main.py
+-rw-r--r-- root/root      3759 2022-03-15 14:38 usr/lib64/python3.9/site-packages/urlwatch/migration.py
+-rw-r--r-- root/root     38351 2022-03-15 14:38 usr/lib64/python3.9/site-packages/urlwatch/reporters.py
+-rw-r--r-- root/root     20355 2022-03-15 14:38 usr/lib64/python3.9/site-packages/urlwatch/storage.py
+-rw-r--r-- root/root      5204 2022-03-15 14:38 usr/lib64/python3.9/site-packages/urlwatch/util.py
+-rw-r--r-- root/root      5282 2022-03-15 14:38 usr/lib64/python3.9/site-packages/urlwatch/worker.py
+-rw-r--r-- root/root      3292 2022-03-15 14:38 usr/lib64/python3.9/site-packages/urlwatch/xmpp.py
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/man/
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/man/man1/
+-rw-r--r-- root/root      1657 2022-03-15 14:40 usr/man/man1/urlwatch.1.gz
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/man/man5/
+-rw-r--r-- root/root      1848 2022-03-15 14:40 usr/man/man5/urlwatch-config.5.gz
+-rw-r--r-- root/root      7536 2022-03-15 14:40 usr/man/man5/urlwatch-filters.5.gz
+-rw-r--r-- root/root      3349 2022-03-15 14:40 usr/man/man5/urlwatch-jobs.5.gz
+-rw-r--r-- root/root      5663 2022-03-15 14:40 usr/man/man5/urlwatch-reporters.5.gz
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/man/man7/
+-rw-r--r-- root/root      5217 2022-03-15 14:40 usr/man/man7/urlwatch-cookbook.7.gz
+-rw-r--r-- root/root      1400 2022-03-15 14:40 usr/man/man7/urlwatch-deprecated.7.gz
+-rw-r--r-- root/root      2560 2022-03-15 14:40 usr/man/man7/urlwatch-intro.7.gz
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/share/
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/share/urlwatch/
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/share/urlwatch/examples/
+-rw-r--r-- root/root      4138 2022-03-15 14:38 usr/share/urlwatch/examples/hooks.py.example
+-rw-r--r-- root/root      1673 2020-10-17 08:36 usr/share/urlwatch/examples/urls.yaml.example
+
+

@@ -1,0 +1,40 @@
+++========================================
+||
+||   Package:  ./goobook/goobook-3.5.1-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-12-01 08:34 ./
+drwxr-xr-x root/root         0 2020-12-01 08:34 install/
+-rw-r--r-- root/root       737 2020-12-01 08:34 install/slack-desc
+drwxr-xr-x root/root         0 2020-12-01 08:34 usr/
+drwxr-xr-x root/root         0 2020-12-01 08:34 usr/bin/
+-rwxr-xr-x root/root       958 2020-12-01 08:34 usr/bin/goobook
+drwxr-xr-x root/root         0 2020-12-01 08:34 usr/doc/
+drwxr-xr-x root/root         0 2020-12-01 08:34 usr/doc/goobook-3.5.1/
+-rw-r--r-- root/root     35147 2015-03-15 19:01 usr/doc/goobook-3.5.1/LICENSE.txt
+-rw-r--r-- root/root      2677 2020-12-01 08:34 usr/doc/goobook-3.5.1/goobook.SlackBuild
+drwxr-xr-x root/root         0 2020-12-01 08:34 usr/lib64/
+drwxr-xr-x root/root         0 2020-12-01 08:34 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2020-12-01 08:34 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2020-12-01 08:34 usr/lib64/python3.9/site-packages/goobook/
+drwxr-xr-x root/root         0 2020-12-01 08:34 usr/lib64/python3.9/site-packages/goobook-3.5.1-py3.9.egg-info/
+-rw-r--r-- root/root     17783 2020-12-01 08:34 usr/lib64/python3.9/site-packages/goobook-3.5.1-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       434 2020-12-01 08:34 usr/lib64/python3.9/site-packages/goobook-3.5.1-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2020-12-01 08:34 usr/lib64/python3.9/site-packages/goobook-3.5.1-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root        54 2020-12-01 08:34 usr/lib64/python3.9/site-packages/goobook-3.5.1-py3.9.egg-info/entry_points.txt
+-rw-r--r-- root/root         1 2015-06-03 07:19 usr/lib64/python3.9/site-packages/goobook-3.5.1-py3.9.egg-info/not-zip-safe
+-rw-r--r-- root/root        93 2020-12-01 08:34 usr/lib64/python3.9/site-packages/goobook-3.5.1-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root         8 2020-12-01 08:34 usr/lib64/python3.9/site-packages/goobook-3.5.1-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root       154 2015-06-02 22:21 usr/lib64/python3.9/site-packages/goobook/__init__.py
+drwxr-xr-x root/root         0 2020-12-01 08:34 usr/lib64/python3.9/site-packages/goobook/__pycache__/
+-rw-r--r-- root/root       145 2020-12-01 08:34 usr/lib64/python3.9/site-packages/goobook/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      6838 2020-12-01 08:34 usr/lib64/python3.9/site-packages/goobook/__pycache__/application.cpython-39.pyc
+-rw-r--r-- root/root      4118 2020-12-01 08:34 usr/lib64/python3.9/site-packages/goobook/__pycache__/config.cpython-39.pyc
+-rw-r--r-- root/root     12416 2020-12-01 08:34 usr/lib64/python3.9/site-packages/goobook/__pycache__/goobook.cpython-39.pyc
+-rw-r--r-- root/root      7694 2020-12-01 08:34 usr/lib64/python3.9/site-packages/goobook/__pycache__/storage.cpython-39.pyc
+-rw-r--r-- root/root      8306 2020-09-03 21:22 usr/lib64/python3.9/site-packages/goobook/application.py
+-rw-r--r-- root/root      5717 2020-11-07 09:13 usr/lib64/python3.9/site-packages/goobook/config.py
+-rw-r--r-- root/root     17388 2020-08-31 21:51 usr/lib64/python3.9/site-packages/goobook/goobook.py
+-rw-r--r-- root/root      7194 2018-10-29 09:34 usr/lib64/python3.9/site-packages/goobook/storage.py
+
+

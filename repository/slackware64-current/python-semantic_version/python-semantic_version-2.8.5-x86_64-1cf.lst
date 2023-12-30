@@ -1,0 +1,33 @@
+++========================================
+||
+||   Package:  ./python-semantic_version/python-semantic_version-2.8.5-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-02-08 11:19 ./
+drwxr-xr-x root/root         0 2021-02-08 11:19 install/
+-rw-r--r-- root/root       981 2021-02-08 11:19 install/slack-desc
+drwxr-xr-x root/root         0 2021-02-08 11:19 usr/
+drwxr-xr-x root/root         0 2021-02-08 11:19 usr/doc/
+drwxr-xr-x root/root         0 2021-02-08 11:19 usr/doc/python-semantic_version-2.8.5/
+-rw-r--r-- root/root      1317 2020-04-29 11:51 usr/doc/python-semantic_version-2.8.5/LICENSE
+-rw-r--r-- root/root      9210 2020-04-29 11:51 usr/doc/python-semantic_version-2.8.5/README.rst
+-rw-r--r-- root/root      3281 2021-02-08 11:19 usr/doc/python-semantic_version-2.8.5/python-semantic_version.SlackBuild
+drwxr-xr-x root/root         0 2021-02-08 11:19 usr/lib64/
+drwxr-xr-x root/root         0 2021-02-08 11:19 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2021-02-08 11:19 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2021-02-08 11:19 usr/lib64/python3.9/site-packages/semantic_version/
+drwxr-xr-x root/root         0 2021-02-08 11:19 usr/lib64/python3.9/site-packages/semantic_version-2.8.5-py3.9.egg-info/
+-rw-r--r-- root/root     12935 2021-02-08 11:19 usr/lib64/python3.9/site-packages/semantic_version-2.8.5-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       814 2021-02-08 11:19 usr/lib64/python3.9/site-packages/semantic_version-2.8.5-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2021-02-08 11:19 usr/lib64/python3.9/site-packages/semantic_version-2.8.5-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root         1 2020-04-29 11:51 usr/lib64/python3.9/site-packages/semantic_version-2.8.5-py3.9.egg-info/not-zip-safe
+-rw-r--r-- root/root        17 2021-02-08 11:19 usr/lib64/python3.9/site-packages/semantic_version-2.8.5-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root       326 2020-04-29 11:51 usr/lib64/python3.9/site-packages/semantic_version/__init__.py
+drwxr-xr-x root/root         0 2021-02-08 11:19 usr/lib64/python3.9/site-packages/semantic_version/__pycache__/
+-rw-r--r-- root/root       424 2021-02-08 11:19 usr/lib64/python3.9/site-packages/semantic_version/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root     35610 2021-02-08 11:19 usr/lib64/python3.9/site-packages/semantic_version/__pycache__/base.cpython-39.pyc
+-rw-r--r-- root/root      3846 2021-02-08 11:19 usr/lib64/python3.9/site-packages/semantic_version/__pycache__/django_fields.cpython-39.pyc
+-rw-r--r-- root/root     47079 2020-04-29 11:51 usr/lib64/python3.9/site-packages/semantic_version/base.py
+-rw-r--r-- root/root      3308 2020-04-29 11:51 usr/lib64/python3.9/site-packages/semantic_version/django_fields.py
+
+

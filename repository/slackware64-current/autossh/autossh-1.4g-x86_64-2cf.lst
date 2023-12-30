@@ -1,0 +1,25 @@
+++========================================
+||
+||   Package:  ./autossh/autossh-1.4g-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-21 08:14 ./
+drwxr-xr-x root/root         0 2020-10-21 08:14 install/
+-rw-r--r-- root/root       770 2020-10-21 08:14 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-21 08:14 usr/
+drwxr-xr-x root/root         0 2020-10-21 08:14 usr/bin/
+-rwxr-xr-x root/root     31312 2020-10-21 08:14 usr/bin/autossh
+drwxr-xr-x root/root         0 2020-10-21 08:14 usr/doc/
+drwxr-xr-x root/root         0 2020-10-21 08:14 usr/doc/autossh-1.4g/
+-rw-r--r-- root/root      8187 2019-01-05 02:29 usr/doc/autossh-1.4g/CHANGES
+-rw-r--r-- root/root      9240 2019-01-05 02:29 usr/doc/autossh-1.4g/INSTALL
+-rw-r--r-- root/root      9738 2019-01-05 02:29 usr/doc/autossh-1.4g/README
+-rw-r--r-- root/root      3407 2020-10-21 08:14 usr/doc/autossh-1.4g/autossh.SlackBuild
+drwxr-xr-x root/root         0 2020-10-21 08:14 usr/doc/autossh-1.4g/examples/
+-rwxr--r-- root/root       678 2019-01-05 02:29 usr/doc/autossh-1.4g/examples/autossh.host
+-rwxr--r-- root/root       619 2019-01-05 02:29 usr/doc/autossh-1.4g/examples/rscreen
+drwxr-xr-x root/root         0 2020-10-21 08:14 usr/man/
+drwxr-xr-x root/root         0 2020-10-21 08:14 usr/man/man1/
+-rw-r--r-- root/root      4421 2020-10-21 08:14 usr/man/man1/autossh.1.gz
+
+

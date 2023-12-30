@@ -1,0 +1,21 @@
+PACKAGE NAME:  yarn-1.22.19-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./yarn
+PACKAGE SIZE (compressed):  884 K
+PACKAGE SIZE (uncompressed):  5320 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+yarn: yarn (Fast, reliable, and secure dependency management)
+yarn:
+yarn: Yarn is a package manager for your code. It allows you to use and
+yarn: share code with other developers from around the world. Yarn does
+yarn: this quickly, securely, and reliably so you don’t ever have to worry
+yarn:
+yarn:
+yarn:
+yarn:
+yarn:
+yarn:
+

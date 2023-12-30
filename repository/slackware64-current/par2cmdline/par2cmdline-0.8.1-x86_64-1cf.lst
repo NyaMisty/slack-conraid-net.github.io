@@ -1,0 +1,29 @@
+++========================================
+||
+||   Package:  ./par2cmdline/par2cmdline-0.8.1-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-01-04 14:48 ./
+drwxr-xr-x root/root         0 2021-01-04 14:48 install/
+-rw-r--r-- root/root       252 2021-01-04 14:48 install/doinst.sh
+-rw-r--r-- root/root      1021 2021-01-04 14:48 install/slack-desc
+drwxr-xr-x root/root         0 2021-01-04 14:48 usr/
+drwxr-xr-x root/root         0 2021-01-04 14:48 usr/bin/
+-rwxr-xr-x root/root    236368 2021-01-04 14:48 usr/bin/par2
+drwxr-xr-x root/root         0 2021-01-04 14:48 usr/doc/
+drwxr-xr-x root/root         0 2021-01-04 14:48 usr/doc/par2cmdline-0.8.1/
+-rw-r--r-- root/root       203 2020-02-09 15:53 usr/doc/par2cmdline-0.8.1/AUTHORS
+-rw-r--r-- root/root     17992 2020-02-09 15:53 usr/doc/par2cmdline-0.8.1/COPYING
+-rwxr-xr-x root/root     14806 2020-02-09 15:53 usr/doc/par2cmdline-0.8.1/ChangeLog
+-rwxr-xr-x root/root      9240 2020-02-09 15:53 usr/doc/par2cmdline-0.8.1/INSTALL
+-rwxr-xr-x root/root         0 2020-02-09 15:53 usr/doc/par2cmdline-0.8.1/NEWS
+-rw-r--r-- root/root       748 2020-02-09 15:53 usr/doc/par2cmdline-0.8.1/PORTING
+-rw-r--r-- root/root     13560 2020-02-09 15:53 usr/doc/par2cmdline-0.8.1/README
+-rw-r--r-- root/root     13678 2020-02-09 15:53 usr/doc/par2cmdline-0.8.1/README.md
+-rw-r--r-- root/root      8707 2020-02-09 15:53 usr/doc/par2cmdline-0.8.1/ROADMAP
+-rw-r--r-- root/root      3783 2021-01-04 14:48 usr/doc/par2cmdline-0.8.1/par2cmdline.SlackBuild
+drwxr-xr-x root/root         0 2021-01-04 14:48 usr/man/
+drwxr-xr-x root/root         0 2021-01-04 14:48 usr/man/man1/
+-rw-r--r-- root/root      3742 2021-01-04 14:48 usr/man/man1/par2.1.gz
+
+

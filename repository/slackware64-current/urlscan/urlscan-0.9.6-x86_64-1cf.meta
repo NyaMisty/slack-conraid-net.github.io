@@ -1,0 +1,18 @@
+PACKAGE NAME:  urlscan-0.9.6-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./urlscan
+PACKAGE SIZE (compressed):  44 K
+PACKAGE SIZE (uncompressed):  160 K
+PACKAGE DESCRIPTION:
+urlscan: urlscan (Mutt and terminal url selector)
+urlscan:
+urlscan: Urlscan is a small program that is designed to integrate with the 
+urlscan: "mutt" mailreader to allow you to easily launch a Web browser for 
+urlscan: URLs contained in email messages. 
+urlscan: It is a replacement for the "urlview" program.
+urlscan:
+urlscan:
+urlscan:
+urlscan:
+urlscan:
+

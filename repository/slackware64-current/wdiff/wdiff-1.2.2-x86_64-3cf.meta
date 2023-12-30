@@ -1,0 +1,18 @@
+PACKAGE NAME:  wdiff-1.2.2-x86_64-3cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./wdiff
+PACKAGE SIZE (compressed):  128 K
+PACKAGE SIZE (uncompressed):  750 K
+PACKAGE DESCRIPTION:
+wdiff: wdiff (A wordwise implementation of GNU diff)
+wdiff:
+wdiff: The GNU wdiff program is a front end to diff for comparing files on a
+wdiff: word per word basis. A word is anything between whitespace. This is
+wdiff: useful for comparing two texts in which a few words have been changed
+wdiff: and for which paragraphs have been refilled. It works by creating two
+wdiff: temporary files, one word per line, and then executes diff on these
+wdiff: files. It collects the diff output and uses it to produce a nicer
+wdiff: display of word differences between the original files.
+wdiff:
+wdiff:
+

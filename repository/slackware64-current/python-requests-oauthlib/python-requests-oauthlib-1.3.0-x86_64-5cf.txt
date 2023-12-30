@@ -1,0 +1,11 @@
+python-requests-oauthlib: python-requests-oauthlib (OAuthlib support for Python-Requests!)
+python-requests-oauthlib:
+python-requests-oauthlib: This project provides first-class OAuth library support for Requests.
+python-requests-oauthlib:
+python-requests-oauthlib:
+python-requests-oauthlib:
+python-requests-oauthlib:
+python-requests-oauthlib:
+python-requests-oauthlib:
+python-requests-oauthlib:
+python-requests-oauthlib:

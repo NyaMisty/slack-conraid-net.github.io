@@ -1,0 +1,22 @@
+++========================================
+||
+||   Package:  ./jpegoptim/jpegoptim-1.4.6-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 11:36 ./
+drwxr-xr-x root/root         0 2020-10-05 11:36 install/
+-rw-r--r-- root/root       850 2020-10-05 11:36 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 11:36 usr/
+drwxr-xr-x root/root         0 2020-10-05 11:36 usr/bin/
+-rwxr-xr-x root/root     36272 2020-10-05 11:36 usr/bin/jpegoptim
+drwxr-xr-x root/root         0 2020-10-05 11:36 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 11:36 usr/doc/jpegoptim-1.4.6/
+-rw-r--r-- root/root     18092 2018-04-18 06:00 usr/doc/jpegoptim-1.4.6/COPYING
+-rw-r--r-- root/root       795 2018-04-18 06:00 usr/doc/jpegoptim-1.4.6/COPYRIGHT
+-rw-r--r-- root/root      3823 2018-04-18 06:00 usr/doc/jpegoptim-1.4.6/README
+-rw-r--r-- root/root      3643 2020-10-05 11:36 usr/doc/jpegoptim-1.4.6/jpegoptim.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 11:36 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 11:36 usr/man/man1/
+-rw-r--r-- root/root      2791 2020-10-05 11:36 usr/man/man1/jpegoptim.1.gz
+
+

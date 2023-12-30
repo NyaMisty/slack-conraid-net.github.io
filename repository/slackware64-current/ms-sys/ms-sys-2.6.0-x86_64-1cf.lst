@@ -1,0 +1,44 @@
+++========================================
+||
+||   Package:  ./ms-sys/ms-sys-2.6.0-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-11-23 13:28 ./
+drwxr-xr-x root/root         0 2020-11-23 13:28 install/
+-rw-r--r-- root/root       900 2020-11-23 13:28 install/slack-desc
+drwxr-xr-x root/root         0 2020-11-23 13:28 usr/
+drwxr-xr-x root/root         0 2020-11-23 13:28 usr/bin/
+-rwxr-xr-x root/root     67736 2020-11-23 13:28 usr/bin/ms-sys
+drwxr-xr-x root/root         0 2020-11-23 13:28 usr/doc/
+drwxr-xr-x root/root         0 2020-11-23 13:28 usr/doc/ms-sys-2.6.0/
+-rw-r--r-- root/root      4329 2019-03-17 01:27 usr/doc/ms-sys-2.6.0/CHANGELOG
+-rw-r--r-- root/root      1578 2016-02-09 20:16 usr/doc/ms-sys-2.6.0/CONTRIBUTORS
+-rw-r--r-- root/root     17982 2002-08-02 20:07 usr/doc/ms-sys-2.6.0/COPYING
+-rw-r--r-- root/root      3968 2012-04-01 15:26 usr/doc/ms-sys-2.6.0/README
+-rw-r--r-- root/root       259 2003-09-13 20:34 usr/doc/ms-sys-2.6.0/TODO
+-rw-r--r-- root/root      2884 2020-11-23 13:28 usr/doc/ms-sys-2.6.0/ms-sys.SlackBuild
+drwxr-xr-x root/root         0 2020-11-23 13:28 usr/man/
+drwxr-xr-x root/root         0 2020-11-23 13:28 usr/man/de/
+drwxr-xr-x root/root         0 2020-11-23 13:28 usr/man/de/man1/
+-rw-r--r-- root/root      3455 2020-11-23 13:28 usr/man/de/man1/ms-sys.1.gz
+drwxr-xr-x root/root         0 2020-11-23 13:28 usr/man/fr/
+drwxr-xr-x root/root         0 2020-11-23 13:28 usr/man/fr/man1/
+-rw-r--r-- root/root      3174 2020-11-23 13:28 usr/man/fr/man1/ms-sys.1.gz
+drwxr-xr-x root/root         0 2020-11-23 13:28 usr/man/man1/
+-rw-r--r-- root/root      2834 2020-11-23 13:28 usr/man/man1/ms-sys.1.gz
+drwxr-xr-x root/root         0 2020-11-23 13:28 usr/man/sv/
+drwxr-xr-x root/root         0 2020-11-23 13:28 usr/man/sv/man1/
+-rw-r--r-- root/root      2998 2020-11-23 13:28 usr/man/sv/man1/ms-sys.1.gz
+drwxr-xr-x root/root         0 2020-11-23 13:28 usr/share/
+drwxr-xr-x root/root         0 2020-11-23 13:28 usr/share/locale/
+drwxr-xr-x root/root         0 2020-11-23 13:28 usr/share/locale/de/
+drwxr-xr-x root/root         0 2020-11-23 13:28 usr/share/locale/de/LC_MESSAGES/
+-rw-r--r-- root/root     26570 2020-11-23 13:28 usr/share/locale/de/LC_MESSAGES/ms-sys.mo
+drwxr-xr-x root/root         0 2020-11-23 13:28 usr/share/locale/fr/
+drwxr-xr-x root/root         0 2020-11-23 13:28 usr/share/locale/fr/LC_MESSAGES/
+-rw-r--r-- root/root     28279 2020-11-23 13:28 usr/share/locale/fr/LC_MESSAGES/ms-sys.mo
+drwxr-xr-x root/root         0 2020-11-23 13:28 usr/share/locale/sv/
+drwxr-xr-x root/root         0 2020-11-23 13:28 usr/share/locale/sv/LC_MESSAGES/
+-rw-r--r-- root/root     25783 2020-11-23 13:28 usr/share/locale/sv/LC_MESSAGES/ms-sys.mo
+
+

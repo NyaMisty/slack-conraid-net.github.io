@@ -1,0 +1,11 @@
+lterm: lterm ( free terminal and multiprotocol client for Linux)
+lterm:
+lterm: lterm is a vte-based terminal emulator for GNU/Linux systems. It is
+lterm: mainly used as SSH/Telnet client but can be very easily configured
+lterm: to use any other protocol. Furthermore it can be a usual terminal
+lterm: on local host.
+lterm: Includes some features in order to ease user's work, avoid
+lterm: repetitive tasks and improve speed in operations. 
+lterm:
+lterm:
+lterm:

@@ -1,0 +1,21 @@
+PACKAGE NAME:  psycopg2-2.9.3-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./psycopg2
+PACKAGE SIZE (compressed):  228 K
+PACKAGE SIZE (uncompressed):  970 K
+PACKAGE REQUIRED:  postgresql
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+psycopg2: psycopg2 (Python PostgreSQL bindings)
+psycopg2:
+psycopg2: psycopg is a PostgreSQL database adapter for Python. It supports the
+psycopg2: full Python DBAPI 2.0, and is thread safe at level 2. psycopg was
+psycopg2: designed for heavily multi-threaded applications.
+psycopg2:
+psycopg2:
+psycopg2:
+psycopg2:
+psycopg2:
+psycopg2:
+

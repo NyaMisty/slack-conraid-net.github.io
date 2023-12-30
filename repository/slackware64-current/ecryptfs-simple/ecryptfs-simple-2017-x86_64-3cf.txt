@@ -1,0 +1,11 @@
+ecryptfs-simple: ecryptfs-simple (A very simple utility for working with eCryptfs)
+ecryptfs-simple:
+ecryptfs-simple: ecryptfs-simple is a utility for users that want to work with eCryptfs
+ecryptfs-simple: in the simplest way possible. It allows users to mount and unmount
+ecryptfs-simple: eCryptfs directories if they have full permissions on the source and
+ecryptfs-simple: target directories. ecryptfs-simple requires neither superuser
+ecryptfs-simple: privileges nor entries in fstab. Unlike the utilities in the 
+ecryptfs-simple: ecryptfs-utils package, there are no hard-coded paths.
+ecryptfs-simple:
+ecryptfs-simple:
+ecryptfs-simple:

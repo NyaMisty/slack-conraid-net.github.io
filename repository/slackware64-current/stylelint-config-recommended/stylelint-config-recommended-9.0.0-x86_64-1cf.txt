@@ -1,0 +1,11 @@
+stylelint-config-recommended: stylelint-config-recommended (The recommended config for stylelint)
+stylelint-config-recommended:
+stylelint-config-recommended: The recommended shareable config for stylelint.
+stylelint-config-recommended:
+stylelint-config-recommended:
+stylelint-config-recommended:
+stylelint-config-recommended:
+stylelint-config-recommended:
+stylelint-config-recommended:
+stylelint-config-recommended:
+stylelint-config-recommended:

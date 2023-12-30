@@ -1,0 +1,11 @@
+shtool: shtool (The GNU Portable Shell Tool)
+shtool:
+shtool: GNU shtool is a compilation of small but very stable and portable
+shtool: shell scripts into a single shell tool.
+shtool:
+shtool:
+shtool:
+shtool:
+shtool:
+shtool:
+shtool:

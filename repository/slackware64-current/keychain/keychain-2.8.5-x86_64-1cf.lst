@@ -1,0 +1,22 @@
+++========================================
+||
+||   Package:  ./keychain/keychain-2.8.5-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2019-09-15 09:16 ./
+drwxr-xr-x root/root         0 2019-09-15 09:16 install/
+-rw-r--r-- root/root       753 2019-09-15 09:16 install/slack-desc
+drwxr-xr-x root/root         0 2019-09-15 09:16 usr/
+drwxr-xr-x root/root         0 2019-09-15 09:16 usr/bin/
+-rwxr-xr-x root/root     48679 2019-09-15 09:16 usr/bin/keychain
+drwxr-xr-x root/root         0 2019-09-15 09:16 usr/doc/
+drwxr-xr-x root/root         0 2019-09-15 09:16 usr/doc/keychain-2.8.5/
+-rw-r--r-- root/root     17921 2018-03-08 08:24 usr/doc/keychain-2.8.5/COPYING.txt
+-rw-r--r-- root/root     24569 2018-03-08 08:24 usr/doc/keychain-2.8.5/ChangeLog
+-rw-r--r-- root/root      1619 2018-03-08 08:24 usr/doc/keychain-2.8.5/README.md
+-rw-r--r-- root/root      2808 2019-09-15 09:16 usr/doc/keychain-2.8.5/keychain.SlackBuild
+drwxr-xr-x root/root         0 2019-09-15 09:16 usr/man/
+drwxr-xr-x root/root         0 2019-09-15 09:16 usr/man/man1/
+-rw-r--r-- root/root      6426 2019-09-15 09:16 usr/man/man1/keychain.1.gz
+
+

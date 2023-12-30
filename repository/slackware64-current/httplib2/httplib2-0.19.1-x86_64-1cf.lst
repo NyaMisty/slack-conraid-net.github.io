@@ -1,0 +1,42 @@
+++========================================
+||
+||   Package:  ./httplib2/httplib2-0.19.1-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-03-31 13:39 ./
+drwxr-xr-x root/root         0 2021-03-31 13:39 install/
+-rw-r--r-- root/root       757 2021-03-31 13:39 install/slack-desc
+drwxr-xr-x root/root         0 2021-03-31 13:39 usr/
+drwxr-xr-x root/root         0 2021-03-31 13:39 usr/doc/
+drwxr-xr-x root/root         0 2021-03-31 13:39 usr/doc/httplib2-0.19.1/
+-rw-r--r-- root/root     14557 2021-03-30 18:03 usr/doc/httplib2-0.19.1/CHANGELOG
+-rw-r--r-- root/root      1086 2021-03-30 18:03 usr/doc/httplib2-0.19.1/LICENSE
+-rw-r--r-- root/root       258 2021-03-30 18:03 usr/doc/httplib2-0.19.1/MANIFEST.in
+-rw-r--r-- root/root      2935 2021-03-30 18:03 usr/doc/httplib2-0.19.1/README.md
+-rw-r--r-- root/root      3313 2021-03-31 13:39 usr/doc/httplib2-0.19.1/httplib2.SlackBuild
+drwxr-xr-x root/root         0 2021-03-31 13:39 usr/lib64/
+drwxr-xr-x root/root         0 2021-03-31 13:39 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2021-03-31 13:39 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2021-03-31 13:39 usr/lib64/python3.9/site-packages/httplib2/
+drwxr-xr-x root/root         0 2021-03-31 13:39 usr/lib64/python3.9/site-packages/httplib2-0.19.1-py3.9.egg-info/
+-rw-r--r-- root/root      2552 2021-03-31 13:39 usr/lib64/python3.9/site-packages/httplib2-0.19.1-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root      3424 2021-03-31 13:39 usr/lib64/python3.9/site-packages/httplib2-0.19.1-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2021-03-31 13:39 usr/lib64/python3.9/site-packages/httplib2-0.19.1-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root        20 2021-03-31 13:39 usr/lib64/python3.9/site-packages/httplib2-0.19.1-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root         9 2021-03-31 13:39 usr/lib64/python3.9/site-packages/httplib2-0.19.1-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root     68412 2021-03-30 18:03 usr/lib64/python3.9/site-packages/httplib2/__init__.py
+drwxr-xr-x root/root         0 2021-03-31 13:39 usr/lib64/python3.9/site-packages/httplib2/__pycache__/
+-rw-r--r-- root/root     44646 2021-03-31 13:39 usr/lib64/python3.9/site-packages/httplib2/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      2096 2021-03-31 13:39 usr/lib64/python3.9/site-packages/httplib2/__pycache__/auth.cpython-39.pyc
+-rw-r--r-- root/root       968 2021-03-31 13:39 usr/lib64/python3.9/site-packages/httplib2/__pycache__/certs.cpython-39.pyc
+-rw-r--r-- root/root      1919 2021-03-31 13:39 usr/lib64/python3.9/site-packages/httplib2/__pycache__/error.cpython-39.pyc
+-rw-r--r-- root/root      3083 2021-03-31 13:39 usr/lib64/python3.9/site-packages/httplib2/__pycache__/iri2uri.cpython-39.pyc
+-rw-r--r-- root/root     14589 2021-03-31 13:39 usr/lib64/python3.9/site-packages/httplib2/__pycache__/socks.cpython-39.pyc
+-rw-r--r-- root/root      2026 2021-03-30 18:03 usr/lib64/python3.9/site-packages/httplib2/auth.py
+-rw-r--r-- root/root    135547 2021-03-30 18:03 usr/lib64/python3.9/site-packages/httplib2/cacerts.txt
+-rw-r--r-- root/root       971 2021-03-30 18:03 usr/lib64/python3.9/site-packages/httplib2/certs.py
+-rw-r--r-- root/root       954 2021-03-30 18:03 usr/lib64/python3.9/site-packages/httplib2/error.py
+-rw-r--r-- root/root      4153 2021-03-30 18:03 usr/lib64/python3.9/site-packages/httplib2/iri2uri.py
+-rw-r--r-- root/root     19701 2021-03-30 18:03 usr/lib64/python3.9/site-packages/httplib2/socks.py
+
+

@@ -1,0 +1,18 @@
+PACKAGE NAME:  chkrootkit-0.55-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./chkrootkit
+PACKAGE SIZE (compressed):  284 K
+PACKAGE SIZE (uncompressed):  960 K
+PACKAGE DESCRIPTION:
+chkrootkit: chkrootkit (Check Rootkit) 
+chkrootkit:
+chkrootkit: chkrootkit is a common unix-based program intended to help system 
+chkrootkit: administrators check their system for known rootkits. It is a shell
+chkrootkit: script using common UNIX/Linux tools like the strings and grep 
+chkrootkit: commands to search core system programs for signatures and for 
+chkrootkit: comparing a traversal of the /proc filesystem with the output of  
+chkrootkit: the ps (process status) command to look for discrepancies.
+chkrootkit:
+chkrootkit:
+chkrootkit:
+

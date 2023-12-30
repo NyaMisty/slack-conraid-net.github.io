@@ -1,0 +1,41 @@
+++========================================
+||
+||   Package:  ./python-rfc6555/python-rfc6555-0.0.0-x86_64-4cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-06-09 17:21 ./
+drwxr-xr-x root/root         0 2020-06-09 17:21 install/
+-rw-r--r-- root/root       931 2020-06-09 17:21 install/slack-desc
+drwxr-xr-x root/root         0 2020-06-09 17:21 usr/
+drwxr-xr-x root/root         0 2020-06-09 17:21 usr/doc/
+drwxr-xr-x root/root         0 2020-06-09 17:21 usr/doc/python-rfc6555-0.0.0/
+-rw-r--r-- root/root        68 2019-02-13 11:31 usr/doc/python-rfc6555-0.0.0/CHANGES.rst
+-rw-r--r-- root/root     10702 2019-02-13 11:31 usr/doc/python-rfc6555-0.0.0/LICENSE
+-rw-r--r-- root/root      3774 2019-02-13 11:31 usr/doc/python-rfc6555-0.0.0/README.rst
+-rw-r--r-- root/root      3325 2020-06-09 17:21 usr/doc/python-rfc6555-0.0.0/python-rfc6555.SlackBuild
+drwxr-xr-x root/root         0 2020-06-09 17:21 usr/lib64/
+drwxr-xr-x root/root         0 2020-06-09 17:21 usr/lib64/python2.7/
+drwxr-xr-x root/root         0 2020-06-09 17:21 usr/lib64/python2.7/site-packages/
+drwxr-xr-x root/root         0 2020-06-09 17:21 usr/lib64/python2.7/site-packages/rfc6555-0.0.0-py2.7.egg-info/
+-rw-r--r-- root/root      5761 2020-06-09 17:21 usr/lib64/python2.7/site-packages/rfc6555-0.0.0-py2.7.egg-info/PKG-INFO
+-rw-r--r-- root/root       386 2020-06-09 17:21 usr/lib64/python2.7/site-packages/rfc6555-0.0.0-py2.7.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2020-06-09 17:21 usr/lib64/python2.7/site-packages/rfc6555-0.0.0-py2.7.egg-info/dependency_links.txt
+-rw-r--r-- root/root         1 2019-02-13 11:32 usr/lib64/python2.7/site-packages/rfc6555-0.0.0-py2.7.egg-info/not-zip-safe
+-rw-r--r-- root/root        11 2020-06-09 17:21 usr/lib64/python2.7/site-packages/rfc6555-0.0.0-py2.7.egg-info/requires.txt
+-rw-r--r-- root/root         8 2020-06-09 17:21 usr/lib64/python2.7/site-packages/rfc6555-0.0.0-py2.7.egg-info/top_level.txt
+-rw-r--r-- root/root     10582 2019-02-13 11:32 usr/lib64/python2.7/site-packages/rfc6555.py
+-rw-r--r-- root/root      8307 2020-06-09 17:21 usr/lib64/python2.7/site-packages/rfc6555.pyc
+drwxr-xr-x root/root         0 2020-06-09 17:21 usr/lib64/python3.8/
+drwxr-xr-x root/root         0 2020-06-09 17:21 usr/lib64/python3.8/site-packages/
+drwxr-xr-x root/root         0 2020-06-09 17:21 usr/lib64/python3.8/site-packages/__pycache__/
+-rw-r--r-- root/root      6945 2020-06-09 17:21 usr/lib64/python3.8/site-packages/__pycache__/rfc6555.cpython-38.pyc
+drwxr-xr-x root/root         0 2020-06-09 17:21 usr/lib64/python3.8/site-packages/rfc6555-0.0.0-py3.8.egg-info/
+-rw-r--r-- root/root      5761 2020-06-09 17:21 usr/lib64/python3.8/site-packages/rfc6555-0.0.0-py3.8.egg-info/PKG-INFO
+-rw-r--r-- root/root       386 2020-06-09 17:21 usr/lib64/python3.8/site-packages/rfc6555-0.0.0-py3.8.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2020-06-09 17:21 usr/lib64/python3.8/site-packages/rfc6555-0.0.0-py3.8.egg-info/dependency_links.txt
+-rw-r--r-- root/root         1 2019-02-13 11:32 usr/lib64/python3.8/site-packages/rfc6555-0.0.0-py3.8.egg-info/not-zip-safe
+-rw-r--r-- root/root        11 2020-06-09 17:21 usr/lib64/python3.8/site-packages/rfc6555-0.0.0-py3.8.egg-info/requires.txt
+-rw-r--r-- root/root         8 2020-06-09 17:21 usr/lib64/python3.8/site-packages/rfc6555-0.0.0-py3.8.egg-info/top_level.txt
+-rw-r--r-- root/root     10582 2019-02-13 11:32 usr/lib64/python3.8/site-packages/rfc6555.py
+
+

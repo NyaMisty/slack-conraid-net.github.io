@@ -1,0 +1,65 @@
+++========================================
+||
+||   Package:  ./pcsc-lite/pcsc-lite-1.9.8-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-06-14 10:42 ./
+drwxr-xr-x root/root         0 2022-06-14 10:42 etc/
+drwxr-xr-x root/root         0 2022-06-14 10:42 etc/rc.d/
+-rwxr-xr-x root/root      1080 2022-06-14 10:42 etc/rc.d/rc.pcscd.new
+drwxr-xr-x root/root         0 2022-06-14 10:42 install/
+-rw-r--r-- root/root      1629 2022-06-14 10:42 install/doinst.sh
+-rw-r--r-- root/root       862 2022-06-14 10:42 install/slack-desc
+drwxr-xr-x root/root         0 2022-06-14 10:42 usr/
+drwxr-xr-x root/root         0 2022-06-14 10:42 usr/bin/
+-rwxr-xr-x root/root     34692 2022-06-14 10:42 usr/bin/pcsc-spy
+drwxr-xr-x root/root         0 2022-06-14 10:42 usr/doc/
+drwxr-xr-x root/root         0 2022-06-14 10:42 usr/doc/pcsc-lite-1.9.8/
+-rw-r--r-- root/root       250 2020-08-05 13:01 usr/doc/pcsc-lite-1.9.8/AUTHORS
+-rw-r--r-- root/root      4620 2020-08-05 13:01 usr/doc/pcsc-lite-1.9.8/COPYING
+-rw-r--r-- root/root     80941 2022-06-11 10:48 usr/doc/pcsc-lite-1.9.8/ChangeLog
+-rw-r--r-- root/root   1687787 2022-06-11 10:51 usr/doc/pcsc-lite-1.9.8/ChangeLog.git
+-rw-r--r-- root/root     35147 2020-08-05 13:01 usr/doc/pcsc-lite-1.9.8/GPL-3.0.txt
+-rw-r--r-- root/root       463 2020-08-05 13:01 usr/doc/pcsc-lite-1.9.8/HELP
+-rw-r--r-- root/root     15756 2020-08-05 17:19 usr/doc/pcsc-lite-1.9.8/INSTALL
+-rw-r--r-- root/root        34 2020-08-05 13:01 usr/doc/pcsc-lite-1.9.8/NEWS
+-rw-r--r-- root/root      4364 2021-12-04 17:39 usr/doc/pcsc-lite-1.9.8/README
+-rw-r--r-- root/root      1748 2022-06-14 10:42 usr/doc/pcsc-lite-1.9.8/README.SLACKWARE
+-rw-r--r-- root/root      1416 2022-06-14 10:42 usr/doc/pcsc-lite-1.9.8/README.polkit
+-rw-r--r-- root/root       586 2020-08-05 13:01 usr/doc/pcsc-lite-1.9.8/SECURITY
+-rw-r--r-- root/root       358 2020-08-05 13:01 usr/doc/pcsc-lite-1.9.8/TODO
+-rw-r--r-- root/root       882 2022-06-14 10:42 usr/doc/pcsc-lite-1.9.8/install_spy.sh
+-rw-r--r-- root/root      4831 2022-06-14 10:42 usr/doc/pcsc-lite-1.9.8/pcsc-lite.SlackBuild
+-rw-r--r-- root/root       545 2022-06-14 10:42 usr/doc/pcsc-lite-1.9.8/uninstall_spy.sh
+drwxr-xr-x root/root         0 2022-06-14 10:42 usr/include/
+drwxr-xr-x root/root         0 2022-06-14 10:42 usr/include/PCSC/
+-rw-r--r-- root/root      5005 2022-06-14 10:42 usr/include/PCSC/debuglog.h
+-rw-r--r-- root/root     30598 2022-06-14 10:42 usr/include/PCSC/ifdhandler.h
+-rw-r--r-- root/root     15633 2022-06-14 10:42 usr/include/PCSC/pcsclite.h
+-rw-r--r-- root/root     15605 2022-06-14 10:42 usr/include/PCSC/reader.h
+-rw-r--r-- root/root      4151 2022-06-14 10:42 usr/include/PCSC/winscard.h
+-rw-r--r-- root/root      3115 2022-06-14 10:42 usr/include/PCSC/wintypes.h
+drwxr-xr-x root/root         0 2022-06-14 10:42 usr/lib64/
+-rwxr-xr-x root/root     47360 2022-06-14 10:42 usr/lib64/libpcsclite.so.1.0.0
+-rwxr-xr-x root/root     22760 2022-06-14 10:42 usr/lib64/libpcscspy.so.0.0.0
+drwxr-xr-x root/root         0 2022-06-14 10:42 usr/lib64/pcsc/
+drwxr-xr-x root/root         0 2022-06-14 10:42 usr/lib64/pcsc/drivers/
+drwxr-xr-x root/root         0 2022-06-14 10:42 usr/lib64/pcsc/services/
+drwxr-xr-x root/root         0 2022-06-14 10:42 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       312 2022-06-14 10:42 usr/lib64/pkgconfig/libpcsclite.pc
+drwxr-xr-x root/root         0 2022-06-14 10:42 usr/man/
+drwxr-xr-x root/root         0 2022-06-14 10:42 usr/man/man1/
+-rw-r--r-- root/root       601 2022-06-14 10:42 usr/man/man1/formaticc.1.gz
+-rw-r--r-- root/root      3105 2022-06-14 10:42 usr/man/man1/pcsc-spy.1.gz
+drwxr-xr-x root/root         0 2022-06-14 10:42 usr/man/man5/
+-rw-r--r-- root/root      1219 2022-06-14 10:42 usr/man/man5/reader.conf.5.gz
+drwxr-xr-x root/root         0 2022-06-14 10:42 usr/man/man8/
+-rw-r--r-- root/root      1620 2022-06-14 10:42 usr/man/man8/pcscd.8.gz
+drwxr-xr-x root/root         0 2022-06-14 10:42 usr/sbin/
+-rwxr-xr-x root/root    126712 2022-06-14 10:42 usr/sbin/pcscd
+drwxr-xr-x root/root         0 2022-06-14 10:42 usr/share/
+drwxr-xr-x root/root         0 2022-06-14 10:42 usr/share/polkit-1/
+drwxr-xr-x root/root         0 2022-06-14 10:42 usr/share/polkit-1/actions/
+-rw-r--r-- root/root      1051 2022-06-14 10:42 usr/share/polkit-1/actions/org.debian.pcsc-lite.policy
+
+

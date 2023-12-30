@@ -1,0 +1,21 @@
+PACKAGE NAME:  dkms-3.0.10-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./dkms
+PACKAGE SIZE (compressed):  44 K
+PACKAGE SIZE (uncompressed):  160 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+dkms: dkms (Helper script for creating kernel modules)
+dkms:
+dkms: Helper script for creating kernel modules.
+dkms:
+dkms:
+dkms:
+dkms:
+dkms:
+dkms:
+dkms:
+dkms:
+

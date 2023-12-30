@@ -1,0 +1,75 @@
+++========================================
+||
+||   Package:  ./pugixml/pugixml-1.12.1-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-02-16 09:58 ./
+drwxr-xr-x root/root         0 2022-02-16 09:58 install/
+-rw-r--r-- root/root       199 2022-02-16 09:58 install/doinst.sh
+-rw-r--r-- root/root      1019 2022-02-16 09:58 install/slack-desc
+drwxr-xr-x root/root         0 2022-02-16 09:58 usr/
+drwxr-xr-x root/root         0 2022-02-16 09:58 usr/doc/
+drwxr-xr-x root/root         0 2022-02-16 09:58 usr/doc/pugixml-1.12.1/
+drwxr-xr-x root/root         0 2022-02-16 09:58 usr/doc/pugixml-1.12.1/images/
+-rw-r--r-- root/root     24570 2022-02-09 05:09 usr/doc/pugixml-1.12.1/images/dom_tree.png
+-rw-r--r-- root/root     25698 2022-02-09 05:09 usr/doc/pugixml-1.12.1/images/vs2005_link1.png
+-rw-r--r-- root/root     18063 2022-02-09 05:09 usr/doc/pugixml-1.12.1/images/vs2005_link2.png
+-rw-r--r-- root/root     27693 2022-02-09 05:09 usr/doc/pugixml-1.12.1/images/vs2005_pch1.png
+-rw-r--r-- root/root     14895 2022-02-09 05:09 usr/doc/pugixml-1.12.1/images/vs2005_pch2.png
+-rw-r--r-- root/root     15931 2022-02-09 05:09 usr/doc/pugixml-1.12.1/images/vs2005_pch3.png
+-rw-r--r-- root/root     15117 2022-02-09 05:09 usr/doc/pugixml-1.12.1/images/vs2005_pch4.png
+-rw-r--r-- root/root     19609 2022-02-09 05:09 usr/doc/pugixml-1.12.1/images/vs2010_link1.png
+-rw-r--r-- root/root     17206 2022-02-09 05:09 usr/doc/pugixml-1.12.1/images/vs2010_link2.png
+-rw-r--r-- root/root    683638 2022-02-09 05:09 usr/doc/pugixml-1.12.1/manual.html
+-rw-r--r-- root/root      3625 2022-02-16 09:58 usr/doc/pugixml-1.12.1/pugixml.SlackBuild
+-rw-r--r-- root/root    120091 2022-02-09 05:09 usr/doc/pugixml-1.12.1/quickstart.html
+-rw-r--r-- root/root      2094 2022-02-09 05:09 usr/doc/pugixml-1.12.1/readme.txt
+drwxr-xr-x root/root         0 2022-02-16 09:58 usr/doc/pugixml-1.12.1/samples/
+-rw-r--r-- root/root       181 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/character.xml
+-rw-r--r-- root/root       425 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/custom_memory_management.cpp
+-rw-r--r-- root/root      1739 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/include.cpp
+-rw-r--r-- root/root      1053 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/load_error_handling.cpp
+-rw-r--r-- root/root       331 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/load_file.cpp
+-rw-r--r-- root/root      2589 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/load_memory.cpp
+-rw-r--r-- root/root      1419 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/load_options.cpp
+-rw-r--r-- root/root      3049 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/load_stream.cpp
+-rw-r--r-- root/root       742 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/modify_add.cpp
+-rw-r--r-- root/root      1382 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/modify_base.cpp
+-rw-r--r-- root/root       678 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/modify_remove.cpp
+-rw-r--r-- root/root      2689 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/save_custom_writer.cpp
+-rw-r--r-- root/root       661 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/save_declaration.cpp
+-rw-r--r-- root/root       333 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/save_file.cpp
+-rw-r--r-- root/root      1321 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/save_options.cpp
+-rw-r--r-- root/root       324 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/save_stream.cpp
+-rw-r--r-- root/root       766 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/save_subtree.cpp
+-rw-r--r-- root/root      1113 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/text.cpp
+-rw-r--r-- root/root       209 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/transitions.xml
+-rw-r--r-- root/root      1518 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/traverse_base.cpp
+-rw-r--r-- root/root       605 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/traverse_iter.cpp
+-rw-r--r-- root/root      1318 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/traverse_predicate.cpp
+-rw-r--r-- root/root       657 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/traverse_rangefor.cpp
+-rw-r--r-- root/root       740 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/traverse_walker.cpp
+-rw-r--r-- root/root       246 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/tree.xml
+-rw-r--r-- root/root      2092 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/weekly-shift_jis.xml
+-rw-r--r-- root/root      3186 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/weekly-utf-16.xml
+-rw-r--r-- root/root      2621 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/weekly-utf-8.xml
+-rw-r--r-- root/root       722 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/xgconsole.xml
+-rw-r--r-- root/root       898 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/xpath_error.cpp
+-rw-r--r-- root/root      1213 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/xpath_query.cpp
+-rw-r--r-- root/root       773 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/xpath_select.cpp
+-rw-r--r-- root/root      1094 2022-02-09 05:09 usr/doc/pugixml-1.12.1/samples/xpath_variables.cpp
+drwxr-xr-x root/root         0 2022-02-16 09:58 usr/include/
+-rw-r--r-- root/root      2896 2022-02-09 05:09 usr/include/pugiconfig.hpp
+-rw-r--r-- root/root     53458 2022-02-09 05:09 usr/include/pugixml.hpp
+drwxr-xr-x root/root         0 2022-02-16 09:58 usr/lib64/
+drwxr-xr-x root/root         0 2022-02-16 09:58 usr/lib64/cmake/
+drwxr-xr-x root/root         0 2022-02-16 09:58 usr/lib64/cmake/pugixml/
+-rw-r--r-- root/root      2875 2022-02-16 09:58 usr/lib64/cmake/pugixml/pugixml-config-version.cmake
+-rw-r--r-- root/root       983 2022-02-16 09:58 usr/lib64/cmake/pugixml/pugixml-config.cmake
+-rw-r--r-- root/root       848 2022-02-16 09:58 usr/lib64/cmake/pugixml/pugixml-targets-release.cmake
+-rw-r--r-- root/root      4234 2022-02-16 09:58 usr/lib64/cmake/pugixml/pugixml-targets.cmake
+-rwxr-xr-x root/root    241152 2022-02-16 09:58 usr/lib64/libpugixml.so.1.12
+drwxr-xr-x root/root         0 2022-02-16 09:58 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       265 2022-02-16 09:58 usr/lib64/pkgconfig/pugixml.pc
+
+

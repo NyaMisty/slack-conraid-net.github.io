@@ -1,0 +1,17 @@
+++========================================
+||
+||   Package:  ./cpuid2cpuflags/cpuid2cpuflags-11-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-07-14 15:56 ./
+drwxr-xr-x root/root         0 2020-07-14 15:56 install/
+-rw-r--r-- root/root       780 2020-07-14 15:56 install/slack-desc
+drwxr-xr-x root/root         0 2020-07-14 15:56 usr/
+drwxr-xr-x root/root         0 2020-07-14 15:56 usr/bin/
+-rwxr-xr-x root/root     15080 2020-07-14 15:56 usr/bin/cpuid2cpuflags
+drwxr-xr-x root/root         0 2020-07-14 15:56 usr/doc/
+drwxr-xr-x root/root         0 2020-07-14 15:56 usr/doc/cpuid2cpuflags-11/
+-rw-r--r-- root/root      1295 2019-05-08 12:42 usr/doc/cpuid2cpuflags-11/COPYING
+-rw-r--r-- root/root      3257 2020-07-14 15:56 usr/doc/cpuid2cpuflags-11/cpuid2cpuflags.SlackBuild
+
+

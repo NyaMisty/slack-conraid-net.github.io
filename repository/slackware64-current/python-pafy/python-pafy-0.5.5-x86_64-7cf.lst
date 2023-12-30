@@ -1,0 +1,49 @@
+++========================================
+||
+||   Package:  ./python-pafy/python-pafy-0.5.5-x86_64-7cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-31 10:52 ./
+drwxr-xr-x root/root         0 2022-07-31 10:52 install/
+-rw-r--r-- root/root       764 2022-07-31 10:52 install/slack-desc
+-rw-r--r-- root/root        11 2022-07-31 10:52 install/slack-required
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/bin/
+-rwxr-xr-x root/root      6086 2022-07-31 10:52 usr/bin/ytdl
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/doc/
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/doc/python-pafy-0.5.5/
+-rw-r--r-- root/root      8532 2019-11-20 15:42 usr/doc/python-pafy-0.5.5/README.rst
+-rw-r--r-- root/root      3555 2022-07-31 10:52 usr/doc/python-pafy-0.5.5/python-pafy.SlackBuild
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pafy/
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pafy-0.5.5-py3.9.egg-info/
+-rw-r--r-- root/root     10003 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pafy-0.5.5-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       359 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pafy-0.5.5-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pafy-0.5.5-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root        33 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pafy-0.5.5-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root         5 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pafy-0.5.5-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root       359 2019-11-20 16:01 usr/lib64/python3.9/site-packages/pafy/__init__.py
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pafy/__pycache__/
+-rw-r--r-- root/root       579 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pafy/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root     14591 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pafy/__pycache__/backend_internal.cpython-39.pyc
+-rw-r--r-- root/root     19714 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pafy/__pycache__/backend_shared.cpython-39.pyc
+-rw-r--r-- root/root      7208 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pafy/__pycache__/backend_youtube_dl.cpython-39.pyc
+-rw-r--r-- root/root      5877 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pafy/__pycache__/channel.cpython-39.pyc
+-rw-r--r-- root/root      3056 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pafy/__pycache__/g.cpython-39.pyc
+-rw-r--r-- root/root      7397 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pafy/__pycache__/jsinterp.cpython-39.pyc
+-rw-r--r-- root/root      6031 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pafy/__pycache__/pafy.cpython-39.pyc
+-rw-r--r-- root/root      8496 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pafy/__pycache__/playlist.cpython-39.pyc
+-rw-r--r-- root/root      1818 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pafy/__pycache__/util.cpython-39.pyc
+-rw-r--r-- root/root     15775 2019-11-20 15:42 usr/lib64/python3.9/site-packages/pafy/backend_internal.py
+-rw-r--r-- root/root     21278 2019-11-20 15:42 usr/lib64/python3.9/site-packages/pafy/backend_shared.py
+-rw-r--r-- root/root      6935 2019-11-20 15:42 usr/lib64/python3.9/site-packages/pafy/backend_youtube_dl.py
+-rw-r--r-- root/root      7724 2019-11-20 15:42 usr/lib64/python3.9/site-packages/pafy/channel.py
+-rw-r--r-- root/root      3924 2019-11-20 15:42 usr/lib64/python3.9/site-packages/pafy/g.py
+-rw-r--r-- root/root      9767 2019-11-20 15:42 usr/lib64/python3.9/site-packages/pafy/jsinterp.py
+-rw-r--r-- root/root      6170 2019-11-20 15:42 usr/lib64/python3.9/site-packages/pafy/pafy.py
+-rw-r--r-- root/root     10527 2019-11-20 15:42 usr/lib64/python3.9/site-packages/pafy/playlist.py
+-rw-r--r-- root/root      1518 2019-11-20 15:42 usr/lib64/python3.9/site-packages/pafy/util.py
+
+

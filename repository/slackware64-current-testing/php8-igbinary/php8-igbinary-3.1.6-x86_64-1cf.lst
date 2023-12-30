@@ -1,0 +1,36 @@
+++========================================
+||
+||   Package:  ./php8-igbinary/php8-igbinary-3.1.6-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-11-28 12:06 ./
+drwxr-xr-x root/root         0 2020-11-28 12:06 etc/
+drwxr-xr-x root/root         0 2020-11-28 12:06 etc/php.d/
+-rw-r--r-- root/root       136 2020-11-28 12:06 etc/php.d/igbinary.ini.new
+drwxr-xr-x root/root         0 2020-11-28 12:06 install/
+-rw-r--r-- root/root       384 2020-11-28 12:06 install/doinst.sh
+-rw-r--r-- root/root       915 2020-11-28 12:06 install/slack-desc
+drwxr-xr-x root/root         0 2020-11-28 12:06 usr/
+drwxr-xr-x root/root         0 2020-11-28 12:06 usr/doc/
+drwxr-xr-x root/root         0 2020-11-28 12:06 usr/doc/php8-igbinary-3.1.6/
+-rw-r--r-- root/root      1551 2020-10-08 18:55 usr/doc/php8-igbinary-3.1.6/COPYING
+-rw-r--r-- root/root       549 2020-10-08 18:55 usr/doc/php8-igbinary-3.1.6/CREDITS
+-rw-r--r-- root/root      7127 2020-10-08 18:55 usr/doc/php8-igbinary-3.1.6/NEWS
+-rw-r--r-- root/root      5921 2020-10-08 18:55 usr/doc/php8-igbinary-3.1.6/README.md
+-rw-r--r-- root/root      3474 2020-11-28 12:06 usr/doc/php8-igbinary-3.1.6/php8-igbinary.SlackBuild
+drwxr-xr-x root/root         0 2020-11-28 12:06 usr/include/
+drwxr-xr-x root/root         0 2020-11-28 12:06 usr/include/php/
+drwxr-xr-x root/root         0 2020-11-28 12:06 usr/include/php/ext/
+drwxr-xr-x root/root         0 2020-11-28 12:06 usr/include/php/ext/igbinary/
+-rw-r--r-- root/root       261 2020-11-28 12:06 usr/include/php/ext/igbinary/igbinary.h
+-rw-r--r-- root/root       762 2020-11-28 12:06 usr/include/php/ext/igbinary/php_igbinary.h
+drwxr-xr-x root/root         0 2020-11-28 12:06 usr/include/php/ext/igbinary/src/
+drwxr-xr-x root/root         0 2020-11-28 12:06 usr/include/php/ext/igbinary/src/php7/
+-rw-r--r-- root/root      2571 2020-11-28 12:06 usr/include/php/ext/igbinary/src/php7/igbinary.h
+-rw-r--r-- root/root      2010 2020-11-28 12:06 usr/include/php/ext/igbinary/src/php7/php_igbinary.h
+drwxr-xr-x root/root         0 2020-11-28 12:06 usr/lib64/
+drwxr-xr-x root/root         0 2020-11-28 12:06 usr/lib64/php/
+drwxr-xr-x root/root         0 2020-11-28 12:06 usr/lib64/php/extensions/
+-rwxr-xr-x root/root    269072 2020-11-28 12:06 usr/lib64/php/extensions/igbinary.so
+
+

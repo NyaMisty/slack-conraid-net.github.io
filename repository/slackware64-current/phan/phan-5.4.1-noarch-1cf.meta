@@ -1,0 +1,21 @@
+PACKAGE NAME:  phan-5.4.1-noarch-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./phan
+PACKAGE SIZE (compressed):  1368 K
+PACKAGE SIZE (uncompressed):  11110 K
+PACKAGE REQUIRED:  php-ast
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+phan: phan (a static analyzer for PHP)
+phan:
+phan: Phan is a static analyzer for PHP that prefers to minimize
+phan: false-positives. Phan attempts to prove incorrectness rather than
+phan: correctness.
+phan:
+phan:
+phan:
+phan:
+phan:
+phan:
+

@@ -1,0 +1,11 @@
+lxappearance: lxappearance (GTK theme switcher)
+lxappearance:
+lxappearance: Feature-rich GTK+ theme switcher of the LXDE Desktop
+lxappearance:
+lxappearance:
+lxappearance:
+lxappearance:
+lxappearance:
+lxappearance:
+lxappearance:
+lxappearance:

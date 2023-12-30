@@ -1,0 +1,11 @@
+python-imaplib2: python-imaplib2 (a threaded Python IMAP4 client)
+python-imaplib2:
+python-imaplib2: Fork of Piers Lauder's imaplib2 library for Python.
+python-imaplib2:
+python-imaplib2:
+python-imaplib2:
+python-imaplib2:
+python-imaplib2:
+python-imaplib2:
+python-imaplib2:
+python-imaplib2:

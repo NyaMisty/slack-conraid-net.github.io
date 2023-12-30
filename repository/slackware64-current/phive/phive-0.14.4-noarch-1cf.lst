@@ -1,0 +1,17 @@
+++========================================
+||
+||   Package:  ./phive/phive-0.14.4-noarch-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-06-12 11:52 ./
+drwxr-xr-x root/root         0 2020-06-12 11:52 install/
+-rw-r--r-- root/root       717 2020-06-12 11:52 install/slack-desc
+drwxr-xr-x root/root         0 2020-06-12 11:52 usr/
+drwxr-xr-x root/root         0 2020-06-12 11:52 usr/bin/
+-rwxr-xr-x root/root    192325 2020-06-12 11:52 usr/bin/phive
+drwxr-xr-x root/root         0 2020-06-12 11:52 usr/doc/
+drwxr-xr-x root/root         0 2020-06-12 11:52 usr/doc/phive-0.14.4/
+-rw-r--r-- 1000/users     1541 2020-06-03 17:29 usr/doc/phive-0.14.4/LICENSE
+-rw-r--r-- root/root      2155 2020-06-12 11:52 usr/doc/phive-0.14.4/phive.SlackBuild
+
+

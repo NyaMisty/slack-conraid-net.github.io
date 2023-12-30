@@ -1,0 +1,11 @@
+pynacl: pynacl (Python binding to the libsodium library)
+pynacl:
+pynacl: PyNaCl is a Python binding to libsodium, which is a fork of the
+pynacl: Networking and Cryptography library.
+pynacl:
+pynacl:
+pynacl:
+pynacl:
+pynacl:
+pynacl:
+pynacl:

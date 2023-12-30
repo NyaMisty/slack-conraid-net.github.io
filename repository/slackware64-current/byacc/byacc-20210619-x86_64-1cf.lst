@@ -1,0 +1,29 @@
+++========================================
+||
+||   Package:  ./byacc/byacc-20210619-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-06-20 10:07 ./
+drwxr-xr-x root/root         0 2021-06-20 10:07 install/
+-rw-r--r-- root/root       756 2021-06-20 10:07 install/slack-desc
+drwxr-xr-x root/root         0 2021-06-20 10:07 usr/
+drwxr-xr-x root/root         0 2021-06-20 10:07 usr/bin/
+-rwxr-xr-x root/root    120600 2021-06-20 10:07 usr/bin/byacc
+drwxr-xr-x root/root         0 2021-06-20 10:07 usr/doc/
+drwxr-xr-x root/root         0 2021-06-20 10:07 usr/doc/byacc-20210619/
+-rw-r--r-- root/root       771 1990-06-04 01:49 usr/doc/byacc-20210619/ACKNOWLEDGEMENTS
+-rw-r--r-- root/root       247 2010-06-06 22:31 usr/doc/byacc-20210619/AUTHORS
+-rw-r--r-- root/root    181505 2021-06-20 01:18 usr/doc/byacc-20210619/CHANGES
+-rw-r--r-- root/root     47786 2021-06-19 20:05 usr/doc/byacc-20210619/MANIFEST
+-rw-r--r-- root/root      2050 1990-07-16 07:30 usr/doc/byacc-20210619/NEW_FEATURES
+-rw-r--r-- root/root       504 1993-02-22 07:11 usr/doc/byacc-20210619/NOTES
+-rw-r--r-- root/root       156 1989-11-22 13:25 usr/doc/byacc-20210619/NO_WARRANTY
+-rw-r--r-- root/root      1403 2004-03-28 19:24 usr/doc/byacc-20210619/README
+-rw-r--r-- root/root     22544 2014-04-22 10:18 usr/doc/byacc-20210619/README.BTYACC
+-rw-r--r-- root/root         9 2021-06-19 20:06 usr/doc/byacc-20210619/VERSION
+-rw-r--r-- root/root      3251 2021-06-20 10:07 usr/doc/byacc-20210619/byacc.SlackBuild
+drwxr-xr-x root/root         0 2021-06-20 10:07 usr/man/
+drwxr-xr-x root/root         0 2021-06-20 10:07 usr/man/man1/
+-rw-r--r-- root/root      4926 2021-06-20 10:07 usr/man/man1/byacc.1.gz
+
+

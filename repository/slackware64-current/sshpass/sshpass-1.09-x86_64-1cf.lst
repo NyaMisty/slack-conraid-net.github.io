@@ -1,0 +1,26 @@
+++========================================
+||
+||   Package:  ./sshpass/sshpass-1.09-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-01-30 12:53 ./
+drwxr-xr-x root/root         0 2021-01-30 12:53 install/
+-rw-r--r-- root/root       132 2021-01-30 12:53 install/doinst.sh
+-rw-r--r-- root/root       866 2021-01-30 12:53 install/slack-desc
+drwxr-xr-x root/root         0 2021-01-30 12:53 usr/
+drwxr-xr-x root/root         0 2021-01-30 12:53 usr/bin/
+-rwxr-xr-x root/root     18704 2021-01-30 12:53 usr/bin/sshpass
+drwxr-xr-x root/root         0 2021-01-30 12:53 usr/doc/
+drwxr-xr-x root/root         0 2021-01-30 12:53 usr/doc/sshpass-1.09/
+-rw-r--r-- root/root       700 2020-02-07 08:52 usr/doc/sshpass-1.09/AUTHORS
+-rw-r--r-- root/root     17992 2020-02-07 08:52 usr/doc/sshpass-1.09/COPYING
+-rw-r--r-- root/root      2111 2021-01-29 17:21 usr/doc/sshpass-1.09/ChangeLog
+-rw-r--r-- root/root     15756 2020-02-07 08:55 usr/doc/sshpass-1.09/INSTALL
+-rw-r--r-- root/root       213 2020-02-07 08:52 usr/doc/sshpass-1.09/NEWS
+-rw-r--r-- root/root         0 2020-02-07 08:52 usr/doc/sshpass-1.09/README
+-rw-r--r-- root/root      3612 2021-01-30 12:53 usr/doc/sshpass-1.09/sshpass.SlackBuild
+drwxr-xr-x root/root         0 2021-01-30 12:53 usr/man/
+drwxr-xr-x root/root         0 2021-01-30 12:53 usr/man/man1/
+-rw-r--r-- root/root      2502 2021-01-30 12:53 usr/man/man1/sshpass.1.gz
+
+

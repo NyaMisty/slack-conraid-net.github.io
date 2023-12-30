@@ -1,0 +1,17 @@
+++========================================
+||
+||   Package:  ./known_hosts/known_hosts-1.0.0-x86_64-3cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 11:39 ./
+drwxr-xr-x root/root         0 2020-10-05 11:39 install/
+-rw-r--r-- root/root       646 2020-10-05 11:39 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 11:39 usr/
+drwxr-xr-x root/root         0 2020-10-05 11:39 usr/bin/
+-rwxr-xr-x root/root     14424 2020-10-05 11:39 usr/bin/known_hosts
+drwxr-xr-x root/root         0 2020-10-05 11:39 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 11:39 usr/doc/known_hosts-1.0.0/
+-rw-r--r-- root/root       522 2016-03-25 02:23 usr/doc/known_hosts-1.0.0/README.md
+-rw-r--r-- root/root      3228 2020-10-05 11:39 usr/doc/known_hosts-1.0.0/known_hosts.SlackBuild
+
+

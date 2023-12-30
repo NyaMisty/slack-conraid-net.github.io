@@ -1,0 +1,11 @@
+pdftricks: pdftricks (application fot small manipulations PDF files)
+pdftricks:
+pdftricks: A simple, efficient application for small manipulations in PDF files
+pdftricks: using Ghostscript.
+pdftricks:
+pdftricks:
+pdftricks:
+pdftricks:
+pdftricks:
+pdftricks:
+pdftricks:

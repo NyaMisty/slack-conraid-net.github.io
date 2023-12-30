@@ -1,0 +1,32 @@
+++========================================
+||
+||   Package:  ./bashtop/bashtop-0.9.25-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-07-20 14:54 ./
+drwxr-xr-x root/root         0 2020-07-20 14:54 install/
+-rw-r--r-- root/root       744 2020-07-20 14:54 install/slack-desc
+drwxr-xr-x root/root         0 2020-07-20 14:54 usr/
+drwxr-xr-x root/root         0 2020-07-20 14:54 usr/bin/
+-rwxr-xr-x root/root    206484 2020-07-20 14:54 usr/bin/bashtop
+drwxr-xr-x root/root         0 2020-07-20 14:54 usr/doc/
+drwxr-xr-x root/root         0 2020-07-20 14:54 usr/doc/bashtop-0.9.25/
+-rw-r--r-- root/root      8361 2020-07-20 12:35 usr/doc/bashtop-0.9.25/CHANGELOG.md
+-rw-r--r-- root/root      3349 2020-07-20 12:35 usr/doc/bashtop-0.9.25/CODE_OF_CONDUCT.md
+-rw-r--r-- root/root      1717 2020-07-20 12:35 usr/doc/bashtop-0.9.25/CONTRIBUTING.md
+-rw-r--r-- root/root     11358 2020-07-20 12:35 usr/doc/bashtop-0.9.25/LICENSE
+-rw-r--r-- root/root     11691 2020-07-20 12:35 usr/doc/bashtop-0.9.25/README.md
+-rw-r--r-- root/root      3378 2020-07-20 14:54 usr/doc/bashtop-0.9.25/bashtop.SlackBuild
+drwxr-xr-x root/root         0 2020-07-20 12:35 usr/doc/bashtop-0.9.25/themes/
+-rw-r--r-- root/root      2253 2020-07-20 12:35 usr/doc/bashtop-0.9.25/themes/default_black.theme
+-rw-r--r-- root/root      2279 2020-07-20 12:35 usr/doc/bashtop-0.9.25/themes/flat-remix-light.theme
+-rw-r--r-- root/root      2268 2020-07-20 12:35 usr/doc/bashtop-0.9.25/themes/flat-remix.theme
+-rw-r--r-- root/root      2078 2020-07-20 12:35 usr/doc/bashtop-0.9.25/themes/greyscale.theme
+-rw-r--r-- root/root      2223 2020-07-20 12:35 usr/doc/bashtop-0.9.25/themes/gruvbox_dark.theme
+-rw-r--r-- root/root       156 2020-07-20 12:35 usr/doc/bashtop-0.9.25/themes/index.txt
+-rw-r--r-- root/root      2250 2020-07-20 12:35 usr/doc/bashtop-0.9.25/themes/monokai.theme
+-rw-r--r-- root/root      2311 2020-07-20 12:35 usr/doc/bashtop-0.9.25/themes/nord.theme
+-rw-r--r-- root/root      2190 2020-07-20 12:35 usr/doc/bashtop-0.9.25/themes/solarized_dark.theme
+-rw-r--r-- root/root      2227 2020-07-20 12:35 usr/doc/bashtop-0.9.25/themes/whiteout.theme
+
+

@@ -1,0 +1,23 @@
+++========================================
+||
+||   Package:  ./fuseiso/fuseiso-20070708-x86_64-5cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 11:07 ./
+drwxr-xr-x root/root         0 2020-10-05 11:07 install/
+-rw-r--r-- root/root       822 2020-10-05 11:07 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 11:07 usr/
+drwxr-xr-x root/root         0 2020-10-05 11:07 usr/bin/
+-rwxr-xr-x root/root     43744 2020-10-05 11:07 usr/bin/fuseiso
+drwxr-xr-x root/root         0 2020-10-05 11:07 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 11:07 usr/doc/fuseiso-20070708/
+-rw-r--r-- root/root       206 2007-07-08 15:20 usr/doc/fuseiso-20070708/AUTHORS
+-rw-r--r-- root/root     18009 2005-09-27 00:10 usr/doc/fuseiso-20070708/COPYING
+-rw-r--r-- root/root      1463 2007-07-08 15:13 usr/doc/fuseiso-20070708/ChangeLog
+-rw-r--r-- root/root      7097 2006-12-27 07:39 usr/doc/fuseiso-20070708/INSTALL
+-rw-r--r-- root/root       279 2006-09-27 19:22 usr/doc/fuseiso-20070708/NEWS
+-rw-r--r-- root/root      1867 2006-09-27 09:21 usr/doc/fuseiso-20070708/README
+-rw-r--r-- root/root         0 2005-09-27 00:10 usr/doc/fuseiso-20070708/TODO
+-rw-r--r-- root/root      3659 2020-10-05 11:07 usr/doc/fuseiso-20070708/fuseiso.SlackBuild
+
+

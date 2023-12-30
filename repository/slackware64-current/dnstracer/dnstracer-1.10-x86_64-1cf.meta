@@ -1,0 +1,18 @@
+PACKAGE NAME:  dnstracer-1.10-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./dnstracer
+PACKAGE SIZE (compressed):  20 K
+PACKAGE SIZE (uncompressed):  60 K
+PACKAGE DESCRIPTION:
+dnstracer: dnstracer (trace a chain of DNS servers to the source)
+dnstracer:
+dnstracer: Dnstracer determines where a given Domain Name Server (DNS) gets its
+dnstracer: information from, and follows the chain of DNS servers back to the 
+dnstracer: servers which know the data. 
+dnstracer:
+dnstracer:
+dnstracer:
+dnstracer:
+dnstracer:
+dnstracer:
+

@@ -1,0 +1,30 @@
+++========================================
+||
+||   Package:  ./sparse/sparse-0.6.3-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-05-14 12:55 ./
+drwxr-xr-x root/root         0 2021-05-14 12:55 install/
+-rw-r--r-- root/root      1011 2021-05-14 12:55 install/slack-desc
+drwxr-xr-x root/root         0 2021-05-14 12:55 usr/
+drwxr-xr-x root/root         0 2021-05-14 12:55 usr/bin/
+-rwxr-xr-x root/root    378592 2021-05-14 12:55 usr/bin/c2xml
+-rwxr-xr-x root/root     10739 2021-05-14 12:55 usr/bin/cgcc
+-rwxr-xr-x root/root    403712 2021-05-14 12:55 usr/bin/semind
+-rwxr-xr-x root/root    378528 2021-05-14 12:55 usr/bin/sparse
+-rwxr-xr-x root/root    403936 2021-05-14 12:55 usr/bin/sparse-llvm
+-rwxr-xr-x root/root       958 2021-05-14 12:55 usr/bin/sparsec
+-rwxr-xr-x root/root    382880 2021-05-14 12:55 usr/bin/test-inspect
+drwxr-xr-x root/root         0 2021-05-14 12:55 usr/doc/
+drwxr-xr-x root/root         0 2021-05-14 12:55 usr/doc/sparse-0.6.3/
+-rw-r--r-- root/root      3391 2020-10-18 17:45 usr/doc/sparse-0.6.3/FAQ
+-rw-r--r-- root/root      1494 2020-10-18 17:45 usr/doc/sparse-0.6.3/LICENSE
+-rw-r--r-- root/root      3007 2020-10-18 17:45 usr/doc/sparse-0.6.3/README
+-rw-r--r-- root/root      3274 2021-05-14 12:55 usr/doc/sparse-0.6.3/sparse.SlackBuild
+drwxr-xr-x root/root         0 2021-05-14 12:55 usr/man/
+drwxr-xr-x root/root         0 2021-05-14 12:55 usr/man/man1/
+-rw-r--r-- root/root       565 2021-05-14 12:55 usr/man/man1/cgcc.1.gz
+-rw-r--r-- root/root      1269 2021-05-14 12:55 usr/man/man1/semind.1.gz
+-rw-r--r-- root/root      6557 2021-05-14 12:55 usr/man/man1/sparse.1.gz
+
+

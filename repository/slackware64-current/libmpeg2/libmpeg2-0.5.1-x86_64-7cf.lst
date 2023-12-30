@@ -1,0 +1,42 @@
+++========================================
+||
+||   Package:  ./libmpeg2/libmpeg2-0.5.1-x86_64-7cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 11:43 ./
+drwxr-xr-x root/root         0 2020-10-05 11:43 install/
+-rw-r--r-- root/root       426 2020-10-05 11:43 install/doinst.sh
+-rw-r--r-- root/root       737 2020-10-05 11:43 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 11:43 usr/
+drwxr-xr-x root/root         0 2020-10-05 11:43 usr/bin/
+-rwxr-xr-x root/root     14456 2020-10-05 11:43 usr/bin/corrupt_mpeg2
+-rwxr-xr-x root/root     18504 2020-10-05 11:43 usr/bin/extract_mpeg2
+-rwxr-xr-x root/root     44072 2020-10-05 11:43 usr/bin/mpeg2dec
+drwxr-xr-x root/root         0 2020-10-05 11:43 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 11:43 usr/doc/libmpeg2-0.5.1/
+-rw-r--r-- root/root      1880 2008-07-09 21:16 usr/doc/libmpeg2-0.5.1/AUTHORS
+-rw-r--r-- root/root     17992 2008-07-09 20:28 usr/doc/libmpeg2-0.5.1/COPYING
+-rw-r--r-- root/root      3814 2008-07-18 16:30 usr/doc/libmpeg2-0.5.1/ChangeLog
+-rw-r--r-- root/root      2289 2008-07-09 20:28 usr/doc/libmpeg2-0.5.1/CodingStyle
+-rw-r--r-- root/root      1846 2008-07-09 21:16 usr/doc/libmpeg2-0.5.1/INSTALL
+-rw-r--r-- root/root      6592 2008-07-18 16:29 usr/doc/libmpeg2-0.5.1/NEWS
+-rw-r--r-- root/root      6887 2008-07-09 21:16 usr/doc/libmpeg2-0.5.1/README
+-rw-r--r-- root/root      1537 2008-07-09 21:16 usr/doc/libmpeg2-0.5.1/TODO
+-rw-r--r-- root/root      3421 2020-10-05 11:43 usr/doc/libmpeg2-0.5.1/libmpeg2.SlackBuild
+-rw-r--r-- root/root      9559 2008-07-09 21:16 usr/doc/libmpeg2-0.5.1/libmpeg2.txt
+drwxr-xr-x root/root         0 2020-10-05 11:43 usr/include/
+drwxr-xr-x root/root         0 2020-10-05 11:43 usr/include/mpeg2dec/
+-rw-r--r-- root/root      6554 2020-10-05 11:43 usr/include/mpeg2dec/mpeg2.h
+-rw-r--r-- root/root      1680 2020-10-05 11:43 usr/include/mpeg2dec/mpeg2convert.h
+drwxr-xr-x root/root         0 2020-10-05 11:43 usr/lib64/
+-rwxr-xr-x root/root    117552 2020-10-05 11:43 usr/lib64/libmpeg2.so.0.1.0
+-rwxr-xr-x root/root     30776 2020-10-05 11:43 usr/lib64/libmpeg2convert.so.0.0.0
+drwxr-xr-x root/root         0 2020-10-05 11:43 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       226 2020-10-05 11:43 usr/lib64/pkgconfig/libmpeg2.pc
+-rw-r--r-- root/root       243 2020-10-05 11:43 usr/lib64/pkgconfig/libmpeg2convert.pc
+drwxr-xr-x root/root         0 2020-10-05 11:43 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 11:43 usr/man/man1/
+-rw-r--r-- root/root       596 2020-10-05 11:43 usr/man/man1/extract_mpeg2.1.gz
+-rw-r--r-- root/root       692 2020-10-05 11:43 usr/man/man1/mpeg2dec.1.gz
+
+

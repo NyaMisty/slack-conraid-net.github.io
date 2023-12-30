@@ -1,0 +1,468 @@
+PACKAGES.TXT;  Fri Feb  3 13:49:03 UTC 2023
+
+PACKAGE NAME:  displaycal-3.9.10-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./displaycal
+PACKAGE SIZE (compressed):  8180 K
+PACKAGE SIZE (uncompressed):  19180 K
+PACKAGE DESCRIPTION:
+displaycal: displaycal (DisplayCAL Modernization Project)
+displaycal:
+displaycal: Display Calibration and Characterization powered by ArgyllCMS
+displaycal:
+displaycal:
+displaycal:
+displaycal:
+displaycal:
+displaycal:
+displaycal:
+displaycal:
+
+PACKAGE NAME:  docker-compose-1.28.5-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./docker-compose
+PACKAGE SIZE (compressed):  208 K
+PACKAGE SIZE (uncompressed):  1060 K
+PACKAGE DESCRIPTION:
+docker-compose: docker-compose (multi-container orchestration for docker)
+docker-compose:
+docker-compose: Compose is a tool for defining and running multi-container Docker
+docker-compose: applications.  With Compose, you use a Compose file to configure your
+docker-compose: application's services.  Then, using a single command, you create and
+docker-compose: start all the services from your configuration.
+docker-compose:
+docker-compose:
+docker-compose:
+docker-compose:
+docker-compose:
+
+PACKAGE NAME:  docker-proxy-264bffc-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./docker-proxy
+PACKAGE SIZE (compressed):  668 K
+PACKAGE SIZE (uncompressed):  2090 K
+PACKAGE DESCRIPTION:
+docker-proxy: docker-proxy (docker networking)
+docker-proxy:
+docker-proxy: docker-proxy enables a service consumer to communicate with the
+docker-proxy: service providing container.
+docker-proxy:
+docker-proxy:
+docker-proxy:
+docker-proxy:
+docker-proxy:
+docker-proxy:
+docker-proxy:
+
+PACKAGE NAME:  docker-pycreds-0.4.0-x86_64-3cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./docker-pycreds
+PACKAGE SIZE (compressed):  12 K
+PACKAGE SIZE (uncompressed):  60 K
+PACKAGE DESCRIPTION:
+docker-pycreds: docker-pycreds (Python bindings for the docker credentials store API)
+docker-pycreds:
+docker-pycreds: Python bindings for the docker credentials store API
+docker-pycreds:
+docker-pycreds:
+docker-pycreds:
+docker-pycreds:
+docker-pycreds:
+docker-pycreds:
+docker-pycreds:
+docker-pycreds:
+
+PACKAGE NAME:  docker-19.03.14-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./docker
+PACKAGE SIZE (compressed):  27836 K
+PACKAGE SIZE (uncompressed):  137340 K
+PACKAGE DESCRIPTION:
+docker: docker (manager for applications in Linux containers)
+docker:
+docker: Docker is an open-source project to easily create lightweight,
+docker: portable, self-sufficient containers from any application.  The same
+docker: container that a developer builds and tests on a laptop can run at
+docker: scale, in production, on VMs, bare metal, OpenStack clusters, public
+docker: clouds and more.
+docker:
+docker:
+docker:
+docker:
+
+PACKAGE NAME:  gsa-22.4.1-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./gsa
+PACKAGE SIZE (compressed):  25376 K
+PACKAGE SIZE (uncompressed):  325150 K
+PACKAGE DESCRIPTION:
+gsa: gsa (greenbone security assistant)
+gsa:
+gsa: The Greenbone Security Assistant is the web interface developed for
+gsa: the Greenbone Security Manager appliances.
+gsa: It connects to the Greenbone Vulnerability Manager GVM to provide a
+gsa: full-featured user interface for vulnerability management.
+gsa:
+gsa: Previously known as OpenVAS GSA
+gsa:
+gsa:
+gsa:
+
+PACKAGE NAME:  gsad-22.4.1-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./gsad
+PACKAGE SIZE (compressed):  120 K
+PACKAGE SIZE (uncompressed):  420 K
+PACKAGE DESCRIPTION:
+gsad: gsad (Greenbone Security Assistant HTTP server)
+gsad:
+gsad: Greenbone Security Assistant HTTP Server - The server talking to the
+gsad: Greenbone Vulnerability Management (GVM) deamon.
+gsad:
+gsad: Previously in gsa package.
+gsad:
+gsad:
+gsad:
+
+PACKAGE NAME:  gvm-libs-22.4.2-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./gvm-libs
+PACKAGE SIZE (compressed):  124 K
+PACKAGE SIZE (uncompressed):  540 K
+PACKAGE DESCRIPTION:
+gvm-libs: gvm-libs (Greenbone Vulnerability Management Libraries )
+gvm-libs:
+gvm-libs: This is the libraries module for the Greenbone Vulnerability
+gvm-libs: Management Solution.
+gvm-libs: It is used for the Greenbone Security Manager appliances and provides
+gvm-libs: various functionalities to support the integrated service daemons.
+gvm-libs:
+gvm-libs: Previously known as OpenVAS Libraries
+gvm-libs:
+gvm-libs:
+gvm-libs:
+
+PACKAGE NAME:  gvm-tools-23.2.0-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./gvm-tools
+PACKAGE SIZE (compressed):  128 K
+PACKAGE SIZE (uncompressed):  750 K
+PACKAGE DESCRIPTION:
+gvm-tools: gvm-tools (Greenbone Vulnerability Management Tools)
+gvm-tools:
+gvm-tools:
+gvm-tools: GVM-Tools is a collection of tools that help with remote controlling
+gvm-tools: a Greenbone Security Manager (GSM) appliance and its underlying
+gvm-tools: Grennbone Vulnerability Manager (GVM). The tools essentially aid
+gvm-tools: accessing the communication protocols GMP (Greenbone Management
+gvm-tools: Protocol) and OSP (Open Scanner Protocol).
+gvm-tools:
+gvm-tools: Previously known as OpenVas-Tools
+gvm-tools:
+
+PACKAGE NAME:  gvmd-22.4.2-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./gvmd
+PACKAGE SIZE (compressed):  660 K
+PACKAGE SIZE (uncompressed):  4360 K
+PACKAGE DESCRIPTION:
+gvmd: gvmd (Greenbone Vulnerability Manager)
+gvmd:
+gvmd: The Greenbone Vulnerability Manager is the central management service
+gvmd: between security scanners and the user clients.
+gvmd:
+gvmd: Previously known as OpenVAS Manager
+gvmd:
+gvmd:
+gvmd:
+gvmd:
+gvmd:
+
+PACKAGE NAME:  iaito-5.8.2-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./iaito
+PACKAGE SIZE (compressed):  1184 K
+PACKAGE SIZE (uncompressed):  4210 K
+PACKAGE DESCRIPTION:
+iaito: iaito (Official QT frontend of radare2)
+iaito:
+iaito: iaito is the official graphical interface for radare2, a libre
+iaito: reverse engineering framework.
+iaito:
+iaito:
+iaito:
+iaito:
+iaito:
+iaito:
+iaito:
+
+PACKAGE NAME:  libdaq-3.0.10-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./libdaq
+PACKAGE SIZE (compressed):  104 K
+PACKAGE SIZE (uncompressed):  550 K
+PACKAGE DESCRIPTION:
+libdaq: libdaq (Data Acquisition libary)
+libdaq:
+libdaq: DAQ supports many different packet access methods including libpcap,
+libdaq: netfilterq, IPFW, and afpacket.
+libdaq:
+libdaq:
+libdaq:
+libdaq:
+libdaq:
+libdaq:
+libdaq:
+
+PACKAGE NAME:  mping-2.0-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./mping
+PACKAGE SIZE (compressed):  20 K
+PACKAGE SIZE (uncompressed):  60 K
+PACKAGE DESCRIPTION:
+mping: mping (A simple multicast ping program)
+mping:
+mping: mping intends to be an easy to use and script friendly program.
+mping: Similar to the standard ping program, but unlike it, the response to
+mping: multicast ping is sent by another mping.
+mping:
+mping:
+mping:
+mping:
+mping:
+mping:
+
+PACKAGE NAME:  openvas-scanner-22.4.1-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./openvas-scanner
+PACKAGE SIZE (compressed):  256 K
+PACKAGE SIZE (uncompressed):  810 K
+PACKAGE DESCRIPTION:
+openvas-scanner: openvas-scanner (OpenVAS remote network security scanner)
+openvas-scanner:
+openvas-scanner: This is the Open Vulnerability Assessment System (OpenVAS) Scanner of
+openvas-scanner: the Greenbone Vulnerability Management (GVM) Solution.
+openvas-scanner: It is used for the Greenbone Security Manager appliances and is a
+openvas-scanner: full-featured scan engine that executes a continuously updated and
+openvas-scanner: extended feed of Network Vulnerability Tests (NVTs).
+openvas-scanner:
+openvas-scanner:
+openvas-scanner:
+openvas-scanner:
+
+PACKAGE NAME:  ospd-openvas-22.4.5-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./ospd-openvas
+PACKAGE SIZE (compressed):  220 K
+PACKAGE SIZE (uncompressed):  1410 K
+PACKAGE DESCRIPTION:
+ospd-openvas: ospd-openvas (osp server to openvas scanner)
+ospd-openvas:
+ospd-openvas: ospd-openvas is an OSP server implementation to allow GVM to remotely
+ospd-openvas: control an OpenVAS Scanner.
+ospd-openvas:
+ospd-openvas:
+ospd-openvas:
+ospd-openvas:
+ospd-openvas:
+ospd-openvas:
+ospd-openvas:
+
+PACKAGE NAME:  ospd-21.4.4-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./ospd
+PACKAGE SIZE (compressed):  124 K
+PACKAGE SIZE (uncompressed):  720 K
+PACKAGE DESCRIPTION:
+ospd: ospd (Open Scanner Protocol Wrapper)
+ospd:
+ospd: OSPD is a base class for scanner wrappers which share the same
+ospd: communication protocol: OSP (Open Scanner Protocol). OSP creates a
+ospd: unified interface for different security scanners and makes their
+ospd: control flow and scan results consistently available under the
+ospd: central Greenbone Vulnerability Manager service.
+ospd:
+ospd:
+ospd:
+ospd:
+
+PACKAGE NAME:  paho-mqtt-c-1.3.12-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./paho-mqtt-c
+PACKAGE SIZE (compressed):  192 K
+PACKAGE SIZE (uncompressed):  1110 K
+PACKAGE DESCRIPTION:
+paho-mqtt-c: paho-mqtt-c (C MQTT Client Library)
+paho-mqtt-c:
+paho-mqtt-c: This code builds libraries which enable applications to connect to an
+paho-mqtt-c: MQTT broker to publish messages, and to subscribe to topics and
+paho-mqtt-c: receive published messages.
+paho-mqtt-c:
+paho-mqtt-c: Synchronous and various asynchronous programming models are
+paho-mqtt-c: supported.
+paho-mqtt-c:
+paho-mqtt-c:
+paho-mqtt-c:
+
+PACKAGE NAME:  pidgin-facebook-0.9.6-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./pidgin-facebook
+PACKAGE SIZE (compressed):  88 K
+PACKAGE SIZE (uncompressed):  310 K
+PACKAGE DESCRIPTION:
+pidgin-facebook: pidgin-facebook (Facebook protocol plugin for libpurple)
+pidgin-facebook:
+pidgin-facebook: Purple Facebook implements the Facebook Messenger protocol into
+pidgin-facebook: pidgin, finch, and libpurple. While the primary implementation is for
+pidgin:facebook: purple3, this plugin is back-ported for purple2.
+pidgin-facebook:
+pidgin-facebook:
+pidgin-facebook:
+pidgin-facebook:
+pidgin-facebook:
+pidgin-facebook:
+
+PACKAGE NAME:  pontos-23.2.1-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./pontos
+PACKAGE SIZE (compressed):  288 K
+PACKAGE SIZE (uncompressed):  2750 K
+PACKAGE DESCRIPTION:
+pontos: pontos (Greenbone Python Utilities and Tools )
+pontos:
+pontos: The pontos Python package is a collection of utilities, tools,
+pontos: classes and functions maintained by Greenbone Networks.
+pontos:
+pontos:
+pontos:
+pontos:
+pontos:
+pontos:
+pontos:
+
+PACKAGE NAME:  python-docker-5.0.1-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./python-docker
+PACKAGE SIZE (compressed):  164 K
+PACKAGE SIZE (uncompressed):  1060 K
+PACKAGE DESCRIPTION:
+python-docker: python-docker (A Python library for the Docker Engine API)
+python-docker:
+python-docker: python-docker lets you do anything the docker command does, but from
+python-docker: within Python apps - run and manage containers, manage Swarms, etc.
+python-docker:
+python-docker:
+python-docker:
+python-docker:
+python-docker:
+python-docker:
+python-docker:
+
+PACKAGE NAME:  python-dockerpty-0.4.1-x86_64-3cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./python-dockerpty
+PACKAGE SIZE (compressed):  20 K
+PACKAGE SIZE (uncompressed):  90 K
+PACKAGE DESCRIPTION:
+python-dockerpty: python-dockerpty
+python-dockerpty:
+python-dockerpty:
+python-dockerpty:
+python-dockerpty:
+python-dockerpty:
+python-dockerpty:
+python-dockerpty:
+python-dockerpty:
+python-dockerpty:
+python-dockerpty:
+
+PACKAGE NAME:  python-gvm-23.2.0-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./python-gvm
+PACKAGE SIZE (compressed):  240 K
+PACKAGE SIZE (uncompressed):  4610 K
+PACKAGE DESCRIPTION:
+python-gvm: python-gvm (GVM Python Library)
+python-gvm:
+python-gvm: The Greenbone Vulnerability Management Python API library (python-gvm)
+python-gvm: is a collection of APIs that help with remote controlling a Greenbone
+python-gvm: Security Manager (GSM) appliance and its underlying Greenbone
+python-gvm: Vulnerability Manager (GVM). The library essentially abstracts
+python-gvm: accessing the communication protocols Greenbone Management Protocol
+python-gvm: (GMP) and Open Scanner Protocol (OSP).
+python-gvm:
+python-gvm:
+python-gvm:
+
+PACKAGE NAME:  radare2-5.8.2-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./radare2
+PACKAGE SIZE (compressed):  6852 K
+PACKAGE SIZE (uncompressed):  39800 K
+PACKAGE DESCRIPTION:
+radare2: radare2 (Libre Unix-Like Reverse Engineering Framework)
+radare2:
+radare2: UNIX-like reverse engineering framework and command-line toolset.
+radare2:
+radare2:
+radare2:
+radare2:
+radare2:
+radare2:
+radare2:
+radare2:
+
+PACKAGE NAME:  snort-openappid-26425-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./snort-openappid
+PACKAGE SIZE (compressed):  304 K
+PACKAGE SIZE (uncompressed):  3710 K
+PACKAGE DESCRIPTION:
+snort-openappid: snort-openappid (Open Detector Package)
+snort-openappid:
+snort-openappid: ODP is a package that contains Cisco provided LUA detectors and some
+snort-openappid: application meta data.
+snort-openappid:
+snort-openappid:
+snort-openappid:
+snort-openappid:
+snort-openappid:
+snort-openappid:
+snort-openappid:
+
+PACKAGE NAME:  snort3-3.1.53.0-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./snort3
+PACKAGE SIZE (compressed):  4436 K
+PACKAGE SIZE (uncompressed):  22780 K
+PACKAGE DESCRIPTION:
+snort3: snort3 (Intrusion Detection and Prevention System)
+snort3:
+snort3: Snort is an open source network intrusion detection and prevention
+snort3: system.  It is capable of performing real-time traffic analysis,
+snort3: alerting, blocking and packet logging on IP networks.  It utilizes a
+snort3: combination of protocol analysis and pattern matching in order to
+snort3: detect anomalies, misuse and attacks.
+snort3: Snort is capable of detecting and responding in real-time, sending
+snort3: alerts, performing session sniping, logging packets, or dropping
+snort3: sessions/packets when deployed in-line.
+snort3:
+
+PACKAGE NAME:  snort3_extra-3.1.53.0-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./snort3_extra
+PACKAGE SIZE (compressed):  140 K
+PACKAGE SIZE (uncompressed):  980 K
+PACKAGE DESCRIPTION:
+snort3_extra: snort_extra (Snort++ Extras)
+snort3_extra:
+snort3_extra: Snort++ is all about plugins.  It has over 200 by default and makes it
+snort3_extra: easy to add more in C++ or LuaJIT.  This file will walk you through
+snort3_extra: building and running a set of extra example plugins.
+snort3_extra: If you haven't installed and verified Snort++, you will need to
+snort3_extra: do that first.
+snort3_extra:
+snort3_extra:
+snort3_extra:
+snort3_extra:
+

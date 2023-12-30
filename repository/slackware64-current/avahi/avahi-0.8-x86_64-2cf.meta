@@ -1,0 +1,21 @@
+PACKAGE NAME:  avahi-0.8-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./avahi
+PACKAGE SIZE (compressed):  424 K
+PACKAGE SIZE (uncompressed):  2460 K
+PACKAGE REQUIRED:  libdaemon,xmltoman
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+avahi: avahi (service discovery aka zeroconf)
+avahi:
+avahi: Avahi is an Implementation the DNS Service Discovery and Multicast
+avahi: DNS specifications for Zeroconf Computing. It uses D-BUS for
+avahi: communication between user applications and a system daemon. The
+avahi: daemon is used to coordinate application efforts in caching replies,
+avahi: necessary to minimize the traffic imposed on networks. This kind of
+avahi: technology  is already found  in  Apple MacOS X (branded Rendezvous
+avahi: Bonjour and sometimes Zeroconf) and is very convenient.
+avahi:
+avahi:
+

@@ -1,0 +1,18 @@
+PACKAGE NAME:  yajl-2.1.0-x86_64-6cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./yajl
+PACKAGE SIZE (compressed):  44 K
+PACKAGE SIZE (uncompressed):  250 K
+PACKAGE DESCRIPTION:
+yajl: yajl (A fast streaming JSON parsing library in C)
+yajl:
+yajl: Yet Another JSON Library. YAJL is a small event-driven (SAX-style)
+yajl: JSON parser written in ANSI C, and a small validating JSON generator.
+yajl: YAJL is released under the ISC license. 
+yajl:
+yajl:
+yajl:
+yajl:
+yajl:
+yajl:
+

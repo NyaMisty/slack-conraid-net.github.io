@@ -1,0 +1,11 @@
+python-jsonschema: python-jsonschema (An implementation of JSON Schema for Python)
+python-jsonschema:
+python-jsonschema: An(other) implementation of JSON Schema for Python
+python-jsonschema:
+python-jsonschema:
+python-jsonschema:
+python-jsonschema:
+python-jsonschema:
+python-jsonschema:
+python-jsonschema:
+python-jsonschema:

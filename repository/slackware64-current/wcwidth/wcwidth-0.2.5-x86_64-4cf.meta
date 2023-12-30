@@ -1,0 +1,18 @@
+PACKAGE NAME:  wcwidth-0.2.5-x86_64-4cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./wcwidth
+PACKAGE SIZE (compressed):  28 K
+PACKAGE SIZE (uncompressed):  480 K
+PACKAGE DESCRIPTION:
+wcwidth: wcwidth (Measures number of Terminal)
+wcwidth:
+wcwidth: This API is mainly for Terminal Emulator implementors - any python
+wcwidth: program that attempts to determine the printable width of a string
+wcwidth: on a Terminal. It is implemented in python (no C library calls) and
+wcwidth: has no 3rd-party dependencies.
+wcwidth:
+wcwidth:
+wcwidth:
+wcwidth:
+wcwidth:
+

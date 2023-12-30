@@ -1,0 +1,11 @@
+pynvim: pynvim (python client and plugin host for neovim)
+pynvim:
+pynvim: Pynvim implements support for python plugins in Nvim (neovim).
+pynvim: It also works as a library for connecting to and scripting Nvim
+pynvim: processes through its msgpack-rpc API.
+pynvim:
+pynvim:
+pynvim:
+pynvim:
+pynvim:
+pynvim:

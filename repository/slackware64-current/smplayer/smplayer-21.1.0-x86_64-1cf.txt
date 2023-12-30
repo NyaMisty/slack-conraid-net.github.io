@@ -1,0 +1,11 @@
+smplayer: SMplayer (Qt4 Mplayer front-end)
+smplayer:
+smplayer: SMPlayer intends to be a complete front-end for MPlayer, from basic
+smplayer: features  like  playing  videos, DVDs, and  VCDs  to  more advanced
+smplayer: features like support for MPlayer filters and more.
+smplayer:
+smplayer:
+smplayer:
+smplayer:
+smplayer:
+smplayer:

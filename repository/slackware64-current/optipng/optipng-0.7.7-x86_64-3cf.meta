@@ -1,0 +1,18 @@
+PACKAGE NAME:  optipng-0.7.7-x86_64-3cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./optipng
+PACKAGE SIZE (compressed):  100 K
+PACKAGE SIZE (uncompressed):  260 K
+PACKAGE DESCRIPTION:
+optipng: OptiPNG (Advanced PNG Optimizer)
+optipng:
+optipng: OptiPNG is a PNG optimizer that recompresses image files to a
+optipng: smaller size, without losing any information. This program also
+optipng: converts external formats (BMP, GIF, PNM and TIFF) to optimized
+optipng: PNG, and performs PNG integrity checks and corrections.
+optipng:
+optipng:
+optipng:
+optipng:
+optipng:
+

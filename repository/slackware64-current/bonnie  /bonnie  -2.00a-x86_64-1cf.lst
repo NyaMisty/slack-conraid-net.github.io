@@ -1,0 +1,38 @@
+++========================================
+||
+||   Package:  ./bonnie++/bonnie++-2.00a-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-11-19 18:05 ./
+drwxr-xr-x root/root         0 2020-11-19 18:05 install/
+-rw-r--r-- root/root       123 2020-11-19 18:05 install/doinst.sh
+-rw-r--r-- root/root       901 2020-11-19 18:05 install/slack-desc
+drwxr-xr-x root/root         0 2020-11-19 18:05 usr/
+drwxr-xr-x root/root         0 2020-11-19 18:05 usr/bin/
+-rwxr-xr-x root/root     22832 2020-11-19 18:05 usr/bin/bon_csv2html
+-rwxr-xr-x root/root      4242 2020-11-19 18:05 usr/bin/bon_csv2txt
+-rwxr-xr-x root/root     14416 2020-11-19 18:05 usr/bin/generate_randfile
+drwxr-xr-x root/root         0 2020-11-19 18:05 usr/doc/
+drwxr-xr-x root/root         0 2020-11-19 18:05 usr/doc/bonnie++-2.00a/
+-rw-r--r-- root/root       822 2001-05-11 16:39 usr/doc/bonnie++-2.00a/README-2.00
+-rw-r--r-- root/root       660 2008-12-23 21:45 usr/doc/bonnie++-2.00a/README.txt
+-rw-r--r-- root/root      3691 2020-11-19 18:05 usr/doc/bonnie++-2.00a/bonnie++.SlackBuild
+-rw-r--r-- root/root       756 2001-11-03 22:54 usr/doc/bonnie++-2.00a/copyright.txt
+-rw-r--r-- root/root       461 2001-01-11 03:58 usr/doc/bonnie++-2.00a/credits.txt
+-rw-r--r-- root/root      9358 2008-07-23 02:51 usr/doc/bonnie++-2.00a/readme.html
+drwxr-xr-x root/root         0 2020-11-19 18:05 usr/man/
+drwxr-xr-x root/root         0 2020-11-19 18:05 usr/man/man1/
+-rw-r--r-- root/root      1291 2020-11-19 18:05 usr/man/man1/bon_csv2html.1.gz
+-rw-r--r-- root/root        58 2020-11-19 18:05 usr/man/man1/bon_csv2txt.1.gz
+-rw-r--r-- root/root       507 2020-11-19 18:05 usr/man/man1/generate_randfile.1.gz
+drwxr-xr-x root/root         0 2020-11-19 18:05 usr/man/man8/
+-rw-r--r-- root/root      3598 2020-11-19 18:05 usr/man/man8/bonnie++.8.gz
+-rw-r--r-- root/root      1771 2020-11-19 18:05 usr/man/man8/getc_putc.8.gz
+-rw-r--r-- root/root      1661 2020-11-19 18:05 usr/man/man8/zcav.8.gz
+drwxr-xr-x root/root         0 2020-11-19 18:05 usr/sbin/
+-rwxr-xr-x root/root     52008 2020-11-19 18:05 usr/sbin/bonnie++
+-rwxr-xr-x root/root     22960 2020-11-19 18:05 usr/sbin/getc_putc
+-rwxr-xr-x root/root     14496 2020-11-19 18:05 usr/sbin/getc_putc_helper
+-rwxr-xr-x root/root     31248 2020-11-19 18:05 usr/sbin/zcav
+
+

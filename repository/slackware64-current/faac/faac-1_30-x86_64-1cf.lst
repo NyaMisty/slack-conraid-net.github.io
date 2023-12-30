@@ -1,0 +1,36 @@
+++========================================
+||
+||   Package:  ./faac/faac-1_30-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-03-15 11:37 ./
+drwxr-xr-x root/root         0 2020-03-15 11:37 install/
+-rw-r--r-- root/root       186 2020-03-15 11:37 install/doinst.sh
+-rw-r--r-- root/root       729 2020-03-15 11:37 install/slack-desc
+drwxr-xr-x root/root         0 2020-03-15 11:37 usr/
+drwxr-xr-x root/root         0 2020-03-15 11:37 usr/bin/
+-rwxr-xr-x root/root     50464 2020-03-15 11:37 usr/bin/faac
+drwxr-xr-x root/root         0 2020-03-15 11:37 usr/doc/
+drwxr-xr-x root/root         0 2020-03-15 11:37 usr/doc/faac-1_30/
+-rw-r--r-- root/root      1297 2019-10-16 12:52 usr/doc/faac-1_30/AUTHORS
+-rw-r--r-- root/root     25292 2019-10-16 12:52 usr/doc/faac-1_30/COPYING
+-rw-r--r-- root/root      3217 2019-10-16 12:52 usr/doc/faac-1_30/ChangeLog
+-rw-r--r-- root/root       757 2019-10-16 12:52 usr/doc/faac-1_30/INSTALL
+-rw-r--r-- root/root       196 2019-10-16 12:52 usr/doc/faac-1_30/NEWS
+-rw-r--r-- root/root      3031 2019-10-16 12:52 usr/doc/faac-1_30/README
+-rw-r--r-- root/root       319 2019-10-16 12:52 usr/doc/faac-1_30/TODO
+-rw-r--r-- root/root      4914 2019-10-16 12:52 usr/doc/faac-1_30/faac.1
+-rw-r--r-- root/root      3678 2020-03-15 11:37 usr/doc/faac-1_30/faac.SlackBuild
+-rw-r--r-- root/root      7322 2019-10-16 12:52 usr/doc/faac-1_30/faac.html
+-rw-r--r-- root/root      4905 2019-10-16 12:52 usr/doc/faac-1_30/libfaac.html
+-rw-r--r-- root/root     25529 2019-10-16 12:52 usr/doc/faac-1_30/libfaac.pdf
+drwxr-xr-x root/root         0 2020-03-15 11:37 usr/include/
+-rw-r--r-- root/root      2486 2020-03-15 11:37 usr/include/faac.h
+-rw-r--r-- root/root      3277 2020-03-15 11:37 usr/include/faaccfg.h
+drwxr-xr-x root/root         0 2020-03-15 11:37 usr/lib64/
+-rwxr-xr-x root/root     61232 2020-03-15 11:37 usr/lib64/libfaac.so.0.0.0
+drwxr-xr-x root/root         0 2020-03-15 11:37 usr/man/
+drwxr-xr-x root/root         0 2020-03-15 11:37 usr/man/man1/
+-rw-r--r-- root/root      2281 2020-03-15 11:37 usr/man/man1/faac.1.gz
+
+

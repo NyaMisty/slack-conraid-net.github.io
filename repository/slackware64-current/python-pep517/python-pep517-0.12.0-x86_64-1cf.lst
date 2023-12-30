@@ -1,0 +1,51 @@
+++========================================
+||
+||   Package:  ./python-pep517/python-pep517-0.12.0-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-31 10:52 ./
+drwxr-xr-x root/root         0 2022-07-31 10:52 install/
+-rw-r--r-- root/root       670 2022-07-31 10:52 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/doc/
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/doc/python-pep517-0.12.0/
+-rw-r--r-- root/root      3269 2022-07-31 10:52 usr/doc/python-pep517-0.12.0/python-pep517.SlackBuild
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517-0.12.0.dist-info/
+-rw-r--r-- root/root         4 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517-0.12.0.dist-info/INSTALLER
+-rw-r--r-- root/root      1081 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517-0.12.0.dist-info/LICENSE
+-rw-r--r-- root/root      3808 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517-0.12.0.dist-info/METADATA
+-rw-r--r-- root/root      1938 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517-0.12.0.dist-info/RECORD
+-rw-r--r-- root/root         0 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517-0.12.0.dist-info/REQUESTED
+-rw-r--r-- root/root        99 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517-0.12.0.dist-info/WHEEL
+-rw-r--r-- root/root       100 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517-0.12.0.dist-info/direct_url.json
+-rw-r--r-- root/root       130 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/__init__.py
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/__pycache__/
+-rw-r--r-- root/root       297 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      3545 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/__pycache__/build.cpython-39.pyc
+-rw-r--r-- root/root      5092 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/__pycache__/check.cpython-39.pyc
+-rw-r--r-- root/root      2922 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/__pycache__/colorlog.cpython-39.pyc
+-rw-r--r-- root/root      1501 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/__pycache__/compat.cpython-39.pyc
+-rw-r--r-- root/root      1331 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/__pycache__/dirtools.cpython-39.pyc
+-rw-r--r-- root/root      4491 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/__pycache__/envbuild.cpython-39.pyc
+-rw-r--r-- root/root      2904 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/__pycache__/meta.cpython-39.pyc
+-rw-r--r-- root/root     12477 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/__pycache__/wrappers.cpython-39.pyc
+-rw-r--r-- root/root      3457 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/build.py
+-rw-r--r-- root/root      6084 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/check.py
+-rw-r--r-- root/root      4098 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/colorlog.py
+-rw-r--r-- root/root      1229 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/compat.py
+-rw-r--r-- root/root      1129 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/dirtools.py
+-rw-r--r-- root/root      6100 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/envbuild.py
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/in_process/
+-rw-r--r-- root/root       563 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/in_process/__init__.py
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/in_process/__pycache__/
+-rw-r--r-- root/root       899 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/in_process/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root     10253 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/in_process/__pycache__/_in_process.cpython-39.pyc
+-rw-r--r-- root/root     11201 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/in_process/_in_process.py
+-rw-r--r-- root/root      2463 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/meta.py
+-rw-r--r-- root/root     13429 2022-07-31 10:52 usr/lib64/python3.9/site-packages/pep517/wrappers.py
+
+

@@ -1,0 +1,49 @@
+++========================================
+||
+||   Package:  ./gimp-separate+/gimp-separate+-0.5.8-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 11:21 ./
+drwxr-xr-x root/root         0 2020-10-05 11:21 install/
+-rw-r--r-- root/root       969 2020-10-05 11:21 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/doc/gimp-separate+-0.5.8/
+-rw-r--r-- root/root     17992 2008-02-10 06:11 usr/doc/gimp-separate+-0.5.8/COPYING
+-rw-r--r-- root/root     17206 2010-10-12 02:55 usr/doc/gimp-separate+-0.5.8/README
+-rw-r--r-- root/root      3861 2010-10-12 02:55 usr/doc/gimp-separate+-0.5.8/README_ICC_COLORSPACE
+-rw-r--r-- root/root      3441 2020-10-05 11:21 usr/doc/gimp-separate+-0.5.8/gimp-separate+.SlackBuild
+-rw-r--r-- root/root     17056 2010-09-05 19:30 usr/doc/gimp-separate+-0.5.8/readme.jp.txt
+-rw-r--r-- root/root      4099 2010-10-11 01:47 usr/doc/gimp-separate+-0.5.8/readme_icc_colorspace.jp.txt
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/lib64/
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/lib64/gimp/
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/lib64/gimp/2.0/
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/lib64/gimp/2.0/plug-ins/
+-rwxr-xr-x root/root     94400 2020-10-05 11:21 usr/lib64/gimp/2.0/plug-ins/icc_colorspace
+-rwxr-xr-x root/root    132224 2020-10-05 11:21 usr/lib64/gimp/2.0/plug-ins/separate
+-rwxr-xr-x root/root     23208 2020-10-05 11:21 usr/lib64/gimp/2.0/plug-ins/separate_import
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/share/
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/share/locale/
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/share/locale/cs/
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/share/locale/cs/LC_MESSAGES/
+-rw-r--r-- root/root      5211 2020-10-05 11:21 usr/share/locale/cs/LC_MESSAGES/gimp20-separate.mo
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/share/locale/es/
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/share/locale/es/LC_MESSAGES/
+-rw-r--r-- root/root     11208 2020-10-05 11:21 usr/share/locale/es/LC_MESSAGES/gimp20-separate.mo
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/share/locale/fr/
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/share/locale/fr/LC_MESSAGES/
+-rw-r--r-- root/root     10855 2020-10-05 11:21 usr/share/locale/fr/LC_MESSAGES/gimp20-separate.mo
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/share/locale/ja/
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/share/locale/ja/LC_MESSAGES/
+-rw-r--r-- root/root     13684 2020-10-05 11:21 usr/share/locale/ja/LC_MESSAGES/gimp20-separate.mo
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/share/locale/ko/
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/share/locale/ko/LC_MESSAGES/
+-rw-r--r-- root/root      6048 2020-10-05 11:21 usr/share/locale/ko/LC_MESSAGES/gimp20-separate.mo
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/share/locale/pl/
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/share/locale/pl/LC_MESSAGES/
+-rw-r--r-- root/root      3820 2020-10-05 11:21 usr/share/locale/pl/LC_MESSAGES/gimp20-separate.mo
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/share/locale/ru/
+drwxr-xr-x root/root         0 2020-10-05 11:21 usr/share/locale/ru/LC_MESSAGES/
+-rw-r--r-- root/root     16086 2020-10-05 11:21 usr/share/locale/ru/LC_MESSAGES/gimp20-separate.mo
+
+

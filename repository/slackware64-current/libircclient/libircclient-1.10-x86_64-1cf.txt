@@ -1,0 +1,11 @@
+libircclient: libircclient (a small client-server IRC protocol library)
+libircclient:
+libircclient: libircclient is a small but powerful library, which implements
+libircclient: client-server IRC protocol. It is designed to be small, fast,
+libircclient: portable and compatible to RFC standards, and most IRC clients.
+libircclient:
+libircclient:
+libircclient:
+libircclient:
+libircclient:
+libircclient:

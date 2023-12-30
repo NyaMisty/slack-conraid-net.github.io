@@ -1,0 +1,11 @@
+libcdr: libcdr (CorelDRAW Import Library)
+libcdr:
+libcdr: Libcdr is a library that parses the file format of CorelDRAW
+libcdr: documents of all versions.
+libcdr:
+libcdr:
+libcdr:
+libcdr:
+libcdr:
+libcdr:
+libcdr:

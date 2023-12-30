@@ -1,0 +1,21 @@
+PACKAGE NAME:  sslsplit-0.5.5-x86_64-3cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./sslsplit
+PACKAGE SIZE (compressed):  72 K
+PACKAGE SIZE (uncompressed):  240 K
+PACKAGE REQUIRED:  libnet
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+sslsplit: sslsplit (transparent and scalable SSL/TLS interception)
+sslsplit:
+sslsplit: SSLsplit is a tool for man-in-the-middle attacks against SSL/TLS 
+sslsplit: encrypted network connections. Connections are transparently 
+sslsplit: intercepted through a network address translation engine and 
+sslsplit: redirected to SSLsplit.
+sslsplit:
+sslsplit:
+sslsplit:
+sslsplit:
+sslsplit:
+

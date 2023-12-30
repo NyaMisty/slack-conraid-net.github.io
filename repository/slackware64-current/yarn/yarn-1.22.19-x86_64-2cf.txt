@@ -1,0 +1,11 @@
+yarn: yarn (Fast, reliable, and secure dependency management)
+yarn:
+yarn: Yarn is a package manager for your code. It allows you to use and
+yarn: share code with other developers from around the world. Yarn does
+yarn: this quickly, securely, and reliably so you don’t ever have to worry
+yarn:
+yarn:
+yarn:
+yarn:
+yarn:
+yarn:

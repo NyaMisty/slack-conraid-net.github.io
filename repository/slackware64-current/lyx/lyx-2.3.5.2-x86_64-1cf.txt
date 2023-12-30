@@ -1,0 +1,11 @@
+lyx: LyX (WYSIWYM document processor)
+lyx:
+lyx: LyX is a document processor that encourages an approach to writing 
+lyx: based on the structure of your documents (WYSIWYM).
+lyx: LyX combines the power and flexibility of TeX/LaTeX with the ease of 
+lyx: use of a graphical interface. This results in world-class support for 
+lyx: creation of mathematical content and structured documents like
+lyx: academic articles, theses, and books. In addition, staples of
+lyx: scientific authoring such as reference list and index creation come
+lyx: standard.
+lyx:

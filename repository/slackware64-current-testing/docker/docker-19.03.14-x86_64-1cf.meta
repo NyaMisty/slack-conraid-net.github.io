@@ -1,0 +1,18 @@
+PACKAGE NAME:  docker-19.03.14-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./docker
+PACKAGE SIZE (compressed):  27836 K
+PACKAGE SIZE (uncompressed):  137340 K
+PACKAGE DESCRIPTION:
+docker: docker (manager for applications in Linux containers)
+docker:
+docker: Docker is an open-source project to easily create lightweight,
+docker: portable, self-sufficient containers from any application.  The same
+docker: container that a developer builds and tests on a laptop can run at
+docker: scale, in production, on VMs, bare metal, OpenStack clusters, public
+docker: clouds and more.
+docker:
+docker:
+docker:
+docker:
+

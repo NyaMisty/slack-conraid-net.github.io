@@ -1,0 +1,11 @@
+google-api-python-client: google-api-python-client
+google-api-python-client:
+google-api-python-client: This is the Python client library for Google's discovery based APIs.
+google-api-python-client:
+google-api-python-client:
+google-api-python-client:
+google-api-python-client:
+google-api-python-client:
+google-api-python-client:
+google-api-python-client:
+google-api-python-client:

@@ -1,0 +1,21 @@
+PACKAGE NAME:  fluffychat-bin-1.7.1-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./fluffychat-bin
+PACKAGE SIZE (compressed):  23376 K
+PACKAGE SIZE (uncompressed):  56270 K
+PACKAGE REQUIRED:  libolm
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+fluffychat-bin: fluffychat-bin (Matrix Client)
+fluffychat-bin:
+fluffychat-bin: FluffyChat is an open source, nonprofit and cute matrix messenger app.
+fluffychat-bin: The app is easy to use but secure and decentralized.
+fluffychat-bin:
+fluffychat-bin:
+fluffychat-bin:
+fluffychat-bin:
+fluffychat-bin:
+fluffychat-bin:
+fluffychat-bin:
+

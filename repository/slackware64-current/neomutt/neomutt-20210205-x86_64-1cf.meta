@@ -1,0 +1,18 @@
+PACKAGE NAME:  neomutt-20210205-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./neomutt
+PACKAGE SIZE (compressed):  1620 K
+PACKAGE SIZE (uncompressed):  8620 K
+PACKAGE DESCRIPTION:
+neomutt: neomutt (Bringing together all the Mutt code)
+neomutt:
+neomutt: Mutt is a small but very powerful text-based MIME mail client.  Mutt
+neomutt: is highly configurable, and is well suited to the mail power user with
+neomutt: advanced features like key bindings, keyboard macros, mail threading,
+neomutt: regular expression searches and a powerful pattern matching language
+neomutt: for selecting groups of messages.
+neomutt:
+neomutt:
+neomutt:
+neomutt:
+

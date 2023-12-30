@@ -1,0 +1,19 @@
+++========================================
+||
+||   Package:  ./bully/bully-3ab3bc8-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-27 14:29 ./
+drwxr-xr-x root/root         0 2022-07-27 14:29 install/
+-rw-r--r-- root/root       894 2022-07-27 14:29 install/slack-desc
+-rw-r--r-- root/root         9 2022-07-27 14:29 install/slack-required
+drwxr-xr-x root/root         0 2022-07-27 14:29 usr/
+drwxr-xr-x root/root         0 2022-07-27 14:29 usr/bin/
+-rwxr-xr-x root/root    131200 2022-07-27 14:29 usr/bin/bully
+drwxr-xr-x root/root         0 2022-07-27 14:29 usr/doc/
+drwxr-xr-x root/root         0 2022-07-27 14:29 usr/doc/bully-3ab3bc8/
+-rw-r--r-- root/root     35141 2017-09-26 03:03 usr/doc/bully-3ab3bc8/LICENSE.md
+-rw-r--r-- root/root      4836 2017-09-26 03:03 usr/doc/bully-3ab3bc8/README.md
+-rw-r--r-- root/root      3800 2022-07-27 14:29 usr/doc/bully-3ab3bc8/bully.SlackBuild
+
+

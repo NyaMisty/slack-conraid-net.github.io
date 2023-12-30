@@ -1,0 +1,23 @@
+++========================================
+||
+||   Package:  ./dnstracer/dnstracer-1.10-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-11-20 16:27 ./
+drwxr-xr-x root/root         0 2020-11-20 16:27 install/
+-rw-r--r-- root/root       803 2020-11-20 16:27 install/slack-desc
+drwxr-xr-x root/root         0 2020-11-20 16:27 usr/
+drwxr-xr-x root/root         0 2020-11-20 16:27 usr/bin/
+-rwxr-xr-x root/root     33128 2020-11-20 16:27 usr/bin/dnstracer
+drwxr-xr-x root/root         0 2020-11-20 16:27 usr/doc/
+drwxr-xr-x root/root         0 2020-11-20 16:27 usr/doc/dnstracer-1.10/
+-rw-r--r-- root/root      3472 2008-06-11 14:19 usr/doc/dnstracer-1.10/CHANGES
+-rw-r--r-- root/root       408 2008-02-04 23:23 usr/doc/dnstracer-1.10/CONTACT
+-rw-r--r-- root/root      1313 2008-02-04 23:23 usr/doc/dnstracer-1.10/LICENSE
+-rw-r--r-- root/root      1002 2008-02-04 23:23 usr/doc/dnstracer-1.10/README
+-rw-r--r-- root/root      3229 2020-11-20 16:27 usr/doc/dnstracer-1.10/dnstracer.SlackBuild
+drwxr-xr-x root/root         0 2020-11-20 16:27 usr/man/
+drwxr-xr-x root/root         0 2020-11-20 16:27 usr/man/man8/
+-rw-r--r-- root/root      3146 2020-11-20 16:27 usr/man/man8/dnstracer.8.gz
+
+

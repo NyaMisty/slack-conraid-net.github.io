@@ -1,0 +1,87 @@
+++========================================
+||
+||   Package:  ./python-jsonschema/python-jsonschema-3.2.0-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-02-27 11:23 ./
+drwxr-xr-x root/root         0 2020-02-27 11:23 install/
+-rw-r--r-- root/root       824 2020-02-27 11:23 install/slack-desc
+drwxr-xr-x root/root         0 2020-02-27 11:23 usr/
+drwxr-xr-x root/root         0 2020-02-27 11:23 usr/bin/
+-rwxr-xr-x root/root       397 2020-02-27 11:23 usr/bin/jsonschema
+drwxr-xr-x root/root         0 2020-02-27 11:23 usr/doc/
+drwxr-xr-x root/root         0 2020-02-27 11:23 usr/doc/python-jsonschema-3.2.0/
+-rw-r--r-- root/root      4451 2019-11-18 13:36 usr/doc/python-jsonschema-3.2.0/CHANGELOG.rst
+-rw-r--r-- root/root      5890 2019-10-19 18:43 usr/doc/python-jsonschema-3.2.0/README.rst
+-rw-r--r-- root/root      3220 2020-02-27 11:23 usr/doc/python-jsonschema-3.2.0/python-jsonschema.SlackBuild
+drwxr-xr-x root/root         0 2020-02-27 11:23 usr/lib64/
+drwxr-xr-x root/root         0 2020-02-27 11:23 usr/lib64/python3.8/
+drwxr-xr-x root/root         0 2020-02-27 11:23 usr/lib64/python3.8/site-packages/
+drwxr-xr-x root/root         0 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/
+drwxr-xr-x root/root         0 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema-3.2.0-py3.8.egg-info/
+-rw-r--r-- root/root      8446 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema-3.2.0-py3.8.egg-info/PKG-INFO
+-rw-r--r-- root/root     12281 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema-3.2.0-py3.8.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema-3.2.0-py3.8.egg-info/dependency_links.txt
+-rw-r--r-- root/root        52 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema-3.2.0-py3.8.egg-info/entry_points.txt
+-rw-r--r-- root/root       295 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema-3.2.0-py3.8.egg-info/requires.txt
+-rw-r--r-- root/root        11 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema-3.2.0-py3.8.egg-info/top_level.txt
+-rw-r--r-- root/root       934 2019-11-18 01:28 usr/lib64/python3.8/site-packages/jsonschema/__init__.py
+-rw-r--r-- root/root        39 2018-09-16 14:15 usr/lib64/python3.8/site-packages/jsonschema/__main__.py
+drwxr-xr-x root/root         0 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/__pycache__/
+-rw-r--r-- root/root      1190 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/__pycache__/__init__.cpython-38.pyc
+-rw-r--r-- root/root       199 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/__pycache__/__main__.cpython-38.pyc
+-rw-r--r-- root/root     10169 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/__pycache__/_format.cpython-38.pyc
+-rw-r--r-- root/root      3258 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/__pycache__/_legacy_validators.cpython-38.pyc
+-rw-r--r-- root/root      4825 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/__pycache__/_reflect.cpython-38.pyc
+-rw-r--r-- root/root      4868 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/__pycache__/_types.cpython-38.pyc
+-rw-r--r-- root/root      6810 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/__pycache__/_utils.cpython-38.pyc
+-rw-r--r-- root/root      9755 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/__pycache__/_validators.cpython-38.pyc
+-rw-r--r-- root/root      2464 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/__pycache__/cli.cpython-38.pyc
+-rw-r--r-- root/root      1486 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/__pycache__/compat.cpython-38.pyc
+-rw-r--r-- root/root     12025 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/__pycache__/exceptions.cpython-38.pyc
+-rw-r--r-- root/root     23344 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/__pycache__/validators.cpython-38.pyc
+-rw-r--r-- root/root     11691 2019-11-08 14:11 usr/lib64/python3.8/site-packages/jsonschema/_format.py
+-rw-r--r-- root/root      4584 2019-09-26 22:51 usr/lib64/python3.8/site-packages/jsonschema/_legacy_validators.py
+-rw-r--r-- root/root      5023 2018-09-16 14:15 usr/lib64/python3.8/site-packages/jsonschema/_reflect.py
+-rw-r--r-- root/root      4490 2019-09-26 22:51 usr/lib64/python3.8/site-packages/jsonschema/_types.py
+-rw-r--r-- root/root      5168 2019-11-08 14:11 usr/lib64/python3.8/site-packages/jsonschema/_utils.py
+-rw-r--r-- root/root     11703 2019-11-08 14:11 usr/lib64/python3.8/site-packages/jsonschema/_validators.py
+drwxr-xr-x root/root         0 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/benchmarks/
+-rw-r--r-- root/root        70 2019-09-04 09:35 usr/lib64/python3.8/site-packages/jsonschema/benchmarks/__init__.py
+drwxr-xr-x root/root         0 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/benchmarks/__pycache__/
+-rw-r--r-- root/root       234 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/benchmarks/__pycache__/__init__.cpython-38.pyc
+-rw-r--r-- root/root       692 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/benchmarks/__pycache__/issue232.cpython-38.pyc
+-rw-r--r-- root/root       526 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/benchmarks/__pycache__/json_schema_test_suite.cpython-38.pyc
+-rw-r--r-- root/root       541 2019-09-04 09:35 usr/lib64/python3.8/site-packages/jsonschema/benchmarks/issue232.py
+-rw-r--r-- root/root       343 2019-09-04 09:35 usr/lib64/python3.8/site-packages/jsonschema/benchmarks/json_schema_test_suite.py
+-rw-r--r-- root/root      2310 2019-09-07 15:19 usr/lib64/python3.8/site-packages/jsonschema/cli.py
+-rw-r--r-- root/root      1353 2019-09-26 23:01 usr/lib64/python3.8/site-packages/jsonschema/compat.py
+-rw-r--r-- root/root     10450 2019-09-26 22:51 usr/lib64/python3.8/site-packages/jsonschema/exceptions.py
+drwxr-xr-x root/root         0 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/schemas/
+-rw-r--r-- root/root      4564 2019-09-04 09:35 usr/lib64/python3.8/site-packages/jsonschema/schemas/draft3.json
+-rw-r--r-- root/root      5399 2019-09-04 09:35 usr/lib64/python3.8/site-packages/jsonschema/schemas/draft4.json
+-rw-r--r-- root/root      4437 2019-09-04 09:35 usr/lib64/python3.8/site-packages/jsonschema/schemas/draft6.json
+-rw-r--r-- root/root      4819 2019-09-04 09:35 usr/lib64/python3.8/site-packages/jsonschema/schemas/draft7.json
+drwxr-xr-x root/root         0 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/tests/
+-rw-r--r-- root/root         0 2019-08-04 17:56 usr/lib64/python3.8/site-packages/jsonschema/tests/__init__.py
+drwxr-xr-x root/root         0 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/tests/__pycache__/
+-rw-r--r-- root/root       154 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/tests/__pycache__/__init__.cpython-38.pyc
+-rw-r--r-- root/root       347 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/tests/__pycache__/_helpers.cpython-38.pyc
+-rw-r--r-- root/root      7522 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/tests/__pycache__/_suite.cpython-38.pyc
+-rw-r--r-- root/root      4842 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/tests/__pycache__/test_cli.cpython-38.pyc
+-rw-r--r-- root/root     15681 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/tests/__pycache__/test_exceptions.cpython-38.pyc
+-rw-r--r-- root/root      3761 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/tests/__pycache__/test_format.cpython-38.pyc
+-rw-r--r-- root/root      5438 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/tests/__pycache__/test_jsonschema_test_suite.cpython-38.pyc
+-rw-r--r-- root/root      6518 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/tests/__pycache__/test_types.cpython-38.pyc
+-rw-r--r-- root/root     55190 2020-02-27 11:23 usr/lib64/python3.8/site-packages/jsonschema/tests/__pycache__/test_validators.cpython-38.pyc
+-rw-r--r-- root/root       157 2019-09-06 11:59 usr/lib64/python3.8/site-packages/jsonschema/tests/_helpers.py
+-rw-r--r-- root/root      6728 2019-09-05 18:17 usr/lib64/python3.8/site-packages/jsonschema/tests/_suite.py
+-rw-r--r-- root/root      4727 2019-09-08 19:03 usr/lib64/python3.8/site-packages/jsonschema/tests/test_cli.py
+-rw-r--r-- root/root     15348 2019-09-05 18:17 usr/lib64/python3.8/site-packages/jsonschema/tests/test_exceptions.py
+-rw-r--r-- root/root      2982 2019-09-07 15:11 usr/lib64/python3.8/site-packages/jsonschema/tests/test_format.py
+-rw-r--r-- root/root      8464 2019-11-08 14:11 usr/lib64/python3.8/site-packages/jsonschema/tests/test_jsonschema_test_suite.py
+-rw-r--r-- root/root      5902 2019-09-05 18:17 usr/lib64/python3.8/site-packages/jsonschema/tests/test_types.py
+-rw-r--r-- root/root     60394 2019-11-08 14:11 usr/lib64/python3.8/site-packages/jsonschema/tests/test_validators.py
+-rw-r--r-- root/root     29400 2019-09-26 22:51 usr/lib64/python3.8/site-packages/jsonschema/validators.py
+
+

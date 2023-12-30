@@ -1,0 +1,11 @@
+rchardet: rchardet (Character encoding auto-detection in Ruby)
+rchardet:
+rchardet: Character encoding auto-detection in Ruby. As smart as your browser.
+rchardet:
+rchardet:
+rchardet:
+rchardet:
+rchardet:
+rchardet:
+rchardet:
+rchardet:

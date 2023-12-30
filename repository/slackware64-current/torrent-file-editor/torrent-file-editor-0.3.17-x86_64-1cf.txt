@@ -1,0 +1,11 @@
+torrent-file-editor: torrent-file-editor (Qt GUI to create and edit .torrent files)
+torrent-file-editor:
+torrent-file-editor: Qt based GUI tool designed to create and edit .torrent files
+torrent-file-editor:
+torrent-file-editor:
+torrent-file-editor:
+torrent-file-editor:
+torrent-file-editor:
+torrent-file-editor:
+torrent-file-editor:
+torrent-file-editor:

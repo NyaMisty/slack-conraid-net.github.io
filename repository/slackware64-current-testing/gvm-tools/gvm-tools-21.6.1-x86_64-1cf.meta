@@ -1,0 +1,18 @@
+PACKAGE NAME:  gvm-tools-21.6.1-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./gvm-tools
+PACKAGE SIZE (compressed):  128 K
+PACKAGE SIZE (uncompressed):  740 K
+PACKAGE DESCRIPTION:
+gvm-tools: gvm-tools (Greenbone Vulnerability Management Tools)
+gvm-tools:
+gvm-tools:
+gvm-tools: GVM-Tools is a collection of tools that help with remote controlling
+gvm-tools: a Greenbone Security Manager (GSM) appliance and its underlying
+gvm-tools: Grennbone Vulnerability Manager (GVM). The tools essentially aid
+gvm-tools: accessing the communication protocols GMP (Greenbone Management
+gvm-tools: Protocol) and OSP (Open Scanner Protocol).
+gvm-tools:
+gvm-tools: Previously known as OpenVas-Tools
+gvm-tools:
+

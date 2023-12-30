@@ -1,0 +1,11 @@
+nuttcp: nuttcp (TCP/UDP network testing tool)
+nuttcp:
+nuttcp: nuttcp is a network performance measurement tool intended for use by
+nuttcp: network and system managers. 
+nuttcp:
+nuttcp:
+nuttcp:
+nuttcp:
+nuttcp:
+nuttcp:
+nuttcp:

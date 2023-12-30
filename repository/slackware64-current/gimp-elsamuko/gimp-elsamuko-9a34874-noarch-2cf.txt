@@ -1,0 +1,11 @@
+gimp-elsamuko: gimp-elsamuko (Gimp scripts by elsamuko)
+gimp-elsamuko:
+gimp-elsamuko: Varoius Gimp scripts made by Samuel Albrecht (elsamuko).
+gimp-elsamuko:
+gimp-elsamuko:
+gimp-elsamuko:
+gimp-elsamuko:
+gimp-elsamuko:
+gimp-elsamuko:
+gimp-elsamuko:
+gimp-elsamuko:

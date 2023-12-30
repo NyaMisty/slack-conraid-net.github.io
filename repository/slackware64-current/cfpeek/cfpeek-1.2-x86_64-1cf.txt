@@ -1,0 +1,11 @@
+cfpeek: cfpeek (Command line processor for structured configuration files)
+cfpeek:
+cfpeek: Cfpeek provides a uniform and consistent command line interface for
+cfpeek: various operations on structured configuration files, such as
+cfpeek: named.conf, .gitconfig, etc. It can be used to look up and retrieve
+cfpeek: settings, reformat the files and to apply external scripts to them.
+cfpeek:
+cfpeek:
+cfpeek:
+cfpeek:
+cfpeek:

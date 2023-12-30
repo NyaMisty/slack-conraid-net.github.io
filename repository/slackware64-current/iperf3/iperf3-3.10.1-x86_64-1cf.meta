@@ -1,0 +1,19 @@
+PACKAGE NAME:  iperf3-3.10.1-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./iperf3
+PACKAGE SIZE (compressed):  88 K
+PACKAGE SIZE (uncompressed):  280 K
+PACKAGE DESCRIPTION:
+iperf3: iperf3
+iperf3:
+iperf3: iperf is a tool for active measurements of the maximum achievable 
+iperf3: bandwidth on IP networks. It supports tuning of various parameters
+iperf3: related to timing, protocols, and buffers. For each test it reports
+iperf3: the bandwidth, loss, and other parameters.
+iperf3: Iperf3 is a redesign of an original version developed at NLANR/DAST
+iperf3:
+iperf3:
+iperf3:
+iperf3:
+iperf3:
+

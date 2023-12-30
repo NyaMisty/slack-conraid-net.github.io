@@ -1,0 +1,31 @@
+++========================================
+||
+||   Package:  ./lwatch/lwatch-0.6.2-x86_64-6cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 11:46 ./
+drwxr-xr-x root/root         0 2020-10-05 11:46 etc/
+-rw-r--r-- root/root      3245 2020-10-05 11:46 etc/lwatch.conf.new
+drwxr-xr-x root/root         0 2020-10-05 11:46 install/
+-rw-r--r-- root/root       388 2020-10-05 11:46 install/doinst.sh
+-rw-r--r-- root/root       832 2020-10-05 11:46 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/bin/
+-rwxr-xr-x root/root     48088 2020-10-05 11:46 usr/bin/lwatch
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/doc/lwatch-0.6.2/
+-rw-r--r-- root/root       429 2012-03-20 03:03 usr/doc/lwatch-0.6.2/AUTHORS
+-rw-r--r-- root/root     17992 2012-03-20 02:19 usr/doc/lwatch-0.6.2/COPYING
+-rw-r--r-- root/root      3702 2014-01-07 21:23 usr/doc/lwatch-0.6.2/ChangeLog
+-rw-r--r-- root/root      9658 2012-03-20 03:02 usr/doc/lwatch-0.6.2/INSTALL
+-rw-r--r-- root/root      1392 2014-01-07 21:26 usr/doc/lwatch-0.6.2/NEWS
+-rw-r--r-- root/root      4324 2012-03-20 03:03 usr/doc/lwatch-0.6.2/README
+-rw-r--r-- root/root       737 2012-03-22 07:38 usr/doc/lwatch-0.6.2/TODO
+-rw-r--r-- root/root      3307 2020-10-05 11:46 usr/doc/lwatch-0.6.2/lwatch.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/man/man1/
+-rw-r--r-- root/root      2157 2020-10-05 11:46 usr/man/man1/lwatch.1.gz
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/man/man5/
+-rw-r--r-- root/root      2624 2020-10-05 11:46 usr/man/man5/lwatch.conf.5.gz
+
+

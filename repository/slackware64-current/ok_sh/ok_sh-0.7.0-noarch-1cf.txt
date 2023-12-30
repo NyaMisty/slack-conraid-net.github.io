@@ -1,0 +1,11 @@
+ok_sh: ok_sh (GitHub API client library written in POSIX sh)
+ok_sh:
+ok_sh: ok.sh is a Bourne shell GitHub API client library focused on
+ok_sh: interfacing with shell scripts
+ok_sh:
+ok_sh:
+ok_sh:
+ok_sh:
+ok_sh:
+ok_sh:
+ok_sh:

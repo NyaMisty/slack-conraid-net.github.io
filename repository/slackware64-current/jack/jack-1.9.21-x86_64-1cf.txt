@@ -1,0 +1,11 @@
+jack: jack (Jack Sound Server)
+jack:
+jack: JACK is a low-latency audio server written mainly for Linux.
+jack: It can connect a number of different applications to an audio
+jack: device as well as allow them to share audio among themselves.
+jack:
+jack:
+jack:
+jack:
+jack:
+jack:

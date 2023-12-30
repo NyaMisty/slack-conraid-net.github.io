@@ -1,0 +1,21 @@
+PACKAGE NAME:  bully-3ab3bc8-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./bully
+PACKAGE SIZE (compressed):  72 K
+PACKAGE SIZE (uncompressed):  190 K
+PACKAGE REQUIRED:  pixiewps
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+bully: bully (Retrieve WPA/WPA2 passphrase from a WPS enabled access point)
+bully:
+bully: Bully is a new implementation of the WPS brute force attack, written
+bully: in C. It is conceptually identical to other programs, in that it
+bully: exploits the (now well known) design flaw in the WPS specification.
+bully: It has several advantages over the original reaver code. 
+bully:
+bully:
+bully:
+bully:
+bully:
+

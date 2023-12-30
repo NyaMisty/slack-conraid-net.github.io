@@ -1,0 +1,18 @@
+PACKAGE NAME:  device-tree-compiler-1.6.1-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./device-tree-compiler
+PACKAGE SIZE (compressed):  124 K
+PACKAGE SIZE (uncompressed):  550 K
+PACKAGE DESCRIPTION:
+device-tree-compiler: device-tree-compiler (Device Tree Compiler for Flat Device Trees)
+device-tree-compiler:
+device-tree-compiler: Device Tree Compiler, 'dtc', transforms a textual description of a
+device-tree-compiler: device tree ('DTS') into a binary object ('DTB').
+device-tree-compiler:
+device-tree-compiler: DTS is most commonly used on embedded platforms.
+device-tree-compiler:
+device-tree-compiler: This tool is particularly useful for building a DTS-enabled 'U-Boot'
+device-tree-compiler: binary.
+device-tree-compiler:
+device-tree-compiler:
+

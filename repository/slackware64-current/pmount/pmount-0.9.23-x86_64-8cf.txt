@@ -1,0 +1,11 @@
+pmount: pmount (mount removable devices as normal project!)
+pmount:
+pmount: pmount is a wrapper around the standard mount program which 
+pmount: permits normal users to mount removable devices without a
+pmount: matching entry in /etc/fstab.
+pmount:
+pmount:
+pmount:
+pmount:
+pmount:
+pmount:

@@ -1,0 +1,11 @@
+python-netifaces: python-netifaces (Portable access to network interfaces from Python)
+python-netifaces:
+python-netifaces: Portable module to access network interface information in Python.
+python-netifaces:
+python-netifaces:
+python-netifaces:
+python-netifaces:
+python-netifaces:
+python-netifaces:
+python-netifaces:
+python-netifaces:

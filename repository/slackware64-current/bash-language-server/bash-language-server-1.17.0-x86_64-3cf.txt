@@ -1,0 +1,11 @@
+bash-language-server: bash-language-server (A language server for Bash)
+bash-language-server:
+bash-language-server: Bash language server implementation based on Tree Sitter and its
+bash-language-server: grammar for Bash with explainshell integration.
+bash-language-server:
+bash-language-server:
+bash-language-server:
+bash-language-server:
+bash-language-server:
+bash-language-server:
+bash-language-server:

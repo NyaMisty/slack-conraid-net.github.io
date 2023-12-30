@@ -1,0 +1,18 @@
+PACKAGE NAME:  tokyocabinet-1.4.48-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./tokyocabinet
+PACKAGE SIZE (compressed):  972 K
+PACKAGE SIZE (uncompressed):  5970 K
+PACKAGE DESCRIPTION:
+tokyocabinet: tokyocabinet (Key-Value Store)
+tokyocabinet:
+tokyocabinet: Tokyo Cabinet is a fast and efficient key/value database. It provides
+tokyocabinet: schema-less storage through hash tables, B-tree tables and
+tokyocabinet: fixed-length arrays.
+tokyocabinet:
+tokyocabinet:
+tokyocabinet:
+tokyocabinet:
+tokyocabinet:
+tokyocabinet:
+

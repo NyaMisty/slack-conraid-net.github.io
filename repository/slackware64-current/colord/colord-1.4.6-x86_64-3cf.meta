@@ -1,0 +1,21 @@
+PACKAGE NAME:  colord-1.4.6-x86_64-3cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./colord
+PACKAGE SIZE (compressed):  716 K
+PACKAGE SIZE (uncompressed):  6120 K
+PACKAGE REQUIRED:  libgusb
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+colord: colord (Color Profile System Service)
+colord:
+colord: colord is a system service that makes it easy to manage, install
+colord: and generate color profiles to accurately color manage input
+colord: and output devices.
+colord:
+colord:
+colord:
+colord:
+colord:
+colord:
+

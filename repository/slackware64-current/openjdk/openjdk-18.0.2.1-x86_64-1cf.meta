@@ -1,0 +1,21 @@
+PACKAGE NAME:  openjdk-18.0.2.1-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./openjdk
+PACKAGE SIZE (compressed):  154580 K
+PACKAGE SIZE (uncompressed):  316400 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+openjdk: Java(TM) 2 Platform Standard Edition Development Kit.
+openjdk:
+openjdk: The Java 2 SDK software includes tools for developing, testing, and
+openjdk: running programs written in the Java programming language. This
+openjdk: package contains everything you need to run Java(TM).
+openjdk:
+openjdk: For additional information, refer to this web page:
+openjdk:  http://java.com/
+openjdk:
+openjdk:
+openjdk:
+

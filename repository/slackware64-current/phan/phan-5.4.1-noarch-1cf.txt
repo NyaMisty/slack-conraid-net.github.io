@@ -1,0 +1,11 @@
+phan: phan (a static analyzer for PHP)
+phan:
+phan: Phan is a static analyzer for PHP that prefers to minimize
+phan: false-positives. Phan attempts to prove incorrectness rather than
+phan: correctness.
+phan:
+phan:
+phan:
+phan:
+phan:
+phan:

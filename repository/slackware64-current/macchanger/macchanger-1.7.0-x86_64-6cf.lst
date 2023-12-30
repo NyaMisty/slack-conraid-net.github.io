@@ -1,0 +1,30 @@
+++========================================
+||
+||   Package:  ./macchanger/macchanger-1.7.0-x86_64-6cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 11:46 ./
+drwxr-xr-x root/root         0 2020-10-05 11:46 install/
+-rw-r--r-- root/root       688 2020-10-05 11:46 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/bin/
+-rwxr-xr-x root/root     23176 2020-10-05 11:46 usr/bin/macchanger
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/doc/macchanger-1.7.0/
+-rw-r--r-- root/root        40 2013-04-18 07:27 usr/doc/macchanger-1.7.0/AUTHORS
+-rw-r--r-- root/root     35147 2007-07-02 00:55 usr/doc/macchanger-1.7.0/COPYING
+-rw-r--r-- root/root      1360 2013-04-18 07:27 usr/doc/macchanger-1.7.0/ChangeLog
+-rw-r--r-- root/root         0 2013-04-18 07:27 usr/doc/macchanger-1.7.0/NEWS
+-rw-r--r-- root/root       298 2013-04-18 07:27 usr/doc/macchanger-1.7.0/README
+-rw-r--r-- root/root      3349 2020-10-05 11:46 usr/doc/macchanger-1.7.0/macchanger.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/info/
+-rw-r--r-- root/root      1687 2020-10-05 11:46 usr/info/macchanger.info.gz
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/man/man1/
+-rw-r--r-- root/root      1286 2020-10-05 11:46 usr/man/man1/macchanger.1.gz
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/share/
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/share/macchanger/
+-rw-r--r-- root/root    579767 2020-10-05 11:46 usr/share/macchanger/OUI.list
+-rw-r--r-- root/root      1358 2020-10-05 11:46 usr/share/macchanger/wireless.list
+
+

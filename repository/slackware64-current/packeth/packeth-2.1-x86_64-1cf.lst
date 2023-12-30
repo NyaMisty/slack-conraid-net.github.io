@@ -1,0 +1,38 @@
+++========================================
+||
+||   Package:  ./packeth/packeth-2.1-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2019-08-09 11:22 ./
+drwxr-xr-x root/root         0 2019-08-09 11:22 install/
+-rw-r--r-- root/root       777 2019-08-09 11:22 install/slack-desc
+drwxr-xr-x root/root         0 2019-08-09 11:22 usr/
+drwxr-xr-x root/root         0 2019-08-09 11:22 usr/bin/
+-rwxr-xr-x root/root    397368 2019-08-09 11:22 usr/bin/packETH
+-rwxr-xr-x root/root     51656 2019-08-09 11:22 usr/bin/packETHcli
+drwxr-xr-x root/root         0 2019-08-09 11:22 usr/doc/
+drwxr-xr-x root/root         0 2019-08-09 11:22 usr/doc/packeth-2.1/
+-rw-r--r-- root/root        30 2019-07-18 09:08 usr/doc/packeth-2.1/AUTHORS
+-rw-r--r-- root/root     35147 2019-07-18 09:08 usr/doc/packeth-2.1/COPYING
+-rw-r--r-- root/root      1613 2019-07-18 09:08 usr/doc/packeth-2.1/ChangeLog
+-rw-r--r-- root/root     11410 2019-07-18 09:08 usr/doc/packeth-2.1/INSTALL
+-rw-r--r-- root/root        21 2019-07-18 09:08 usr/doc/packeth-2.1/NEWS
+-rw-r--r-- root/root      3153 2019-07-18 09:08 usr/doc/packeth-2.1/README
+-rw-r--r-- root/root      3874 2019-08-09 11:22 usr/doc/packeth-2.1/packeth.SlackBuild
+drwxr-xr-x root/root         0 2019-08-09 11:22 usr/share/
+drwxr-xr-x root/root         0 2019-08-09 11:22 usr/share/packeth/
+drwxr-xr-x root/root         0 2019-08-09 11:22 usr/share/packeth/pixmaps/
+-rw-r--r-- root/root      3224 2019-08-09 11:22 usr/share/packeth/pixmaps/Build.xpm
+-rw-r--r-- root/root      1357 2019-08-09 11:22 usr/share/packeth/pixmaps/Gen.xpm
+-rw-r--r-- root/root      3122 2019-08-09 11:22 usr/share/packeth/pixmaps/X.xpm
+-rw-r--r-- root/root     14173 2019-08-09 11:22 usr/share/packeth/pixmaps/donate.xpm
+-rw-r--r-- root/root      1105 2019-08-09 11:22 usr/share/packeth/pixmaps/future.xpm
+-rw-r--r-- root/root      1138 2019-08-09 11:22 usr/share/packeth/pixmaps/interface.xpm
+-rw-r--r-- root/root      2870 2019-08-09 11:22 usr/share/packeth/pixmaps/load.xpm
+-rw-r--r-- root/root      1722 2019-08-09 11:22 usr/share/packeth/pixmaps/preference.xpm
+-rw-r--r-- root/root      1719 2019-08-09 11:22 usr/share/packeth/pixmaps/reset.xpm
+-rw-r--r-- root/root      3393 2019-08-09 11:22 usr/share/packeth/pixmaps/save.xpm
+-rw-r--r-- root/root      1350 2019-08-09 11:22 usr/share/packeth/pixmaps/save16.xpm
+-rw-r--r-- root/root      3302 2019-08-09 11:22 usr/share/packeth/pixmaps/send.xpm
+
+

@@ -1,0 +1,22 @@
+++========================================
+||
+||   Package:  ./tinyxml/tinyxml-2.6.2-x86_64-5cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 13:14 ./
+drwxr-xr-x root/root         0 2020-10-05 13:14 install/
+-rw-r--r-- root/root       208 2020-10-05 13:14 install/doinst.sh
+-rw-r--r-- root/root       681 2020-10-05 13:14 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 13:14 usr/
+drwxr-xr-x root/root         0 2020-10-05 13:14 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 13:14 usr/doc/tinyxml-2.6.2/
+-rw-r--r-- root/root     15546 2011-05-15 04:24 usr/doc/tinyxml-2.6.2/changes.txt
+-rw-r--r-- root/root     19831 2011-05-15 04:24 usr/doc/tinyxml-2.6.2/readme.txt
+-rw-r--r-- root/root      3643 2020-10-05 13:14 usr/doc/tinyxml-2.6.2/tinyxml.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 13:14 usr/include/
+-rw-r--r-- root/root      8198 2020-10-05 13:14 usr/include/tinystr.h
+-rw-r--r-- root/root     64859 2020-10-05 13:14 usr/include/tinyxml.h
+drwxr-xr-x root/root         0 2020-10-05 13:14 usr/lib64/
+-rwxr-xr-x root/root    138992 2020-10-05 13:14 usr/lib64/libtinyxml.so.0.2.6.2
+
+

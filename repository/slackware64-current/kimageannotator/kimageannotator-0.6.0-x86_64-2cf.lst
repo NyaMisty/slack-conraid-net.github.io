@@ -1,0 +1,64 @@
+++========================================
+||
+||   Package:  ./kimageannotator/kimageannotator-0.6.0-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-27 19:08 ./
+drwxr-xr-x root/root         0 2022-07-27 19:08 install/
+-rw-r--r-- root/root       248 2022-07-27 19:08 install/doinst.sh
+-rw-r--r-- root/root       757 2022-07-27 19:08 install/slack-desc
+-rw-r--r-- root/root        13 2022-07-27 19:08 install/slack-required
+drwxr-xr-x root/root         0 2022-07-27 19:08 usr/
+drwxr-xr-x root/root         0 2022-07-27 19:08 usr/doc/
+drwxr-xr-x root/root         0 2022-07-27 19:08 usr/doc/kimageannotator-0.6.0/
+-rw-r--r-- root/root     17994 2022-05-22 19:34 usr/doc/kimageannotator-0.6.0/CHANGELOG.md
+-rw-r--r-- root/root      7652 2022-05-22 19:34 usr/doc/kimageannotator-0.6.0/LICENSE
+-rw-r--r-- root/root      2767 2022-05-22 19:34 usr/doc/kimageannotator-0.6.0/README.md
+-rw-r--r-- root/root      4124 2022-07-27 19:08 usr/doc/kimageannotator-0.6.0/kimageannotator.SlackBuild
+drwxr-xr-x root/root         0 2022-07-27 19:08 usr/include/
+drwxr-xr-x root/root         0 2022-07-27 19:08 usr/include/kImageAnnotator/
+-rw-r--r-- root/root      2962 2022-05-22 19:34 usr/include/kImageAnnotator/KImageAnnotator.h
+-rw-r--r-- root/root      1201 2022-05-22 19:34 usr/include/kImageAnnotator/KImageAnnotatorExport.h
+drwxr-xr-x root/root         0 2022-07-27 19:08 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-27 19:08 usr/lib64/cmake/
+drwxr-xr-x root/root         0 2022-07-27 19:08 usr/lib64/cmake/kImageAnnotator/
+-rw-r--r-- root/root      1032 2022-07-27 19:04 usr/lib64/cmake/kImageAnnotator/kImageAnnotator-targets-release.cmake
+-rw-r--r-- root/root      3904 2022-07-27 19:04 usr/lib64/cmake/kImageAnnotator/kImageAnnotator-targets.cmake
+-rw-r--r-- root/root      1977 2022-07-27 19:04 usr/lib64/cmake/kImageAnnotator/kImageAnnotatorConfig-version.cmake
+-rw-r--r-- root/root      1472 2022-07-27 19:04 usr/lib64/cmake/kImageAnnotator/kImageAnnotatorConfig.cmake
+-rwxr-xr-x root/root   1376000 2022-07-27 19:08 usr/lib64/libkImageAnnotator.so.0.6.0
+drwxr-xr-x root/root         0 2022-07-27 19:08 usr/share/
+drwxr-xr-x root/root         0 2022-07-27 19:08 usr/share/kImageAnnotator/
+drwxr-xr-x root/root         0 2022-07-27 19:08 usr/share/kImageAnnotator/translations/
+-rw-r--r-- root/root      9118 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_ar.qm
+-rw-r--r-- root/root     10015 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_ca.qm
+-rw-r--r-- root/root      8977 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_cs.qm
+-rw-r--r-- root/root      9638 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_da.qm
+-rw-r--r-- root/root     10064 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_de.qm
+-rw-r--r-- root/root     10421 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_el.qm
+-rw-r--r-- root/root      5347 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_es.qm
+-rw-r--r-- root/root      7444 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_eu.qm
+-rw-r--r-- root/root     10210 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_fr.qm
+-rw-r--r-- root/root        33 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_fr_CA.qm
+-rw-r--r-- root/root        33 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_gl.qm
+-rw-r--r-- root/root      9878 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_hr.qm
+-rw-r--r-- root/root        23 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_hu.qm
+-rw-r--r-- root/root      9659 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_id.qm
+-rw-r--r-- root/root     10082 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_it.qm
+-rw-r--r-- root/root        26 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_ja.qm
+-rw-r--r-- root/root      8364 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_ko.qm
+-rw-r--r-- root/root      9976 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_nl.qm
+-rw-r--r-- root/root      6771 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_no.qm
+-rw-r--r-- root/root     10112 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_pl.qm
+-rw-r--r-- root/root     10134 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_pt.qm
+-rw-r--r-- root/root     10178 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_pt_BR.qm
+-rw-r--r-- root/root     10032 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_ro.qm
+-rw-r--r-- root/root      9915 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_ru.qm
+-rw-r--r-- root/root      2566 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_si.qm
+-rw-r--r-- root/root      9955 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_sq.qm
+-rw-r--r-- root/root      9635 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_sv.qm
+-rw-r--r-- root/root      1310 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_tr.qm
+-rw-r--r-- root/root     10125 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_uk.qm
+-rw-r--r-- root/root      7747 2022-07-27 19:08 usr/share/kImageAnnotator/translations/kImageAnnotator_zh_CN.qm
+
+

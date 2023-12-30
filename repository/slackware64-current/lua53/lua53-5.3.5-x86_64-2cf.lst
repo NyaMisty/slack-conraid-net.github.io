@@ -1,0 +1,50 @@
+++========================================
+||
+||   Package:  ./lua53/lua53-5.3.5-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-02-25 10:16 ./
+drwxr-xr-x root/root         0 2020-02-25 10:16 install/
+-rw-r--r-- root/root       406 2020-02-25 10:16 install/doinst.sh
+-rw-r--r-- root/root       968 2020-02-25 10:16 install/slack-desc
+drwxr-xr-x root/root         0 2020-02-25 10:16 usr/
+drwxr-xr-x root/root         0 2020-02-25 10:16 usr/bin/
+-rwxr-xr-x root/root    223992 2020-02-25 10:16 usr/bin/lua5.3
+-rwxr-xr-x root/root    149888 2020-02-25 10:16 usr/bin/luac5.3
+drwxr-xr-x root/root         0 2020-02-25 10:16 usr/doc/
+drwxr-xr-x root/root         0 2020-02-25 10:16 usr/doc/lua53-5.3.5/
+-rw-r--r-- root/root       151 2018-06-26 18:21 usr/doc/lua53-5.3.5/README
+-rw-r--r-- root/root     29947 2018-06-19 03:56 usr/doc/lua53-5.3.5/contents.html
+-rw-r--r-- root/root       240 2015-04-03 05:54 usr/doc/lua53-5.3.5/index.css
+-rw-r--r-- root/root      9893 2016-12-04 13:36 usr/doc/lua53-5.3.5/logo.gif
+-rw-r--r-- root/root      2192 2016-10-17 17:43 usr/doc/lua53-5.3.5/lua.1
+-rw-r--r-- root/root      2225 2017-07-05 13:57 usr/doc/lua53-5.3.5/lua.css
+-rw-r--r-- root/root      4693 2020-02-25 10:16 usr/doc/lua53-5.3.5/lua53.SlackBuild
+-rw-r--r-- root/root      3071 2011-11-16 18:16 usr/doc/lua53-5.3.5/luac.1
+-rw-r--r-- root/root       256 2015-03-11 14:12 usr/doc/lua53-5.3.5/manual.css
+-rw-r--r-- root/root    327398 2018-06-26 18:16 usr/doc/lua53-5.3.5/manual.html
+-rw-r--r-- root/root      3774 2006-11-16 20:39 usr/doc/lua53-5.3.5/osi-certified-72x60.png
+-rw-r--r-- root/root     11379 2018-06-19 03:57 usr/doc/lua53-5.3.5/readme.html
+drwxr-xr-x root/root         0 2020-02-25 10:16 usr/include/
+drwxr-xr-x root/root         0 2020-02-25 10:16 usr/include/lua5.3/
+-rw-r--r-- root/root      8632 2020-02-25 10:16 usr/include/lua5.3/lauxlib.h
+-rw-r--r-- root/root     14837 2020-02-25 10:16 usr/include/lua5.3/lua.h
+-rw-r--r-- root/root       191 2020-02-25 10:16 usr/include/lua5.3/lua.hpp
+-rw-r--r-- root/root     21640 2020-02-25 10:16 usr/include/lua5.3/luaconf.h
+-rw-r--r-- root/root      1305 2020-02-25 10:16 usr/include/lua5.3/lualib.h
+drwxr-xr-x root/root         0 2020-02-25 10:16 usr/lib64/
+-rw-r--r-- root/root    450720 2020-02-25 10:16 usr/lib64/liblua5.3.a
+-rwxr-xr-x root/root    237160 2020-02-25 10:16 usr/lib64/liblua5.3.so.5.3.5
+drwxr-xr-x root/root         0 2020-02-25 10:16 usr/lib64/lua/
+drwxr-xr-x root/root         0 2020-02-25 10:16 usr/lib64/lua/5.3/
+drwxr-xr-x root/root         0 2020-02-25 10:16 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       438 2020-02-25 10:16 usr/lib64/pkgconfig/lua53.pc
+drwxr-xr-x root/root         0 2020-02-25 10:16 usr/man/
+drwxr-xr-x root/root         0 2020-02-25 10:16 usr/man/man1/
+-rw-r--r-- root/root      1084 2020-02-25 10:16 usr/man/man1/lua5.3.1.gz
+-rw-r--r-- root/root      1429 2020-02-25 10:16 usr/man/man1/luac5.3.1.gz
+drwxr-xr-x root/root         0 2020-02-25 10:16 usr/share/
+drwxr-xr-x root/root         0 2020-02-25 10:16 usr/share/lua/
+drwxr-xr-x root/root         0 2020-02-25 10:16 usr/share/lua/5.3/
+
+

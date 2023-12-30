@@ -1,0 +1,18 @@
+PACKAGE NAME:  virt-viewer-10.0-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./virt-viewer
+PACKAGE SIZE (compressed):  272 K
+PACKAGE SIZE (uncompressed):  1390 K
+PACKAGE DESCRIPTION:
+virt-viewer: virt-viewer (display the graphical console for a virtual machine)
+virt-viewer:
+virt-viewer: Virt Viewer is a minimal tool for displaying the graphical console
+virt-viewer: of a virtual machine. The console is accessed using the VNC or SPICE
+virt-viewer: protocol. The guest can be referred to based on its name, ID , or UUID
+virt-viewer: If the guest is not already running, then the viewer can be told to
+virt-viewer: wait until is starts before attempting to connect to the console.
+virt-viewer: The viewer can connect to remote hosts to lookup the console
+virt-viewer: information and then also connect to the remote console using the
+virt-viewer: same network transport.
+virt-viewer:
+

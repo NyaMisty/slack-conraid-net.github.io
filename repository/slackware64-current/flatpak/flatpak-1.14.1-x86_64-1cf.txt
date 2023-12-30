@@ -1,0 +1,11 @@
+flatpak: flatpak (Linux application sandboxing and distribution framework)
+flatpak:
+flatpak: Flatpak is a system for building, distributing, and running sandboxed
+flatpak: desktop applications on Linux.
+flatpak:
+flatpak:
+flatpak:
+flatpak:
+flatpak:
+flatpak:
+flatpak:

@@ -1,0 +1,21 @@
+PACKAGE NAME:  ipguard-1.04-x86_64-5cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./ipguard
+PACKAGE SIZE (compressed):  32 K
+PACKAGE SIZE (uncompressed):  100 K
+PACKAGE REQUIRED:  libnet
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+ipguard: ipguard (tool to protect LAN IP adress space by ARP spoofing)
+ipguard:
+ipguard: ipguard listens network for ARP packets. All permitted MAC/IP pairs
+ipguard: listed in 'ethers' file. If it recieves one with MAC/IP pair, which
+ipguard: is not listed in 'ethers' file, it will send ARP reply with
+ipguard: configured fake address. This will prevent not permitted host to
+ipguard: work properly in this ethernet segment.
+ipguard:
+ipguard:
+ipguard:
+ipguard:
+

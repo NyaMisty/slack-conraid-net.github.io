@@ -1,0 +1,11 @@
+sqlitebrowser: sqlitebrowser (QT GUI editor for SQLite databases)
+sqlitebrowser:
+sqlitebrowser: DB Browser for SQLite is a high quality, visual, open source tool to
+sqlitebrowser: create, design, and edit database files compatible with SQLite.
+sqlitebrowser: It is for users and developers wanting to create databases, search,
+sqlitebrowser: and edit data. It uses a familiar spreadsheet-like interface, and
+sqlitebrowser: you don't need to learn complicated SQL commands.
+sqlitebrowser:
+sqlitebrowser:
+sqlitebrowser:
+sqlitebrowser:

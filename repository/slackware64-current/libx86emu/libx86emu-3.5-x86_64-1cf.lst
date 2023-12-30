@@ -1,0 +1,20 @@
+++========================================
+||
+||   Package:  ./libx86emu/libx86emu-3.5-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-11-21 13:01 ./
+drwxr-xr-x root/root         0 2021-11-21 13:01 install/
+-rw-r--r-- root/root       192 2021-11-21 13:01 install/doinst.sh
+-rw-r--r-- root/root       822 2021-11-21 13:01 install/slack-desc
+drwxr-xr-x root/root         0 2021-11-21 13:01 usr/
+drwxr-xr-x root/root         0 2021-11-21 13:01 usr/doc/
+drwxr-xr-x root/root         0 2021-11-21 13:01 usr/doc/libx86emu-3.5/
+-rw-r--r-- root/root      1239 2021-11-18 18:14 usr/doc/libx86emu-3.5/LICENSE
+-rw-r--r-- root/root      3184 2021-11-21 13:01 usr/doc/libx86emu-3.5/libx86emu.SlackBuild
+drwxr-xr-x root/root         0 2021-11-21 13:01 usr/include/
+-rw-r--r-- root/root     18378 2021-11-21 13:01 usr/include/x86emu.h
+drwxr-xr-x root/root         0 2021-11-21 13:01 usr/lib64/
+-rwxr-xr-x root/root    162784 2021-11-21 13:01 usr/lib64/libx86emu.so.3.5
+
+

@@ -1,0 +1,11 @@
+perl-io-tty: perl-io-tty (Pseudo TTY object class)
+perl-io-tty:
+perl-io-tty: Perl extension that provides an interface to allow the creation of a
+perl-io-tty: pseudo tty.
+perl-io-tty:
+perl-io-tty:
+perl-io-tty:
+perl-io-tty:
+perl-io-tty:
+perl-io-tty:
+perl-io-tty:

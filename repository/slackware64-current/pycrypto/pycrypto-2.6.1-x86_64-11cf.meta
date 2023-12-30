@@ -1,0 +1,18 @@
+PACKAGE NAME:  pycrypto-2.6.1-x86_64-11cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./pycrypto
+PACKAGE SIZE (compressed):  352 K
+PACKAGE SIZE (uncompressed):  2330 K
+PACKAGE DESCRIPTION:
+pycrypto: pycrypto (Python Cryptography Toolkit)
+pycrypto:
+pycrypto: This is a collection of both secure hash functions (such as MD5 and
+pycrypto: SHA), and various encryption algorithms (AES, DES, IDEA, RSA,
+pycrypto: ElGamal, etc.). The package is structured to make adding new
+pycrypto: modules easy.pycrypto:
+pycrypto:
+pycrypto:
+pycrypto:
+pycrypto:
+pycrypto:
+

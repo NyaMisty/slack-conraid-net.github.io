@@ -1,0 +1,30 @@
+++========================================
+||
+||   Package:  ./neomutt-vim/neomutt-vim-20200619-noarch-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-01-03 14:37 ./
+drwxr-xr-x root/root         0 2021-01-03 14:37 install/
+-rw-r--r-- root/root       698 2021-01-03 14:37 install/slack-desc
+drwxr-xr-x root/root         0 2021-01-03 14:37 usr/
+drwxr-xr-x root/root         0 2021-01-03 14:37 usr/doc/
+drwxr-xr-x root/root         0 2021-01-03 14:37 usr/doc/neomutt-vim-20200619/
+-rw-r--r-- root/root     17921 2020-06-21 21:52 usr/doc/neomutt-vim-20200619/LICENSE.md
+-rw-r--r-- root/root       210 2020-06-21 21:52 usr/doc/neomutt-vim-20200619/README.md
+-rw-r--r-- root/root      2388 2021-01-03 14:37 usr/doc/neomutt-vim-20200619/neomutt-vim.SlackBuild
+drwxr-xr-x root/root         0 2021-01-03 14:37 usr/share/
+drwxr-xr-x root/root         0 2021-01-03 14:37 usr/share/vim/
+drwxr-xr-x root/root         0 2021-01-03 14:37 usr/share/vim/vimfiles/
+drwxr-xr-x root/root         0 2021-01-03 14:37 usr/share/vim/vimfiles/doc/
+-rw-r--r-- root/root       753 2021-01-03 14:37 usr/share/vim/vimfiles/doc/neomutt.txt
+drwxr-xr-x root/root         0 2021-01-03 14:37 usr/share/vim/vimfiles/ftdetect/
+-rw-r--r-- root/root       265 2021-01-03 14:37 usr/share/vim/vimfiles/ftdetect/logfile.vim
+-rw-r--r-- root/root        82 2021-01-03 14:37 usr/share/vim/vimfiles/ftdetect/mail.vim
+-rw-r--r-- root/root       109 2021-01-03 14:37 usr/share/vim/vimfiles/ftdetect/neomuttrc.vim
+drwxr-xr-x root/root         0 2021-01-03 14:37 usr/share/vim/vimfiles/ftplugin/
+-rw-r--r-- root/root       532 2021-01-03 14:37 usr/share/vim/vimfiles/ftplugin/neomuttrc.vim
+drwxr-xr-x root/root         0 2021-01-03 14:37 usr/share/vim/vimfiles/syntax/
+-rw-r--r-- root/root      3472 2021-01-03 14:37 usr/share/vim/vimfiles/syntax/neomuttlog.vim
+-rw-r--r-- root/root     65536 2021-01-03 14:37 usr/share/vim/vimfiles/syntax/neomuttrc.vim
+
+

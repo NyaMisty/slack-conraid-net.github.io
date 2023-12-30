@@ -1,0 +1,23 @@
+++========================================
+||
+||   Package:  ./sencrypt/sencrypt-4-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-11-24 14:36 ./
+drwxr-xr-x root/root         0 2020-11-24 14:36 install/
+-rw-r--r-- root/root       175 2020-11-24 14:36 install/doinst.sh
+-rw-r--r-- root/root       913 2020-11-24 14:36 install/slack-desc
+drwxr-xr-x root/root         0 2020-11-24 14:36 usr/
+drwxr-xr-x root/root         0 2020-11-24 14:36 usr/bin/
+-rwxr-xr-x root/root     22984 2020-11-24 14:36 usr/bin/sencrypt
+drwxr-xr-x root/root         0 2020-11-24 14:36 usr/doc/
+drwxr-xr-x root/root         0 2020-11-24 14:36 usr/doc/sencrypt-4/
+-rw-r--r-- root/root      1159 2020-11-24 14:36 usr/doc/sencrypt-4/COPYRIGHT
+-rw-r--r-- root/root      1130 2019-08-20 12:00 usr/doc/sencrypt-4/NEWS
+-rw-r--r-- root/root      4757 2019-08-20 12:00 usr/doc/sencrypt-4/README
+-rw-r--r-- root/root      3362 2020-11-24 14:36 usr/doc/sencrypt-4/sencrypt.SlackBuild
+drwxr-xr-x root/root         0 2020-11-24 14:36 usr/man/
+drwxr-xr-x root/root         0 2020-11-24 14:36 usr/man/man1/
+-rw-r--r-- root/root      1858 2020-11-24 14:36 usr/man/man1/sencrypt.1.gz
+
+

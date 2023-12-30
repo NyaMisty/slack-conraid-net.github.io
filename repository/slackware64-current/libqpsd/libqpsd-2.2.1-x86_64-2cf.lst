@@ -1,0 +1,22 @@
+++========================================
+||
+||   Package:  ./libqpsd/libqpsd-2.2.1-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-07-17 13:27 ./
+drwxr-xr-x root/root         0 2020-07-17 13:27 install/
+-rw-r--r-- root/root       698 2020-07-17 13:27 install/slack-desc
+drwxr-xr-x root/root         0 2020-07-17 13:27 usr/
+drwxr-xr-x root/root         0 2020-07-17 13:27 usr/doc/
+drwxr-xr-x root/root         0 2020-07-17 13:27 usr/doc/libqpsd-2.2.1/
+-rw-r--r-- root/root       438 2019-01-13 11:26 usr/doc/libqpsd-2.2.1/CHANGELOG.md
+-rw-r--r-- root/root       994 2019-01-13 11:26 usr/doc/libqpsd-2.2.1/README-nomacs.md
+-rw-r--r-- root/root      2230 2019-01-13 11:26 usr/doc/libqpsd-2.2.1/README.md
+-rw-r--r-- root/root      3396 2020-07-17 13:27 usr/doc/libqpsd-2.2.1/libqpsd.SlackBuild
+drwxr-xr-x root/root         0 2020-07-17 13:27 usr/lib64/
+drwxr-xr-x root/root         0 2020-07-17 13:27 usr/lib64/qt/
+drwxr-xr-x root/root         0 2020-07-17 13:27 usr/lib64/qt/plugins/
+drwxr-xr-x root/root         0 2020-07-17 13:27 usr/lib64/qt/plugins/imageformats/
+-rwxr-xr-x root/root     52256 2020-07-17 13:27 usr/lib64/qt/plugins/imageformats/libqpsd.so
+
+

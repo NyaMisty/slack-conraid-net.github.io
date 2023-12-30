@@ -1,0 +1,40 @@
+++========================================
+||
+||   Package:  ./urlscan/urlscan-0.9.6-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-03-23 09:01 ./
+drwxr-xr-x root/root         0 2021-03-23 09:01 install/
+-rw-r--r-- root/root       846 2021-03-23 09:01 install/slack-desc
+drwxr-xr-x root/root         0 2021-03-23 09:01 usr/
+drwxr-xr-x root/root         0 2021-03-23 09:01 usr/bin/
+-rwxr-xr-x root/root      7523 2021-03-23 09:01 usr/bin/urlscan
+drwxr-xr-x root/root         0 2021-03-23 09:01 usr/doc/
+drwxr-xr-x root/root         0 2021-03-23 09:01 usr/doc/urlscan-0.9.6/
+-rw-r--r-- root/root     17987 2021-03-23 06:00 usr/doc/urlscan-0.9.6/COPYING
+-rw-r--r-- root/root      7320 2021-03-23 06:00 usr/doc/urlscan-0.9.6/README.rst
+-rw-r--r-- root/root      3095 2021-03-23 09:01 usr/doc/urlscan-0.9.6/urlscan.SlackBuild
+drwxr-xr-x root/root         0 2021-03-23 09:01 usr/lib64/
+drwxr-xr-x root/root         0 2021-03-23 09:01 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2021-03-23 09:01 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2021-03-23 09:01 usr/lib64/python3.9/site-packages/urlscan/
+drwxr-xr-x root/root         0 2021-03-23 09:01 usr/lib64/python3.9/site-packages/urlscan-0.9.6-py3.9.egg-info/
+-rw-r--r-- root/root       900 2021-03-23 09:01 usr/lib64/python3.9/site-packages/urlscan-0.9.6-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       315 2021-03-23 09:01 usr/lib64/python3.9/site-packages/urlscan-0.9.6-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2021-03-23 09:01 usr/lib64/python3.9/site-packages/urlscan-0.9.6-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root        13 2021-03-23 09:01 usr/lib64/python3.9/site-packages/urlscan-0.9.6-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root         8 2021-03-23 09:01 usr/lib64/python3.9/site-packages/urlscan-0.9.6-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root        46 2021-03-23 06:00 usr/lib64/python3.9/site-packages/urlscan/__init__.py
+drwxr-xr-x root/root         0 2021-03-23 09:01 usr/lib64/python3.9/site-packages/urlscan/__pycache__/
+-rw-r--r-- root/root       190 2021-03-23 09:01 usr/lib64/python3.9/site-packages/urlscan/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root     21839 2021-03-23 09:01 usr/lib64/python3.9/site-packages/urlscan/__pycache__/urlchoose.cpython-39.pyc
+-rw-r--r-- root/root     12459 2021-03-23 09:01 usr/lib64/python3.9/site-packages/urlscan/__pycache__/urlscan.cpython-39.pyc
+drwxr-xr-x root/root         0 2021-03-23 09:01 usr/lib64/python3.9/site-packages/urlscan/assets/
+-rw-r--r-- root/root     10184 2021-03-23 06:00 usr/lib64/python3.9/site-packages/urlscan/assets/tlds-alpha-by-domain.txt
+-rw-r--r-- root/root     31578 2021-03-23 06:00 usr/lib64/python3.9/site-packages/urlscan/urlchoose.py
+-rw-r--r-- root/root     17543 2021-03-23 06:00 usr/lib64/python3.9/site-packages/urlscan/urlscan.py
+drwxr-xr-x root/root         0 2021-03-23 09:01 usr/man/
+drwxr-xr-x root/root         0 2021-03-23 09:01 usr/man/man1/
+-rw-r--r-- root/root      2826 2021-03-23 06:00 usr/man/man1/urlscan.1.gz
+
+

@@ -1,0 +1,22 @@
+++========================================
+||
+||   Package:  ./gimp-lensfun/gimp-lensfun-0.2.4-x86_64-5cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-01-01 18:01 ./
+drwxr-xr-x root/root         0 2020-01-01 18:01 install/
+-rw-r--r-- root/root       802 2020-01-01 18:01 install/slack-desc
+drwxr-xr-x root/root         0 2020-01-01 18:01 usr/
+drwxr-xr-x root/root         0 2020-01-01 18:01 usr/doc/
+drwxr-xr-x root/root         0 2020-01-01 18:01 usr/doc/gimp-lensfun-0.2.4/
+-rw-r--r-- root/root      1418 2015-11-15 21:46 usr/doc/gimp-lensfun-0.2.4/CHANGES.txt
+-rw-r--r-- root/root     35146 2015-11-15 21:46 usr/doc/gimp-lensfun-0.2.4/LICENSE.txt
+-rw-r--r-- root/root        96 2015-11-15 21:46 usr/doc/gimp-lensfun-0.2.4/README.txt
+-rw-r--r-- root/root      2994 2020-01-01 18:01 usr/doc/gimp-lensfun-0.2.4/gimp-lensfun.SlackBuild
+drwxr-xr-x root/root         0 2020-01-01 18:01 usr/lib64/
+drwxr-xr-x root/root         0 2020-01-01 18:01 usr/lib64/gimp/
+drwxr-xr-x root/root         0 2020-01-01 18:01 usr/lib64/gimp/2.0/
+drwxr-xr-x root/root         0 2020-01-01 18:01 usr/lib64/gimp/2.0/plug-ins/
+-rwxr-xr-x root/root     61560 2020-01-01 18:01 usr/lib64/gimp/2.0/plug-ins/gimp-lensfun
+
+

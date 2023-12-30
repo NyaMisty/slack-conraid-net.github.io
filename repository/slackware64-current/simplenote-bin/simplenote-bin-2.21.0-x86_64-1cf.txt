@@ -1,0 +1,11 @@
+simplenote-bin: simplenote-bin (The simplest way to keep notes)
+simplenote-bin:
+simplenote-bin: A Simplenote React client packaged in Electron.
+simplenote-bin:
+simplenote-bin: THIS IS A BINARY REPACKAGED.
+simplenote-bin:
+simplenote-bin:
+simplenote-bin:
+simplenote-bin:
+simplenote-bin:
+simplenote-bin:

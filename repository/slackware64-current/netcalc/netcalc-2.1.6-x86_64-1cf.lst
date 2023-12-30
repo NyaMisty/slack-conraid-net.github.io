@@ -1,0 +1,25 @@
+++========================================
+||
+||   Package:  ./netcalc/netcalc-2.1.6-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-09-17 10:31 ./
+drwxr-xr-x root/root         0 2020-09-17 10:31 install/
+-rw-r--r-- root/root        70 2020-09-17 10:31 install/doinst.sh
+-rw-r--r-- root/root       826 2020-09-17 10:31 install/slack-desc
+drwxr-xr-x root/root         0 2020-09-17 10:31 usr/
+drwxr-xr-x root/root         0 2020-09-17 10:31 usr/bin/
+-rwxr-xr-x root/root     42464 2020-09-17 10:31 usr/bin/netcalc
+drwxr-xr-x root/root         0 2020-09-17 10:31 usr/doc/
+drwxr-xr-x root/root         0 2020-09-17 10:31 usr/doc/netcalc-2.1.6/
+-rw-r--r-- root/root       116 2020-05-24 11:47 usr/doc/netcalc-2.1.6/AUTHORS
+-rw-r--r-- root/root      7840 2020-06-07 00:07 usr/doc/netcalc-2.1.6/ChangeLog.md
+-rw-r--r-- root/root      1569 2020-05-24 12:05 usr/doc/netcalc-2.1.6/LICENSE
+-rw-r--r-- root/root      3450 2020-06-07 00:07 usr/doc/netcalc-2.1.6/README.md
+-rw-r--r-- root/root       254 2020-05-24 11:47 usr/doc/netcalc-2.1.6/TODO
+-rw-r--r-- root/root      3935 2020-09-17 10:31 usr/doc/netcalc-2.1.6/netcalc.SlackBuild
+drwxr-xr-x root/root         0 2020-09-17 10:31 usr/man/
+drwxr-xr-x root/root         0 2020-09-17 10:31 usr/man/man1/
+-rw-r--r-- root/root      1291 2020-09-17 10:31 usr/man/man1/netcalc.1.gz
+
+

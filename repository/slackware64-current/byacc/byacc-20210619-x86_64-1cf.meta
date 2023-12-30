@@ -1,0 +1,18 @@
+PACKAGE NAME:  byacc-20210619-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./byacc
+PACKAGE SIZE (compressed):  92 K
+PACKAGE SIZE (uncompressed):  400 K
+PACKAGE DESCRIPTION:
+byacc: byacc (Berkeley Yacc)
+byacc:
+byacc: Berkeley Yacc (byacc) is generally conceded to be the best yacc
+byacc: variant available. In contrast to bison, it is written to avoid
+byacc: dependencies upon a particular compiler.
+byacc:
+byacc:
+byacc:
+byacc:
+byacc:
+byacc:
+

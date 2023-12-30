@@ -1,0 +1,11 @@
+scanmem: scanmem (memory scanner for Linux)
+scanmem:
+scanmem: scanmem is a debugging utility designed to isolate the address of an 
+scanmem: arbitrary variable in an executing process.
+scanmem: scanmem simply needs to be told the pid of the process, and the
+scanmem: value of the variable at several different times.
+scanmem:
+scanmem:
+scanmem:
+scanmem:
+scanmem:

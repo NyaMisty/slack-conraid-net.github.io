@@ -1,0 +1,18 @@
+PACKAGE NAME:  sqlcheck-1.3-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./sqlcheck
+PACKAGE SIZE (compressed):  176 K
+PACKAGE SIZE (uncompressed):  1130 K
+PACKAGE DESCRIPTION:
+sqlcheck: sqlcheck (Automatically identify anti-patterns in SQL queries)
+sqlcheck:
+sqlcheck: sqlcheck automatically detects common SQL anti-patterns.
+sqlcheck: Such anti-patterns often slow down queries. Addressing them will,
+sqlcheck: therefore, help accelerate queries.
+sqlcheck:
+sqlcheck:
+sqlcheck:
+sqlcheck:
+sqlcheck:
+sqlcheck:
+

@@ -1,0 +1,11 @@
+pyxattr: pyxattr (A python module to manipulate the extended attributes)
+pyxattr:
+pyxattr: This is the pyxattr module, a Python extension module which gives
+pyxattr: access to the extended attributes for filesystem objects available
+pyxattr: in some operating systems.
+pyxattr:
+pyxattr:
+pyxattr:
+pyxattr:
+pyxattr:
+pyxattr:

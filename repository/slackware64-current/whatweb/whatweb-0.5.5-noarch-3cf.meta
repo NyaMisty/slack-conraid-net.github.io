@@ -1,0 +1,21 @@
+PACKAGE NAME:  whatweb-0.5.5-noarch-3cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./whatweb
+PACKAGE SIZE (compressed):  2224 K
+PACKAGE SIZE (uncompressed):  19660 K
+PACKAGE REQUIRED:  rchardet
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+whatweb: WhatWeb (Next generation web scanner)
+whatweb:
+whatweb: WhatWeb identifies websites. WhatWeb recognises web technologies
+whatweb: including content management systems (CMS), blogging platforms,
+whatweb: statistic/analytics packages, JavaScript libraries, web servers, and
+whatweb: embedded devices. WhatWeb has over 1700 plugins, each to recognise
+whatweb: something different. WhatWeb also identifies version numbers, email
+whatweb: addresses, account IDs, web framework modules, SQL errors, and more.
+whatweb:
+whatweb:
+whatweb:
+

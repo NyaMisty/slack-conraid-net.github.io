@@ -1,0 +1,20 @@
+++========================================
+||
+||   Package:  ./ngrep/ngrep-1_47-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-05-25 09:09 ./
+drwxr-xr-x root/root         0 2020-05-25 09:09 install/
+-rw-r--r-- root/root      1077 2020-05-25 09:09 install/slack-desc
+drwxr-xr-x root/root         0 2020-05-25 09:09 usr/
+drwxr-xr-x root/root         0 2020-05-25 09:09 usr/bin/
+-rwxr-xr-x root/root     76592 2020-05-25 09:09 usr/bin/ngrep
+drwxr-xr-x root/root         0 2020-05-25 09:09 usr/doc/
+drwxr-xr-x root/root         0 2020-05-25 09:09 usr/doc/ngrep-1_47/
+-rw-r--r-- root/root      3393 2017-09-07 23:28 usr/doc/ngrep-1_47/LICENSE
+-rw-r--r-- root/root      3933 2020-05-25 09:09 usr/doc/ngrep-1_47/ngrep.SlackBuild
+drwxr-xr-x root/root         0 2020-05-25 09:09 usr/man/
+drwxr-xr-x root/root         0 2020-05-25 09:09 usr/man/man8/
+-rw-r--r-- root/root      5978 2020-05-25 09:09 usr/man/man8/ngrep.8.gz
+
+

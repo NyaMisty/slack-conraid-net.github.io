@@ -1,0 +1,18 @@
+PACKAGE NAME:  dwdiff-2.1.4-x86_64-3cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./dwdiff
+PACKAGE SIZE (compressed):  68 K
+PACKAGE SIZE (uncompressed):  220 K
+PACKAGE DESCRIPTION:
+dwdiff: dwdiff (word-level diff program)
+dwdiff:
+dwdiff: dwdiff is a diff program that operates at the word level instead of
+dwdiff: the line level. It is different from wdiff in that it allows the
+dwdiff: user to specify what should be considered whitespace, and in that
+dwdiff: it takes an optional list of characters that should be considered
+dwdiff: delimiters. Delimiters are single characters that are treated as if
+dwdiff: they are words, even when there is no whitespace separating them
+dwdiff: from preceding words or delimiters.
+dwdiff:
+dwdiff:
+

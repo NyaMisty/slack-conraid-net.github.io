@@ -1,0 +1,25 @@
+++========================================
+||
+||   Package:  ./veracrypt/veracrypt-1.24_4-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-01-24 13:51 ./
+drwxr-xr-x root/root         0 2020-01-24 13:51 install/
+-rw-r--r-- root/root       394 2020-01-24 13:51 install/doinst.sh
+-rw-r--r-- root/root      1019 2020-01-24 13:51 install/slack-desc
+drwxr-xr-x root/root         0 2020-01-24 13:51 usr/
+drwxr-xr-x root/root         0 2020-01-24 13:51 usr/bin/
+-rwxr-xr-x root/root   4317816 2020-01-24 13:50 usr/bin/veracrypt
+-rwxr-xr-x root/root   2377272 2020-01-24 13:51 usr/bin/veracrypt-nox
+drwxr-xr-x root/root         0 2020-01-24 13:51 usr/doc/
+drwxr-xr-x root/root         0 2020-01-24 13:51 usr/doc/veracrypt-1.24_4/
+-rw-r--r-- root/root     39866 2020-01-22 18:30 usr/doc/veracrypt-1.24_4/License.txt
+-rw-r--r-- root/root      3700 2020-01-24 13:51 usr/doc/veracrypt-1.24_4/veracrypt.SlackBuild
+drwxr-xr-x root/root         0 2020-01-24 13:51 usr/share/
+drwxr-xr-x root/root         0 2020-01-24 13:51 usr/share/applications/
+-rw-r--r-- root/root       214 2020-01-24 13:51 usr/share/applications/veracrypt.desktop
+drwxr-xr-x root/root         0 2020-01-24 13:51 usr/share/pixmaps/
+-rw-r--r-- root/root      5932 2020-01-24 13:51 usr/share/pixmaps/veracrypt.png
+-rw-r--r-- root/root    160488 2020-01-24 13:51 usr/share/pixmaps/veracrypt.xpm
+
+

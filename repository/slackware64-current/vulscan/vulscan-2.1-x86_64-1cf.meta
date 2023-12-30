@@ -1,0 +1,18 @@
+PACKAGE NAME:  vulscan-2.1-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./vulscan
+PACKAGE SIZE (compressed):  7036 K
+PACKAGE SIZE (uncompressed):  46550 K
+PACKAGE DESCRIPTION:
+vulscan: vulscan (vulnerability scanning with nmap)
+vulscan:
+vulscan: Vulscan is a module which enhances nmap to a vulnerability scanner.
+vulscan: The nmap option -sV enables version detection per service which is
+vulscan: used to determine potential flaws according to the identified
+vulscan: product. The data is looked up in an offline version scip VulDB.
+vulscan:
+vulscan:
+vulscan:
+vulscan:
+vulscan:
+

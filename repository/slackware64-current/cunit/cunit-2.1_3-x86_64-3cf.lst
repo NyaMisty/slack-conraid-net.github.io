@@ -1,0 +1,70 @@
+++========================================
+||
+||   Package:  ./cunit/cunit-2.1_3-x86_64-3cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 11:03 ./
+drwxr-xr-x root/root         0 2020-10-05 11:03 install/
+-rw-r--r-- root/root       192 2020-10-05 11:03 install/doinst.sh
+-rw-r--r-- root/root       789 2020-10-05 11:03 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 11:03 usr/
+drwxr-xr-x root/root         0 2020-10-05 11:03 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 11:03 usr/doc/cunit-2.1_3/
+-rw-r--r-- root/root       340 2014-04-24 02:54 usr/doc/cunit-2.1_3/AUTHORS
+-rw-r--r-- root/root     25959 2014-04-24 02:54 usr/doc/cunit-2.1_3/COPYING
+-rw-r--r-- root/root       683 2020-10-05 11:03 usr/doc/cunit-2.1_3/CUnit_doc.css
+-rw-r--r-- root/root     13878 2014-04-24 02:54 usr/doc/cunit-2.1_3/ChangeLog
+-rw-r--r-- root/root       137 2014-04-24 02:54 usr/doc/cunit-2.1_3/NEWS
+-rw-r--r-- root/root      6451 2014-04-24 02:54 usr/doc/cunit-2.1_3/README
+-rw-r--r-- root/root       761 2014-04-24 02:54 usr/doc/cunit-2.1_3/TODO
+-rw-r--r-- root/root      3876 2020-10-05 11:03 usr/doc/cunit-2.1_3/cunit.SlackBuild
+-rw-r--r-- root/root      7142 2020-10-05 11:03 usr/doc/cunit-2.1_3/error_handling.html
+-rw-r--r-- root/root     22577 2020-10-05 11:03 usr/doc/cunit-2.1_3/fdl.html
+drwxr-xr-x root/root         0 2020-10-05 11:03 usr/doc/cunit-2.1_3/headers/
+-rw-r--r-- root/root      3249 2020-10-05 11:03 usr/doc/cunit-2.1_3/headers/Automated.h
+-rw-r--r-- root/root      3968 2020-10-05 11:03 usr/doc/cunit-2.1_3/headers/Basic.h
+-rw-r--r-- root/root      1797 2020-10-05 11:03 usr/doc/cunit-2.1_3/headers/CUCurses.h
+-rw-r--r-- root/root      7733 2020-10-05 11:03 usr/doc/cunit-2.1_3/headers/CUError.h
+-rw-r--r-- root/root     19144 2020-10-05 11:03 usr/doc/cunit-2.1_3/headers/CUnit.h
+-rw-r--r-- root/root      1707 2020-10-05 11:03 usr/doc/cunit-2.1_3/headers/CUnit_intl.h
+-rw-r--r-- root/root      1768 2020-10-05 11:03 usr/doc/cunit-2.1_3/headers/Console.h
+-rw-r--r-- root/root      4087 2020-10-05 11:03 usr/doc/cunit-2.1_3/headers/MyMem.h
+-rw-r--r-- root/root     42460 2020-10-05 11:03 usr/doc/cunit-2.1_3/headers/TestDB.h
+-rw-r--r-- root/root     22526 2020-10-05 11:03 usr/doc/cunit-2.1_3/headers/TestRun.h
+-rw-r--r-- root/root      5959 2020-10-05 11:03 usr/doc/cunit-2.1_3/headers/Util.h
+-rw-r--r-- root/root      1505 2020-10-05 11:03 usr/doc/cunit-2.1_3/headers/Win.h
+-rw-r--r-- root/root      5476 2020-10-05 11:03 usr/doc/cunit-2.1_3/index.html
+-rw-r--r-- root/root      6561 2020-10-05 11:03 usr/doc/cunit-2.1_3/introduction.html
+-rw-r--r-- root/root     21544 2020-10-05 11:03 usr/doc/cunit-2.1_3/managing_tests.html
+-rw-r--r-- root/root     19007 2020-10-05 11:03 usr/doc/cunit-2.1_3/running_tests.html
+-rw-r--r-- root/root     10677 2020-10-05 11:03 usr/doc/cunit-2.1_3/test_registry.html
+-rw-r--r-- root/root     11842 2020-10-05 11:03 usr/doc/cunit-2.1_3/writing_tests.html
+drwxr-xr-x root/root         0 2020-10-05 11:03 usr/include/
+drwxr-xr-x root/root         0 2020-10-05 11:03 usr/include/CUnit/
+-rw-r--r-- root/root      3249 2020-10-05 11:03 usr/include/CUnit/Automated.h
+-rw-r--r-- root/root      3968 2020-10-05 11:03 usr/include/CUnit/Basic.h
+-rw-r--r-- root/root      7733 2020-10-05 11:03 usr/include/CUnit/CUError.h
+-rw-r--r-- root/root     19144 2020-10-05 11:03 usr/include/CUnit/CUnit.h
+-rw-r--r-- root/root      1707 2020-10-05 11:03 usr/include/CUnit/CUnit_intl.h
+-rw-r--r-- root/root      1768 2020-10-05 11:03 usr/include/CUnit/Console.h
+-rw-r--r-- root/root      4087 2020-10-05 11:03 usr/include/CUnit/MyMem.h
+-rw-r--r-- root/root     42460 2020-10-05 11:03 usr/include/CUnit/TestDB.h
+-rw-r--r-- root/root     22526 2020-10-05 11:03 usr/include/CUnit/TestRun.h
+-rw-r--r-- root/root      5959 2020-10-05 11:03 usr/include/CUnit/Util.h
+drwxr-xr-x root/root         0 2020-10-05 11:03 usr/lib64/
+-rwxr-xr-x root/root     64032 2020-10-05 11:03 usr/lib64/libcunit.so.1.0.1
+drwxr-xr-x root/root         0 2020-10-05 11:03 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       197 2020-10-05 11:03 usr/lib64/pkgconfig/cunit.pc
+drwxr-xr-x root/root         0 2020-10-05 11:03 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 11:03 usr/man/man3/
+-rw-r--r-- root/root      8172 2020-10-05 11:03 usr/man/man3/CUnit.3.gz
+drwxr-xr-x root/root         0 2020-10-05 11:03 usr/share/
+drwxr-xr-x root/root         0 2020-10-05 11:03 usr/share/CUnit/
+-rw-r--r-- root/root      1716 2020-10-05 11:03 usr/share/CUnit/CUnit-List.dtd
+-rw-r--r-- root/root      4366 2020-10-05 11:03 usr/share/CUnit/CUnit-List.xsl
+-rw-r--r-- root/root      1475 2020-10-05 11:03 usr/share/CUnit/CUnit-Run.dtd
+-rw-r--r-- root/root      4411 2020-10-05 11:03 usr/share/CUnit/CUnit-Run.xsl
+-rw-r--r-- root/root      1199 2020-10-05 11:03 usr/share/CUnit/Memory-Dump.dtd
+-rw-r--r-- root/root      2676 2020-10-05 11:03 usr/share/CUnit/Memory-Dump.xsl
+
+

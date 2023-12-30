@@ -1,0 +1,18 @@
+PACKAGE NAME:  aria2-1.36.0-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./aria2
+PACKAGE SIZE (compressed):  1196 K
+PACKAGE SIZE (uncompressed):  4730 K
+PACKAGE DESCRIPTION:
+aria2: Aria2 (CLI Metalink/BiTorrent client)
+aria2:
+aria2: aria2 is a utility for downloading files. The supported protocols
+aria2: are HTTP(S), FTP, BitTorrent, Metalink. It can download a file
+aria2: from multiple sources/protocols and tries to utilize maximum
+aria2: download bandwidth.
+aria2:
+aria2:
+aria2:
+aria2:
+aria2:
+

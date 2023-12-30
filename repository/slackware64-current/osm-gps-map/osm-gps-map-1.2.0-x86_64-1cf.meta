@@ -1,0 +1,18 @@
+PACKAGE NAME:  osm-gps-map-1.2.0-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./osm-gps-map
+PACKAGE SIZE (compressed):  92 K
+PACKAGE SIZE (uncompressed):  710 K
+PACKAGE DESCRIPTION:
+osm-gps-map: osm-gps-map (gtk mapping widget)
+osm-gps-map:
+osm-gps-map: osm-gps-map is a Gtk mapping widget (with Python bindings) that,
+osm-gps-map: given GPS co-ordinates, draws a GPS track and points of interest on
+osm-gps-map: a moving map display.
+osm-gps-map:
+osm-gps-map: osm-gps-map downloads map data from a number of websites, including
+osm-gps-map: openstreetmap.org, openaerialmap.org and others, and can be used to
+osm-gps-map: build desktop mapping or geolocation applications.
+osm-gps-map:
+osm-gps-map:
+

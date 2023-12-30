@@ -1,0 +1,49 @@
+++========================================
+||
+||   Package:  ./cachetools/cachetools-4.2.2-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-04-28 11:11 ./
+drwxr-xr-x root/root         0 2021-04-28 11:11 install/
+-rw-r--r-- root/root       796 2021-04-28 11:11 install/slack-desc
+drwxr-xr-x root/root         0 2021-04-28 11:11 usr/
+drwxr-xr-x root/root         0 2021-04-28 11:11 usr/doc/
+drwxr-xr-x root/root         0 2021-04-28 11:11 usr/doc/cachetools-4.2.2/
+-rw-r--r-- root/root      6564 2021-04-27 23:11 usr/doc/cachetools-4.2.2/CHANGELOG.rst
+-rw-r--r-- root/root      1085 2021-04-27 23:11 usr/doc/cachetools-4.2.2/LICENSE
+-rw-r--r-- root/root      3653 2021-04-27 23:11 usr/doc/cachetools-4.2.2/README.rst
+-rw-r--r-- root/root      3170 2021-04-28 11:11 usr/doc/cachetools-4.2.2/cachetools.SlackBuild
+drwxr-xr-x root/root         0 2021-04-28 11:11 usr/lib64/
+drwxr-xr-x root/root         0 2021-04-28 11:11 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2021-04-28 11:11 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2021-04-28 11:11 usr/lib64/python3.9/site-packages/cachetools/
+drwxr-xr-x root/root         0 2021-04-28 11:11 usr/lib64/python3.9/site-packages/cachetools-4.2.2-py3.9.egg-info/
+-rw-r--r-- root/root      5417 2021-04-28 11:11 usr/lib64/python3.9/site-packages/cachetools-4.2.2-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       781 2021-04-28 11:11 usr/lib64/python3.9/site-packages/cachetools-4.2.2-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2021-04-28 11:11 usr/lib64/python3.9/site-packages/cachetools-4.2.2-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root        11 2021-04-28 11:11 usr/lib64/python3.9/site-packages/cachetools-4.2.2-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root       463 2021-04-27 23:11 usr/lib64/python3.9/site-packages/cachetools/__init__.py
+drwxr-xr-x root/root         0 2021-04-28 11:11 usr/lib64/python3.9/site-packages/cachetools/__pycache__/
+-rw-r--r-- root/root       616 2021-04-28 11:11 usr/lib64/python3.9/site-packages/cachetools/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      3827 2021-04-28 11:11 usr/lib64/python3.9/site-packages/cachetools/__pycache__/cache.cpython-39.pyc
+-rw-r--r-- root/root      2494 2021-04-28 11:11 usr/lib64/python3.9/site-packages/cachetools/__pycache__/decorators.cpython-39.pyc
+-rw-r--r-- root/root      1401 2021-04-28 11:11 usr/lib64/python3.9/site-packages/cachetools/__pycache__/fifo.cpython-39.pyc
+-rw-r--r-- root/root      5548 2021-04-28 11:11 usr/lib64/python3.9/site-packages/cachetools/__pycache__/func.cpython-39.pyc
+-rw-r--r-- root/root      2057 2021-04-28 11:11 usr/lib64/python3.9/site-packages/cachetools/__pycache__/keys.cpython-39.pyc
+-rw-r--r-- root/root      1560 2021-04-28 11:11 usr/lib64/python3.9/site-packages/cachetools/__pycache__/lfu.cpython-39.pyc
+-rw-r--r-- root/root      1736 2021-04-28 11:11 usr/lib64/python3.9/site-packages/cachetools/__pycache__/lru.cpython-39.pyc
+-rw-r--r-- root/root      1751 2021-04-28 11:11 usr/lib64/python3.9/site-packages/cachetools/__pycache__/mru.cpython-39.pyc
+-rw-r--r-- root/root      1260 2021-04-28 11:11 usr/lib64/python3.9/site-packages/cachetools/__pycache__/rr.cpython-39.pyc
+-rw-r--r-- root/root      7219 2021-04-28 11:11 usr/lib64/python3.9/site-packages/cachetools/__pycache__/ttl.cpython-39.pyc
+-rw-r--r-- root/root      2886 2021-04-27 23:11 usr/lib64/python3.9/site-packages/cachetools/cache.py
+-rw-r--r-- root/root      2983 2021-04-27 23:11 usr/lib64/python3.9/site-packages/cachetools/decorators.py
+-rw-r--r-- root/root       946 2021-04-27 23:11 usr/lib64/python3.9/site-packages/cachetools/fifo.py
+-rw-r--r-- root/root      4975 2021-04-27 23:11 usr/lib64/python3.9/site-packages/cachetools/func.py
+-rw-r--r-- root/root      1466 2021-04-27 23:11 usr/lib64/python3.9/site-packages/cachetools/keys.py
+-rw-r--r-- root/root      1103 2021-04-27 23:11 usr/lib64/python3.9/site-packages/cachetools/lfu.py
+-rw-r--r-- root/root      1224 2021-04-27 23:11 usr/lib64/python3.9/site-packages/cachetools/lru.py
+-rw-r--r-- root/root      1244 2021-04-27 23:11 usr/lib64/python3.9/site-packages/cachetools/mru.py
+-rw-r--r-- root/root       948 2021-04-27 23:11 usr/lib64/python3.9/site-packages/cachetools/rr.py
+-rw-r--r-- root/root      5769 2021-04-27 23:11 usr/lib64/python3.9/site-packages/cachetools/ttl.py
+
+

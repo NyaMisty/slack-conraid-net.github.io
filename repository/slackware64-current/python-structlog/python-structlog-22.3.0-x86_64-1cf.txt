@@ -1,0 +1,11 @@
+python-structlog: python-structlog (Structured Logging for Python)
+python-structlog:
+python-structlog: structlog makes logging in Python less painful and more powerful by
+python-structlog: adding structure to your log entries.
+python-structlog:
+python-structlog:
+python-structlog:
+python-structlog:
+python-structlog:
+python-structlog:
+python-structlog:

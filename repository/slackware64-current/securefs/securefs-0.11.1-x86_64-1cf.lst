@@ -1,0 +1,17 @@
+++========================================
+||
+||   Package:  ./securefs/securefs-0.11.1-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-03-30 13:24 ./
+drwxr-xr-x root/root         0 2020-03-30 13:24 install/
+-rw-r--r-- root/root       771 2020-03-30 13:24 install/slack-desc
+drwxr-xr-x root/root         0 2020-03-30 13:24 usr/
+drwxr-xr-x root/root         0 2020-03-30 13:24 usr/bin/
+-rwxr-xr-x root/root   3096544 2020-03-30 13:24 usr/bin/securefs
+drwxr-xr-x root/root         0 2020-03-30 13:24 usr/doc/
+drwxr-xr-x root/root         0 2020-03-30 13:24 usr/doc/securefs-0.11.1/
+-rw-r--r-- root/root      4485 2020-03-28 15:28 usr/doc/securefs-0.11.1/README.md
+-rw-r--r-- root/root      3588 2020-03-30 13:24 usr/doc/securefs-0.11.1/securefs.SlackBuild
+
+

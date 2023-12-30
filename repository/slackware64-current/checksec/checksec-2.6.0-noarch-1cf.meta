@@ -1,0 +1,18 @@
+PACKAGE NAME:  checksec-2.6.0-noarch-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./checksec
+PACKAGE SIZE (compressed):  52 K
+PACKAGE SIZE (uncompressed):  250 K
+PACKAGE DESCRIPTION:
+checksec: checksec (Tool to check what security features are used)
+checksec:
+checksec: Checksec is a bash script to check the properties of executables
+checksec: (like PIE, RELRO, PaX, Canaries, ASLR, Fortify Source).
+checksec:
+checksec:
+checksec:
+checksec:
+checksec:
+checksec:
+checksec:
+

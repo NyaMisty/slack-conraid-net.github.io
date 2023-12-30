@@ -1,0 +1,18 @@
+PACKAGE NAME:  autossh-1.4g-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./autossh
+PACKAGE SIZE (compressed):  28 K
+PACKAGE SIZE (uncompressed):  80 K
+PACKAGE DESCRIPTION:
+autossh: autossh (Automatically restart SSH sessions and tunnels)
+autossh:
+autossh: autossh is a program to start a copy of ssh and monitor it,
+autossh: restarting it as necessary should it die or stop passing traffic.
+autossh:
+autossh:
+autossh:
+autossh:
+autossh:
+autossh:
+autossh:
+

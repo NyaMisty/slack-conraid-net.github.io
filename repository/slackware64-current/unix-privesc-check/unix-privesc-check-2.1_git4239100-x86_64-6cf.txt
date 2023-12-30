@@ -1,0 +1,11 @@
+unix-privesc-check: unix-privesc-check (Shell script to check for privilege escalation)
+unix-privesc-check:
+unix-privesc-check: Unix-privesc-checker is a script that runs on Unix systems.
+unix-privesc-check: It tries to find misconfigurations that could allow local
+unix-privesc-check: unprivileged users to escalate privileges to other users or
+unix-privesc-check: to access local apps (e.g. databases).
+unix-privesc-check:
+unix-privesc-check:
+unix-privesc-check:
+unix-privesc-check:
+unix-privesc-check:

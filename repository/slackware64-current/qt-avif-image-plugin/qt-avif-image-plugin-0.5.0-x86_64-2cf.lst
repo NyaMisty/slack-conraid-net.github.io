@@ -1,0 +1,22 @@
+++========================================
+||
+||   Package:  ./qt-avif-image-plugin/qt-avif-image-plugin-0.5.0-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-31 11:36 ./
+drwxr-xr-x root/root         0 2022-07-31 11:36 install/
+-rw-r--r-- root/root       871 2022-07-31 11:36 install/slack-desc
+-rw-r--r-- root/root         8 2022-07-31 11:36 install/slack-required
+drwxr-xr-x root/root         0 2022-07-31 11:36 usr/
+drwxr-xr-x root/root         0 2022-07-31 11:36 usr/doc/
+drwxr-xr-x root/root         0 2022-07-31 11:36 usr/doc/qt-avif-image-plugin-0.5.0/
+-rw-r--r-- root/root      1318 2022-06-19 12:59 usr/doc/qt-avif-image-plugin-0.5.0/LICENSE
+-rw-r--r-- root/root      5657 2022-06-19 12:59 usr/doc/qt-avif-image-plugin-0.5.0/README.md
+-rw-r--r-- root/root      4138 2022-07-31 11:36 usr/doc/qt-avif-image-plugin-0.5.0/qt-avif-image-plugin.SlackBuild
+drwxr-xr-x root/root         0 2022-07-31 11:36 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-31 11:36 usr/lib64/qt5/
+drwxr-xr-x root/root         0 2022-07-31 11:36 usr/lib64/qt5/plugins/
+drwxr-xr-x root/root         0 2022-07-31 11:36 usr/lib64/qt5/plugins/imageformats/
+-rwxr-xr-x root/root     39808 2022-07-31 11:36 usr/lib64/qt5/plugins/imageformats/libqavif5.so
+
+

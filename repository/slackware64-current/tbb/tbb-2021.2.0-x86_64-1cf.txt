@@ -1,0 +1,11 @@
+tbb: tbb (Threading Building Blocks)
+tbb:
+tbb: Threading Building Blocks (TBB) lets you easily write parallel C++
+tbb: programs that take full advantage of multicore performance, that are
+tbb: portable, composable and have future-proof scalability.
+tbb:
+tbb:
+tbb:
+tbb:
+tbb:
+tbb:

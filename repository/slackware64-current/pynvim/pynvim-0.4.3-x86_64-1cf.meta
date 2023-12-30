@@ -1,0 +1,18 @@
+PACKAGE NAME:  pynvim-0.4.3-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./pynvim
+PACKAGE SIZE (compressed):  60 K
+PACKAGE SIZE (uncompressed):  290 K
+PACKAGE DESCRIPTION:
+pynvim: pynvim (python client and plugin host for neovim)
+pynvim:
+pynvim: Pynvim implements support for python plugins in Nvim (neovim).
+pynvim: It also works as a library for connecting to and scripting Nvim
+pynvim: processes through its msgpack-rpc API.
+pynvim:
+pynvim:
+pynvim:
+pynvim:
+pynvim:
+pynvim:
+

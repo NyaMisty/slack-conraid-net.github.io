@@ -1,0 +1,21 @@
+PACKAGE NAME:  virt-manager-4.1.0-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./virt-manager
+PACKAGE SIZE (compressed):  1040 K
+PACKAGE SIZE (uncompressed):  7350 K
+PACKAGE REQUIRED:  libosinfo,tunctl,gtk-vnc,libvirt-glib,libvirt-python,spice-gtk,gtksourceview4
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+virt-manager: virt-manager (a gtk interface for libvirt)
+virt-manager:
+virt-manager: virt-manager is a gtk interface for libvirt.
+virt-manager:
+virt-manager:
+virt-manager:
+virt-manager:
+virt-manager:
+virt-manager:
+virt-manager:
+virt-manager:
+

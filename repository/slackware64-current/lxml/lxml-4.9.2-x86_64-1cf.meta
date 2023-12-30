@@ -1,0 +1,21 @@
+PACKAGE NAME:  lxml-4.9.2-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./lxml
+PACKAGE SIZE (compressed):  1324 K
+PACKAGE SIZE (uncompressed):  5560 K
+PACKAGE REQUIRED:  beautifulsoup4,html5lib-python,python-cssselect
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+lxml: lxml
+lxml:
+lxml: lxml is a Pythonic binding for the libxml2 and libxslt libraries. It
+lxml: is unique in that it combines the speed and feature completeness of
+lxml: these libraries with the simplicity of a native Python API.
+lxml:
+lxml:
+lxml:
+lxml:
+lxml:
+lxml:
+

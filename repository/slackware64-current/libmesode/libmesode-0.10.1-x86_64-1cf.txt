@@ -1,0 +1,11 @@
+libmesode: libmesode (XMPP library)
+libmesode:
+libmesode: libmesode is a fork of libstrophe (http://strophe.im/libstrophe/)
+libmesode: for use in Profanity (http://www.profanity.im/).
+libmesode: libstrophe is a minimal XMPP library written in C.
+libmesode:
+libmesode:
+libmesode:
+libmesode:
+libmesode:
+libmesode:

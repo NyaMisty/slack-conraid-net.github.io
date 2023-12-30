@@ -1,0 +1,44 @@
+++========================================
+||
+||   Package:  ./soupsieve/soupsieve-2.3.2.post1-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-04-15 14:53 ./
+drwxr-xr-x root/root         0 2022-04-15 14:53 install/
+-rw-r--r-- root/root       998 2022-04-15 14:53 install/slack-desc
+drwxr-xr-x root/root         0 2022-04-15 14:53 usr/
+drwxr-xr-x root/root         0 2022-04-15 14:53 usr/doc/
+drwxr-xr-x root/root         0 2022-04-15 14:53 usr/doc/soupsieve-2.3.2.post1/
+-rw-r--r-- root/root      3013 2022-04-15 14:53 usr/doc/soupsieve-2.3.2.post1/soupsieve.SlackBuild
+drwxr-xr-x root/root         0 2022-04-15 14:53 usr/lib64/
+drwxr-xr-x root/root         0 2022-04-15 14:53 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-04-15 14:53 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve/
+drwxr-xr-x root/root         0 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve-2.3.2.post1.dist-info/
+-rw-r--r-- root/root         4 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve-2.3.2.post1.dist-info/INSTALLER
+-rw-r--r-- root/root      5651 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve-2.3.2.post1.dist-info/METADATA
+-rw-r--r-- root/root      1714 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve-2.3.2.post1.dist-info/RECORD
+-rw-r--r-- root/root         0 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve-2.3.2.post1.dist-info/REQUESTED
+-rw-r--r-- root/root        83 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve-2.3.2.post1.dist-info/WHEEL
+-rw-r--r-- root/root       104 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve-2.3.2.post1.dist-info/direct_url.json
+-rw-r--r-- root/root         0 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve-2.3.2.post1.dist-info/entry_points.txt
+drwxr-xr-x root/root         0 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve-2.3.2.post1.dist-info/license_files/
+-rw-r--r-- root/root      1096 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve-2.3.2.post1.dist-info/license_files/LICENSE.md
+-rw-r--r-- root/root      4717 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve/__init__.py
+-rw-r--r-- root/root      6817 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve/__meta__.py
+drwxr-xr-x root/root         0 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve/__pycache__/
+-rw-r--r-- root/root      4558 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      5963 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve/__pycache__/__meta__.cpython-39.pyc
+-rw-r--r-- root/root     36737 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve/__pycache__/css_match.cpython-39.pyc
+-rw-r--r-- root/root     28903 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve/__pycache__/css_parser.cpython-39.pyc
+-rw-r--r-- root/root     13137 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve/__pycache__/css_types.cpython-39.pyc
+-rw-r--r-- root/root      3660 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve/__pycache__/pretty.cpython-39.pyc
+-rw-r--r-- root/root      3299 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve/__pycache__/util.cpython-39.pyc
+-rw-r--r-- root/root     58167 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve/css_match.py
+-rw-r--r-- root/root     47907 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve/css_parser.py
+-rw-r--r-- root/root     10479 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve/css_types.py
+-rw-r--r-- root/root      4018 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve/pretty.py
+-rw-r--r-- root/root         0 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve/py.typed
+-rw-r--r-- root/root      3371 2022-04-15 14:53 usr/lib64/python3.9/site-packages/soupsieve/util.py
+
+

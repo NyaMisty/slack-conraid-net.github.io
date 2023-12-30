@@ -1,0 +1,18 @@
+PACKAGE NAME:  reppy2-0.3.6-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./reppy2
+PACKAGE SIZE (compressed):  20 K
+PACKAGE SIZE (uncompressed):  80 K
+PACKAGE DESCRIPTION:
+reppy2: reppy2 (Robots Exclusion Protocol Parser for Python)
+reppy2:
+reppy2: Replaces the built-in robotsparser with a RFC-conformant
+reppy2: implementation that supports modern robots.txt constructs like
+reppy2: Sitemaps, Allow, and Crawl-delay.
+reppy2:
+reppy2:
+reppy2:
+reppy2:
+reppy2:
+reppy2:
+

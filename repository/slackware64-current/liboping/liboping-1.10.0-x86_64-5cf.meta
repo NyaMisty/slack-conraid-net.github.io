@@ -1,0 +1,18 @@
+PACKAGE NAME:  liboping-1.10.0-x86_64-5cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./liboping
+PACKAGE SIZE (compressed):  88 K
+PACKAGE SIZE (uncompressed):  260 K
+PACKAGE DESCRIPTION:
+liboping: liboping
+liboping:
+liboping: liboping is a C library to generate ICMP echo requests, better known
+liboping: as "ping packets". It is intended for use in network monitoring
+liboping: applications or applications that would otherwise need to fork ping
+liboping: frequently. 
+liboping:
+liboping:
+liboping:
+liboping:
+liboping:
+

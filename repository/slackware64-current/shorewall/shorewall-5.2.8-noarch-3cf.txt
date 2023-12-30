@@ -1,0 +1,11 @@
+shorewall: Shorewall (An iptables-based firewall for Linux systems)
+shorewall:
+shorewall: The Shoreline Firewall, more commonly known as "Shorewall", is a
+shorewall: Netfilter (iptables) based firewall that can be used on a dedicated
+shorewall: firewall system, a multi-function gateway/router/server or on a
+shorewall: standalone GNU/Linux system.
+shorewall:
+shorewall: This package provides the IPv4 components for shorewall.
+shorewall:
+shorewall:
+shorewall:

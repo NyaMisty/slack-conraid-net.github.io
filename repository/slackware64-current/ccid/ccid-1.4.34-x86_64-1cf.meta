@@ -1,0 +1,18 @@
+PACKAGE NAME:  ccid-1.4.34-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./ccid
+PACKAGE SIZE (compressed):  284 K
+PACKAGE SIZE (uncompressed):  1580 K
+PACKAGE DESCRIPTION:
+ccid: ccid (PC/SC driver for USB CCID smart card readers)
+ccid:
+ccid: libccid provides a PC/SC IFD handler implementation for the USB smart
+ccid: card drivers compliant to the Card Chip Interface Device (CCID)
+ccid: protocol.
+ccid: This package is needed to communicate with the CCID smartcard readers
+ccid: through the PC/SC Lite resource manager (pcscd). It also supports
+ccid: the GemPC Twin via serial port, and the GemPC PCMCIA and PCI-Express
+ccid: cards.
+ccid:
+ccid:
+

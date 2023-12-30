@@ -1,0 +1,18 @@
+PACKAGE NAME:  securefs-0.11.1-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./securefs
+PACKAGE SIZE (compressed):  728 K
+PACKAGE SIZE (uncompressed):  3040 K
+PACKAGE DESCRIPTION:
+securefs: securefs (FUSE transparent encryption filesystem)
+securefs:
+securefs: securefs is a filesystem in userspace (FUSE) with transparent 
+securefs: encryption (when writing) and decryption (when reading).
+securefs:
+securefs:
+securefs:
+securefs:
+securefs:
+securefs:
+securefs:
+

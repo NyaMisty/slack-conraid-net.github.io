@@ -1,0 +1,11 @@
+aom: aom (Open Source Video Codec)
+aom:
+aom: AOMedia Video 1 (AV1) is designed to be the successor to VP9 and
+aom: also to eventually be a direct competitor for HEVC/H.265.
+aom: This Slackbuild builds the 'reference' encoder aomenc as well as
+aom: the 'reference' decoder aomdec.
+aom:
+aom:
+aom:
+aom:
+aom:

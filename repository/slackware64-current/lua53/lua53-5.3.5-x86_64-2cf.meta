@@ -1,0 +1,19 @@
+PACKAGE NAME:  lua53-5.3.5-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./lua53
+PACKAGE SIZE (compressed):  268 K
+PACKAGE SIZE (uncompressed):  1510 K
+PACKAGE DESCRIPTION:
+W TO EDIT THIS FILE:
+lua53: Lua 5.3.* (powerful,fast,light-weight,embeddable scripting language)
+lua53:
+lua53: Lua combines simple procedural syntax with powerful data description
+lua53: constructs based on associative arrays and extensible semantics.
+lua53: Lua is dynamically typed, runs by interpreting bytecode for a
+lua53: register-based virtual machine, and has automatic memory management
+lua53: with incremental garbage collection, making it ideal for
+lua53: configuration, scripting, and rapid prototyping.
+lua53:
+lua53:
+lua53:
+

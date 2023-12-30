@@ -1,0 +1,18 @@
+PACKAGE NAME:  pidgin-facebook-0.9.6-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./pidgin-facebook
+PACKAGE SIZE (compressed):  88 K
+PACKAGE SIZE (uncompressed):  310 K
+PACKAGE DESCRIPTION:
+pidgin-facebook: pidgin-facebook (Facebook protocol plugin for libpurple)
+pidgin-facebook:
+pidgin-facebook: Purple Facebook implements the Facebook Messenger protocol into
+pidgin-facebook: pidgin, finch, and libpurple. While the primary implementation is for
+pidgin:facebook: purple3, this plugin is back-ported for purple2.
+pidgin-facebook:
+pidgin-facebook:
+pidgin-facebook:
+pidgin-facebook:
+pidgin-facebook:
+pidgin-facebook:
+

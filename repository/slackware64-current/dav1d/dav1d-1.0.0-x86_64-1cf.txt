@@ -1,0 +1,11 @@
+dav1d: dav1d (AV1 cross-platform decoder)
+dav1d:
+dav1d: dav1d is the fastest AV1 decoder on all platforms focudes on speed
+dav1d: and correctness
+dav1d:
+dav1d:
+dav1d:
+dav1d:
+dav1d:
+dav1d:
+dav1d:

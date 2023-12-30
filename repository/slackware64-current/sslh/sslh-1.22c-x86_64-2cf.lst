@@ -1,0 +1,47 @@
+++========================================
+||
+||   Package:  ./sslh/sslh-1.22c-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-31 14:25 ./
+drwxr-xr-x root/root         0 2022-07-31 14:25 etc/
+drwxr-xr-x root/root         0 2022-07-31 14:25 etc/default/
+-rw-r--r-- root/root       766 2022-07-31 14:25 etc/default/sslh.new
+drwxr-xr-x root/root         0 2022-07-31 14:25 etc/rc.d/
+-rwxr-xr-x root/root       576 2022-07-31 14:25 etc/rc.d/rc.sslh.new
+drwxr-xr-x root/root         0 2022-07-31 14:25 install/
+-rw-r--r-- root/root       668 2022-07-31 14:25 install/doinst.sh
+-rw-r--r-- root/root       866 2022-07-31 14:25 install/slack-desc
+-rw-r--r-- root/root        10 2022-07-31 14:25 install/slack-required
+drwxr-xr-x root/root         0 2022-07-31 14:25 run/
+drwxr-xr-x nobody/nobody     0 2022-07-31 14:25 run/sslh/
+drwxr-xr-x root/root         0 2022-07-31 14:25 usr/
+drwxr-xr-x root/root         0 2022-07-31 14:25 usr/doc/
+drwxr-xr-x root/root         0 2022-07-31 14:25 usr/doc/sslh-1.22c/
+-rw-r--r-- root/root     18092 2022-07-31 14:25 usr/doc/sslh-1.22c/COPYING
+-rw-r--r-- root/root     12117 2021-08-28 16:33 usr/doc/sslh-1.22c/ChangeLog
+-rw-r--r-- root/root      2102 2021-08-28 16:33 usr/doc/sslh-1.22c/README.md
+-rw-r--r-- root/root       978 2021-08-28 16:33 usr/doc/sslh-1.22c/TODO
+-rw-r--r-- root/root       766 2022-07-31 14:25 usr/doc/sslh-1.22c/basic.cfg
+-rw-r--r-- root/root       983 2022-07-31 14:25 usr/doc/sslh-1.22c/echosrv.cfg
+-rw-r--r-- root/root      5351 2022-07-31 14:25 usr/doc/sslh-1.22c/example.cfg
+drwxr-xr-x root/root         0 2021-08-28 16:33 usr/doc/sslh-1.22c/scripts/
+-rwxr-xr-x root/root      1017 2021-08-28 16:33 usr/doc/sslh-1.22c/scripts/etc.init.d.sslh
+-rwxr-xr-x root/root      1709 2021-08-28 16:33 usr/doc/sslh-1.22c/scripts/etc.rc.d.init.d.sslh.centos
+-rw-r--r-- root/root       714 2021-08-28 16:33 usr/doc/sslh-1.22c/scripts/etc.sysconfig.sslh
+drwxr-xr-x root/root         0 2021-08-28 16:33 usr/doc/sslh-1.22c/scripts/fail2ban/
+-rw-r--r-- root/root       239 2021-08-28 16:33 usr/doc/sslh-1.22c/scripts/fail2ban/jail.conf
+-rw-r--r-- root/root       500 2021-08-28 16:33 usr/doc/sslh-1.22c/scripts/fail2ban/sslh-ssh.conf
+-rw-r--r-- root/root       617 2021-08-28 16:33 usr/doc/sslh-1.22c/scripts/systemd.sslh.service
+-rw-r--r-- root/root      3565 2022-07-31 14:25 usr/doc/sslh-1.22c/sslh.SlackBuild
+-rw-r--r-- root/root      9774 2022-07-31 14:25 usr/doc/sslh-1.22c/sslhconf.cfg
+-rw-r--r-- root/root      2222 2022-07-31 14:25 usr/doc/sslh-1.22c/test.cfg
+-rw-r--r-- root/root       841 2022-07-31 14:25 usr/doc/sslh-1.22c/udp.cfg
+drwxr-xr-x root/root         0 2022-07-31 14:25 usr/man/
+drwxr-xr-x root/root         0 2022-07-31 14:25 usr/man/man8/
+-rw-r--r-- root/root      5024 2022-07-31 14:25 usr/man/man8/sslh.8.gz
+drwxr-xr-x root/root         0 2022-07-31 14:25 usr/sbin/
+-rwxr-xr-x root/root    108120 2022-07-31 14:25 usr/sbin/sslh-fork
+-rwxr-xr-x root/root    108120 2022-07-31 14:25 usr/sbin/sslh-select
+
+

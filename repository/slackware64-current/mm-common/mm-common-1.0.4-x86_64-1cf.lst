@@ -1,0 +1,61 @@
+++========================================
+||
+||   Package:  ./mm-common/mm-common-1.0.4-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-02-14 13:48 ./
+drwxr-xr-x root/root         0 2022-02-14 13:48 install/
+-rw-r--r-- root/root       779 2022-02-14 13:48 install/slack-desc
+drwxr-xr-x root/root         0 2022-02-14 13:48 usr/
+drwxr-xr-x root/root         0 2022-02-14 13:48 usr/bin/
+-rwxr-xr-x root/root      2773 2022-02-14 13:48 usr/bin/mm-common-get
+-rwxr-xr-x root/root      3117 2022-02-14 13:48 usr/bin/mm-common-prepare
+drwxr-xr-x root/root         0 2022-02-14 13:48 usr/doc/
+drwxr-xr-x root/root         0 2022-02-14 13:48 usr/doc/mm-common-1.0.4/
+-rw-r--r-- root/root       502 2022-02-11 15:09 usr/doc/mm-common-1.0.4/AUTHORS
+-rw-r--r-- root/root     17987 2022-02-11 15:09 usr/doc/mm-common-1.0.4/COPYING
+-rw-r--r-- root/root     57666 2022-02-11 15:11 usr/doc/mm-common-1.0.4/ChangeLog
+-rwxr-xr-x root/root      9929 2022-02-11 15:09 usr/doc/mm-common-1.0.4/NEWS
+-rw-r--r-- root/root     13796 2022-02-11 15:09 usr/doc/mm-common-1.0.4/README
+-rw-r--r-- root/root      3957 2022-02-14 13:48 usr/doc/mm-common-1.0.4/mm-common.SlackBuild
+-rw-r--r-- root/root     24379 2022-02-14 13:48 usr/doc/mm-common-1.0.4/skeletonmm.tar.gz
+drwxr-xr-x root/root         0 2022-02-14 13:48 usr/man/
+drwxr-xr-x root/root         0 2022-02-14 13:48 usr/man/man1/
+-rw-r--r-- root/root       673 2022-02-14 13:48 usr/man/man1/mm-common-get.1.gz
+-rw-r--r-- root/root      1109 2022-02-14 13:48 usr/man/man1/mm-common-prepare.1.gz
+drwxr-xr-x root/root         0 2022-02-14 13:48 usr/share/
+drwxr-xr-x root/root         0 2022-02-14 13:48 usr/share/aclocal/
+-rw-r--r-- root/root     19559 2022-02-14 13:48 usr/share/aclocal/mm-ax_cxx_compile_stdcxx.m4
+-rw-r--r-- root/root      5798 2022-02-14 13:48 usr/share/aclocal/mm-ax_cxx_compile_stdcxx_11.m4
+-rw-r--r-- root/root      1696 2022-02-14 13:48 usr/share/aclocal/mm-common.m4
+-rw-r--r-- root/root      4682 2022-02-14 13:48 usr/share/aclocal/mm-dietlib.m4
+-rw-r--r-- root/root     10517 2022-02-14 13:48 usr/share/aclocal/mm-doc.m4
+-rw-r--r-- root/root      3326 2022-02-14 13:48 usr/share/aclocal/mm-module.m4
+-rw-r--r-- root/root      3967 2022-02-14 13:48 usr/share/aclocal/mm-pkg.m4
+-rw-r--r-- root/root      4674 2022-02-14 13:48 usr/share/aclocal/mm-warnings.m4
+drwxr-xr-x root/root         0 2022-02-14 13:48 usr/share/mm-common/
+drwxr-xr-x root/root         0 2022-02-14 13:48 usr/share/mm-common/build/
+-rw-r--r-- root/root      3020 2022-02-14 13:48 usr/share/mm-common/build/check-dllexport-usage.py
+-rw-r--r-- root/root      2776 2022-02-14 13:48 usr/share/mm-common/build/compile-binding.am
+-rw-r--r-- root/root      2036 2022-02-14 13:48 usr/share/mm-common/build/dist-build-scripts.py
+-rw-r--r-- root/root      1263 2022-02-14 13:48 usr/share/mm-common/build/dist-changelog.am
+-rw-r--r-- root/root       828 2022-02-14 13:48 usr/share/mm-common/build/dist-changelog.py
+-rw-r--r-- root/root      9121 2022-02-14 13:48 usr/share/mm-common/build/doc-reference.am
+-rw-r--r-- root/root      6706 2022-02-14 13:48 usr/share/mm-common/build/doc-reference.py
+-rw-r--r-- root/root      4012 2022-02-14 13:48 usr/share/mm-common/build/generate-binding.am
+-rw-r--r-- root/root      7096 2022-02-14 13:48 usr/share/mm-common/build/generate-binding.py
+drwxr-xr-x root/root         0 2022-02-14 13:48 usr/share/mm-common/doctags/
+-rw-r--r-- root/root   5145690 2022-02-14 13:48 usr/share/mm-common/doctags/libstdc++.tag
+drwxr-xr-x root/root         0 2022-02-14 13:48 usr/share/mm-common/doctool/
+-rw-r--r-- root/root      9066 2022-02-14 13:48 usr/share/mm-common/doctool/doc-install.pl
+-rw-r--r-- root/root      3118 2022-02-14 13:48 usr/share/mm-common/doctool/doc-postprocess.pl
+-rw-r--r-- root/root     11498 2022-02-14 13:48 usr/share/mm-common/doctool/doc_install.py
+-rw-r--r-- root/root      4357 2022-02-14 13:48 usr/share/mm-common/doctool/doc_postprocess.py
+-rw-r--r-- root/root      3559 2022-02-14 13:48 usr/share/mm-common/doctool/doxygen-extra.css
+-rw-r--r-- root/root      3741 2022-02-14 13:48 usr/share/mm-common/doctool/doxygen.css
+-rw-r--r-- root/root      6316 2022-02-14 13:48 usr/share/mm-common/doctool/tagfile-to-devhelp2.xsl
+drwxr-xr-x root/root         0 2022-02-14 13:48 usr/share/pkgconfig/
+-rw-r--r-- root/root       335 2022-02-14 13:48 usr/share/pkgconfig/mm-common-libstdc++.pc
+-rw-r--r-- root/root       268 2022-02-14 13:48 usr/share/pkgconfig/mm-common-util.pc
+
+

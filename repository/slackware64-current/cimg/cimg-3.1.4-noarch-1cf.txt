@@ -1,0 +1,11 @@
+cimg: CImg (open-source C++ toolkit for image processing)
+cimg:
+cimg: It mainly consists in a (big) single header file CImg.h providing a set 
+cimg: of C++ classes and functions that can be used in your own sources, to 
+cimg: load/save, manage/process and display generic images. It's actually a 
+cimg: very simple and pleasant toolkit for coding image processing stuffs in 
+cimg: C++ : Just include the header file CImg.h, and you are ready to handle 
+cimg: images in your C++ programs.
+cimg:
+cimg:
+cimg:

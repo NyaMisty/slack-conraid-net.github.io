@@ -1,0 +1,11 @@
+adns: adns (asyncronous resolver library)
+adns:
+adns: adns is a resolver library for C (and C++) programs, and a collection
+adns: of useful DNS resolver utilities.
+adns:
+adns:
+adns:
+adns:
+adns:
+adns:
+adns:

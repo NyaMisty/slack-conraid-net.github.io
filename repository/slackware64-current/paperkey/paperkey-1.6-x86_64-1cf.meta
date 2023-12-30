@@ -1,0 +1,18 @@
+PACKAGE NAME:  paperkey-1.6-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./paperkey
+PACKAGE SIZE (compressed):  40 K
+PACKAGE SIZE (uncompressed):  110 K
+PACKAGE DESCRIPTION:
+paperkey: paperkey (OpenPGP key archiver)
+paperkey:
+paperkey: A reasonable way to achieve a long term backup of OpenPGP keys is to
+paperkey: print them out on paper. The reasoning behind this is that paper and
+paperkey: ink has amazingly long retention qualities - far longer than the
+paperkey: magnetic or optical means that are generally used to back up computer
+paperkey: data. 
+paperkey:
+paperkey:
+paperkey:
+paperkey:
+

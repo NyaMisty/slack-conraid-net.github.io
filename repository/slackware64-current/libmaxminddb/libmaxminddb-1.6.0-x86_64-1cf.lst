@@ -1,0 +1,50 @@
+++========================================
+||
+||   Package:  ./libmaxminddb/libmaxminddb-1.6.0-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-04-30 11:24 ./
+drwxr-xr-x root/root         0 2021-04-30 11:24 install/
+-rw-r--r-- root/root       216 2021-04-30 11:24 install/doinst.sh
+-rw-r--r-- root/root      1053 2021-04-30 11:24 install/slack-desc
+drwxr-xr-x root/root         0 2021-04-30 11:24 usr/
+drwxr-xr-x root/root         0 2021-04-30 11:24 usr/bin/
+-rwxr-xr-x root/root     23224 2021-04-30 11:24 usr/bin/mmdblookup
+drwxr-xr-x root/root         0 2021-04-30 11:24 usr/doc/
+drwxr-xr-x root/root         0 2021-04-30 11:24 usr/doc/libmaxminddb-1.6.0/
+-rw-r--r-- root/root         0 2019-01-25 00:58 usr/doc/libmaxminddb-1.6.0/AUTHORS
+-rw-r--r-- root/root     15896 2021-04-29 18:57 usr/doc/libmaxminddb-1.6.0/Changes.md
+-rw-r--r-- root/root     11358 2019-01-25 00:58 usr/doc/libmaxminddb-1.6.0/LICENSE
+-rw-r--r-- root/root       559 2021-04-29 18:57 usr/doc/libmaxminddb-1.6.0/NOTICE
+-rw-r--r-- root/root      4684 2021-04-29 18:57 usr/doc/libmaxminddb-1.6.0/README.md
+-rw-r--r-- root/root      3456 2021-04-30 11:24 usr/doc/libmaxminddb-1.6.0/libmaxminddb.SlackBuild
+-rw-r--r-- root/root     28585 2020-08-13 18:48 usr/doc/libmaxminddb-1.6.0/libmaxminddb.md
+-rw-r--r-- root/root      2379 2019-01-25 00:58 usr/doc/libmaxminddb-1.6.0/mmdblookup.md
+drwxr-xr-x root/root         0 2021-04-30 11:24 usr/include/
+-rw-r--r-- root/root      8543 2021-04-30 11:24 usr/include/maxminddb.h
+-rw-r--r-- root/root       504 2021-04-30 11:24 usr/include/maxminddb_config.h
+drwxr-xr-x root/root         0 2021-04-30 11:24 usr/lib64/
+-rwxr-xr-x root/root     22688 2021-04-30 11:24 usr/lib64/libmaxminddb.so.0.0.7
+drwxr-xr-x root/root         0 2021-04-30 11:24 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       263 2021-04-30 11:24 usr/lib64/pkgconfig/libmaxminddb.pc
+drwxr-xr-x root/root         0 2021-04-30 11:24 usr/man/
+drwxr-xr-x root/root         0 2021-04-30 11:24 usr/man/man1/
+-rw-r--r-- root/root      1365 2021-04-30 11:24 usr/man/man1/mmdblookup.1.gz
+drwxr-xr-x root/root         0 2021-04-30 11:24 usr/man/man3/
+-rw-r--r-- root/root        62 2021-04-30 11:24 usr/man/man3/MMDB_aget_value.3.gz
+-rw-r--r-- root/root        57 2021-04-30 11:24 usr/man/man3/MMDB_close.3.gz
+-rw-r--r-- root/root        72 2021-04-30 11:24 usr/man/man3/MMDB_dump_entry_data_list.3.gz
+-rw-r--r-- root/root        72 2021-04-30 11:24 usr/man/man3/MMDB_free_entry_data_list.3.gz
+-rw-r--r-- root/root        71 2021-04-30 11:24 usr/man/man3/MMDB_get_entry_data_list.3.gz
+-rw-r--r-- root/root        83 2021-04-30 11:24 usr/man/man3/MMDB_get_metadata_as_entry_data_list.3.gz
+-rw-r--r-- root/root        61 2021-04-30 11:24 usr/man/man3/MMDB_get_value.3.gz
+-rw-r--r-- root/root        63 2021-04-30 11:24 usr/man/man3/MMDB_lib_version.3.gz
+-rw-r--r-- root/root        67 2021-04-30 11:24 usr/man/man3/MMDB_lookup_sockaddr.3.gz
+-rw-r--r-- root/root        65 2021-04-30 11:24 usr/man/man3/MMDB_lookup_string.3.gz
+-rw-r--r-- root/root        56 2021-04-30 11:24 usr/man/man3/MMDB_open.3.gz
+-rw-r--r-- root/root        61 2021-04-30 11:24 usr/man/man3/MMDB_read_node.3.gz
+-rw-r--r-- root/root        60 2021-04-30 11:24 usr/man/man3/MMDB_strerror.3.gz
+-rw-r--r-- root/root        62 2021-04-30 11:24 usr/man/man3/MMDB_vget_value.3.gz
+-rw-r--r-- root/root      8943 2021-04-30 11:24 usr/man/man3/libmaxminddb.3.gz
+
+

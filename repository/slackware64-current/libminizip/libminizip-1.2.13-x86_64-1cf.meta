@@ -1,0 +1,22 @@
+PACKAGE NAME:  libminizip-1.2.13-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./libminizip
+PACKAGE SIZE (compressed):  32 K
+PACKAGE SIZE (uncompressed):  120 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+libminizip: libminizip (compression library)
+libminizip:
+libminizip: libminizip is small library to compress and decompress zip files
+libminizip: with the help of zlib.
+libminizip:
+libminizip:
+libminizip:
+libminizip:
+libminizip:
+libminizip:
+libminizip:
+libminizip:
+

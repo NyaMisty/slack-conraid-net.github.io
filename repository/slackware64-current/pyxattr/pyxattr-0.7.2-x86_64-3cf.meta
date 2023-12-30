@@ -1,0 +1,18 @@
+PACKAGE NAME:  pyxattr-0.7.2-x86_64-3cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./pyxattr
+PACKAGE SIZE (compressed):  24 K
+PACKAGE SIZE (uncompressed):  90 K
+PACKAGE DESCRIPTION:
+pyxattr: pyxattr (A python module to manipulate the extended attributes)
+pyxattr:
+pyxattr: This is the pyxattr module, a Python extension module which gives
+pyxattr: access to the extended attributes for filesystem objects available
+pyxattr: in some operating systems.
+pyxattr:
+pyxattr:
+pyxattr:
+pyxattr:
+pyxattr:
+pyxattr:
+

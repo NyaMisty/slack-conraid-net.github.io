@@ -1,0 +1,11 @@
+libvirt-glib: libvirt-glib (glib wrapper for libvirt)
+libvirt-glib:
+libvirt-glib: libvirt-glib wraps libvirt to provide a high-level object-oriented
+libvirt-glib: API better suited for glib-based applications
+libvirt-glib:
+libvirt-glib:
+libvirt-glib:
+libvirt-glib:
+libvirt-glib:
+libvirt-glib:
+libvirt-glib:

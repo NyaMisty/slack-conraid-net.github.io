@@ -1,0 +1,21 @@
+PACKAGE NAME:  testssl_sh-3.0.8-noarch-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./testssl_sh
+PACKAGE SIZE (compressed):  728 K
+PACKAGE SIZE (uncompressed):  3340 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+testssl_sh: testssl_sh (Testing TLS/SSL encryption anywhere on any port)
+testssl_sh:
+testssl_sh: testssl.sh is a free command line tool which checks a server's
+testssl_sh: service on any port for the support of TLS/SSL ciphers, protocols as
+testssl_sh: well as some cryptographic flaws.
+testssl_sh:
+testssl_sh:
+testssl_sh:
+testssl_sh:
+testssl_sh:
+testssl_sh:
+

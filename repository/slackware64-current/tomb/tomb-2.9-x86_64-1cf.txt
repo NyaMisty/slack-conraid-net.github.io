@@ -1,0 +1,11 @@
+tomb: tomb (system for file encryption)
+tomb:
+tomb: Tomb is an 100% free and open source system for file encryption on
+tomb: GNU/Linux, facilitating the backup of secret files.
+tomb:
+tomb:
+tomb:
+tomb:
+tomb:
+tomb:
+tomb:

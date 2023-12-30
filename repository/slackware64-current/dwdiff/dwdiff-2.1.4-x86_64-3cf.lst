@@ -1,0 +1,46 @@
+++========================================
+||
+||   Package:  ./dwdiff/dwdiff-2.1.4-x86_64-3cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-04-13 13:01 ./
+drwxr-xr-x root/root         0 2022-04-13 13:01 install/
+-rw-r--r-- root/root      1012 2022-04-13 13:01 install/slack-desc
+drwxr-xr-x root/root         0 2022-04-13 13:01 usr/
+drwxr-xr-x root/root         0 2022-04-13 13:01 usr/bin/
+-rwxr-xr-x root/root     73704 2022-04-13 13:01 usr/bin/dwdiff
+-rwxr-xr-x root/root     18848 2022-04-13 13:01 usr/bin/dwfilter
+drwxr-xr-x root/root         0 2022-04-13 13:01 usr/doc/
+drwxr-xr-x root/root         0 2022-04-13 13:01 usr/doc/dwdiff-2.1.4/
+-rw-r--r-- root/root     35147 2022-04-13 13:01 usr/doc/dwdiff-2.1.4/COPYING
+-rw-r--r-- root/root      8978 2022-04-13 13:01 usr/doc/dwdiff-2.1.4/Changelog
+-rw-r--r-- root/root      2860 2022-04-13 13:01 usr/doc/dwdiff-2.1.4/README
+-rw-r--r-- root/root      3641 2022-04-13 13:01 usr/doc/dwdiff-2.1.4/dwdiff.SlackBuild
+drwxr-xr-x root/root         0 2022-04-13 13:01 usr/man/
+drwxr-xr-x root/root         0 2022-04-13 13:01 usr/man/man1/
+-rw-r--r-- root/root      3923 2022-04-13 13:01 usr/man/man1/dwdiff.1.gz
+-rw-r--r-- root/root      1280 2022-04-13 13:01 usr/man/man1/dwfilter.1.gz
+drwxr-xr-x root/root         0 2022-04-13 13:01 usr/man/nl/
+drwxr-xr-x root/root         0 2022-04-13 13:01 usr/man/nl.UTF-8/
+drwxr-xr-x root/root         0 2022-04-13 13:01 usr/man/nl.UTF-8/man1/
+-rw-r--r-- root/root      4375 2022-04-13 13:01 usr/man/nl.UTF-8/man1/dwdiff.1.gz
+-rw-r--r-- root/root      1333 2022-04-13 13:01 usr/man/nl.UTF-8/man1/dwfilter.1.gz
+drwxr-xr-x root/root         0 2022-04-13 13:01 usr/man/nl/man1/
+-rw-r--r-- root/root      4375 2022-04-13 13:01 usr/man/nl/man1/dwdiff.1.gz
+-rw-r--r-- root/root      1333 2022-04-13 13:01 usr/man/nl/man1/dwfilter.1.gz
+drwxr-xr-x root/root         0 2022-04-13 13:01 usr/share/
+drwxr-xr-x root/root         0 2022-04-13 13:01 usr/share/locale/
+drwxr-xr-x root/root         0 2022-04-13 13:01 usr/share/locale/de/
+drwxr-xr-x root/root         0 2022-04-13 13:01 usr/share/locale/de/LC_MESSAGES/
+-rw-r--r-- root/root      8634 2022-04-13 13:01 usr/share/locale/de/LC_MESSAGES/dwdiff.mo
+drwxr-xr-x root/root         0 2022-04-13 13:01 usr/share/locale/es/
+drwxr-xr-x root/root         0 2022-04-13 13:01 usr/share/locale/es/LC_MESSAGES/
+-rw-r--r-- root/root     10687 2022-04-13 13:01 usr/share/locale/es/LC_MESSAGES/dwdiff.mo
+drwxr-xr-x root/root         0 2022-04-13 13:01 usr/share/locale/fr/
+drwxr-xr-x root/root         0 2022-04-13 13:01 usr/share/locale/fr/LC_MESSAGES/
+-rw-r--r-- root/root      8975 2022-04-13 13:01 usr/share/locale/fr/LC_MESSAGES/dwdiff.mo
+drwxr-xr-x root/root         0 2022-04-13 13:01 usr/share/locale/nl/
+drwxr-xr-x root/root         0 2022-04-13 13:01 usr/share/locale/nl/LC_MESSAGES/
+-rw-r--r-- root/root     11503 2022-04-13 13:01 usr/share/locale/nl/LC_MESSAGES/dwdiff.mo
+
+

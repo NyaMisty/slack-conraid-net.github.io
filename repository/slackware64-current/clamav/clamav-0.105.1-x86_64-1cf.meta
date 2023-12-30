@@ -1,0 +1,21 @@
+PACKAGE NAME:  clamav-0.105.1-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./clamav
+PACKAGE SIZE (compressed):  5040 K
+PACKAGE SIZE (uncompressed):  24810 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+clamav: clamav (open source antivirus engine)
+clamav:
+clamav: Clam AntiVirus is a GPL anti-virus toolkit for UNIX. The main purpose
+clamav: of this software is the integration with mail servers (attachment
+clamav: scanning). The package provides a flexible and scalable multi-threaded
+clamav: daemon, a command line scanner, and a tool for automatic updating via
+clamav: Internet.  Most importantly, the virus database is kept up to date.
+clamav: 
+clamav:
+clamav:
+clamav:
+

@@ -1,0 +1,11 @@
+node-cross-spawn: node-cross-spawn (Cross platform solution to node's spawn)
+node-cross-spawn:
+node-cross-spawn: A cross platform solution to node's spawn and spawnSync 
+node-cross-spawn:
+node-cross-spawn:
+node-cross-spawn:
+node-cross-spawn:
+node-cross-spawn:
+node-cross-spawn:
+node-cross-spawn:
+node-cross-spawn:

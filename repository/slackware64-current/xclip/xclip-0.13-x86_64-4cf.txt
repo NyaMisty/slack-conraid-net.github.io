@@ -1,0 +1,11 @@
+xclip: xclip (Command line interface to the X11 clipboard)
+xclip:
+xclip: xclip is a command line interface to the X11 clipboard. It can also
+xclip: be used for copying files, as an alternative to sftp/scp, thus
+xclip: avoiding password prompts when X11 forwarding has already been setup.
+xclip:
+xclip:
+xclip:
+xclip:
+xclip:
+xclip:

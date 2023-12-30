@@ -1,0 +1,28 @@
+++========================================
+||
+||   Package:  ./vdt/vdt-5.4.68-x86_64-7cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 13:18 ./
+drwxr-xr-x root/root         0 2020-10-05 13:18 install/
+-rw-r--r-- root/root       753 2020-10-05 13:18 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 13:18 usr/
+drwxr-xr-x root/root         0 2020-10-05 13:18 usr/bin/
+-rwxr-xr-x root/root     92816 2020-10-05 13:18 usr/bin/vdt
+drwxr-xr-x root/root         0 2020-10-05 13:18 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 13:18 usr/doc/vdt-5.4.68/
+-rw-r--r-- root/root       289 2010-09-12 14:53 usr/doc/vdt-5.4.68/AUTHORS
+-rw-r--r-- root/root     35147 2010-07-26 00:11 usr/doc/vdt-5.4.68/COPYING
+-rw-r--r-- root/root      4548 2010-10-24 21:26 usr/doc/vdt-5.4.68/ChangeLog
+-rw-r--r-- root/root       341 2010-09-12 14:55 usr/doc/vdt-5.4.68/INSTALL
+-rw-r--r-- root/root     35147 2010-07-26 00:11 usr/doc/vdt-5.4.68/LICENSE
+-rw-r--r-- root/root      2995 2010-10-24 21:27 usr/doc/vdt-5.4.68/NEWS
+-rw-r--r-- root/root      3644 2010-09-22 02:36 usr/doc/vdt-5.4.68/README
+-rw-r--r-- root/root      1049 2010-10-21 22:54 usr/doc/vdt-5.4.68/THANKS
+-rw-r--r-- root/root      3439 2010-10-25 12:59 usr/doc/vdt-5.4.68/TODO
+-rw-r--r-- root/root      2954 2020-10-05 13:18 usr/doc/vdt-5.4.68/vdt.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 13:18 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 13:18 usr/man/man1/
+-rw-r--r-- root/root      6177 2020-10-05 13:18 usr/man/man1/vdt.1.gz
+
+

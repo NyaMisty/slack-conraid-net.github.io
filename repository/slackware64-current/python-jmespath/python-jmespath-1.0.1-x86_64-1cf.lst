@@ -1,0 +1,43 @@
+++========================================
+||
+||   Package:  ./python-jmespath/python-jmespath-1.0.1-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-06-18 09:10 ./
+drwxr-xr-x root/root         0 2022-06-18 09:10 install/
+-rw-r--r-- root/root       766 2022-06-18 09:10 install/slack-desc
+drwxr-xr-x root/root         0 2022-06-18 09:10 usr/
+drwxr-xr-x root/root         0 2022-06-18 09:10 usr/bin/
+-rwxr-xr-x root/root      1695 2022-06-18 09:10 usr/bin/jp.py
+drwxr-xr-x root/root         0 2022-06-18 09:10 usr/doc/
+drwxr-xr-x root/root         0 2022-06-18 09:10 usr/doc/python-jmespath-1.0.1/
+-rw-r--r-- root/root      6629 2022-03-16 19:48 usr/doc/python-jmespath-1.0.1/README.rst
+-rw-r--r-- root/root      3477 2022-06-18 09:10 usr/doc/python-jmespath-1.0.1/python-jmespath.SlackBuild
+drwxr-xr-x root/root         0 2022-06-18 09:10 usr/lib64/
+drwxr-xr-x root/root         0 2022-06-18 09:10 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-06-18 09:10 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-06-18 09:10 usr/lib64/python3.9/site-packages/jmespath/
+drwxr-xr-x root/root         0 2022-06-18 09:10 usr/lib64/python3.9/site-packages/jmespath-1.0.1-py3.9.egg-info/
+-rw-r--r-- root/root      7581 2022-06-18 09:10 usr/lib64/python3.9/site-packages/jmespath-1.0.1-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       413 2022-06-18 09:10 usr/lib64/python3.9/site-packages/jmespath-1.0.1-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2022-06-18 09:10 usr/lib64/python3.9/site-packages/jmespath-1.0.1-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root         9 2022-06-18 09:10 usr/lib64/python3.9/site-packages/jmespath-1.0.1-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root       281 2022-06-17 19:57 usr/lib64/python3.9/site-packages/jmespath/__init__.py
+drwxr-xr-x root/root         0 2022-06-18 09:10 usr/lib64/python3.9/site-packages/jmespath/__pycache__/
+-rw-r--r-- root/root       564 2022-06-18 09:10 usr/lib64/python3.9/site-packages/jmespath/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      3036 2022-06-18 09:10 usr/lib64/python3.9/site-packages/jmespath/__pycache__/ast.cpython-39.pyc
+-rw-r--r-- root/root       688 2022-06-18 09:10 usr/lib64/python3.9/site-packages/jmespath/__pycache__/compat.cpython-39.pyc
+-rw-r--r-- root/root      4660 2022-06-18 09:10 usr/lib64/python3.9/site-packages/jmespath/__pycache__/exceptions.cpython-39.pyc
+-rw-r--r-- root/root      9951 2022-06-18 09:10 usr/lib64/python3.9/site-packages/jmespath/__pycache__/functions.cpython-39.pyc
+-rw-r--r-- root/root      4880 2022-06-18 09:10 usr/lib64/python3.9/site-packages/jmespath/__pycache__/lexer.cpython-39.pyc
+-rw-r--r-- root/root     16021 2022-06-18 09:10 usr/lib64/python3.9/site-packages/jmespath/__pycache__/parser.cpython-39.pyc
+-rw-r--r-- root/root      9820 2022-06-18 09:10 usr/lib64/python3.9/site-packages/jmespath/__pycache__/visitor.cpython-39.pyc
+-rw-r--r-- root/root      2130 2021-11-19 20:30 usr/lib64/python3.9/site-packages/jmespath/ast.py
+-rw-r--r-- root/root       381 2022-03-16 19:48 usr/lib64/python3.9/site-packages/jmespath/compat.py
+-rw-r--r-- root/root      4128 2021-11-19 20:30 usr/lib64/python3.9/site-packages/jmespath/exceptions.py
+-rw-r--r-- root/root     12736 2022-03-16 19:48 usr/lib64/python3.9/site-packages/jmespath/functions.py
+-rw-r--r-- root/root      8574 2022-03-15 18:24 usr/lib64/python3.9/site-packages/jmespath/lexer.py
+-rw-r--r-- root/root     19088 2022-06-17 19:57 usr/lib64/python3.9/site-packages/jmespath/parser.py
+-rw-r--r-- root/root     10834 2022-06-17 19:57 usr/lib64/python3.9/site-packages/jmespath/visitor.py
+
+

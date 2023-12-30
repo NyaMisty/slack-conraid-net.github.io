@@ -1,0 +1,18 @@
+PACKAGE NAME:  colordiff-1.0.20-noarch-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./colordiff
+PACKAGE SIZE (compressed):  24 K
+PACKAGE SIZE (uncompressed):  80 K
+PACKAGE DESCRIPTION:
+colordiff: colordiff (color wrapper for 'diff')
+colordiff:
+colordiff: The Perl script colordiff is a wrapper for 'diff' and produces
+colordiff: the same output but with pretty 'syntax' highlighting.
+colordiff: Colour schemes can be customized.
+colordiff:
+colordiff: 
+colordiff:
+colordiff:
+colordiff:
+colordiff:
+

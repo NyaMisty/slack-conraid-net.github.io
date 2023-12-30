@@ -1,0 +1,72 @@
+++========================================
+||
+||   Package:  ./asn1crypto/asn1crypto-1.5.1-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-03-19 12:36 ./
+drwxr-xr-x root/root         0 2022-03-19 12:36 install/
+-rw-r--r-- root/root       727 2022-03-19 12:36 install/slack-desc
+drwxr-xr-x root/root         0 2022-03-19 12:36 usr/
+drwxr-xr-x root/root         0 2022-03-19 12:36 usr/doc/
+drwxr-xr-x root/root         0 2022-03-19 12:36 usr/doc/asn1crypto-1.5.1/
+-rw-r--r-- root/root      1075 2022-03-05 14:39 usr/doc/asn1crypto-1.5.1/LICENSE
+-rw-r--r-- root/root      3362 2022-03-19 12:36 usr/doc/asn1crypto-1.5.1/asn1crypto.SlackBuild
+drwxr-xr-x root/root         0 2022-03-19 12:36 usr/lib64/
+drwxr-xr-x root/root         0 2022-03-19 12:36 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-03-19 12:36 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/
+drwxr-xr-x root/root         0 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto-1.5.1-py3.9.egg-info/
+-rw-r--r-- root/root      1075 2022-03-05 14:39 usr/lib64/python3.9/site-packages/asn1crypto-1.5.1-py3.9.egg-info/LICENSE
+-rw-r--r-- root/root     13206 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto-1.5.1-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       849 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto-1.5.1-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto-1.5.1-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root        11 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto-1.5.1-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root      1219 2019-10-16 12:47 usr/lib64/python3.9/site-packages/asn1crypto/__init__.py
+drwxr-xr-x root/root         0 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/
+-rw-r--r-- root/root      1206 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      1256 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/_errors.cpython-39.pyc
+-rw-r--r-- root/root      3498 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/_inet.cpython-39.pyc
+-rw-r--r-- root/root       687 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/_int.cpython-39.pyc
+-rw-r--r-- root/root      6494 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/_iri.cpython-39.pyc
+-rw-r--r-- root/root      3707 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/_ordereddict.cpython-39.pyc
+-rw-r--r-- root/root      3000 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/_teletex_codec.cpython-39.pyc
+-rw-r--r-- root/root      1292 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/_types.cpython-39.pyc
+-rw-r--r-- root/root     24915 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/algos.cpython-39.pyc
+-rw-r--r-- root/root     27976 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/cms.cpython-39.pyc
+-rw-r--r-- root/root    117945 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/core.cpython-39.pyc
+-rw-r--r-- root/root     14469 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/crl.cpython-39.pyc
+-rw-r--r-- root/root      4031 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/csr.cpython-39.pyc
+-rw-r--r-- root/root     29798 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/keys.cpython-39.pyc
+-rw-r--r-- root/root     18551 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/ocsp.cpython-39.pyc
+-rw-r--r-- root/root      7066 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/parser.cpython-39.pyc
+-rw-r--r-- root/root      2821 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/pdf.cpython-39.pyc
+-rw-r--r-- root/root      5110 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/pem.cpython-39.pyc
+-rw-r--r-- root/root      5423 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/pkcs12.cpython-39.pyc
+-rw-r--r-- root/root      9298 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/tsp.cpython-39.pyc
+-rw-r--r-- root/root     21306 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/util.cpython-39.pyc
+-rw-r--r-- root/root       335 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/version.cpython-39.pyc
+-rw-r--r-- root/root     79042 2022-03-19 12:36 usr/lib64/python3.9/site-packages/asn1crypto/__pycache__/x509.cpython-39.pyc
+-rw-r--r-- root/root      1070 2019-09-21 13:53 usr/lib64/python3.9/site-packages/asn1crypto/_errors.py
+-rw-r--r-- root/root      4661 2018-08-25 00:14 usr/lib64/python3.9/site-packages/asn1crypto/_inet.py
+-rw-r--r-- root/root       494 2019-09-21 13:53 usr/lib64/python3.9/site-packages/asn1crypto/_int.py
+-rw-r--r-- root/root      8733 2018-09-04 14:26 usr/lib64/python3.9/site-packages/asn1crypto/_iri.py
+-rw-r--r-- root/root      4533 2018-08-25 00:14 usr/lib64/python3.9/site-packages/asn1crypto/_ordereddict.py
+-rw-r--r-- root/root      5053 2018-08-25 00:14 usr/lib64/python3.9/site-packages/asn1crypto/_teletex_codec.py
+-rw-r--r-- root/root       939 2018-08-25 00:14 usr/lib64/python3.9/site-packages/asn1crypto/_types.py
+-rw-r--r-- root/root     35867 2021-08-14 16:52 usr/lib64/python3.9/site-packages/asn1crypto/algos.py
+-rw-r--r-- root/root     27776 2022-03-05 14:35 usr/lib64/python3.9/site-packages/asn1crypto/cms.py
+-rw-r--r-- root/root    170716 2022-03-05 14:35 usr/lib64/python3.9/site-packages/asn1crypto/core.py
+-rw-r--r-- root/root     16104 2019-06-29 16:25 usr/lib64/python3.9/site-packages/asn1crypto/crl.py
+-rw-r--r-- root/root      3542 2021-08-14 16:52 usr/lib64/python3.9/site-packages/asn1crypto/csr.py
+-rw-r--r-- root/root     37863 2022-03-15 15:43 usr/lib64/python3.9/site-packages/asn1crypto/keys.py
+-rw-r--r-- root/root     19024 2019-10-01 07:21 usr/lib64/python3.9/site-packages/asn1crypto/ocsp.py
+-rw-r--r-- root/root      9171 2021-10-05 04:16 usr/lib64/python3.9/site-packages/asn1crypto/parser.py
+-rw-r--r-- root/root      2250 2018-08-25 00:15 usr/lib64/python3.9/site-packages/asn1crypto/pdf.py
+-rw-r--r-- root/root      6145 2018-08-25 00:15 usr/lib64/python3.9/site-packages/asn1crypto/pem.py
+-rw-r--r-- root/root      4566 2018-08-25 00:15 usr/lib64/python3.9/site-packages/asn1crypto/pkcs12.py
+-rw-r--r-- root/root      7825 2021-08-04 15:10 usr/lib64/python3.9/site-packages/asn1crypto/tsp.py
+-rw-r--r-- root/root     21873 2019-12-25 12:34 usr/lib64/python3.9/site-packages/asn1crypto/util.py
+-rw-r--r-- root/root       152 2022-03-15 15:42 usr/lib64/python3.9/site-packages/asn1crypto/version.py
+-rw-r--r-- root/root     93778 2021-08-14 16:52 usr/lib64/python3.9/site-packages/asn1crypto/x509.py
+
+

@@ -1,0 +1,25 @@
+++========================================
+||
+||   Package:  ./libmpack/libmpack-1.0.5-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-01-03 13:33 ./
+drwxr-xr-x root/root         0 2021-01-03 13:33 install/
+-rw-r--r-- root/root       184 2021-01-03 13:33 install/doinst.sh
+-rw-r--r-- root/root       768 2021-01-03 13:33 install/slack-desc
+drwxr-xr-x root/root         0 2021-01-03 13:33 usr/
+drwxr-xr-x root/root         0 2021-01-03 13:33 usr/doc/
+drwxr-xr-x root/root         0 2021-01-03 13:33 usr/doc/libmpack-1.0.5/
+-rw-r--r-- root/root      1060 2017-03-19 21:48 usr/doc/libmpack-1.0.5/LICENSE-MIT
+-rw-r--r-- root/root      3546 2017-03-19 21:48 usr/doc/libmpack-1.0.5/README.md
+-rw-r--r-- root/root      3202 2021-01-03 13:33 usr/doc/libmpack-1.0.5/libmpack.SlackBuild
+drwxr-xr-x root/root         0 2021-01-03 13:33 usr/include/
+-rw-r--r-- root/root      9638 2021-01-03 13:33 usr/include/mpack.h
+drwxr-xr-x root/root         0 2021-01-03 13:33 usr/lib/
+-rw-r--r-- root/root     77432 2021-01-03 13:33 usr/lib/libmpack.a
+-rw-r--r-- root/root       918 2021-01-03 13:33 usr/lib/libmpack.la
+-rwxr-xr-x root/root     63392 2021-01-03 13:33 usr/lib/libmpack.so.0.0.0
+drwxr-xr-x root/root         0 2021-01-03 13:33 usr/lib/pkgconfig/
+-rw-r--r-- root/root       232 2021-01-03 13:33 usr/lib/pkgconfig/mpack.pc
+
+

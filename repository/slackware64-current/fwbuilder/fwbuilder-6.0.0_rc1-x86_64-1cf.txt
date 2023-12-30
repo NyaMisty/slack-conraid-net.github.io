@@ -1,0 +1,11 @@
+fwbuilder: fwbuilder (Firewall creation utility)
+fwbuilder:
+fwbuilder: Firewall Builder consists of a GUI and set of policy compilers for 
+fwbuilder: various firewall platforms. It helps users maintain a database of 
+fwbuilder: objects and allows policy editing using simple drag-and-drop
+fwbuilder: operations. Firewall Builder currently supports iptables, ipfilter, 
+fwbuilder: OpenBSD PF and Cisco PIX.
+fwbuilder:
+fwbuilder:
+fwbuilder:
+fwbuilder:

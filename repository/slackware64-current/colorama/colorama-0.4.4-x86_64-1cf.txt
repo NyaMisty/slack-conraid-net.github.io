@@ -1,0 +1,11 @@
+colorama: colorama (cross-platform colored terminal text)
+colorama:
+colorama: Makes ANSI escape character sequences for producing colored terminal
+colorama: text and cursor positioning work under MS Windows.
+colorama: ANSI escape character sequences have long been used to produce colored
+colorama: terminal text and cursor positioning on Unix and Macs.
+colorama:
+colorama:
+colorama:
+colorama:
+colorama:

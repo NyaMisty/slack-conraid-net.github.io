@@ -1,0 +1,18 @@
+PACKAGE NAME:  fwbuilder-6.0.0_rc1-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./fwbuilder
+PACKAGE SIZE (compressed):  7764 K
+PACKAGE SIZE (uncompressed):  35560 K
+PACKAGE DESCRIPTION:
+fwbuilder: fwbuilder (Firewall creation utility)
+fwbuilder:
+fwbuilder: Firewall Builder consists of a GUI and set of policy compilers for 
+fwbuilder: various firewall platforms. It helps users maintain a database of 
+fwbuilder: objects and allows policy editing using simple drag-and-drop
+fwbuilder: operations. Firewall Builder currently supports iptables, ipfilter, 
+fwbuilder: OpenBSD PF and Cisco PIX.
+fwbuilder:
+fwbuilder:
+fwbuilder:
+fwbuilder:
+

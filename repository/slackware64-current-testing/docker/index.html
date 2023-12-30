@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Conraid Repository</title>
+  </head>
+  <body>
+<h1>Conraid's Repository</h1>
+<h2>for Slackware</h2>
+
+  <table>
+   <tr><th valign="top">&nbsp;</th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th></tr>
+   <tr><th colspan="4"><hr></th></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="/repository/slackware64-current-testing/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="README">README</a></td><td align="right">2021-09-09 15:30  </td><td align="right">1.2K</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="docker-19.03.14-x86_64-1cf.lst">docker-19.03.14-x86_64-1cf.lst</a></td><td align="right">2021-09-09 15:30  </td><td align="right">2.2K</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="docker-19.03.14-x86_64-1cf.meta">docker-19.03.14-x86_64-1cf.meta</a></td><td align="right">2021-09-09 15:30  </td><td align="right">680 </td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="docker-19.03.14-x86_64-1cf.txt">docker-19.03.14-x86_64-1cf.txt</a></td><td align="right">2021-09-09 15:30  </td><td align="right">427 </td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="docker-19.03.14-x86_64-1cf.txz">docker-19.03.14-x86_64-1cf.txz</a></td><td align="right">2021-09-09 15:30  </td><td align="right"> 27M</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="docker-19.03.14-x86_64-1cf.txz.asc">docker-19.03.14-x86_64-1cf.txz.asc</a></td><td align="right">2021-09-09 15:30  </td><td align="right">508 </td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="docker-19.03.14-x86_64-1cf.txz.md5">docker-19.03.14-x86_64-1cf.txz.md5</a></td><td align="right">2021-09-09 15:30  </td><td align="right"> 65 </td></tr>
+   <tr><th colspan="4"><hr></th></tr>
+</table>
+<pre>
+
+Slackware Current Repository by Conraid
+
+======================================================================
+
+docker (manager for applications in Linux containers)
+
+Docker is an open-source project to easily create lightweight,
+portable, self-sufficient containers from any application.  The same
+container that a developer builds and tests on a laptop can run at
+scale, in production, on VMs, bare metal, OpenStack clusters, public
+clouds and more.
+
+HOME: https://www.docker.com/products/container-runtime
+
+======================================================================
+NOTE: 
+
+
+To have the docker daemon start and stop with your host,
+add to /etc/rc.d/rc.local:
+
+  if [ -x /etc/rc.d/rc.docker ]; then
+    /etc/rc.d/rc.docker start
+  fi
+
+and to /etc/rc.d/rc.local_shutdown (creating it if needed):
+
+  if [ -x /etc/rc.d/rc.docker ]; then
+    /etc/rc.d/rc.docker stop
+  fi
+
+If you are interested in enabling cgroup memory resource control over
+swap as well, then append "swapaccount=1" to your kernel's parameters.
+This is often in /etc/lilo.conf, on the "append" variable.
+
+NOTE: google-go-lang is only needed at compile time - not needed for
+runtime.
+
+Docker doesn't support x86, only x86_64.
+
+======================
+REQUIRES: go docker-proxy tini libseccomp
+
+</pre>
+</body></html>

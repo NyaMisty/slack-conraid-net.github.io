@@ -1,0 +1,11 @@
+html-minifier: html-minifier (HTML compressor/minifier)
+html-minifier:
+html-minifier: HTMLMinifier is a highly configurable, well-tested, JavaScript-based
+html-minifier: HTML minifier.
+html-minifier:
+html-minifier:
+html-minifier:
+html-minifier:
+html-minifier:
+html-minifier:
+html-minifier:

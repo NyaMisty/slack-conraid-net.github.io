@@ -1,0 +1,20 @@
+++========================================
+||
+||   Package:  ./netcat-openbsd/netcat-openbsd-1.217-x86_64-3cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-30 13:13 ./
+drwxr-xr-x root/root         0 2022-07-30 13:13 install/
+-rw-r--r-- root/root       847 2022-07-30 13:13 install/slack-desc
+-rw-r--r-- root/root         7 2022-07-30 13:13 install/slack-required
+drwxr-xr-x root/root         0 2022-07-30 13:13 usr/
+drwxr-xr-x root/root         0 2022-07-30 13:13 usr/bin/
+-rwxr-xr-x root/root     39968 2022-07-30 13:13 usr/bin/nc-openbsd
+drwxr-xr-x root/root         0 2022-07-30 13:13 usr/doc/
+drwxr-xr-x root/root         0 2022-07-30 13:13 usr/doc/netcat-openbsd-1.217/
+-rw-r--r-- root/root      3478 2022-07-30 13:13 usr/doc/netcat-openbsd-1.217/netcat-openbsd.SlackBuild
+drwxr-xr-x root/root         0 2022-07-30 13:13 usr/man/
+drwxr-xr-x root/root         0 2022-07-30 13:13 usr/man/man1/
+-rw-r--r-- root/root      6319 2022-07-30 13:13 usr/man/man1/nc-openbsd.1.gz
+
+

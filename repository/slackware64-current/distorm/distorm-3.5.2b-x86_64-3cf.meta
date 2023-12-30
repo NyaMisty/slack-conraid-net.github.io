@@ -1,0 +1,18 @@
+PACKAGE NAME:  distorm-3.5.2b-x86_64-3cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./distorm
+PACKAGE SIZE (compressed):  112 K
+PACKAGE SIZE (uncompressed):  470 K
+PACKAGE DESCRIPTION:
+distorm: distorm (Powerful Disassembler Library For x86/AMD64)
+distorm:
+distorm: diStorm3 is really a decomposer, which means it takes an instruction
+distorm: and returns a binary structure which describes it rather than static
+distorm: text, which is great for advanced binary code analysis.
+distorm:
+distorm:
+distorm:
+distorm:
+distorm:
+distorm:
+

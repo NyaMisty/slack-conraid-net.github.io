@@ -1,0 +1,18 @@
+PACKAGE NAME:  safecopy-1.7-x86_64-6cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./safecopy
+PACKAGE SIZE (compressed):  108 K
+PACKAGE SIZE (uncompressed):  1260 K
+PACKAGE DESCRIPTION:
+safecopy: safecopy
+safecopy:
+safecopy: safecopy is a data recovery tool which tries to extract as much data
+safecopy: as possible from a problematic (i.e. damaged sectors) source - like
+safecopy: floppy drives, harddisk partitions, CDs, tape devices, ..., where
+safecopy: other tools like dd would fail doe to I/O errors.
+safecopy:
+safecopy:
+safecopy:
+safecopy:
+safecopy:
+

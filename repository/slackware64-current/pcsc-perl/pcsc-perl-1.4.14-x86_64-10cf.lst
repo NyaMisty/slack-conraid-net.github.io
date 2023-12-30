@@ -1,0 +1,36 @@
+++========================================
+||
+||   Package:  ./pcsc-perl/pcsc-perl-1.4.14-x86_64-10cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-31 10:20 ./
+drwxr-xr-x root/root         0 2022-07-31 10:20 install/
+-rw-r--r-- root/root       760 2022-07-31 10:20 install/slack-desc
+-rw-r--r-- root/root        10 2022-07-31 10:20 install/slack-required
+drwxr-xr-x root/root         0 2022-07-31 10:20 usr/
+drwxr-xr-x root/root         0 2022-07-31 10:20 usr/doc/
+drwxr-xr-x root/root         0 2022-07-31 10:20 usr/doc/pcsc-perl-1.4.14/
+-rw-r--r-- root/root     16970 2015-11-19 17:23 usr/doc/pcsc-perl-1.4.14/Changelog
+-rw-r--r-- root/root     18092 2014-12-05 09:32 usr/doc/pcsc-perl-1.4.14/LICENCE
+-rw-r--r-- root/root       285 2008-03-12 16:36 usr/doc/pcsc-perl-1.4.14/MANIFEST
+-rw-r--r-- root/root      6473 2015-11-19 17:21 usr/doc/pcsc-perl-1.4.14/README
+-rw-r--r-- root/root      3705 2022-07-31 10:20 usr/doc/pcsc-perl-1.4.14/pcsc-perl.SlackBuild
+drwxr-xr-x root/root         0 2022-07-31 10:20 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-31 10:20 usr/lib64/perl5/
+drwxr-xr-x root/root         0 2022-07-31 10:20 usr/lib64/perl5/vendor_perl/
+drwxr-xr-x root/root         0 2022-07-31 10:20 usr/lib64/perl5/vendor_perl/Chipcard/
+drwxr-xr-x root/root         0 2022-07-31 10:20 usr/lib64/perl5/vendor_perl/Chipcard/PCSC/
+-r--r--r-- root/root      8355 2013-04-01 12:23 usr/lib64/perl5/vendor_perl/Chipcard/PCSC.pm
+-r--r--r-- root/root      8033 2010-10-27 09:42 usr/lib64/perl5/vendor_perl/Chipcard/PCSC.pod
+-r--r--r-- root/root     13170 2008-03-26 18:10 usr/lib64/perl5/vendor_perl/Chipcard/PCSC/Card.pm
+-r--r--r-- root/root     15127 2010-10-27 10:15 usr/lib64/perl5/vendor_perl/Chipcard/PCSC/Card.pod
+drwxr-xr-x root/root         0 2022-07-31 10:20 usr/lib64/perl5/vendor_perl/auto/
+drwxr-xr-x root/root         0 2022-07-31 10:20 usr/lib64/perl5/vendor_perl/auto/Chipcard/
+drwxr-xr-x root/root         0 2022-07-31 10:20 usr/lib64/perl5/vendor_perl/auto/Chipcard/PCSC/
+-r-xr-xr-x root/root     43216 2022-07-31 10:20 usr/lib64/perl5/vendor_perl/auto/Chipcard/PCSC/PCSC.so
+drwxr-xr-x root/root         0 2022-07-31 10:20 usr/man/
+drwxr-xr-x root/root         0 2022-07-31 10:20 usr/man/man3/
+-r--r--r-- root/root      3918 2022-07-31 10:20 usr/man/man3/Chipcard::PCSC.3.gz
+-r--r--r-- root/root      5030 2022-07-31 10:19 usr/man/man3/Chipcard::PCSC::Card.3.gz
+
+

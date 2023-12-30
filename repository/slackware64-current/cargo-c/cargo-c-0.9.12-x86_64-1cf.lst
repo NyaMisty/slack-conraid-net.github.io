@@ -1,0 +1,21 @@
+++========================================
+||
+||   Package:  ./cargo-c/cargo-c-0.9.12-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-08-14 10:22 ./
+drwxr-xr-x root/root         0 2022-08-14 10:22 install/
+-rw-r--r-- root/root       721 2022-08-14 10:22 install/slack-desc
+drwxr-xr-x root/root         0 2022-08-14 10:22 usr/
+drwxr-xr-x root/root         0 2022-08-14 10:22 usr/bin/
+-rwxr-xr-x root/root  15283584 2022-08-14 10:22 usr/bin/cargo-capi
+-rwxr-xr-x root/root  15209856 2022-08-14 10:22 usr/bin/cargo-cbuild
+-rwxr-xr-x root/root  15222144 2022-08-14 10:22 usr/bin/cargo-cinstall
+-rwxr-xr-x root/root  15263104 2022-08-14 10:22 usr/bin/cargo-ctest
+drwxr-xr-x root/root         0 2022-08-14 10:22 usr/doc/
+drwxr-xr-x root/root         0 2022-08-14 10:22 usr/doc/cargo-c-0.9.12/
+-rw-r--r-- root/root      1069 2022-08-12 07:03 usr/doc/cargo-c-0.9.12/LICENSE
+-rw-r--r-- root/root      9108 2022-08-12 07:03 usr/doc/cargo-c-0.9.12/README.md
+-rw-r--r-- root/root      4195 2022-08-14 10:22 usr/doc/cargo-c-0.9.12/cargo-c.SlackBuild
+
+

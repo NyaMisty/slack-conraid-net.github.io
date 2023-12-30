@@ -1,0 +1,18 @@
+PACKAGE NAME:  libmemcached-1.0.18-x86_64-19cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./libmemcached
+PACKAGE SIZE (compressed):  332 K
+PACKAGE SIZE (uncompressed):  1310 K
+PACKAGE DESCRIPTION:
+libmemcached: libmemcached
+libmemcached:
+libmemcached: libmemcached is a C and C++ client library to the memcached server.
+libmemcached: It has been designed to be light on memory usage, thread safe, and
+libmemcached: provide full access to server side methods.
+libmemcached:
+libmemcached:
+libmemcached:
+libmemcached:
+libmemcached:
+libmemcached:
+

@@ -1,0 +1,11 @@
+libbfio: libbfio (basic file input/output abstraction)
+libbfio:
+libbfio: libbfio is a library to provide basic file input/output abstraction.
+libbfio:
+libbfio:
+libbfio:
+libbfio:
+libbfio:
+libbfio:
+libbfio:
+libbfio:

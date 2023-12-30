@@ -1,0 +1,59 @@
+++========================================
+||
+||   Package:  ./libotr/libotr-4.1.1-x86_64-4cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-01-01 17:16 ./
+drwxr-xr-x root/root         0 2020-01-01 17:16 install/
+-rw-r--r-- root/root       828 2020-01-01 17:16 install/doinst.sh
+-rw-r--r-- root/root      1096 2020-01-01 17:16 install/slack-desc
+drwxr-xr-x root/root         0 2020-01-01 17:16 usr/
+drwxr-xr-x root/root         0 2020-01-01 17:16 usr/bin/
+-rwxr-xr-x root/root     22464 2020-01-01 17:16 usr/bin/otr_mackey
+-rwxr-xr-x root/root     22464 2020-01-01 17:16 usr/bin/otr_modify
+-rwxr-xr-x root/root     22464 2020-01-01 17:16 usr/bin/otr_parse
+-rwxr-xr-x root/root     38856 2020-01-01 17:16 usr/bin/otr_readforge
+-rwxr-xr-x root/root     22464 2020-01-01 17:16 usr/bin/otr_remac
+-rwxr-xr-x root/root     22464 2020-01-01 17:16 usr/bin/otr_sesskeys
+drwxr-xr-x root/root         0 2020-01-01 17:16 usr/doc/
+drwxr-xr-x root/root         0 2020-01-01 17:16 usr/doc/libotr-4.1.1/
+-rw-r--r-- root/root       230 2015-12-25 18:39 usr/doc/libotr-4.1.1/AUTHORS
+-rw-r--r-- root/root     18014 2015-12-25 18:39 usr/doc/libotr-4.1.1/COPYING
+-rw-r--r-- root/root     26436 2015-12-25 18:39 usr/doc/libotr-4.1.1/COPYING.LIB
+-rw-r--r-- root/root     28839 2016-03-07 14:53 usr/doc/libotr-4.1.1/ChangeLog
+-rw-r--r-- root/root      1401 2015-12-25 18:39 usr/doc/libotr-4.1.1/INSTALL
+-rw-r--r-- root/root     10975 2016-03-07 14:57 usr/doc/libotr-4.1.1/NEWS
+-rw-r--r-- root/root     77996 2016-03-06 14:12 usr/doc/libotr-4.1.1/Protocol-v3.html
+-rw-r--r-- root/root     16120 2016-03-06 14:13 usr/doc/libotr-4.1.1/README
+-rw-r--r-- root/root     22569 2015-12-25 18:39 usr/doc/libotr-4.1.1/UPGRADING
+-rw-r--r-- root/root      3626 2020-01-01 17:16 usr/doc/libotr-4.1.1/libotr.SlackBuild
+drwxr-xr-x root/root         0 2020-01-01 17:16 usr/include/
+drwxr-xr-x root/root         0 2020-01-01 17:16 usr/include/libotr/
+-rw-r--r-- root/root      6565 2020-01-01 17:16 usr/include/libotr/auth.h
+-rw-r--r-- root/root      2560 2020-01-01 17:16 usr/include/libotr/b64.h
+-rw-r--r-- root/root      7862 2020-01-01 17:16 usr/include/libotr/context.h
+-rw-r--r-- root/root      2725 2020-01-01 17:16 usr/include/libotr/context_priv.h
+-rw-r--r-- root/root      3578 2020-01-01 17:16 usr/include/libotr/dh.h
+-rw-r--r-- root/root      3148 2020-01-01 17:16 usr/include/libotr/instag.h
+-rw-r--r-- root/root      1307 2020-01-01 17:16 usr/include/libotr/mem.h
+-rw-r--r-- root/root     19942 2020-01-01 17:16 usr/include/libotr/message.h
+-rw-r--r-- root/root      1544 2020-01-01 17:16 usr/include/libotr/privkey-t.h
+-rw-r--r-- root/root      6841 2020-01-01 17:16 usr/include/libotr/privkey.h
+-rw-r--r-- root/root      6253 2020-01-01 17:16 usr/include/libotr/proto.h
+-rw-r--r-- root/root      3070 2020-01-01 17:16 usr/include/libotr/serial.h
+-rw-r--r-- root/root      3070 2020-01-01 17:16 usr/include/libotr/sm.h
+-rw-r--r-- root/root      2937 2020-01-01 17:16 usr/include/libotr/tlv.h
+-rw-r--r-- root/root      1901 2020-01-01 17:16 usr/include/libotr/userstate.h
+-rw-r--r-- root/root      1131 2020-01-01 17:16 usr/include/libotr/version.h
+drwxr-xr-x root/root         0 2020-01-01 17:16 usr/lib64/
+-rwxr-xr-x root/root    105776 2020-01-01 17:16 usr/lib64/libotr.so.5.1.1
+drwxr-xr-x root/root         0 2020-01-01 17:16 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       237 2020-01-01 17:16 usr/lib64/pkgconfig/libotr.pc
+drwxr-xr-x root/root         0 2020-01-01 17:16 usr/man/
+drwxr-xr-x root/root         0 2020-01-01 17:16 usr/man/man1/
+-rw-r--r-- root/root      1987 2020-01-01 17:16 usr/man/man1/otr_toolkit.1.gz
+drwxr-xr-x root/root         0 2020-01-01 17:16 usr/share/
+drwxr-xr-x root/root         0 2020-01-01 17:16 usr/share/aclocal/
+-rw-r--r-- root/root      4293 2020-01-01 17:16 usr/share/aclocal/libotr.m4
+
+

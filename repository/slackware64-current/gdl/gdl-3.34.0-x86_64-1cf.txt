@@ -1,0 +1,11 @@
+gdl: gdl (GNOME Docking Library)
+gdl:
+gdl: gdl is part of the GNOME Devtools Library package providing a docking
+gdl: system and several utilities useful to GNOME development tools and
+gdl: GNOME applications in general.
+gdl:
+gdl:
+gdl:
+gdl:
+gdl:
+gdl:

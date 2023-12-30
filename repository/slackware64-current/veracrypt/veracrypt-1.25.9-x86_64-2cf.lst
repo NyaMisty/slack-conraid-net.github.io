@@ -1,0 +1,26 @@
+++========================================
+||
+||   Package:  ./veracrypt/veracrypt-1.25.9-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-19 14:07 ./
+drwxr-xr-x root/root         0 2022-07-19 14:07 install/
+-rw-r--r-- root/root       394 2022-07-19 14:07 install/doinst.sh
+-rw-r--r-- root/root      1019 2022-07-19 14:07 install/slack-desc
+-rw-r--r-- root/root         6 2022-07-19 14:07 install/slack-required
+drwxr-xr-x root/root         0 2022-07-19 14:07 usr/
+drwxr-xr-x root/root         0 2022-07-19 14:07 usr/bin/
+-rwxr-xr-x root/root   4593152 2022-07-19 14:06 usr/bin/veracrypt
+-rwxr-xr-x root/root   2611648 2022-07-19 14:07 usr/bin/veracrypt-nox
+drwxr-xr-x root/root         0 2022-07-19 14:07 usr/doc/
+drwxr-xr-x root/root         0 2022-07-19 14:07 usr/doc/veracrypt-1.25.9/
+-rw-r--r-- root/root     39866 2022-02-20 00:16 usr/doc/veracrypt-1.25.9/License.txt
+-rw-r--r-- root/root      4037 2022-07-19 14:07 usr/doc/veracrypt-1.25.9/veracrypt.SlackBuild
+drwxr-xr-x root/root         0 2022-07-19 14:07 usr/share/
+drwxr-xr-x root/root         0 2022-07-19 14:07 usr/share/applications/
+-rw-r--r-- root/root       214 2022-07-19 14:07 usr/share/applications/veracrypt.desktop
+drwxr-xr-x root/root         0 2022-07-19 14:07 usr/share/pixmaps/
+-rw-r--r-- root/root      5932 2022-07-19 14:07 usr/share/pixmaps/veracrypt.png
+-rw-r--r-- root/root    160488 2022-07-19 14:07 usr/share/pixmaps/veracrypt.xpm
+
+

@@ -1,0 +1,11 @@
+wifite: wifite (automated wireless auditor)
+wifite:
+wifite: A tool to attack multiple WEP, WPA and WPS encrypted networks in a
+wifite: row.
+wifite: This tool is customizable to be automated with only a few arguments.
+wifite: Wifite aims to be the "set it and forget it" wireless auditing tool.
+wifite:
+wifite:
+wifite:
+wifite:
+wifite:

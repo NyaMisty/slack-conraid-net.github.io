@@ -1,0 +1,17 @@
+++========================================
+||
+||   Package:  ./gif2apng/gif2apng-1.9-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 11:10 ./
+drwxr-xr-x root/root         0 2020-10-05 11:10 install/
+-rw-r--r-- root/root       742 2020-10-05 11:10 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 11:10 usr/
+drwxr-xr-x root/root         0 2020-10-05 11:10 usr/bin/
+-rwxr-xr-x root/root    133656 2020-10-05 11:10 usr/bin/gif2apng
+drwxr-xr-x root/root         0 2020-10-05 11:10 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 11:10 usr/doc/gif2apng-1.9/
+-rw-r--r-- root/root      2767 2020-10-05 11:10 usr/doc/gif2apng-1.9/gif2apng.SlackBuild
+-rw-r--r-- root/root       660 2013-11-25 20:54 usr/doc/gif2apng-1.9/readme.txt
+
+

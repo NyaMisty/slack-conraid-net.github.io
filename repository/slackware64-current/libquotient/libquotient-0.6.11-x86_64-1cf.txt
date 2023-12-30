@@ -1,0 +1,11 @@
+libquotient: libquotient (QT5 library for Matrix)
+libquotient:
+libquotient: A Qt5 library to write cross-platform clients for Matrix.
+libquotient:
+libquotient:
+libquotient:
+libquotient:
+libquotient:
+libquotient:
+libquotient:
+libquotient:

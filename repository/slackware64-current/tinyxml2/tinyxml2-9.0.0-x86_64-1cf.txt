@@ -1,0 +1,11 @@
+tinyxml2: tinyxml2 (C++ XML Parser)
+tinyxml2:
+tinyxml2: TinyXML-2 is a simple, small, efficient, C++ XML parser that can be
+tinyxml2: easily integrating into other programs.
+tinyxml2:
+tinyxml2:
+tinyxml2:
+tinyxml2:
+tinyxml2:
+tinyxml2:
+tinyxml2:

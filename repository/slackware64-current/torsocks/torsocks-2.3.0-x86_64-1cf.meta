@@ -1,0 +1,18 @@
+PACKAGE NAME:  torsocks-2.3.0-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./torsocks
+PACKAGE SIZE (compressed):  60 K
+PACKAGE SIZE (uncompressed):  190 K
+PACKAGE DESCRIPTION:
+torsocks: torsocks (Wrapper to safely torify applications)
+torsocks:
+torsocks: Torsocks allows you to use most socks-friendly applications in a safe
+torsocks: way with Tor. It ensures that DNS requests are handled safely and
+torsocks: explicitly rejects UDP traffic from the application you're using.
+torsocks:
+torsocks:
+torsocks:
+torsocks:
+torsocks:
+torsocks:
+

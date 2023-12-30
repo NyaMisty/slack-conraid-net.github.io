@@ -1,0 +1,27 @@
+++========================================
+||
+||   Package:  ./atool/atool-0.39.0-x86_64-3cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 10:55 ./
+drwxr-xr-x root/root         0 2020-10-05 10:55 install/
+-rw-r--r-- root/root       946 2020-10-05 10:55 install/doinst.sh
+-rw-r--r-- root/root       714 2020-10-05 10:55 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 10:55 usr/
+drwxr-xr-x root/root         0 2020-10-05 10:55 usr/bin/
+-rwxr-xr-x root/root     78048 2020-10-05 10:55 usr/bin/atool
+drwxr-xr-x root/root         0 2020-10-05 10:55 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 10:55 usr/doc/atool-0.39.0/
+-rw-r--r-- root/root       317 2012-02-21 19:16 usr/doc/atool-0.39.0/AUTHORS
+-rw-r--r-- root/root     35147 2007-07-02 00:55 usr/doc/atool-0.39.0/COPYING
+-rw-r--r-- root/root     12080 2004-07-01 22:35 usr/doc/atool-0.39.0/ChangeLog
+-rw-r--r-- root/root     15578 2010-01-18 07:28 usr/doc/atool-0.39.0/INSTALL
+-rw-r--r-- root/root     16569 2012-04-02 20:12 usr/doc/atool-0.39.0/NEWS
+-rw-r--r-- root/root      8450 2012-02-07 22:20 usr/doc/atool-0.39.0/README
+-rw-r--r-- root/root     14116 2012-02-07 22:20 usr/doc/atool-0.39.0/TODO
+-rw-r--r-- root/root      3600 2020-10-05 10:55 usr/doc/atool-0.39.0/atool.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 10:55 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 10:55 usr/man/man1/
+-rw-r--r-- root/root      7764 2020-10-05 10:55 usr/man/man1/atool.1.gz
+
+

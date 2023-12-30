@@ -1,0 +1,21 @@
+PACKAGE NAME:  perl-io-tty-1.17-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./perl-io-tty
+PACKAGE SIZE (compressed):  32 K
+PACKAGE SIZE (uncompressed):  110 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+perl-io-tty: perl-io-tty (Pseudo TTY object class)
+perl-io-tty:
+perl-io-tty: Perl extension that provides an interface to allow the creation of a
+perl-io-tty: pseudo tty.
+perl-io-tty:
+perl-io-tty:
+perl-io-tty:
+perl-io-tty:
+perl-io-tty:
+perl-io-tty:
+perl-io-tty:
+

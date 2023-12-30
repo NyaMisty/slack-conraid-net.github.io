@@ -1,0 +1,18 @@
+PACKAGE NAME:  hping-3.0.0_git-x86_64-15cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./hping
+PACKAGE SIZE (compressed):  84 K
+PACKAGE SIZE (uncompressed):  230 K
+PACKAGE DESCRIPTION:
+hping: hping (TCP/IP packet assembler/analyzer)
+hping:
+hping: hping interface is inspired to the ping(8) unix command, but it isn't
+hping: only able to send ICMP echo requests. It supports TCP, UDP, ICMP and
+hping: RAW-IP protocols, has a traceroute mode, the ability to send files
+hping: between a covered channel, and many other features.
+hping:
+hping:
+hping:
+hping:
+hping:
+

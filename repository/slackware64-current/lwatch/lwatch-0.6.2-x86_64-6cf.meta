@@ -1,0 +1,18 @@
+PACKAGE NAME:  lwatch-0.6.2-x86_64-6cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./lwatch
+PACKAGE SIZE (compressed):  36 K
+PACKAGE SIZE (uncompressed):  120 K
+PACKAGE DESCRIPTION:
+lwatch: lwatch (Colourizing a system logs for easier reading)
+lwatch:
+lwatch: lwatch is a log parser/analyzer written in C with the PCRE library.
+lwatch: It is small and efficient. You are able to define your own colors
+lwatch: using regexp patterns. The biggest advantage compared to other tools
+lwatch: written in Perl is its speed.
+lwatch:
+lwatch:
+lwatch:
+lwatch:
+lwatch:
+

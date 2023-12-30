@@ -1,0 +1,38 @@
+++========================================
+||
+||   Package:  ./faad2/faad2-2.10.0-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-21 08:47 ./
+drwxr-xr-x root/root         0 2020-10-21 08:47 install/
+-rw-r--r-- root/root       519 2020-10-21 08:47 install/doinst.sh
+-rw-r--r-- root/root       689 2020-10-21 08:47 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-21 08:47 usr/
+drwxr-xr-x root/root         0 2020-10-21 08:47 usr/bin/
+-rwxr-xr-x root/root     49040 2020-10-21 08:47 usr/bin/faad
+drwxr-xr-x root/root         0 2020-10-21 08:47 usr/doc/
+drwxr-xr-x root/root         0 2020-10-21 08:47 usr/doc/faad2-2.10.0/
+-rw-r--r-- root/root       312 2020-10-20 08:24 usr/doc/faad2-2.10.0/AUTHORS
+-rw-r--r-- root/root     95744 2020-10-20 08:24 usr/doc/faad2-2.10.0/Ahead AAC Decoder library documentation.doc
+-rw-r--r-- root/root     29697 2020-10-20 08:24 usr/doc/faad2-2.10.0/Ahead AAC Decoder library documentation.pdf
+-rw-r--r-- root/root     18272 2020-10-20 08:24 usr/doc/faad2-2.10.0/COPYING
+-rw-r--r-- root/root      3674 2020-10-20 08:24 usr/doc/faad2-2.10.0/ChangeLog
+-rw-r--r-- root/root        99 2020-10-20 08:24 usr/doc/faad2-2.10.0/NEWS
+-rw-r--r-- root/root      2754 2020-10-20 08:24 usr/doc/faad2-2.10.0/README
+-rw-r--r-- root/root       435 2020-10-20 08:24 usr/doc/faad2-2.10.0/README.linux
+-rw-r--r-- root/root        15 2020-10-20 08:24 usr/doc/faad2-2.10.0/TODO
+-rw-r--r-- root/root      3613 2020-10-21 08:47 usr/doc/faad2-2.10.0/faad2.SlackBuild
+-rw-r--r-- root/root     13291 2020-10-20 08:24 usr/doc/faad2-2.10.0/libfaad.3
+drwxr-xr-x root/root         0 2020-10-21 08:47 usr/include/
+-rw-r--r-- root/root      1456 2020-10-21 08:47 usr/include/faad.h
+-rw-r--r-- root/root      8676 2020-10-21 08:47 usr/include/neaacdec.h
+drwxr-xr-x root/root         0 2020-10-21 08:47 usr/lib64/
+-rwxr-xr-x root/root    264496 2020-10-21 08:47 usr/lib64/libfaad.so.2.0.0
+-rwxr-xr-x root/root    256304 2020-10-21 08:47 usr/lib64/libfaad_drm.so.2.0.0
+drwxr-xr-x root/root         0 2020-10-21 08:47 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       228 2020-10-21 08:47 usr/lib64/pkgconfig/faad2.pc
+drwxr-xr-x root/root         0 2020-10-21 08:47 usr/man/
+drwxr-xr-x root/root         0 2020-10-21 08:47 usr/man/man1/
+-rw-r--r-- root/root       964 2020-10-21 08:47 usr/man/man1/faad.1.gz
+
+

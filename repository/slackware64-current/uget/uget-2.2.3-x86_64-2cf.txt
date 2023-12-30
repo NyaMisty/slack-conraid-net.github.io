@@ -1,0 +1,11 @@
+uget: uget (Download Manager)
+uget:
+uget: uGet is a lightweight and full-featured Download Manager for Linux
+uget: and Windows. uGet allows you to download in multiple parallel streams
+uget: for download acceleration, put files in a Download Queue, Pause & 
+uget: Resume downloads, Advanced Category Management, Browser Integration,
+uget: Clipboard Monitoring, Batch Downloads, and many more features.
+uget:
+uget:
+uget:
+uget:

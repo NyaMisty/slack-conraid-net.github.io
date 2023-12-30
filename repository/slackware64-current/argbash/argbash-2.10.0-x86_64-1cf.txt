@@ -1,0 +1,11 @@
+argbash: argbash (Bash argument parsing code generator)
+argbash:
+argbash: Argbash is not a parsing library, but it is rather a code generator.
+argbash: It lets you to describe arguments your script should take and then,
+argbash: you can generate BASH code that you can include in your script.
+argbash:
+argbash:
+argbash:
+argbash:
+argbash:
+argbash:

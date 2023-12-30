@@ -1,0 +1,12 @@
+luajit: luajit (Just-In-Time Compiler for Lua)
+luajit:
+luajit: LuaJIT is a Just-In-Time Compiler (JIT) for the Lua programming
+luajit: language. Lua is a powerful, dynamic and light-weight programming
+luajit: language
+luajit:
+luajit:
+luajit:
+luajit:
+luajit:
+luajit:
+luajit:

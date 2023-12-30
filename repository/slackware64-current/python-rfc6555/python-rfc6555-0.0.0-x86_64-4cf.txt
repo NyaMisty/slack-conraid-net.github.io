@@ -1,0 +1,11 @@
+python-rfc6555: python-rfc6555 (Python implementation of the Happy Eyeballs Algorithm)
+python-rfc6555:
+python-rfc6555: Python implementation of the Happy Eyeballs Algorithm described in
+python-rfc6555: RFC 6555. Provided with a single file and dead-simple API to allow
+python-rfc6555: easy vendoring and integration into other projects.
+python-rfc6555:
+python-rfc6555:
+python-rfc6555:
+python-rfc6555:
+python-rfc6555:
+python-rfc6555:

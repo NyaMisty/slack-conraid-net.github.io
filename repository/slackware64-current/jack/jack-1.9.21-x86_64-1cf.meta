@@ -1,0 +1,18 @@
+PACKAGE NAME:  jack-1.9.21-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./jack
+PACKAGE SIZE (compressed):  464 K
+PACKAGE SIZE (uncompressed):  2110 K
+PACKAGE DESCRIPTION:
+jack: jack (Jack Sound Server)
+jack:
+jack: JACK is a low-latency audio server written mainly for Linux.
+jack: It can connect a number of different applications to an audio
+jack: device as well as allow them to share audio among themselves.
+jack:
+jack:
+jack:
+jack:
+jack:
+jack:
+

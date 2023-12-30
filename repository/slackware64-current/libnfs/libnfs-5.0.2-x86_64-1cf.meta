@@ -1,0 +1,21 @@
+PACKAGE NAME:  libnfs-5.0.2-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./libnfs
+PACKAGE SIZE (compressed):  144 K
+PACKAGE SIZE (uncompressed):  790 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+libnfs: libnfs (NFS client library)
+libnfs:
+libnfs: LIBNFS is a client library for accessing NFS shares over a network.
+libnfs:
+libnfs:
+libnfs:
+libnfs:
+libnfs:
+libnfs:
+libnfs:
+libnfs:
+

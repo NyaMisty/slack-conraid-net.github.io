@@ -1,0 +1,18 @@
+++========================================
+||
+||   Package:  ./ecryptfs-simple/ecryptfs-simple-2017-x86_64-3cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 11:06 ./
+drwxr-xr-x root/root         0 2020-10-05 11:06 install/
+-rw-r--r-- root/root      1138 2020-10-05 11:06 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 11:06 usr/
+drwxr-xr-x root/root         0 2020-10-05 11:06 usr/bin/
+-rwsr-xr-x root/root     40584 2020-10-05 11:06 usr/bin/ecryptfs-simple
+drwxr-xr-x root/root         0 2020-10-05 11:06 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 11:06 usr/doc/ecryptfs-simple-2017/
+-rw-r--r-- root/root       940 2017-07-03 12:26 usr/doc/ecryptfs-simple-2017/CHANGELOG
+-rw-r--r-- root/root     17972 2017-07-03 12:26 usr/doc/ecryptfs-simple-2017/COPYING
+-rw-r--r-- root/root      3426 2020-10-05 11:06 usr/doc/ecryptfs-simple-2017/ecryptfs-simple.SlackBuild
+
+

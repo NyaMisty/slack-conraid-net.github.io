@@ -1,0 +1,11 @@
+scour: scour (SVG scrubber)
+scour:
+scour: Scour is a Python tool that takes an SVG file and produces a cleaner
+scour: and more concise file. It is intended to be used after exporting to
+scout: SVG with a GUI editor, such as Inkscape.
+scour:
+scour:
+scour:
+scour:
+scour:
+scour:

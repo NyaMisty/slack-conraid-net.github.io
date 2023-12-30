@@ -1,0 +1,54 @@
+++========================================
+||
+||   Package:  ./python-rfc3986/python-rfc3986-2.0.0-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-01-11 15:28 ./
+drwxr-xr-x root/root         0 2022-01-11 15:28 install/
+-rw-r--r-- root/root       779 2022-01-11 15:28 install/slack-desc
+drwxr-xr-x root/root         0 2022-01-11 15:28 usr/
+drwxr-xr-x root/root         0 2022-01-11 15:28 usr/doc/
+drwxr-xr-x root/root         0 2022-01-11 15:28 usr/doc/python-rfc3986-2.0.0/
+-rw-r--r-- root/root       223 2018-12-04 15:03 usr/doc/python-rfc3986-2.0.0/AUTHORS.rst
+-rw-r--r-- root/root       564 2017-01-19 15:23 usr/doc/python-rfc3986-2.0.0/LICENSE
+-rw-r--r-- root/root      5605 2022-01-09 17:00 usr/doc/python-rfc3986-2.0.0/README.rst
+-rw-r--r-- root/root      3426 2022-01-11 15:28 usr/doc/python-rfc3986-2.0.0/python-rfc3986.SlackBuild
+drwxr-xr-x root/root         0 2022-01-11 15:28 usr/lib64/
+drwxr-xr-x root/root         0 2022-01-11 15:28 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-01-11 15:28 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-01-11 15:28 usr/lib64/python3.9/site-packages/rfc3986/
+drwxr-xr-x root/root         0 2022-01-11 15:28 usr/lib64/python3.9/site-packages/rfc3986-2.0.0-py3.9.egg-info/
+-rw-r--r-- root/root      6588 2022-01-11 15:28 usr/lib64/python3.9/site-packages/rfc3986-2.0.0-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root      1891 2022-01-11 15:28 usr/lib64/python3.9/site-packages/rfc3986-2.0.0-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2022-01-11 15:28 usr/lib64/python3.9/site-packages/rfc3986-2.0.0-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root        17 2022-01-11 15:28 usr/lib64/python3.9/site-packages/rfc3986-2.0.0-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root         8 2022-01-11 15:28 usr/lib64/python3.9/site-packages/rfc3986-2.0.0-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root      1565 2022-01-10 01:37 usr/lib64/python3.9/site-packages/rfc3986/__init__.py
+drwxr-xr-x root/root         0 2022-01-11 15:28 usr/lib64/python3.9/site-packages/rfc3986/__pycache__/
+-rw-r--r-- root/root      1013 2022-01-11 15:28 usr/lib64/python3.9/site-packages/rfc3986/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root     10608 2022-01-11 15:28 usr/lib64/python3.9/site-packages/rfc3986/__pycache__/_mixin.cpython-39.pyc
+-rw-r--r-- root/root      4071 2022-01-11 15:28 usr/lib64/python3.9/site-packages/rfc3986/__pycache__/abnf_regexp.cpython-39.pyc
+-rw-r--r-- root/root      3653 2022-01-11 15:28 usr/lib64/python3.9/site-packages/rfc3986/__pycache__/api.cpython-39.pyc
+-rw-r--r-- root/root     11105 2022-01-11 15:28 usr/lib64/python3.9/site-packages/rfc3986/__pycache__/builder.cpython-39.pyc
+-rw-r--r-- root/root      1171 2022-01-11 15:28 usr/lib64/python3.9/site-packages/rfc3986/__pycache__/compat.cpython-39.pyc
+-rw-r--r-- root/root      4636 2022-01-11 15:28 usr/lib64/python3.9/site-packages/rfc3986/__pycache__/exceptions.cpython-39.pyc
+-rw-r--r-- root/root      4393 2022-01-11 15:28 usr/lib64/python3.9/site-packages/rfc3986/__pycache__/iri.cpython-39.pyc
+-rw-r--r-- root/root      2200 2022-01-11 15:28 usr/lib64/python3.9/site-packages/rfc3986/__pycache__/misc.cpython-39.pyc
+-rw-r--r-- root/root      3518 2022-01-11 15:28 usr/lib64/python3.9/site-packages/rfc3986/__pycache__/normalizers.cpython-39.pyc
+-rw-r--r-- root/root      9838 2022-01-11 15:28 usr/lib64/python3.9/site-packages/rfc3986/__pycache__/parseresult.cpython-39.pyc
+-rw-r--r-- root/root      4203 2022-01-11 15:28 usr/lib64/python3.9/site-packages/rfc3986/__pycache__/uri.cpython-39.pyc
+-rw-r--r-- root/root     12870 2022-01-11 15:28 usr/lib64/python3.9/site-packages/rfc3986/__pycache__/validators.cpython-39.pyc
+-rw-r--r-- root/root     13297 2022-01-09 17:00 usr/lib64/python3.9/site-packages/rfc3986/_mixin.py
+-rw-r--r-- root/root      9048 2022-01-09 17:00 usr/lib64/python3.9/site-packages/rfc3986/abnf_regexp.py
+-rw-r--r-- root/root      3862 2022-01-09 17:00 usr/lib64/python3.9/site-packages/rfc3986/api.py
+-rw-r--r-- root/root     12709 2022-01-09 17:00 usr/lib64/python3.9/site-packages/rfc3986/builder.py
+-rw-r--r-- root/root      1620 2022-01-09 17:00 usr/lib64/python3.9/site-packages/rfc3986/compat.py
+-rw-r--r-- root/root      3614 2022-01-09 17:00 usr/lib64/python3.9/site-packages/rfc3986/exceptions.py
+-rw-r--r-- root/root      5477 2022-01-09 17:00 usr/lib64/python3.9/site-packages/rfc3986/iri.py
+-rw-r--r-- root/root      4114 2022-01-09 17:00 usr/lib64/python3.9/site-packages/rfc3986/misc.py
+-rw-r--r-- root/root      5261 2022-01-09 17:00 usr/lib64/python3.9/site-packages/rfc3986/normalizers.py
+-rw-r--r-- root/root     14599 2022-01-09 17:00 usr/lib64/python3.9/site-packages/rfc3986/parseresult.py
+-rw-r--r-- root/root      5183 2022-01-09 17:00 usr/lib64/python3.9/site-packages/rfc3986/uri.py
+-rw-r--r-- root/root     13676 2022-01-09 17:00 usr/lib64/python3.9/site-packages/rfc3986/validators.py
+
+

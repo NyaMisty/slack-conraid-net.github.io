@@ -1,0 +1,18 @@
+PACKAGE NAME:  xclip-0.13-x86_64-4cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./xclip
+PACKAGE SIZE (compressed):  28 K
+PACKAGE SIZE (uncompressed):  80 K
+PACKAGE DESCRIPTION:
+xclip: xclip (Command line interface to the X11 clipboard)
+xclip:
+xclip: xclip is a command line interface to the X11 clipboard. It can also
+xclip: be used for copying files, as an alternative to sftp/scp, thus
+xclip: avoiding password prompts when X11 forwarding has already been setup.
+xclip:
+xclip:
+xclip:
+xclip:
+xclip:
+xclip:
+

@@ -1,0 +1,18 @@
+PACKAGE NAME:  libdbi-0.9.0-x86_64-5cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./libdbi
+PACKAGE SIZE (compressed):  660 K
+PACKAGE SIZE (uncompressed):  2080 K
+PACKAGE DESCRIPTION:
+libdbi: libdbi (Database Independent Abstraction Layer for C)
+libdbi:
+libdbi: libdbi implements a database-independent abstraction layer in C,
+libdbi: similar to the DBI/DBD layer in Perl. Writing one generic set
+libdbi: set of code, programmers can leverage the power of multiple
+libdbi: databases and multiple simultaneous database connections by using
+libdbi: this framework.
+libdbi:
+libdbi:
+libdbi:
+libdbi:
+

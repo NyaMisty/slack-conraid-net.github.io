@@ -1,0 +1,18 @@
+PACKAGE NAME:  gts-0.7.6-x86_64-5cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./gts
+PACKAGE SIZE (compressed):  200 K
+PACKAGE SIZE (uncompressed):  750 K
+PACKAGE DESCRIPTION:
+gts: gts (GNU Triangulated Surface Library)
+gts:
+gts: GTS provides a set of useful functions to deal with 3D surfaces
+gts: meshed with interconnected triangles including collision detection,
+gts: multiresolution models, constrained Delaunay triangulations and
+gts: robust set operations (union, intersection, differences).
+gts:
+gts:
+gts:
+gts:
+gts:
+

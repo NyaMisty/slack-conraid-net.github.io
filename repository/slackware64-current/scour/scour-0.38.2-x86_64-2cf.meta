@@ -1,0 +1,18 @@
+PACKAGE NAME:  scour-0.38.2-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./scour
+PACKAGE SIZE (compressed):  88 K
+PACKAGE SIZE (uncompressed):  370 K
+PACKAGE DESCRIPTION:
+scour: scour (SVG scrubber)
+scour:
+scour: Scour is a Python tool that takes an SVG file and produces a cleaner
+scour: and more concise file. It is intended to be used after exporting to
+scout: SVG with a GUI editor, such as Inkscape.
+scour:
+scour:
+scour:
+scour:
+scour:
+scour:
+

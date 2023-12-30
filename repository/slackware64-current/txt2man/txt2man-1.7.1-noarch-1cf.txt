@@ -1,0 +1,11 @@
+txt2man: txt2man (converts text to man page)
+txt2man:
+txt2man: Txt2man converts flat ASCII text to man page format. It is a shell
+txt2man: script using gnu awk, that should run on any Unix like system.
+txt2man:
+txt2man:
+txt2man:
+txt2man:
+txt2man:
+txt2man:
+txt2man:

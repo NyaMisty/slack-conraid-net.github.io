@@ -1,0 +1,18 @@
+PACKAGE NAME:  node-purifycss-1.2.6-x86_64-3cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./node-purifycss
+PACKAGE SIZE (compressed):  624 K
+PACKAGE SIZE (uncompressed):  4580 K
+PACKAGE DESCRIPTION:
+node-purifycss: purifycss (Remove unused CSS. Also works with single-page apps)
+node-purifycss:
+node-purifycss: A function that takes content (HTML/JS/PHP/etc) and CSS, and returns
+node:purifycss: only the used CSS. PurifyCSS does not modify the original CSS files.
+node:purifycss: You can write to a new file, like minification.
+node:purifycss: If your application is using a CSS framework, this is especially
+node:purifycss: useful as many selectors are often unused.
+node-purifycss:
+node-purifycss:
+node-purifycss:
+node-purifycss:
+

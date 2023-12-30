@@ -1,0 +1,29 @@
+++========================================
+||
+||   Package:  ./ophcrack/ophcrack-3.8.0-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-12-29 14:21 ./
+drwxr-xr-x root/root         0 2020-12-29 14:21 install/
+-rw-r--r-- root/root       329 2020-12-29 14:21 install/doinst.sh
+-rw-r--r-- root/root       867 2020-12-29 14:21 install/slack-desc
+drwxr-xr-x root/root         0 2020-12-29 14:21 usr/
+drwxr-xr-x root/root         0 2020-12-29 14:21 usr/bin/
+-rwxr-xr-x root/root    428032 2020-12-29 14:21 usr/bin/ophcrack
+drwxr-xr-x root/root         0 2020-12-29 14:21 usr/doc/
+drwxr-xr-x root/root         0 2020-12-29 14:21 usr/doc/ophcrack-3.8.0/
+-rw-r--r-- root/root       125 2018-03-06 16:11 usr/doc/ophcrack-3.8.0/AUTHORS
+-rw-r--r-- root/root     18001 2018-03-06 16:11 usr/doc/ophcrack-3.8.0/COPYING
+-rw-r--r-- root/root      6117 2018-03-06 16:11 usr/doc/ophcrack-3.8.0/ChangeLog
+-rw-r--r-- root/root      7831 2018-03-06 16:11 usr/doc/ophcrack-3.8.0/INSTALL
+-rw-r--r-- root/root      1170 2018-03-06 16:11 usr/doc/ophcrack-3.8.0/LICENSE
+-rw-r--r-- root/root      6279 2018-03-06 16:11 usr/doc/ophcrack-3.8.0/LICENSE.OpenSSL
+-rw-r--r-- root/root        41 2018-03-06 16:11 usr/doc/ophcrack-3.8.0/NEWS
+-rw-r--r-- root/root      3693 2020-12-29 14:21 usr/doc/ophcrack-3.8.0/ophcrack.SlackBuild
+drwxr-xr-x root/root         0 2020-12-29 14:21 usr/share/
+drwxr-xr-x root/root         0 2020-12-29 14:21 usr/share/applications/
+-rwxr--r-- root/root       153 2020-12-29 14:21 usr/share/applications/ophcrack.desktop
+drwxr-xr-x root/root         0 2020-12-29 14:21 usr/share/pixmaps/
+-rwxr--r-- root/root      1450 2020-12-29 14:21 usr/share/pixmaps/ophcrack.png
+
+

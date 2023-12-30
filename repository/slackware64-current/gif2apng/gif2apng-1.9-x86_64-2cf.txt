@@ -1,0 +1,11 @@
+gif2apng: gif2apng (gif animations to Animated PNG)
+gif2apng:
+gif2apng: This program converts GIF animations into animated PNG format.
+gif2apng: Usually it makes the files smaller.
+gif2apng:
+gif2apng:
+gif2apng:
+gif2apng:
+gif2apng:
+gif2apng:
+gif2apng:

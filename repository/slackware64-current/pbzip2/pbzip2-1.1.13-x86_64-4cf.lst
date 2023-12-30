@@ -1,0 +1,23 @@
+++========================================
+||
+||   Package:  ./pbzip2/pbzip2-1.1.13-x86_64-4cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 12:24 ./
+drwxr-xr-x root/root         0 2020-10-05 12:24 install/
+-rw-r--r-- root/root       861 2020-10-05 12:24 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 12:24 usr/
+drwxr-xr-x root/root         0 2020-10-05 12:24 usr/bin/
+-rwxr-xr-x root/root     68432 2020-10-05 12:24 usr/bin/pbzip2
+drwxr-xr-x root/root         0 2020-10-05 12:24 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 12:24 usr/doc/pbzip2-1.1.13/
+-rw-r--r-- root/root      4273 2015-12-18 00:32 usr/doc/pbzip2-1.1.13/AUTHORS
+-rw-r--r-- root/root      1807 2015-12-18 00:32 usr/doc/pbzip2-1.1.13/COPYING
+-rw-r--r-- root/root     11412 2015-12-18 00:32 usr/doc/pbzip2-1.1.13/ChangeLog
+-rw-r--r-- root/root      8606 2015-12-18 00:32 usr/doc/pbzip2-1.1.13/README
+-rw-r--r-- root/root      2815 2020-10-05 12:24 usr/doc/pbzip2-1.1.13/pbzip2.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 12:24 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 12:24 usr/man/man1/
+-rw-r--r-- root/root      2149 2020-10-05 12:24 usr/man/man1/pbzip2.1.gz
+
+

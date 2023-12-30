@@ -1,0 +1,11 @@
+tcpick: tcpick (tcp stream tracker and sniffer)
+tcpick:
+tcpick: tcpick is a textmode sniffer libpcap-based that can track tcp streams
+tcpick: and saves the captured data in files or displays them in the terminal.
+tcpick: Useful for picking files in a passive way on eth and ppp interfaces.
+tcpick: It can store all connections in different files, and there are useful
+tcpick: display modes like hexdump, hexdump + ascii, only-printable etc.
+tcpick:
+tcpick:
+tcpick:
+tcpick:

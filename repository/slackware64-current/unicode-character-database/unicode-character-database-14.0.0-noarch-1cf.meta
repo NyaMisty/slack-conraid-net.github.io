@@ -1,0 +1,18 @@
+PACKAGE NAME:  unicode-character-database-14.0.0-noarch-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./unicode-character-database
+PACKAGE SIZE (compressed):  9168 K
+PACKAGE SIZE (uncompressed):  69540 K
+PACKAGE DESCRIPTION:
+unicode-character-database: unicode-character-database (unicode database)
+unicode-character-database:
+unicode-character-database: The Unicode Character Database (UCD) consists of a number of data
+unicode-character-database: files listing Unicode character properties and related data.
+unicode-character-database:
+unicode-character-database: It also includes data files containing test data for conformance to
+unicode-character-database: seve
+unicode-character-database:
+unicode-character-database:
+unicode-character-database:
+unicode-character-database:
+

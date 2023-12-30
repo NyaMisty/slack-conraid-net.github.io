@@ -1,0 +1,27 @@
+++========================================
+||
+||   Package:  ./httperf/httperf-de8cd6a-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-12-07 09:59 ./
+drwxr-xr-x root/root         0 2020-12-07 09:59 install/
+-rw-r--r-- root/root       783 2020-12-07 09:59 install/slack-desc
+drwxr-xr-x root/root         0 2020-12-07 09:59 usr/
+drwxr-xr-x root/root         0 2020-12-07 09:59 usr/bin/
+-rwxr-xr-x root/root     91512 2020-12-07 09:59 usr/bin/httperf
+-rwxr-xr-x root/root     14536 2020-12-07 09:59 usr/bin/idleconn
+drwxr-xr-x root/root         0 2020-12-07 09:59 usr/doc/
+drwxr-xr-x root/root         0 2020-12-07 09:59 usr/doc/httperf-de8cd6a/
+-rwxr-xr-x root/root       465 2020-12-06 17:00 usr/doc/httperf-de8cd6a/AUTHORS
+-rwxr-xr-x root/root     15132 2020-12-06 17:00 usr/doc/httperf-de8cd6a/COPYRIGHT
+-rwxr-xr-x root/root     31311 2020-12-06 17:00 usr/doc/httperf-de8cd6a/ChangeLog
+-rwxr-xr-x root/root      2817 2020-12-06 17:00 usr/doc/httperf-de8cd6a/NEWS
+-rwxr-xr-x root/root     18713 2020-12-06 17:00 usr/doc/httperf-de8cd6a/README.md
+-rwxr-xr-x root/root      1607 2020-12-06 17:00 usr/doc/httperf-de8cd6a/TODO
+-rw-r--r-- root/root      3873 2020-12-07 09:59 usr/doc/httperf-de8cd6a/httperf.SlackBuild
+drwxr-xr-x root/root         0 2020-12-07 09:59 usr/man/
+drwxr-xr-x root/root         0 2020-12-07 09:59 usr/man/man1/
+-rw-r--r-- root/root     13942 2020-12-07 09:59 usr/man/man1/httperf.1.gz
+-rw-r--r-- root/root       851 2020-12-07 09:59 usr/man/man1/idleconn.1.gz
+
+

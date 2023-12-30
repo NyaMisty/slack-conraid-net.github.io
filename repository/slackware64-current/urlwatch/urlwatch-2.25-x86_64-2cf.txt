@@ -1,0 +1,11 @@
+urlwatch: urlwatch (Watch web pages and arbitrary URLs for changes)
+urlwatch:
+urlwatch: This script is intended to help you watch URLs and get notified
+urlwatch: (via email or in your terminal) of any changes.
+urlwatch:
+urlwatch:
+urlwatch:
+urlwatch:
+urlwatch:
+urlwatch:
+urlwatch:

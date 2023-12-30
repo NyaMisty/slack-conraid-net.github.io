@@ -1,0 +1,21 @@
+PACKAGE NAME:  gsm-1.0.22-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./gsm
+PACKAGE SIZE (compressed):  48 K
+PACKAGE SIZE (uncompressed):  160 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+gsm: gsm (Lossy speech compression library and tool)
+gsm:
+gsm: gsm contains command line utilities for libgsm, an implementation
+gsm: of the European GSM 06.10 provisional standard for full-rate speech
+gsm: transcoding, prI-ETS 300 036, which uses RPE/LTP (residual pulse
+gsm: excitation/long term prediction) coding at 13 kbit/s.
+gsm:
+gsm:
+gsm:
+gsm:
+gsm:
+

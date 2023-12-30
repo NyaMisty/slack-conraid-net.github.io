@@ -1,0 +1,11 @@
+bonnie++: bonnie++ (a system benchmarking tool)
+bonnie++:
+bonnie++: This benchmark is named Bonnie++ - it is based on the
+bonnie++: Bonnie benchmark written by Tim Bray.
+bonnie++: Bonnie++ adds the facility to test more than 2G of storage on a
+bonnie++: on a 32bit machine, and tests for file creat(), stat(), unlink()
+bonnie++: operations.
+bonnie++:
+bonnie++: THIS IS EXPERIMENTAL RELEASE
+bonnie++:
+bonnie++:

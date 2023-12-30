@@ -1,0 +1,18 @@
+PACKAGE NAME:  scanmem-0.17-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./scanmem
+PACKAGE SIZE (compressed):  132 K
+PACKAGE SIZE (uncompressed):  790 K
+PACKAGE DESCRIPTION:
+scanmem: scanmem (memory scanner for Linux)
+scanmem:
+scanmem: scanmem is a debugging utility designed to isolate the address of an 
+scanmem: arbitrary variable in an executing process.
+scanmem: scanmem simply needs to be told the pid of the process, and the
+scanmem: value of the variable at several different times.
+scanmem:
+scanmem:
+scanmem:
+scanmem:
+scanmem:
+

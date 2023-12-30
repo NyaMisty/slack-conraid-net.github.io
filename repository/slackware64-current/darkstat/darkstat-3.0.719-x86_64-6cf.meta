@@ -1,0 +1,18 @@
+PACKAGE NAME:  darkstat-3.0.719-x86_64-6cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./darkstat
+PACKAGE SIZE (compressed):  60 K
+PACKAGE SIZE (uncompressed):  160 K
+PACKAGE DESCRIPTION:
+darkstat: darkstat (packet sniffing daemon that serves statistics over HTTP) 
+darkstat:
+darkstat: Traffic graphs, and reports per host, showing each port for each host.
+darkstat: Embedded web-server with deflate compression. 
+darkstat: Asynchronous reverse DNS resolution using a child process. 
+darkstat: Small. Portable. Single-threaded. Efficient. Uncomplicated. 
+darkstat:
+darkstat:
+darkstat:
+darkstat:
+darkstat:
+

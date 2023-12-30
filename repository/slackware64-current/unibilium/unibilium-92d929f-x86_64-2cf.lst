@@ -1,0 +1,81 @@
+++========================================
+||
+||   Package:  ./unibilium/unibilium-92d929f-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-06-03 10:20 ./
+drwxr-xr-x root/root         0 2021-06-03 10:20 install/
+-rw-r--r-- root/root       216 2021-06-03 10:20 install/doinst.sh
+-rw-r--r-- root/root       815 2021-06-03 10:20 install/slack-desc
+drwxr-xr-x root/root         0 2021-06-03 10:20 usr/
+drwxr-xr-x root/root         0 2021-06-03 10:20 usr/doc/
+drwxr-xr-x root/root         0 2021-06-03 10:20 usr/doc/unibilium-92d929f/
+-rw-r--r-- root/root      1999 2019-08-11 20:32 usr/doc/unibilium-92d929f/Changes
+-rw-r--r-- root/root     35147 2019-08-11 20:32 usr/doc/unibilium-92d929f/GPLv3
+-rw-r--r-- root/root      7639 2019-08-11 20:32 usr/doc/unibilium-92d929f/LGPLv3
+-rw-r--r-- root/root       405 2019-08-11 20:32 usr/doc/unibilium-92d929f/LICENSE
+-rw-r--r-- root/root      3460 2021-06-03 10:20 usr/doc/unibilium-92d929f/unibilium.SlackBuild
+drwxr-xr-x root/root         0 2021-06-03 10:20 usr/include/
+-rw-r--r-- root/root     16013 2021-06-03 10:20 usr/include/unibilium.h
+drwxr-xr-x root/root         0 2021-06-03 10:20 usr/lib64/
+-rw-r--r-- root/root     90738 2021-06-03 10:20 usr/lib64/libunibilium.a
+-rwxr-xr-x root/root     80160 2021-06-03 10:20 usr/lib64/libunibilium.so.4.0.0
+drwxr-xr-x root/root         0 2021-06-03 10:20 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       198 2021-06-03 10:20 usr/lib64/pkgconfig/unibilium.pc
+drwxr-xr-x root/root         0 2021-06-03 10:20 usr/man/
+drwxr-xr-x root/root         0 2021-06-03 10:20 usr/man/man3/
+-rw-r--r-- root/root      2199 2021-06-03 10:20 usr/man/man3/unibi_add_ext_bool.3.gz
+-rw-r--r-- root/root      2200 2021-06-03 10:20 usr/man/man3/unibi_add_ext_num.3.gz
+-rw-r--r-- root/root      2201 2021-06-03 10:20 usr/man/man3/unibi_add_ext_str.3.gz
+-rw-r--r-- root/root      2008 2021-06-03 10:20 usr/man/man3/unibi_count_ext_bool.3.gz
+-rw-r--r-- root/root      2008 2021-06-03 10:20 usr/man/man3/unibi_count_ext_num.3.gz
+-rw-r--r-- root/root      2009 2021-06-03 10:20 usr/man/man3/unibi_count_ext_str.3.gz
+-rw-r--r-- root/root      2058 2021-06-03 10:20 usr/man/man3/unibi_del_ext_bool.3.gz
+-rw-r--r-- root/root      1940 2021-06-03 10:20 usr/man/man3/unibi_destroy.3.gz
+-rw-r--r-- root/root      2039 2021-06-03 10:20 usr/man/man3/unibi_dummy.3.gz
+-rw-r--r-- root/root      2398 2021-06-03 10:20 usr/man/man3/unibi_dump.3.gz
+-rw-r--r-- root/root      2794 2021-06-03 10:20 usr/man/man3/unibi_format.3.gz
+-rw-r--r-- root/root      1993 2021-06-03 10:20 usr/man/man3/unibi_from_env.3.gz
+-rw-r--r-- root/root      1994 2021-06-03 10:20 usr/man/man3/unibi_from_fd.3.gz
+-rw-r--r-- root/root      1972 2021-06-03 10:20 usr/man/man3/unibi_from_file.3.gz
+-rw-r--r-- root/root      1988 2021-06-03 10:20 usr/man/man3/unibi_from_fp.3.gz
+-rw-r--r-- root/root      2333 2021-06-03 10:20 usr/man/man3/unibi_from_mem.3.gz
+-rw-r--r-- root/root      2251 2021-06-03 10:20 usr/man/man3/unibi_from_term.3.gz
+-rw-r--r-- root/root      2301 2021-06-03 10:20 usr/man/man3/unibi_get_aliases.3.gz
+-rw-r--r-- root/root      2135 2021-06-03 10:20 usr/man/man3/unibi_get_bool.3.gz
+-rw-r--r-- root/root      2161 2021-06-03 10:20 usr/man/man3/unibi_get_ext_bool.3.gz
+-rw-r--r-- root/root      2186 2021-06-03 10:20 usr/man/man3/unibi_get_ext_bool_name.3.gz
+-rw-r--r-- root/root      2161 2021-06-03 10:20 usr/man/man3/unibi_get_ext_num.3.gz
+-rw-r--r-- root/root      2189 2021-06-03 10:20 usr/man/man3/unibi_get_ext_num_name.3.gz
+-rw-r--r-- root/root      2161 2021-06-03 10:20 usr/man/man3/unibi_get_ext_str.3.gz
+-rw-r--r-- root/root      2189 2021-06-03 10:20 usr/man/man3/unibi_get_ext_str_name.3.gz
+-rw-r--r-- root/root      2127 2021-06-03 10:20 usr/man/man3/unibi_get_name.3.gz
+-rw-r--r-- root/root      2136 2021-06-03 10:20 usr/man/man3/unibi_get_num.3.gz
+-rw-r--r-- root/root      2135 2021-06-03 10:20 usr/man/man3/unibi_get_str.3.gz
+-rw-r--r-- root/root      2126 2021-06-03 10:20 usr/man/man3/unibi_int_from_var.3.gz
+-rw-r--r-- root/root      2166 2021-06-03 10:20 usr/man/man3/unibi_name_bool.3.gz
+-rw-r--r-- root/root      2166 2021-06-03 10:20 usr/man/man3/unibi_name_num.3.gz
+-rw-r--r-- root/root      2167 2021-06-03 10:20 usr/man/man3/unibi_name_str.3.gz
+-rw-r--r-- root/root      2130 2021-06-03 10:20 usr/man/man3/unibi_num_from_var.3.gz
+-rw-r--r-- root/root      2793 2021-06-03 10:20 usr/man/man3/unibi_run.3.gz
+-rw-r--r-- root/root      2302 2021-06-03 10:20 usr/man/man3/unibi_set_aliases.3.gz
+-rw-r--r-- root/root      2137 2021-06-03 10:20 usr/man/man3/unibi_set_bool.3.gz
+-rw-r--r-- root/root      2162 2021-06-03 10:20 usr/man/man3/unibi_set_ext_bool.3.gz
+-rw-r--r-- root/root      2189 2021-06-03 10:20 usr/man/man3/unibi_set_ext_bool_name.3.gz
+-rw-r--r-- root/root      2164 2021-06-03 10:20 usr/man/man3/unibi_set_ext_num.3.gz
+-rw-r--r-- root/root      2192 2021-06-03 10:20 usr/man/man3/unibi_set_ext_num_name.3.gz
+-rw-r--r-- root/root      2163 2021-06-03 10:20 usr/man/man3/unibi_set_ext_str.3.gz
+-rw-r--r-- root/root      2192 2021-06-03 10:20 usr/man/man3/unibi_set_ext_str_name.3.gz
+-rw-r--r-- root/root      2128 2021-06-03 10:20 usr/man/man3/unibi_set_name.3.gz
+-rw-r--r-- root/root      2138 2021-06-03 10:20 usr/man/man3/unibi_set_num.3.gz
+-rw-r--r-- root/root      2136 2021-06-03 10:20 usr/man/man3/unibi_set_str.3.gz
+-rw-r--r-- root/root      2170 2021-06-03 10:20 usr/man/man3/unibi_short_name_bool.3.gz
+-rw-r--r-- root/root      2171 2021-06-03 10:20 usr/man/man3/unibi_short_name_num.3.gz
+-rw-r--r-- root/root      2170 2021-06-03 10:20 usr/man/man3/unibi_short_name_str.3.gz
+-rw-r--r-- root/root      2133 2021-06-03 10:20 usr/man/man3/unibi_str_from_var.3.gz
+-rw-r--r-- root/root      1976 2021-06-03 10:20 usr/man/man3/unibi_terminfo_dirs.3.gz
+-rw-r--r-- root/root      2133 2021-06-03 10:20 usr/man/man3/unibi_var_from_num.3.gz
+-rw-r--r-- root/root      2135 2021-06-03 10:20 usr/man/man3/unibi_var_from_str.3.gz
+-rw-r--r-- root/root      9362 2021-06-03 10:20 usr/man/man3/unibilium.h.3.gz
+
+

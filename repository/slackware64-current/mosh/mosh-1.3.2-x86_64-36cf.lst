@@ -1,0 +1,39 @@
+++========================================
+||
+||   Package:  ./mosh/mosh-1.3.2-x86_64-36cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-08-10 09:40 ./
+drwxr-xr-x root/root         0 2022-08-10 09:40 etc/
+drwxr-xr-x root/root         0 2022-08-10 09:40 etc/ufw/
+drwxr-xr-x root/root         0 2022-08-10 09:40 etc/ufw/applications.d/
+-rw-r--r-- root/root       129 2022-08-10 09:40 etc/ufw/applications.d/mosh
+drwxr-xr-x root/root         0 2022-08-10 09:40 install/
+-rw-r--r-- root/root       876 2022-08-10 09:40 install/slack-desc
+-rw-r--r-- root/root        21 2022-08-10 09:40 install/slack-required
+drwxr-xr-x root/root         0 2022-08-10 09:40 usr/
+drwxr-xr-x root/root         0 2022-08-10 09:40 usr/bin/
+-rwxr-xr-x root/root     16175 2022-08-10 09:39 usr/bin/mosh
+-rwxr-xr-x root/root    354472 2022-08-10 09:40 usr/bin/mosh-client
+-rwxr-xr-x root/root    346272 2022-08-10 09:40 usr/bin/mosh-server
+drwxr-xr-x root/root         0 2022-08-10 09:40 usr/doc/
+drwxr-xr-x root/root         0 2022-08-10 09:40 usr/doc/mosh-1.3.2/
+-rw-r--r-- root/root       110 2017-07-22 23:14 usr/doc/mosh-1.3.2/AUTHORS
+-rw-r--r-- root/root     35147 2017-07-22 23:14 usr/doc/mosh-1.3.2/COPYING
+-rw-r--r-- root/root       755 2017-07-22 23:14 usr/doc/mosh-1.3.2/COPYING.iOS
+-rw-r--r-- root/root     16501 2017-07-22 23:14 usr/doc/mosh-1.3.2/ChangeLog
+-rw-r--r-- root/root       472 2017-07-22 23:14 usr/doc/mosh-1.3.2/NEWS
+-rw-r--r-- root/root      6745 2017-07-22 23:14 usr/doc/mosh-1.3.2/README.md
+-rw-r--r-- root/root      1230 2017-07-22 23:14 usr/doc/mosh-1.3.2/THANKS
+-rw-r--r-- root/root      3817 2022-08-10 09:40 usr/doc/mosh-1.3.2/mosh.SlackBuild
+drwxr-xr-x root/root         0 2022-08-10 09:40 usr/man/
+drwxr-xr-x root/root         0 2022-08-10 09:40 usr/man/man1/
+-rw-r--r-- root/root      1335 2022-08-10 09:40 usr/man/man1/mosh-client.1.gz
+-rw-r--r-- root/root      2186 2022-08-10 09:40 usr/man/man1/mosh-server.1.gz
+-rw-r--r-- root/root      4626 2022-08-10 09:40 usr/man/man1/mosh.1.gz
+drwxr-xr-x root/root         0 2022-08-10 09:40 usr/share/
+drwxr-xr-x root/root         0 2022-08-10 09:40 usr/share/bash-completion/
+drwxr-xr-x root/root         0 2022-08-10 09:40 usr/share/bash-completion/completions/
+-rw-r--r-- root/root       818 2022-08-10 09:40 usr/share/bash-completion/completions/mosh
+
+

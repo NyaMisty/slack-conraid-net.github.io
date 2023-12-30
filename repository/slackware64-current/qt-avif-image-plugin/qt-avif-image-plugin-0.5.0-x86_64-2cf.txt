@@ -1,0 +1,11 @@
+qt-avif-image-plugin: qt-avif-image-plugin (Qt plugin for AVIF images)
+qt-avif-image-plugin:
+qt-avif-image-plugin: Qt plug-in to allow Qt and KDE based applications to read/write AVIF
+qt-avif-image-plugin: images.
+qt-avif-image-plugin:
+qt-avif-image-plugin:
+qt-avif-image-plugin:
+qt-avif-image-plugin:
+qt-avif-image-plugin:
+qt-avif-image-plugin:
+qt-avif-image-plugin:

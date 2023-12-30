@@ -1,0 +1,11 @@
+vulscan: vulscan (vulnerability scanning with nmap)
+vulscan:
+vulscan: Vulscan is a module which enhances nmap to a vulnerability scanner.
+vulscan: The nmap option -sV enables version detection per service which is
+vulscan: used to determine potential flaws according to the identified
+vulscan: product. The data is looked up in an offline version scip VulDB.
+vulscan:
+vulscan:
+vulscan:
+vulscan:
+vulscan:

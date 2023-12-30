@@ -1,0 +1,26 @@
+++========================================
+||
+||   Package:  ./wipe/wipe-2.3.1-x86_64-7cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 13:19 ./
+drwxr-xr-x root/root         0 2020-10-05 13:19 install/
+-rw-r--r-- root/root       645 2020-10-05 13:19 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 13:19 usr/
+drwxr-xr-x root/root         0 2020-10-05 13:19 usr/bin/
+-rwxr-xr-x root/root     39232 2020-10-05 13:19 usr/bin/wipe
+drwxr-xr-x root/root         0 2020-10-05 13:19 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 13:19 usr/doc/wipe-2.3.1/
+-rw-r--r-- root/root      7119 2009-11-01 22:11 usr/doc/wipe-2.3.1/CHANGES
+-rw-r--r-- root/root      1603 2003-06-02 03:11 usr/doc/wipe-2.3.1/INSTALL
+-rw-r--r-- root/root     17974 1998-10-14 23:25 usr/doc/wipe-2.3.1/LICENSE
+-rw-r--r-- root/root      3333 2002-02-14 04:41 usr/doc/wipe-2.3.1/README
+-rw-r--r-- root/root      1357 2001-03-24 00:31 usr/doc/wipe-2.3.1/TESTING
+-rw-r--r-- root/root      1013 2009-06-16 05:17 usr/doc/wipe-2.3.1/TODO
+-rw-r--r-- root/root       915 2003-02-15 23:53 usr/doc/wipe-2.3.1/copyright
+-rw-r--r-- root/root      3083 2020-10-05 13:19 usr/doc/wipe-2.3.1/wipe.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 13:19 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 13:19 usr/man/man1/
+-rw-r--r-- root/root      3104 2020-10-05 13:19 usr/man/man1/wipe.1.gz
+
+

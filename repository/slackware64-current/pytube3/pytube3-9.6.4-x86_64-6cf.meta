@@ -1,0 +1,21 @@
+PACKAGE NAME:  pytube3-9.6.4-x86_64-6cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./pytube3
+PACKAGE SIZE (compressed):  52 K
+PACKAGE SIZE (uncompressed):  280 K
+PACKAGE REQUIRED:  python-typing-extensions
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+pytube3: pytube3 (Python 3 library for downloading YouTube Videos)
+pytube3:
+pytube3: A lightweight, dependency-free Python 3 library (and command-line
+pytube3: utility) for downloading YouTube Videos.
+pytube3:
+pytube3:
+pytube3:
+pytube3:
+pytube3:
+pytube3:
+pytube3:
+

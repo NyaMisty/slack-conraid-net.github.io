@@ -1,0 +1,11 @@
+lifstat: lifstat
+lifstat:
+lifstat: lifstat is a small Linux utility that reads /proc/net/dev and reports
+lifstat: input and output statistics for available network interfaces over a
+lifstat: repeating time interval, similar to the BSD 'netstat -i' command.
+lifstat:
+lifstat:
+lifstat:
+lifstat:
+lifstat:
+lifstat:

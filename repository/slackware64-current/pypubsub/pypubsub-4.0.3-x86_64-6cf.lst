@@ -1,0 +1,76 @@
+++========================================
+||
+||   Package:  ./pypubsub/pypubsub-4.0.3-x86_64-6cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-11-05 10:19 ./
+drwxr-xr-x root/root         0 2021-11-05 10:19 install/
+-rw-r--r-- root/root       776 2021-11-05 10:19 install/slack-desc
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/doc/
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/doc/pypubsub-4.0.3/
+-rw-r--r-- root/root      1100 2019-01-28 01:35 usr/doc/pypubsub-4.0.3/README.rst
+-rw-r--r-- root/root      3378 2021-11-05 10:19 usr/doc/pypubsub-4.0.3/pypubsub.SlackBuild
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/python3.9/site-packages/Pypubsub-4.0.3-py3.9.egg-info/
+-rw-r--r-- root/root      2168 2021-11-05 10:19 usr/lib64/python3.9/site-packages/Pypubsub-4.0.3-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       942 2021-11-05 10:19 usr/lib64/python3.9/site-packages/Pypubsub-4.0.3-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2021-11-05 10:19 usr/lib64/python3.9/site-packages/Pypubsub-4.0.3-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root         1 2021-11-05 10:19 usr/lib64/python3.9/site-packages/Pypubsub-4.0.3-py3.9.egg-info/not-zip-safe
+-rw-r--r-- root/root         7 2021-11-05 10:19 usr/lib64/python3.9/site-packages/Pypubsub-4.0.3-py3.9.egg-info/top_level.txt
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/
+-rw-r--r-- root/root      1313 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/LICENSE_BSD_Simple.txt
+-rw-r--r-- root/root      1750 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/RELEASE_NOTES.txt
+-rw-r--r-- root/root       251 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/__init__.py
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/__pycache__/
+-rw-r--r-- root/root       384 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      4974 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/__pycache__/pub.cpython-39.pyc
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/core/
+-rw-r--r-- root/root      1089 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/core/__init__.py
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/core/__pycache__/
+-rw-r--r-- root/root      1334 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/core/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      1383 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/core/__pycache__/annotations.cpython-39.pyc
+-rw-r--r-- root/root      7181 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/core/__pycache__/callables.cpython-39.pyc
+-rw-r--r-- root/root     12050 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/core/__pycache__/listener.cpython-39.pyc
+-rw-r--r-- root/root      8607 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/core/__pycache__/notificationmgr.cpython-39.pyc
+-rw-r--r-- root/root     10067 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/core/__pycache__/publisher.cpython-39.pyc
+-rw-r--r-- root/root     12927 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/core/__pycache__/topicargspec.cpython-39.pyc
+-rw-r--r-- root/root     25500 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/core/__pycache__/topicdefnprovider.cpython-39.pyc
+-rw-r--r-- root/root      4118 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/core/__pycache__/topicexc.cpython-39.pyc
+-rw-r--r-- root/root     16794 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/core/__pycache__/topicmgr.cpython-39.pyc
+-rw-r--r-- root/root     18068 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/core/__pycache__/topicobj.cpython-39.pyc
+-rw-r--r-- root/root      5777 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/core/__pycache__/topictreetraverser.cpython-39.pyc
+-rw-r--r-- root/root      3900 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/core/__pycache__/topicutils.cpython-39.pyc
+-rw-r--r-- root/root      1563 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/core/__pycache__/weakmethod.cpython-39.pyc
+-rw-r--r-- root/root      1147 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/core/annotations.py
+-rw-r--r-- root/root      7693 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/core/callables.py
+-rw-r--r-- root/root     12708 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/core/listener.py
+-rw-r--r-- root/root      8056 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/core/notificationmgr.py
+-rw-r--r-- root/root      9502 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/core/publisher.py
+-rw-r--r-- root/root     13500 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/core/topicargspec.py
+-rw-r--r-- root/root     25298 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/core/topicdefnprovider.py
+-rw-r--r-- root/root      2920 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/core/topicexc.py
+-rw-r--r-- root/root     19085 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/core/topicmgr.py
+-rw-r--r-- root/root     21526 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/core/topicobj.py
+-rw-r--r-- root/root      5304 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/core/topictreetraverser.py
+-rw-r--r-- root/root      3995 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/core/topicutils.py
+-rw-r--r-- root/root      1384 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/core/weakmethod.py
+-rw-r--r-- root/root      6058 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/pub.py
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/utils/
+-rw-r--r-- root/root       602 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/utils/__init__.py
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/utils/__pycache__/
+-rw-r--r-- root/root       689 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/utils/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      4880 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/utils/__pycache__/exchandling.cpython-39.pyc
+-rw-r--r-- root/root      1771 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/utils/__pycache__/misc.cpython-39.pyc
+-rw-r--r-- root/root     13744 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/utils/__pycache__/notification.cpython-39.pyc
+-rw-r--r-- root/root      7885 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/utils/__pycache__/topictreeprinter.cpython-39.pyc
+-rw-r--r-- root/root      7938 2021-11-05 10:19 usr/lib64/python3.9/site-packages/pubsub/utils/__pycache__/xmltopicdefnprovider.cpython-39.pyc
+-rw-r--r-- root/root      4232 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/utils/exchandling.py
+-rw-r--r-- root/root      1149 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/utils/misc.py
+-rw-r--r-- root/root     13463 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/utils/notification.py
+-rw-r--r-- root/root      7934 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/utils/topictreeprinter.py
+-rw-r--r-- root/root      8625 2019-01-28 01:35 usr/lib64/python3.9/site-packages/pubsub/utils/xmltopicdefnprovider.py
+
+

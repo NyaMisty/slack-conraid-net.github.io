@@ -1,0 +1,11 @@
+apngdis: apngdis (APNG Disassembler)
+apngdis:
+apngdis: This program converts APNG file into a sequence of individual PNG
+apngdis: frames. Command-line interface and GUI viersions.
+apngdis:
+apngdis:
+apngdis:
+apngdis:
+apngdis:
+apngdis:
+apngdis:

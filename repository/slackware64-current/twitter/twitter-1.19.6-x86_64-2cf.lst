@@ -1,0 +1,72 @@
+++========================================
+||
+||   Package:  ./twitter/twitter-1.19.6-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2023-02-02 10:30 ./
+drwxr-xr-x root/root         0 2023-02-02 10:30 install/
+-rw-r--r-- root/root      1020 2023-02-02 10:30 install/slack-desc
+drwxr-xr-x root/root         0 2023-02-02 10:30 usr/
+drwxr-xr-x root/root         0 2023-02-02 10:30 usr/bin/
+-rwxr-xr-x root/root       961 2023-02-02 10:30 usr/bin/twitter
+-rwxr-xr-x root/root       979 2023-02-02 10:30 usr/bin/twitter-archiver
+-rwxr-xr-x root/root       975 2023-02-02 10:30 usr/bin/twitter-follow
+-rwxr-xr-x root/root       969 2023-02-02 10:30 usr/bin/twitter-log
+-rwxr-xr-x root/root       991 2023-02-02 10:30 usr/bin/twitter-stream-example
+-rwxr-xr-x root/root       967 2023-02-02 10:30 usr/bin/twitterbot
+drwxr-xr-x root/root         0 2023-02-02 10:30 usr/doc/
+drwxr-xr-x root/root         0 2023-02-02 10:30 usr/doc/twitter-1.19.6/
+-rw-r--r-- root/root       917 2022-09-14 15:34 usr/doc/twitter-1.19.6/AUTHORS
+-rw-r--r-- root/root      1056 2022-09-14 15:34 usr/doc/twitter-1.19.6/LICENSE
+-rw-r--r-- root/root       122 2022-09-14 15:34 usr/doc/twitter-1.19.6/MANIFEST.in
+-rw-r--r-- root/root     11926 2022-09-14 15:34 usr/doc/twitter-1.19.6/README
+-rw-r--r-- root/root      3293 2023-02-02 10:30 usr/doc/twitter-1.19.6/twitter.SlackBuild
+drwxr-xr-x root/root         0 2023-02-02 10:30 usr/lib64/
+drwxr-xr-x root/root         0 2023-02-02 10:30 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2023-02-02 10:30 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter/
+drwxr-xr-x root/root         0 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter-1.19.6-py3.9.egg-info/
+-rw-r--r-- root/root     13450 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter-1.19.6-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       760 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter-1.19.6-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter-1.19.6-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root       247 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter-1.19.6-py3.9.egg-info/entry_points.txt
+-rw-r--r-- root/root         8 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter-1.19.6-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root         8 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter-1.19.6-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root         1 2022-09-14 15:35 usr/lib64/python3.9/site-packages/twitter-1.19.6-py3.9.egg-info/zip-safe
+-rw-r--r-- root/root      1708 2022-09-14 15:34 usr/lib64/python3.9/site-packages/twitter/__init__.py
+drwxr-xr-x root/root         0 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter/__pycache__/
+-rw-r--r-- root/root      1586 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      3732 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter/__pycache__/ansi.cpython-39.pyc
+-rw-r--r-- root/root     16515 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter/__pycache__/api.cpython-39.pyc
+-rw-r--r-- root/root     12382 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter/__pycache__/archiver.cpython-39.pyc
+-rw-r--r-- root/root      2627 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter/__pycache__/auth.cpython-39.pyc
+-rw-r--r-- root/root     25213 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter/__pycache__/cmdline.cpython-39.pyc
+-rw-r--r-- root/root      7184 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter/__pycache__/follow.cpython-39.pyc
+-rw-r--r-- root/root     10442 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter/__pycache__/ircbot.cpython-39.pyc
+-rw-r--r-- root/root      2784 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter/__pycache__/logger.cpython-39.pyc
+-rw-r--r-- root/root      4792 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter/__pycache__/oauth.cpython-39.pyc
+-rw-r--r-- root/root      3023 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter/__pycache__/oauth2.cpython-39.pyc
+-rw-r--r-- root/root      3386 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter/__pycache__/oauth_dance.cpython-39.pyc
+-rw-r--r-- root/root      8492 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter/__pycache__/stream.cpython-39.pyc
+-rw-r--r-- root/root      2246 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter/__pycache__/stream_example.cpython-39.pyc
+-rw-r--r-- root/root      2578 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter/__pycache__/timezones.cpython-39.pyc
+-rw-r--r-- root/root       909 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter/__pycache__/twitter_globals.cpython-39.pyc
+-rw-r--r-- root/root      6776 2023-02-02 10:30 usr/lib64/python3.9/site-packages/twitter/__pycache__/util.cpython-39.pyc
+-rw-r--r-- root/root      2750 2022-09-14 15:34 usr/lib64/python3.9/site-packages/twitter/ansi.py
+-rw-r--r-- root/root     21778 2022-09-14 15:34 usr/lib64/python3.9/site-packages/twitter/api.py
+-rw-r--r-- root/root     17079 2022-09-14 15:34 usr/lib64/python3.9/site-packages/twitter/archiver.py
+-rw-r--r-- root/root      1730 2022-09-14 15:34 usr/lib64/python3.9/site-packages/twitter/auth.py
+-rw-r--r-- root/root     26303 2022-09-14 15:34 usr/lib64/python3.9/site-packages/twitter/cmdline.py
+-rw-r--r-- root/root      9544 2022-09-14 15:34 usr/lib64/python3.9/site-packages/twitter/follow.py
+-rw-r--r-- root/root     11595 2022-09-14 15:34 usr/lib64/python3.9/site-packages/twitter/ircbot.py
+-rw-r--r-- root/root      3003 2022-09-14 15:34 usr/lib64/python3.9/site-packages/twitter/logger.py
+-rw-r--r-- root/root      4930 2022-09-14 15:34 usr/lib64/python3.9/site-packages/twitter/oauth.py
+-rw-r--r-- root/root      2930 2022-09-14 15:34 usr/lib64/python3.9/site-packages/twitter/oauth2.py
+-rw-r--r-- root/root      3938 2022-09-14 15:34 usr/lib64/python3.9/site-packages/twitter/oauth_dance.py
+-rw-r--r-- root/root      9448 2022-09-14 15:34 usr/lib64/python3.9/site-packages/twitter/stream.py
+-rw-r--r-- root/root      2754 2022-09-14 15:34 usr/lib64/python3.9/site-packages/twitter/stream_example.py
+-rw-r--r-- root/root      1766 2022-09-14 15:34 usr/lib64/python3.9/site-packages/twitter/timezones.py
+-rw-r--r-- root/root      1278 2022-09-14 15:34 usr/lib64/python3.9/site-packages/twitter/twitter_globals.py
+-rw-r--r-- root/root      5087 2022-09-14 15:34 usr/lib64/python3.9/site-packages/twitter/util.py
+
+

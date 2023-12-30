@@ -1,0 +1,166 @@
+Fri Feb 3 13:48:16 UTC 2023
+gvm-tools-23.2.0-x86_64-1cf.txz:  Upgraded.
+iaito-5.8.2-x86_64-1cf.txz:  Upgraded.
+openvas-scanner-22.4.1-x86_64-2cf.txz:  Rebuilt.
+    - Fix man pages.
+ospd-openvas-22.4.5-x86_64-1cf.txz:  Upgraded.
+pontos-23.2.1-x86_64-1cf.txz:  Upgraded.
+python-gvm-23.2.0-x86_64-1cf.txz:  Upgraded.
+snort3-3.1.53.0-x86_64-1cf.txz:  Upgraded.
+snort3_extra-3.1.53.0-x86_64-1cf.txz:  Upgraded.
++--------------------------+
+Tue Jan 24 15:17:45 UTC 2023
+displaycal-3.9.10-x86_64-1cf.txz:  Upgraded.
+gsa-22.4.1-x86_64-1cf.txz:  Upgraded.
+gsad-22.4.1-x86_64-1cf.txz:  Upgraded.
+gvm-libs-22.4.2-x86_64-1cf.txz:  Upgraded.
+gvmd-22.4.2-x86_64-1cf.txz:  Upgraded.
+iaito-5.8.0-x86_64-1cf.txz:  Upgraded.
+libdaq-3.0.10-x86_64-1cf.txz:  Upgraded.
+openvas-scanner-22.4.1-x86_64-1cf.txz:  Upgraded.
+ospd-openvas-22.4.4-x86_64-1cf.txz:  Upgraded.
+paho-mqtt-c-1.3.12-x86_64-1cf.txz:  Upgraded.
+pontos-23.1.3-x86_64-1cf.txz:  Upgraded.
+python-gvm-22.9.1-x86_64-1cf.txz:  Upgraded.
+radare2-5.8.2-x86_64-1cf.txz:  Upgraded.
+snort3-3.1.52.0-x86_64-1cf.txz:  Upgraded.
+snort3_extra-3.1.52.0-x86_64-1cf.txz:  Upgraded.
++--------------------------+
+Tue Sep 6 15:21:26 UTC 2022
+displaycal-3.9.7-x86_64-1cf.txz:  Upgraded.
+gvm-tools-22.9.0-x86_64-1cf.txz:  Upgraded.
+iaito-5.7.2-x86_64-1cf.txz:  Added.
+libdaq-3.0.9-x86_64-1cf.txz:  Upgraded.
+ospd-openvas-22.4.2-x86_64-1cf.txz:  Upgraded.
+pontos-22.8.1-x86_64-1cf.txz:  Upgraded.
+python-gvm-22.9.0-x86_64-1cf.txz:  Upgraded.
+radare2-5.7.6-x86_64-1cf.txz:  Added.
+snort3-3.1.40.0-x86_64-1cf.txz:  Upgraded.
+snort3_extra-3.1.40.0-x86_64-1cf.txz:  Upgraded.
++--------------------------+
+Mon Aug 1 16:12:15 UTC 2022
+displaycal-3.9.6-x86_64-1cf.txz:  Added.
+gsa-22.4.0-x86_64-1cf.txz:  Upgraded.
+gsad-22.4.0-x86_64-1cf.txz:  Upgraded.
+gvm-libs-22.4.0-x86_64-1cf.txz:  Upgraded.
+gvm-tools-22.6.1-x86_64-1cf.txz:  Upgraded.
+gvmd-22.4.0-x86_64-1cf.txz:  Upgraded.
+libdaq-3.0.9-x86_64-1cf.txz:  Upgraded.
+mping-2.0-x86_64-1cf.txz:  Upgraded.
+openvas-scanner-22.4.0-x86_64-1cf.txz:  Upgraded.
+ospd-openvas-22.4.0-x86_64-1cf.txz:  Upgraded.
+paho-mqtt-c-1.3.10-x86_64-1cf.txz:  Added.
+pontos-22.8.0-x86_64-1cf.txz:  Upgraded.
+python-gvm-22.7.0-x86_64-1cf.txz:  Upgraded.
+snort-openappid-26425-x86_64-1cf.txz:  Upgraded.
+snort3-3.1.38.0-x86_64-1cf.txz:  Upgraded.
+snort3_extra-3.1.38.0-x86_64-1cf.txz:  Upgraded.
++--------------------------+
+Thu May 5 13:00:12 UTC 2022
+gsa-21.4.4-x86_64-1cf.txz:  Upgraded.
+gsad-21.4.4-x86_64-1cf.txz:  Added.
+gvm-libs-21.4.4-x86_64-1cf.txz:  Upgraded.
+gvm-tools-21.10.0-x86_64-1cf.txz:  Upgraded.
+gvmd-21.4.5-x86_64-1cf.txz:  Upgraded.
+libdaq-3.0.7-x86_64-1cf.txz:  Upgraded.
+openvas-scanner-21.4.4-x86_64-1cf.txz:  Upgraded.
+ospd-21.4.4-x86_64-1cf.txz:  Upgraded.
+ospd-openvas-21.4.4-x86_64-1cf.txz:  Upgraded.
+pontos-22.4.0-x86_64-1cf.txz:  Upgraded.
+python-gvm-21.11.0-x86_64-1cf.txz:  Upgraded.
+snort3-3.1.29.0-x86_64-1cf.txz:  Upgraded.
+snort3_extra-3.1.29.0-x86_64-1cf.txz:  Upgraded.
++--------------------------+
+Sun Feb 27 10:29:06 UTC 2022
+libdaq-3.0.6-x86_64-1cf.txz:  Upgraded.
+mping-1.6-x86_64-1cf.txz:  Upgraded.
+snort-openappid-23020-x86_64-1cf.txz:  Upgraded.
+snort3-3.1.24.0-x86_64-1cf.txz:  Upgraded.
+snort3_extra-3.1.24.0-x86_64-1cf.txz:  Upgraded.
++--------------------------+
+Tue Feb 22 10:20:53 UTC 2022
+brave-bin-1.29.79-x86_64-1cf.txz:  Removed.
++--------------------------+
+Thu Sep 9 13:30:26 UTC 2021
+brave-bin-1.29.79-x86_64-1cf.txz:  Upgraded.
+docker-19.03.14-x86_64-1cf.txz:  Added.
+docker-compose-1.28.5-x86_64-1cf.txz:  Added.
+docker-proxy-264bffc-x86_64-1cf.txz:  Added.
+docker-pycreds-0.4.0-x86_64-3cf.txz:  Added.
+libdaq-3.0.5-x86_64-1cf.txz:  Upgraded.
+python-docker-5.0.1-x86_64-1cf.txz:  Added.
+python-dockerpty-0.4.1-x86_64-3cf.txz:  Added.
+snort-openappid-19913-x86_64-1cf.txz:  Upgraded.
+snort3-3.1.12.0-x86_64-1cf.txz:  Upgraded.
+snort3_extra-3.1.12.0-x86_64-1cf.txz:  Upgraded.
++--------------------------+
+Sun Sep 5 11:01:37 UTC 2021
+mping-1.5-x86_64-1cf.txz:  Added.
+snort3-3.1.10.0-x86_64-1cf.txz:  Upgraded.
+snort3_extra-3.1.10.0-x86_64-1cf.txz:  Upgraded.
++--------------------------+
+Wed Aug 4 15:42:22 UTC 2021
+brave-bin-1.27.110-x86_64-1cf.txz:  Upgraded.
+gsa-21.4.2-x86_64-1cf.txz:  Upgraded.
+gvm-libs-21.4.2-x86_64-1cf.txz:  Upgraded.
+gvmd-21.4.3-x86_64-1cf.txz:  Upgraded.
+openvas-scanner-21.4.2-x86_64-1cf.txz:  Upgraded.
+ospd-21.4.3-x86_64-1cf.txz:  Upgraded.
+ospd-openvas-21.4.2-x86_64-1cf.txz:  Upgraded.
+pontos-21.7.4-x86_64-1cf.txz:  Upgraded.
+snort3-3.1.9.0-x86_64-1cf.txz:  Upgraded.
+snort3_extra-3.1.9.0-x86_64-1cf.txz:  Upgraded.
++--------------------------+
+Sat Jul 17 08:16:58 UTC 2021
+brave-bin-1.27.106-x86_64-1cf.txz:  Upgraded.
+pontos-21.7.2-x86_64-1cf.txz:  Upgraded.
+snort3-3.1.8.0-x86_64-1cf.txz:  Upgraded.
+snort3_extra-3.1.8.0-x86_64-1cf.txz:  Upgraded.
++--------------------------+
+Wed Jul 7 06:20:54 UTC 2021
+ospd-21.4.1-x86_64-1cf.txz:  Upgraded.
+pontos-21.7.1-x86_64-1cf.txz:  Upgraded.
++--------------------------+
+Fri Jul 2 07:00:35 UTC 2021
+libdaq-3.0.4-x86_64-1cf.txz:  Added.
+snort-openappid-17843-x86_64-1cf.txz:  Added.
+snort3-3.1.7.0-x86_64-1cf.txz:  Added.
+snort3_extra-3.1.7.0-x86_64-1cf.txz:  Added.
++--------------------------+
+Wed Jun 30 12:34:00 UTC 2021
+brave-bin-1.26.74-x86_64-1cf.txz:  Upgraded.
+gvmd-21.4.2-x86_64-1cf.txz:  Upgraded.
+pontos-21.6.12-x86_64-1cf.txz:  Upgraded.
++--------------------------+
+Sat Jun 26 12:32:31 UTC 2021
+brave-bin-1.26.67-x86_64-1cf.txz:  Added.
+gsa-21.4.1-x86_64-1cf.txz:  Added.
+gvm-libs-21.4.1-x86_64-1cf.txz:  Added.
+gvm-tools-21.6.1-x86_64-1cf.txz:  Added.
+gvmd-21.4.1-x86_64-1cf.txz:  Added.
+openvas-scanner-21.4.1-x86_64-1cf.txz:  Added.
+ospd-21.4.1-x86_64-1cf.txz:  Added.
+ospd-openvas-21.4.0-x86_64-1cf.txz:  Added.
+pidgin-facebook-0.9.6-x86_64-1cf.txz:  Added.
+pontos-21.6.11-x86_64-1cf.txz:  Added.
+python-gvm-21.6.0-x86_64-1cf.txz:  Added.
++--------------------------+
+Mon Dec 7 15:22:12 UTC 2020
+Moved all to main repository
++--------------------------+
+Sun Dec 6 15:59:06 UTC 2020
+php8-memcache-8.0-x86_64-1cf.txz:  Added.
+php8-xdebug-3.0.1-x86_64-1cf.txz:  Upgraded.
++--------------------------+
+Sat Nov 28 11:36:12 UTC 2020
+php8-8.0.0-x86_64-1cf.txz:  Added.
+php8-apcu-5.1.19-x86_64-1cf.txz:  Added.
+php8-igbinary-3.1.6-x86_64-1cf.txz:  Added.
+php8-imagick-c5b8086-x86_64-1cf.txz:  Added.
+php8-msgpack-2.1.2-x86_64-1cf.txz:  Added.
+php8-oauth-2.0.7-x86_64-1cf.txz:  Added.
+php8-phpspy-0.5.0-x86_64-1cf.txz:  Added.
+php8-redis-5.3.2-x86_64-1cf.txz:  Added.
+php8-stat-eff23e7-x86_64-1cf.txz:  Added.
+php8-xdebug-3.0.0-x86_64-1cf.txz:  Added.
++--------------------------+

@@ -1,0 +1,42 @@
+++========================================
+||
+||   Package:  ./smplayer-skins/smplayer-skins-20.11.0-noarch-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-11-24 15:15 ./
+drwxr-xr-x root/root         0 2020-11-24 15:15 install/
+-rw-r--r-- root/root       834 2020-11-24 15:15 install/slack-desc
+drwxr-xr-x root/root         0 2020-11-24 15:15 usr/
+drwxr-xr-x root/root         0 2020-11-24 15:15 usr/doc/
+drwxr-xr-x root/root         0 2020-11-24 15:15 usr/doc/smplayer-skins-20.11.0/
+-rw-r--r-- root/root     13235 2012-10-28 14:15 usr/doc/smplayer-skins-20.11.0/COPYING_CC-BY-2.5.txt
+-rw-r--r-- root/root     14849 2012-10-28 14:15 usr/doc/smplayer-skins-20.11.0/COPYING_CC-BY-SA-2.5.txt
+-rw-r--r-- root/root     22214 2012-10-28 14:15 usr/doc/smplayer-skins-20.11.0/COPYING_CC-BY-SA-3.0.txt
+-rw-r--r-- root/root     18328 2012-10-28 14:12 usr/doc/smplayer-skins-20.11.0/COPYING_GPL.txt
+-rw-r--r-- root/root      7639 2012-10-28 14:15 usr/doc/smplayer-skins-20.11.0/COPYING_LGPL.txt
+-rw-r--r-- root/root       566 2020-11-07 15:56 usr/doc/smplayer-skins-20.11.0/Changelog
+-rw-r--r-- root/root      2289 2020-11-24 15:15 usr/doc/smplayer-skins-20.11.0/smplayer-skins.SlackBuild
+drwxr-xr-x root/root         0 2020-11-24 15:15 usr/share/
+drwxr-xr-x root/root         0 2020-11-24 15:15 usr/share/smplayer/
+drwxr-xr-x root/root         0 2020-11-24 15:15 usr/share/smplayer/themes/
+drwxr-xr-x root/root         0 2020-11-24 15:15 usr/share/smplayer/themes/Black/
+-rw-r--r-- root/root     95185 2020-11-24 15:15 usr/share/smplayer/themes/Black/Black.rcc
+-rw-r--r-- root/root      2886 2020-11-24 15:15 usr/share/smplayer/themes/Black/main.css
+drwxr-xr-x root/root         0 2020-11-24 15:15 usr/share/smplayer/themes/Gonzo/
+-rw-r--r-- root/root    125437 2020-11-24 15:15 usr/share/smplayer/themes/Gonzo/Gonzo.rcc
+-rw-r--r-- root/root      3187 2020-11-24 15:15 usr/share/smplayer/themes/Gonzo/main.css
+drwxr-xr-x root/root         0 2020-11-24 15:15 usr/share/smplayer/themes/Mac/
+-rw-r--r-- root/root    130528 2020-11-24 15:15 usr/share/smplayer/themes/Mac/Mac.rcc
+-rw-r--r-- root/root      3807 2020-11-24 15:15 usr/share/smplayer/themes/Mac/main.css
+drwxr-xr-x root/root         0 2020-11-24 15:15 usr/share/smplayer/themes/Mint-Y/
+-rw-r--r-- root/root    374376 2020-11-24 15:15 usr/share/smplayer/themes/Mint-Y/Mint-Y.rcc
+-rw-r--r-- root/root       353 2020-11-24 15:15 usr/share/smplayer/themes/Mint-Y/README.txt
+-rw-r--r-- root/root      1879 2020-11-24 15:15 usr/share/smplayer/themes/Mint-Y/main.css
+drwxr-xr-x root/root         0 2020-11-24 15:15 usr/share/smplayer/themes/Modern/
+-rw-r--r-- root/root    108300 2020-11-24 15:15 usr/share/smplayer/themes/Modern/Modern.rcc
+-rw-r--r-- root/root      3175 2020-11-24 15:15 usr/share/smplayer/themes/Modern/main.css
+drwxr-xr-x root/root         0 2020-11-24 15:15 usr/share/smplayer/themes/Vista/
+-rw-r--r-- root/root    173124 2020-11-24 15:15 usr/share/smplayer/themes/Vista/Vista.rcc
+-rw-r--r-- root/root      3080 2020-11-24 15:15 usr/share/smplayer/themes/Vista/main.css
+
+

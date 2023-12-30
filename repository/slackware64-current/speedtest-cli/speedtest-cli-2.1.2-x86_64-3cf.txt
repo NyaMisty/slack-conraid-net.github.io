@@ -1,0 +1,12 @@
+speedtest-cli: speedtest-cli (command line for speedtest.net)
+speedtest-cli:
+speedtest-cli: Command line interface for testing internet bandwidth using
+speedtest-cli: speedtest.net
+speedtest-cli:
+speedtest-cli:
+speedtest-cli:
+speedtest-cli:
+speedtest-cli:
+speedtest-cli:
+speedtest-cli:
+speedtest-cli:

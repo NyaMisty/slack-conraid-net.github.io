@@ -1,0 +1,18 @@
+PACKAGE NAME:  intel-microcode-20200616-noarch-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./intel-microcode
+PACKAGE SIZE (compressed):  2476 K
+PACKAGE SIZE (uncompressed):  6260 K
+PACKAGE DESCRIPTION:
+intel-microcode: intel-microcode (Linux Processor Microcode Data File)
+intel-microcode:
+intel-microcode: CPU microcode is a mechanism to correct certain errata in existing
+intel-microcode: systems. The normal preferred method to apply microcode updates is
+intel-microcode: using the system BIOS, but for a subset of Intel processors this
+intel-microcode: can be done at runtime using the operating system. This package
+intel-microcode: contains those processors that support OS loading of microcode
+intel-microcode: updates.
+intel-microcode:
+intel-microcode:
+intel-microcode:
+

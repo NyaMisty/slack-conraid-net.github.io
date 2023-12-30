@@ -1,0 +1,11 @@
+srm: srm (Command-line program to delete files securely)
+srm:
+srm: srm is a secure replacement for rm(1). Unlike the standard rm, it
+srm: overwrites the data in the target files before unlinking them. This
+srm: prevents command-line recovery of the data by examining the raw block
+srm: device. It may also help frustrate physical examination of the disk,
+srm: although it's unlikely that it can completely prevent that type of
+srm: recovery.
+srm:
+srm:
+srm:

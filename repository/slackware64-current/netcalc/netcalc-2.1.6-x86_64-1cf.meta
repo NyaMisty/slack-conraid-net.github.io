@@ -1,0 +1,18 @@
+PACKAGE NAME:  netcalc-2.1.6-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./netcalc
+PACKAGE SIZE (compressed):  28 K
+PACKAGE SIZE (uncompressed):  80 K
+PACKAGE DESCRIPTION:
+netcalc: netcalc (Simplified clone of sipcalc with ipcalc looks)
+netcalc:
+netcalc: netcalc is a slimmed down clone of sipcalc, using the output format
+netcalc: of ipcalc. It is written in C and only depends on a POSIX compliant
+netcalc: C library. Both IPv4 and IPv6 are supported.
+netcalc:
+netcalc:
+netcalc:
+netcalc:
+netcalc:
+netcalc:
+

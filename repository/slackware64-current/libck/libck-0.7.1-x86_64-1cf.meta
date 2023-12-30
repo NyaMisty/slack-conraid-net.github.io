@@ -1,0 +1,18 @@
+PACKAGE NAME:  libck-0.7.1-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./libck
+PACKAGE SIZE (compressed):  296 K
+PACKAGE SIZE (uncompressed):  950 K
+PACKAGE DESCRIPTION:
+libck: libck (A concurrency primitives, safe memory reclamation mechanisms)
+libck:
+libck: Concurrency primitives, safe memory reclamation mechanisms and
+libck: non-blocking data structures for the research, design and
+libck: implementation of high performance concurrent systems.
+libck:
+libck:
+libck:
+libck:
+libck:
+libck:
+

@@ -1,0 +1,18 @@
+PACKAGE NAME:  jpegoptim-1.4.6-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./jpegoptim
+PACKAGE SIZE (compressed):  24 K
+PACKAGE SIZE (uncompressed):  80 K
+PACKAGE DESCRIPTION:
+jpegoptim: jpegoptim (utility to optimize/compress JPEG files)
+jpegoptim:
+jpegoptim: Jpegoptim is a utility to optimize jpeg files. Provides lossless
+jpegtotim: optimization (based on optimizing the Huffman tables) and "lossy"
+jpegtotim: optimization based on setting maximum quality factor.
+jpegoptim:
+jpegoptim:
+jpegoptim:
+jpegoptim:
+jpegoptim:
+jpegoptim:
+

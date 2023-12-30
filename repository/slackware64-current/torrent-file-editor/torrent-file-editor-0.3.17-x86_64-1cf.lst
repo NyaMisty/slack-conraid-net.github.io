@@ -1,0 +1,43 @@
+++========================================
+||
+||   Package:  ./torrent-file-editor/torrent-file-editor-0.3.17-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-11-24 16:09 ./
+drwxr-xr-x root/root         0 2020-11-24 16:09 install/
+-rw-r--r-- root/root       330 2020-11-24 16:09 install/doinst.sh
+-rw-r--r-- root/root       857 2020-11-24 16:09 install/slack-desc
+drwxr-xr-x root/root         0 2020-11-24 16:09 usr/
+drwxr-xr-x root/root         0 2020-11-24 16:09 usr/bin/
+-rwxr-xr-x root/root    867232 2020-11-24 16:09 usr/bin/torrent-file-editor
+drwxr-xr-x root/root         0 2020-11-24 16:09 usr/doc/
+drwxr-xr-x root/root         0 2020-11-24 16:09 usr/doc/torrent-file-editor-0.3.17/
+-rw-r--r-- root/root      5730 2020-01-04 19:02 usr/doc/torrent-file-editor-0.3.17/README.md
+-rw-r--r-- root/root      3321 2020-11-24 16:09 usr/doc/torrent-file-editor-0.3.17/torrent-file-editor.SlackBuild
+drwxr-xr-x root/root         0 2020-11-24 16:09 usr/share/
+drwxr-xr-x root/root         0 2020-11-24 16:09 usr/share/appdata/
+-rw-r--r-- root/root      3057 2020-01-04 19:02 usr/share/appdata/torrent-file-editor.appdata.xml
+drwxr-xr-x root/root         0 2020-11-24 16:09 usr/share/applications/
+-rw-r--r-- root/root       396 2020-01-04 19:02 usr/share/applications/torrent-file-editor.desktop
+drwxr-xr-x root/root         0 2020-11-24 16:09 usr/share/icons/
+drwxr-xr-x root/root         0 2020-11-24 16:09 usr/share/icons/hicolor/
+drwxr-xr-x root/root         0 2020-11-24 16:09 usr/share/icons/hicolor/128x128/
+drwxr-xr-x root/root         0 2020-11-24 16:09 usr/share/icons/hicolor/128x128/apps/
+-rw-r--r-- root/root     33524 2020-01-04 19:02 usr/share/icons/hicolor/128x128/apps/torrent-file-editor.png
+drwxr-xr-x root/root         0 2020-11-24 16:09 usr/share/icons/hicolor/16x16/
+drwxr-xr-x root/root         0 2020-11-24 16:09 usr/share/icons/hicolor/16x16/apps/
+-rw-r--r-- root/root      1885 2020-01-04 19:02 usr/share/icons/hicolor/16x16/apps/torrent-file-editor.png
+drwxr-xr-x root/root         0 2020-11-24 16:09 usr/share/icons/hicolor/256x256/
+drwxr-xr-x root/root         0 2020-11-24 16:09 usr/share/icons/hicolor/256x256/apps/
+-rw-r--r-- root/root     42159 2020-01-04 19:02 usr/share/icons/hicolor/256x256/apps/torrent-file-editor.png
+drwxr-xr-x root/root         0 2020-11-24 16:09 usr/share/icons/hicolor/32x32/
+drwxr-xr-x root/root         0 2020-11-24 16:09 usr/share/icons/hicolor/32x32/apps/
+-rw-r--r-- root/root      5172 2020-01-04 19:02 usr/share/icons/hicolor/32x32/apps/torrent-file-editor.png
+drwxr-xr-x root/root         0 2020-11-24 16:09 usr/share/icons/hicolor/48x48/
+drwxr-xr-x root/root         0 2020-11-24 16:09 usr/share/icons/hicolor/48x48/apps/
+-rw-r--r-- root/root      9110 2020-01-04 19:02 usr/share/icons/hicolor/48x48/apps/torrent-file-editor.png
+drwxr-xr-x root/root         0 2020-11-24 16:09 usr/share/icons/hicolor/64x64/
+drwxr-xr-x root/root         0 2020-11-24 16:09 usr/share/icons/hicolor/64x64/apps/
+-rw-r--r-- root/root     13471 2020-01-04 19:02 usr/share/icons/hicolor/64x64/apps/torrent-file-editor.png
+
+

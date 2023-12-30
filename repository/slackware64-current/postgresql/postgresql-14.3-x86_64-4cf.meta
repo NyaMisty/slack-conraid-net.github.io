@@ -1,0 +1,21 @@
+PACKAGE NAME:  postgresql-14.3-x86_64-4cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./postgresql
+PACKAGE SIZE (compressed):  9668 K
+PACKAGE SIZE (uncompressed):  57480 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+postgresql: postgresql (object-relational database management system)
+postgresql:
+postgresql: PostgreSQL is an advanced object-relational database management
+postgresql: system (ORDBMS) based on POSTGRES. With more than 15 years of
+postgresql: development history, it is quickly becoming the de facto
+postgresql: database for enterprise level open source solutions.
+postgresql:
+postgresql:
+postgresql:
+postgresql:
+postgresql:
+

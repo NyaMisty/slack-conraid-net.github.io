@@ -1,0 +1,13 @@
+accounts-qml-module: accounts-qml-module (QML bindings for libaccounts-qt + libsignon-qt)
+accounts-qml-module:
+accounts-qml-module: This QML module provides an API to manage the user's online accounts
+accounts-qml-module: and get their authentication data.
+accounts-qml-module: It's a tiny wrapper around the Qt-based APIs of libaccounts-qt
+accounts-qml-module: and libsignon-qt.
+accounts-qml-module:
+accounts-qml-module:
+accounts-qml-module:
+accounts-qml-module:
+accounts-qml-module:
+accounts-qml-module:
+accounts-qml-module:

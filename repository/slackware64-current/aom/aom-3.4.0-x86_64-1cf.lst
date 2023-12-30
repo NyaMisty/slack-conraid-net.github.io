@@ -1,0 +1,40 @@
+++========================================
+||
+||   Package:  ./aom/aom-3.4.0-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-06-18 09:08 ./
+drwxr-xr-x root/root         0 2022-06-18 09:08 install/
+-rw-r--r-- root/root       176 2022-06-18 09:08 install/doinst.sh
+-rw-r--r-- root/root       789 2022-06-18 09:08 install/slack-desc
+drwxr-xr-x root/root         0 2022-06-18 09:08 usr/
+drwxr-xr-x root/root         0 2022-06-18 09:08 usr/bin/
+-rwxr-xr-x root/root    494704 2022-06-18 09:08 usr/bin/aomdec
+-rwxr-xr-x root/root    528968 2022-06-18 09:08 usr/bin/aomenc
+drwxr-xr-x root/root         0 2022-06-18 09:08 usr/doc/
+drwxr-xr-x root/root         0 2022-06-18 09:08 usr/doc/aom-3.4.0/
+-rw-r--r-- root/root     10894 2022-06-17 19:46 usr/doc/aom-3.4.0/AUTHORS
+-rw-r--r-- root/root     17180 2022-06-17 19:46 usr/doc/aom-3.4.0/CHANGELOG
+-rw-r--r-- root/root      1316 2022-06-17 19:46 usr/doc/aom-3.4.0/LICENSE
+-rw-r--r-- root/root      5702 2022-06-17 19:46 usr/doc/aom-3.4.0/PATENTS
+-rw-r--r-- root/root     23854 2022-06-17 19:46 usr/doc/aom-3.4.0/README.md
+-rw-r--r-- root/root      4179 2022-06-18 09:08 usr/doc/aom-3.4.0/aom.SlackBuild
+drwxr-xr-x root/root         0 2022-06-18 09:08 usr/include/
+drwxr-xr-x root/root         0 2022-06-18 09:08 usr/include/aom/
+-rw-r--r-- root/root      3873 2022-06-17 19:46 usr/include/aom/aom.h
+-rw-r--r-- root/root     20277 2022-06-17 19:46 usr/include/aom/aom_codec.h
+-rw-r--r-- root/root     10418 2022-06-17 19:46 usr/include/aom/aom_decoder.h
+-rw-r--r-- root/root     40844 2022-06-17 19:46 usr/include/aom/aom_encoder.h
+-rw-r--r-- root/root     17891 2022-06-17 19:46 usr/include/aom/aom_external_partition.h
+-rw-r--r-- root/root      3326 2022-06-17 19:46 usr/include/aom/aom_frame_buffer.h
+-rw-r--r-- root/root     19240 2022-06-17 19:46 usr/include/aom/aom_image.h
+-rw-r--r-- root/root      2287 2022-06-17 19:46 usr/include/aom/aom_integer.h
+-rw-r--r-- root/root     66056 2022-06-17 19:46 usr/include/aom/aomcx.h
+-rw-r--r-- root/root     19299 2022-06-17 19:46 usr/include/aom/aomdx.h
+drwxr-xr-x root/root         0 2022-06-18 09:08 usr/lib64/
+-rw-r--r-- root/root   8024192 2022-06-18 09:08 usr/lib64/libaom.a
+-rwxr-xr-x root/root   5611720 2022-06-18 09:08 usr/lib64/libaom.so.3.4.0
+drwxr-xr-x root/root         0 2022-06-18 09:08 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       298 2022-06-18 09:08 usr/lib64/pkgconfig/aom.pc
+
+

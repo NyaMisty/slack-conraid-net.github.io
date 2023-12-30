@@ -1,0 +1,26 @@
+++========================================
+||
+||   Package:  ./txt2man/txt2man-1.7.1-noarch-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-06-29 14:42 ./
+drwxr-xr-x root/root         0 2020-06-29 14:42 install/
+-rw-r--r-- root/root       755 2020-06-29 14:42 install/slack-desc
+drwxr-xr-x root/root         0 2020-06-29 14:42 usr/
+drwxr-xr-x root/root         0 2020-06-29 14:42 usr/bin/
+-rwxr-xr-x root/root      4488 2020-06-29 14:42 usr/bin/bookman
+-rwxr-xr-x root/root      5877 2020-06-29 14:42 usr/bin/src2man
+-rwxr-xr-x root/root     12097 2020-06-29 14:42 usr/bin/txt2man
+drwxr-xr-x root/root         0 2020-06-29 14:42 usr/doc/
+drwxr-xr-x root/root         0 2020-06-29 14:42 usr/doc/txt2man-1.7.1/
+-rw-r--r-- root/root     17982 2020-06-28 23:29 usr/doc/txt2man-1.7.1/COPYING
+-rw-r--r-- root/root      2943 2020-06-28 23:29 usr/doc/txt2man-1.7.1/Changelog
+-rw-r--r-- root/root       374 2020-06-28 23:29 usr/doc/txt2man-1.7.1/README
+-rw-r--r-- root/root      2564 2020-06-29 14:42 usr/doc/txt2man-1.7.1/txt2man.SlackBuild
+drwxr-xr-x root/root         0 2020-06-29 14:42 usr/man/
+drwxr-xr-x root/root         0 2020-06-29 14:42 usr/man/man1/
+-rw-r--r-- root/root       855 2020-06-29 14:42 usr/man/man1/bookman.1.gz
+-rw-r--r-- root/root      1220 2020-06-29 14:42 usr/man/man1/src2man.1.gz
+-rw-r--r-- root/root      2386 2020-06-29 14:42 usr/man/man1/txt2man.1.gz
+
+

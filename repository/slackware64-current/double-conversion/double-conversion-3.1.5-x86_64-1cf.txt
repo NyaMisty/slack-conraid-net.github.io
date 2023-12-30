@@ -1,0 +1,11 @@
+double-conversion: double-conversion (Efficient binary<->decimal conversion)
+double-conversion:
+double-conversion: This project (double-conversion) provides binary-decimal and
+double-conversion: decimal-binary routines for IEEE doubles.
+double-conversion:
+double-conversion:
+double-conversion:
+double-conversion:
+double-conversion:
+double-conversion:
+double-conversion:

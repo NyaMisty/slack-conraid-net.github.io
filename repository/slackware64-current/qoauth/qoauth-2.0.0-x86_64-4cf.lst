@@ -1,0 +1,33 @@
+++========================================
+||
+||   Package:  ./qoauth/qoauth-2.0.0-x86_64-4cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-12-12 12:29 ./
+drwxr-xr-x root/root         0 2020-12-12 12:29 install/
+-rw-r--r-- root/root       303 2020-12-12 12:29 install/doinst.sh
+-rw-r--r-- root/root       710 2020-12-12 12:29 install/slack-desc
+drwxr-xr-x root/root         0 2020-12-12 12:29 usr/
+drwxr-xr-x root/root         0 2020-12-12 12:29 usr/doc/
+drwxr-xr-x root/root         0 2020-12-12 12:29 usr/doc/qoauth-2.0.0/
+-rw-r--r-- root/root      1287 2016-11-28 18:52 usr/doc/qoauth-2.0.0/CHANGELOG
+-rw-r--r-- root/root     26530 2016-11-28 18:52 usr/doc/qoauth-2.0.0/LICENSE
+-rw-r--r-- root/root      1492 2016-11-28 18:52 usr/doc/qoauth-2.0.0/README
+-rw-r--r-- root/root      3290 2020-12-12 12:29 usr/doc/qoauth-2.0.0/qoauth.SlackBuild
+drwxr-xr-x root/root         0 2020-12-12 12:29 usr/include/
+drwxr-xr-x root/root         0 2020-12-12 12:29 usr/include/QtOAuth/
+-rw-r--r-- root/root        23 2016-11-28 18:52 usr/include/QtOAuth/QtOAuth
+-rw-r--r-- root/root      4611 2016-11-28 18:52 usr/include/QtOAuth/interface.h
+-rw-r--r-- root/root      1814 2016-11-28 18:52 usr/include/QtOAuth/qoauth_global.h
+-rw-r--r-- root/root      8524 2016-11-28 18:52 usr/include/QtOAuth/qoauth_namespace.h
+drwxr-xr-x root/root         0 2020-12-12 12:29 usr/lib64/
+-rw-r--r-- root/root       406 2020-12-12 12:28 usr/lib64/libqoauth.prl
+-rwxr-xr-x root/root     64864 2020-12-12 12:29 usr/lib64/libqoauth.so.2.0.0
+drwxr-xr-x root/root         0 2020-12-12 12:29 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       242 2020-12-12 12:28 usr/lib64/pkgconfig/qoauth.pc
+drwxr-xr-x root/root         0 2020-12-12 12:29 usr/lib64/qt5/
+drwxr-xr-x root/root         0 2020-12-12 12:29 usr/lib64/qt5/mkspecs/
+drwxr-xr-x root/root         0 2020-12-12 12:29 usr/lib64/qt5/mkspecs/features/
+-rw-r--r-- root/root      1244 2016-11-28 18:52 usr/lib64/qt5/mkspecs/features/oauth.prf
+
+

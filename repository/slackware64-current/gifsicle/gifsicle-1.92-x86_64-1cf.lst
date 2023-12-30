@@ -1,0 +1,26 @@
+++========================================
+||
+||   Package:  ./gifsicle/gifsicle-1.92-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-11-21 12:50 ./
+drwxr-xr-x root/root         0 2020-11-21 12:50 install/
+-rw-r--r-- root/root       777 2020-11-21 12:50 install/slack-desc
+drwxr-xr-x root/root         0 2020-11-21 12:50 usr/
+drwxr-xr-x root/root         0 2020-11-21 12:50 usr/bin/
+-rwxr-xr-x root/root     59808 2020-11-21 12:50 usr/bin/gifdiff
+-rwxr-xr-x root/root    191376 2020-11-21 12:50 usr/bin/gifsicle
+-rwxr-xr-x root/root     76584 2020-11-21 12:50 usr/bin/gifview
+drwxr-xr-x root/root         0 2020-11-21 12:50 usr/doc/
+drwxr-xr-x root/root         0 2020-11-21 12:50 usr/doc/gifsicle-1.92/
+-rw-r--r-- root/root     18092 2016-02-01 20:02 usr/doc/gifsicle-1.92/COPYING
+-rw-r--r-- root/root      7462 2013-06-28 20:26 usr/doc/gifsicle-1.92/INSTALL
+-rw-r--r-- root/root      4542 2019-04-18 22:02 usr/doc/gifsicle-1.92/README.md
+-rw-r--r-- root/root      3575 2020-11-21 12:50 usr/doc/gifsicle-1.92/gifsicle.SlackBuild
+drwxr-xr-x root/root         0 2020-11-21 12:50 usr/man/
+drwxr-xr-x root/root         0 2020-11-21 12:50 usr/man/man1/
+-rw-r--r-- root/root       852 2020-11-21 12:50 usr/man/man1/gifdiff.1.gz
+-rw-r--r-- root/root     11004 2020-11-21 12:50 usr/man/man1/gifsicle.1.gz
+-rw-r--r-- root/root      2478 2020-11-21 12:50 usr/man/man1/gifview.1.gz
+
+

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Conraid Repository</title>
+  </head>
+  <body>
+<h1>Conraid's Repository</h1>
+<h2>for Slackware</h2>
+
+  <table>
+   <tr><th valign="top">&nbsp;</th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th></tr>
+   <tr><th colspan="4"><hr></th></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="/repository/slackware64-current/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="README">README</a></td><td align="right">2023-03-06 14:19  </td><td align="right">1.1K</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="aide-0.18.1-x86_64-1cf.lst">aide-0.18.1-x86_64-1cf.lst</a></td><td align="right">2023-03-06 14:19  </td><td align="right">2.6K</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="aide-0.18.1-x86_64-1cf.meta">aide-0.18.1-x86_64-1cf.meta</a></td><td align="right">2023-03-06 14:19  </td><td align="right">507 </td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="aide-0.18.1-x86_64-1cf.txt">aide-0.18.1-x86_64-1cf.txt</a></td><td align="right">2023-03-06 14:19  </td><td align="right">207 </td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="aide-0.18.1-x86_64-1cf.txz">aide-0.18.1-x86_64-1cf.txz</a></td><td align="right">2023-03-06 14:19  </td><td align="right">122K</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="aide-0.18.1-x86_64-1cf.txz.asc">aide-0.18.1-x86_64-1cf.txz.asc</a></td><td align="right">2023-03-06 14:19  </td><td align="right">508 </td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="aide-0.18.1-x86_64-1cf.txz.md5">aide-0.18.1-x86_64-1cf.txz.md5</a></td><td align="right">2023-03-06 14:19  </td><td align="right"> 61 </td></tr>
+   <tr><th colspan="4"><hr></th></tr>
+</table>
+<pre>
+
+Slackware Current Repository by Conraid
+
+======================================================================
+
+aide (Advanced Intrusion Detection Environment)
+
+A free replacement for Tripwire. It does the same things as the
+semi-free Tripwire and more.
+
+HOME: https://aide.github.io/
+
+======================================================================
+NOTE: 
+
+I suggest that you start with the example below, use it for a few weeks,
+and tune it to accommodate your habits.
+
+The media containing your aide databases should be physically
+unmounted between scans. Alternatively, see /usr/doc/aide-$VERSION/contrib
+for some example scripts that will help you gpg sign your database, for
+online storage.
+
+=== /etc/aide.conf sample ===
+database=file:/mnt/usb/aide.db
+database_out=file:/mnt/usb/aide.db.new
+gzip_dbout=yes
+
+/etc/ld.so.cache p+ftype+l+u+g
+/etc/ntp/drift   p+ftype+l+u+g
+
+/boot		R
+/etc		R
+/bin		R
+/lib		R
+/usr/lib	R
+/usr/libexec	R
+/usr/lib64	R
+/lib64		R
+/usr/bin	R
+/usr/local/bin	R
+/sbin		R
+/usr/sbin	R
+/usr/local/sbin	R
+=/var/log	R
+
+
+
+======================
+REQUIRES: audit
+
+</pre>
+</body></html>

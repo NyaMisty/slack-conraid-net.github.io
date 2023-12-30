@@ -1,0 +1,42 @@
+++========================================
+||
+||   Package:  ./arpwatch/arpwatch-3.1-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-04-26 08:28 ./
+drwxr-xr-x root/root         0 2021-04-26 08:28 etc/
+drwxr-xr-x root/root         0 2021-04-26 08:28 etc/rc.d/
+-rw-r--r-- root/root      1075 2021-04-26 08:28 etc/rc.d/rc.arpwatch.new
+drwxr-xr-x root/root         0 2021-04-26 08:28 install/
+-rw-r--r-- root/root       602 2021-04-26 08:28 install/doinst.sh
+-rw-r--r-- root/root       890 2021-04-26 08:28 install/slack-desc
+drwxr-xr-x root/root         0 2021-04-26 08:28 usr/
+drwxr-xr-x root/root         0 2021-04-26 08:28 usr/doc/
+drwxr-xr-x root/root         0 2021-04-26 08:28 usr/doc/arpwatch-3.1/
+-rw-r--r-- root/root      5665 2020-04-06 02:35 usr/doc/arpwatch-3.1/CHANGES
+-rw-r--r-- root/root      3946 2020-04-06 02:30 usr/doc/arpwatch-3.1/INSTALL
+-rw-r--r-- root/root      1823 2019-12-01 20:01 usr/doc/arpwatch-3.1/README
+-rw-r--r-- root/root       711 2021-04-26 08:28 usr/doc/arpwatch-3.1/README.ethercodes
+-rw-r--r-- root/root      4225 2021-04-26 08:28 usr/doc/arpwatch-3.1/arpwatch.SlackBuild
+drwxr-xr-x root/root         0 2021-04-26 08:28 usr/man/
+drwxr-xr-x root/root         0 2021-04-26 08:28 usr/man/man8/
+-rw-r--r-- root/root      2057 2021-04-26 08:28 usr/man/man8/arpsnmp.8.gz
+-rw-r--r-- root/root      2777 2021-04-26 08:28 usr/man/man8/arpwatch.8.gz
+drwxr-xr-x root/root         0 2021-04-26 08:28 usr/sbin/
+-rwxr-xr-x root/root       637 2021-04-26 08:28 usr/sbin/arp2ethers
+-rwxr-xr-x root/root       639 2021-04-26 08:28 usr/sbin/arpfetch
+-r-xr-xr-x root/root     31376 2021-04-26 08:28 usr/sbin/arpsnmp
+-r-xr-xr-x root/root     35624 2021-04-26 08:28 usr/sbin/arpwatch
+-rwxr-xr-x root/root       585 2021-04-26 08:28 usr/sbin/massagevendor-old
+-rwxr-xr-x root/root      5115 2021-04-26 08:28 usr/sbin/massagevendor.py
+drwxr-xr-x root/root         0 2021-04-26 08:28 var/
+drwxr-xr-x root/root         0 2021-04-26 08:28 var/lib/
+drwxr-xr-x root/root         0 2021-04-26 08:28 var/lib/arpwatch/
+-rw-rw-r-- root/root         0 2021-04-26 08:28 var/lib/arpwatch/arp.dat
+-rw-r--r-- root/root       315 2013-02-16 09:10 var/lib/arpwatch/d.awk
+-rw-r--r-- root/root       333 2016-09-17 19:09 var/lib/arpwatch/duplicates.awk
+-rw-r--r-- root/root       219 2013-02-16 09:10 var/lib/arpwatch/e.awk
+-rw-r--r-- root/root       351 2013-02-16 09:10 var/lib/arpwatch/euppertolower.awk
+-rw-r--r-- root/root        99 2013-02-16 09:10 var/lib/arpwatch/p.awk
+
+

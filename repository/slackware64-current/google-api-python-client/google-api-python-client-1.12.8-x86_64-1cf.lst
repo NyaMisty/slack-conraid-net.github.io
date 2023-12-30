@@ -1,0 +1,63 @@
+++========================================
+||
+||   Package:  ./google-api-python-client/google-api-python-client-1.12.8-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-11-19 12:14 ./
+drwxr-xr-x root/root         0 2020-11-19 12:14 install/
+-rw-r--r-- root/root       887 2020-11-19 12:14 install/slack-desc
+drwxr-xr-x root/root         0 2020-11-19 12:14 usr/
+drwxr-xr-x root/root         0 2020-11-19 12:14 usr/doc/
+drwxr-xr-x root/root         0 2020-11-19 12:14 usr/doc/google-api-python-client-1.12.8/
+-rw-r--r-- root/root       767 2020-11-18 18:33 usr/doc/google-api-python-client-1.12.8/LICENSE
+-rw-r--r-- root/root      2691 2020-11-18 18:33 usr/doc/google-api-python-client-1.12.8/README.md
+-rw-r--r-- root/root      3199 2020-11-19 12:14 usr/doc/google-api-python-client-1.12.8/google-api-python-client.SlackBuild
+drwxr-xr-x root/root         0 2020-11-19 12:14 usr/lib64/
+drwxr-xr-x root/root         0 2020-11-19 12:14 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2020-11-19 12:14 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2020-11-19 12:14 usr/lib64/python3.9/site-packages/apiclient/
+-rw-r--r-- root/root       935 2020-11-18 18:33 usr/lib64/python3.9/site-packages/apiclient/__init__.py
+drwxr-xr-x root/root         0 2020-11-19 12:14 usr/lib64/python3.9/site-packages/apiclient/__pycache__/
+-rw-r--r-- root/root       756 2020-11-19 12:14 usr/lib64/python3.9/site-packages/apiclient/__pycache__/__init__.cpython-39.pyc
+drwxr-xr-x root/root         0 2020-11-19 12:14 usr/lib64/python3.9/site-packages/google_api_python_client-1.12.8-py3.9.egg-info/
+-rw-r--r-- root/root      4228 2020-11-19 12:14 usr/lib64/python3.9/site-packages/google_api_python_client-1.12.8-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root      1700 2020-11-19 12:14 usr/lib64/python3.9/site-packages/google_api_python_client-1.12.8-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2020-11-19 12:14 usr/lib64/python3.9/site-packages/google_api_python_client-1.12.8-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root       144 2020-11-19 12:14 usr/lib64/python3.9/site-packages/google_api_python_client-1.12.8-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root        58 2020-11-19 12:14 usr/lib64/python3.9/site-packages/google_api_python_client-1.12.8-py3.9.egg-info/top_level.txt
+drwxr-xr-x root/root         0 2020-11-19 12:14 usr/lib64/python3.9/site-packages/googleapiclient/
+-rw-r--r-- root/root       904 2020-11-18 18:33 usr/lib64/python3.9/site-packages/googleapiclient/__init__.py
+drwxr-xr-x root/root         0 2020-11-19 12:14 usr/lib64/python3.9/site-packages/googleapiclient/__pycache__/
+-rw-r--r-- root/root       574 2020-11-19 12:14 usr/lib64/python3.9/site-packages/googleapiclient/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      4051 2020-11-19 12:14 usr/lib64/python3.9/site-packages/googleapiclient/__pycache__/_auth.cpython-39.pyc
+-rw-r--r-- root/root      5987 2020-11-19 12:14 usr/lib64/python3.9/site-packages/googleapiclient/__pycache__/_helpers.cpython-39.pyc
+-rw-r--r-- root/root      9793 2020-11-19 12:14 usr/lib64/python3.9/site-packages/googleapiclient/__pycache__/channel.cpython-39.pyc
+-rw-r--r-- root/root     41442 2020-11-19 12:14 usr/lib64/python3.9/site-packages/googleapiclient/__pycache__/discovery.cpython-39.pyc
+-rw-r--r-- root/root      5617 2020-11-19 12:14 usr/lib64/python3.9/site-packages/googleapiclient/__pycache__/errors.cpython-39.pyc
+-rw-r--r-- root/root     51456 2020-11-19 12:14 usr/lib64/python3.9/site-packages/googleapiclient/__pycache__/http.cpython-39.pyc
+-rw-r--r-- root/root      6802 2020-11-19 12:14 usr/lib64/python3.9/site-packages/googleapiclient/__pycache__/mimeparse.cpython-39.pyc
+-rw-r--r-- root/root     11871 2020-11-19 12:14 usr/lib64/python3.9/site-packages/googleapiclient/__pycache__/model.cpython-39.pyc
+-rw-r--r-- root/root      2918 2020-11-19 12:14 usr/lib64/python3.9/site-packages/googleapiclient/__pycache__/sample_tools.cpython-39.pyc
+-rw-r--r-- root/root      8833 2020-11-19 12:14 usr/lib64/python3.9/site-packages/googleapiclient/__pycache__/schema.cpython-39.pyc
+-rw-r--r-- root/root      5679 2020-11-18 18:33 usr/lib64/python3.9/site-packages/googleapiclient/_auth.py
+-rw-r--r-- root/root      6780 2020-11-18 18:33 usr/lib64/python3.9/site-packages/googleapiclient/_helpers.py
+-rw-r--r-- root/root     10858 2020-11-18 18:33 usr/lib64/python3.9/site-packages/googleapiclient/channel.py
+-rw-r--r-- root/root     59078 2020-11-18 18:33 usr/lib64/python3.9/site-packages/googleapiclient/discovery.py
+drwxr-xr-x root/root         0 2020-11-19 12:14 usr/lib64/python3.9/site-packages/googleapiclient/discovery_cache/
+-rw-r--r-- root/root      1449 2020-11-18 18:33 usr/lib64/python3.9/site-packages/googleapiclient/discovery_cache/__init__.py
+drwxr-xr-x root/root         0 2020-11-19 12:14 usr/lib64/python3.9/site-packages/googleapiclient/discovery_cache/__pycache__/
+-rw-r--r-- root/root      1059 2020-11-19 12:14 usr/lib64/python3.9/site-packages/googleapiclient/discovery_cache/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      1466 2020-11-19 12:14 usr/lib64/python3.9/site-packages/googleapiclient/discovery_cache/__pycache__/appengine_memcache.cpython-39.pyc
+-rw-r--r-- root/root      1161 2020-11-19 12:14 usr/lib64/python3.9/site-packages/googleapiclient/discovery_cache/__pycache__/base.cpython-39.pyc
+-rw-r--r-- root/root      3565 2020-11-19 12:14 usr/lib64/python3.9/site-packages/googleapiclient/discovery_cache/__pycache__/file_cache.cpython-39.pyc
+-rw-r--r-- root/root      1652 2020-11-18 18:33 usr/lib64/python3.9/site-packages/googleapiclient/discovery_cache/appengine_memcache.py
+-rw-r--r-- root/root      1349 2020-11-18 18:33 usr/lib64/python3.9/site-packages/googleapiclient/discovery_cache/base.py
+-rw-r--r-- root/root      4796 2020-11-18 18:33 usr/lib64/python3.9/site-packages/googleapiclient/discovery_cache/file_cache.py
+-rw-r--r-- root/root      4951 2020-11-18 18:33 usr/lib64/python3.9/site-packages/googleapiclient/errors.py
+-rw-r--r-- root/root     65448 2020-11-18 18:33 usr/lib64/python3.9/site-packages/googleapiclient/http.py
+-rw-r--r-- root/root      6550 2020-11-18 18:33 usr/lib64/python3.9/site-packages/googleapiclient/mimeparse.py
+-rw-r--r-- root/root     12948 2020-11-18 18:33 usr/lib64/python3.9/site-packages/googleapiclient/model.py
+-rw-r--r-- root/root      4341 2020-11-18 18:33 usr/lib64/python3.9/site-packages/googleapiclient/sample_tools.py
+-rw-r--r-- root/root     10026 2020-11-18 18:33 usr/lib64/python3.9/site-packages/googleapiclient/schema.py
+
+

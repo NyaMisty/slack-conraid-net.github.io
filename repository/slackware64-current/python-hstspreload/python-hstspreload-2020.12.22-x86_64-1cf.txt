@@ -1,0 +1,11 @@
+python-hstspreload: python-hstspreload (HSTS Preload list)
+python-hstspreload:
+python-hstspreload: Chromium HSTS Preload list as a Python package and updated daily.
+python-hstspreload:
+python-hstspreload:
+python-hstspreload:
+python-hstspreload:
+python-hstspreload:
+python-hstspreload:
+python-hstspreload:
+python-hstspreload:

@@ -1,0 +1,30 @@
+++========================================
+||
+||   Package:  ./cssselect2/cssselect2-0.4.1-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-01-09 13:33 ./
+drwxr-xr-x root/root         0 2021-01-09 13:33 install/
+-rw-r--r-- root/root       870 2021-01-09 13:33 install/slack-desc
+drwxr-xr-x root/root         0 2021-01-09 13:33 usr/
+drwxr-xr-x root/root         0 2021-01-09 13:33 usr/doc/
+drwxr-xr-x root/root         0 2021-01-09 13:33 usr/doc/cssselect2-0.4.1/
+-rw-r--r-- root/root      1548 2020-10-29 13:48 usr/doc/cssselect2-0.4.1/LICENSE
+-rw-r--r-- root/root      1177 2020-10-29 14:43 usr/doc/cssselect2-0.4.1/README.rst
+-rw-r--r-- root/root      3255 2021-01-09 13:33 usr/doc/cssselect2-0.4.1/cssselect2.SlackBuild
+drwxr-xr-x root/root         0 2021-01-09 13:33 usr/lib64/
+drwxr-xr-x root/root         0 2021-01-09 13:33 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2021-01-09 13:33 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2021-01-09 13:33 usr/lib64/python3.9/site-packages/cssselect2/
+-rw-r--r-- root/root       238 2021-01-09 13:33 usr/lib64/python3.9/site-packages/cssselect2-0.4.1-py3.9.egg-info
+-rw-r--r-- root/root      3860 2020-10-29 23:06 usr/lib64/python3.9/site-packages/cssselect2/__init__.py
+drwxr-xr-x root/root         0 2021-01-09 13:33 usr/lib64/python3.9/site-packages/cssselect2/__pycache__/
+-rw-r--r-- root/root      3455 2021-01-09 13:33 usr/lib64/python3.9/site-packages/cssselect2/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      8774 2021-01-09 13:33 usr/lib64/python3.9/site-packages/cssselect2/__pycache__/compiler.cpython-39.pyc
+-rw-r--r-- root/root     11984 2021-01-09 13:33 usr/lib64/python3.9/site-packages/cssselect2/__pycache__/parser.cpython-39.pyc
+-rw-r--r-- root/root     11894 2021-01-09 13:33 usr/lib64/python3.9/site-packages/cssselect2/__pycache__/tree.cpython-39.pyc
+-rw-r--r-- root/root     14076 2020-10-29 13:48 usr/lib64/python3.9/site-packages/cssselect2/compiler.py
+-rw-r--r-- root/root     13204 2020-10-29 13:48 usr/lib64/python3.9/site-packages/cssselect2/parser.py
+-rw-r--r-- root/root     12307 2020-10-29 13:48 usr/lib64/python3.9/site-packages/cssselect2/tree.py
+
+

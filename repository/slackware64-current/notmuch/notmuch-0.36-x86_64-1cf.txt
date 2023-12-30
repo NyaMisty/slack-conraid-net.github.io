@@ -1,0 +1,11 @@
+notmuch: notmuch (thread-based email index, search and tagging)
+notmuch:
+notmuch: Notmuch is a system for indexing, searching, reading, and tagging
+notmuch: large collections of email messages in maildir or mh format.
+notmuch: It uses the Xapian library to provide fast, full-text search with
+notmuch: a very convenient search syntax. 
+notmuch:
+notmuch:
+notmuch:
+notmuch:
+notmuch:

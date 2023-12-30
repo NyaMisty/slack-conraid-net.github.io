@@ -1,0 +1,18 @@
+PACKAGE NAME:  sarg-2.4.0-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./sarg
+PACKAGE SIZE (compressed):  556 K
+PACKAGE SIZE (uncompressed):  1790 K
+PACKAGE DESCRIPTION:
+sarg: sarg (Squid Analysis Report Generator)
+sarg:
+sarg: Sarg - Squid Analysis Report Generator is a tool that allow you to
+sarg: view "where" your users are going to on the Internet.
+sarg: Sarg generate HTML reports, with informations about users,
+sarg: IP Addresses, bytes, sites and times.
+sarg:
+sarg:
+sarg:
+sarg:
+sarg:
+

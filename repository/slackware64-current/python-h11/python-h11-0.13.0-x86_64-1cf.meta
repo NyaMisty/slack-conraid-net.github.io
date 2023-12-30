@@ -1,0 +1,18 @@
+PACKAGE NAME:  python-h11-0.13.0-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./python-h11
+PACKAGE SIZE (compressed):  76 K
+PACKAGE SIZE (uncompressed):  370 K
+PACKAGE DESCRIPTION:
+python-h11: python-h11 (Python, bring-your-own-I/O implementation of HTTP/1.1)
+python-h11:
+python-h11: This is a little HTTP/1.1 library written from scratch in Python,
+python-h11: heavily inspired by hyper-h2.
+python-h11:
+python-h11:
+python-h11:
+python-h11:
+python-h11:
+python-h11:
+python-h11:
+

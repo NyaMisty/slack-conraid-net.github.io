@@ -1,0 +1,18 @@
+PACKAGE NAME:  twolame-0.4.0-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./twolame
+PACKAGE SIZE (compressed):  80 K
+PACKAGE SIZE (uncompressed):  270 K
+PACKAGE DESCRIPTION:
+twolame: twolame (an optimised MP2 encoder)
+twolame:
+twolame: TwoLAME is an optimized MPEG Audio Layer 2 (MP2) encoder.
+twolame: TwoLAME should be able to be used as a drop-in replacement for
+twolame: LAME (a MPEG Layer 3 encoder). The frontend takes very similar
+twolame: command line options to LAME, and the backend library has a very
+twolame: similar API to LAME.
+twolame:
+twolame:
+twolame:
+twolame:
+

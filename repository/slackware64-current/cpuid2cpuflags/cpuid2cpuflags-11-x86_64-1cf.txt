@@ -1,0 +1,11 @@
+cpuid2cpuflags: cpuid2cpuflags (Tool to generate CPU FLAGS)
+cpuid2cpuflags:
+cpuid2cpuflags: cpuid2cpuflags is a tool to generate CPU_FLAGS_* for your CPU 
+cpuid2cpuflags:
+cpuid2cpuflags:
+cpuid2cpuflags:
+cpuid2cpuflags:
+cpuid2cpuflags:
+cpuid2cpuflags:
+cpuid2cpuflags:
+cpuid2cpuflags:

@@ -1,0 +1,25 @@
+++========================================
+||
+||   Package:  ./python-netifaces/python-netifaces-0.11.0-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-31 10:52 ./
+drwxr-xr-x root/root         0 2022-07-31 10:52 install/
+-rw-r--r-- root/root       833 2022-07-31 10:52 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/doc/
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/doc/python-netifaces-0.11.0/
+-rw-r--r-- root/root      3275 2022-07-31 10:52 usr/doc/python-netifaces-0.11.0/python-netifaces.SlackBuild
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-07-31 10:52 usr/lib64/python3.9/site-packages/netifaces-0.11.0-py3.9.egg-info/
+-rw-r--r-- root/root      8931 2022-07-31 10:52 usr/lib64/python3.9/site-packages/netifaces-0.11.0-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       229 2022-07-31 10:52 usr/lib64/python3.9/site-packages/netifaces-0.11.0-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2022-07-31 10:52 usr/lib64/python3.9/site-packages/netifaces-0.11.0-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root       109 2022-07-31 10:52 usr/lib64/python3.9/site-packages/netifaces-0.11.0-py3.9.egg-info/installed-files.txt
+-rw-r--r-- root/root        10 2022-07-31 10:52 usr/lib64/python3.9/site-packages/netifaces-0.11.0-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root         1 2018-05-02 11:15 usr/lib64/python3.9/site-packages/netifaces-0.11.0-py3.9.egg-info/zip-safe
+-rwxr-xr-x root/root     23056 2022-07-31 10:52 usr/lib64/python3.9/site-packages/netifaces.cpython-39-x86_64-linux-gnu.so
+
+

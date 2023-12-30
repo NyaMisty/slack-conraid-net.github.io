@@ -1,0 +1,25 @@
+++========================================
+||
+||   Package:  ./pdf2png/pdf2png-0.5.3-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-08-20 15:27 ./
+drwxr-xr-x root/root         0 2022-08-20 15:27 install/
+-rw-r--r-- root/root       842 2022-08-20 15:27 install/slack-desc
+drwxr-xr-x root/root         0 2022-08-20 15:27 usr/
+drwxr-xr-x root/root         0 2022-08-20 15:27 usr/bin/
+-rwxr-xr-x root/root     10138 2022-08-20 15:27 usr/bin/pdf2png
+drwxr-xr-x root/root         0 2022-08-20 15:27 usr/doc/
+drwxr-xr-x root/root         0 2022-08-20 15:27 usr/doc/pdf2png-0.5.3/
+-rw-r--r-- root/root     15125 2022-06-01 14:05 usr/doc/pdf2png-0.5.3/COPYING
+-rw-r--r-- root/root      1107 2022-06-01 14:05 usr/doc/pdf2png-0.5.3/README.md
+-rw-r--r-- root/root      4031 2022-08-20 15:27 usr/doc/pdf2png-0.5.3/pdf2png.SlackBuild
+drwxr-xr-x root/root         0 2022-08-20 15:27 usr/share/
+drwxr-xr-x root/root         0 2022-08-20 15:27 usr/share/applications/
+-rw-r--r-- root/root       168 2022-08-20 15:27 usr/share/applications/pdf2png.desktop
+drwxr-xr-x root/root         0 2022-08-20 15:27 usr/share/pdf2png-0.5.3/
+-rw-r--r-- root/root       852 2022-08-20 15:27 usr/share/pdf2png-0.5.3/makefile
+drwxr-xr-x root/root         0 2022-08-20 15:27 usr/share/pixmaps/
+-rw-r--r-- root/root       820 2022-08-20 15:27 usr/share/pixmaps/pdf2png.png
+
+

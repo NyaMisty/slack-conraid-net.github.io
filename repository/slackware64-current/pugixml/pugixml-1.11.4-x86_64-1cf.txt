@@ -1,0 +1,11 @@
+pugixml: pugixml (XML parser for C)
+pugixml:
+pugixml: pugixml is a C++ XML processing library, which consists of a DOM-like
+pugixml: interface with rich traversal/modification capabilities, an extremely
+pugixml: fast XML parser which constructs the DOM tree from an XML file/buffer
+pugixml: and an XPath 1.0 implementation for complex data-driven tree queries.
+pugixml: Full Unicode support is also available, with Unicode interface
+pugixml: variants and conversions between different Unicode encodings.
+pugixml:
+pugixml:
+pugixml:

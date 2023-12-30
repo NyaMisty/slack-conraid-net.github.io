@@ -1,0 +1,42 @@
+++========================================
+||
+||   Package:  ./cmark/cmark-0.30.2-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-09-25 09:57 ./
+drwxr-xr-x root/root         0 2021-09-25 09:57 install/
+-rw-r--r-- root/root        95 2021-09-25 09:57 install/doinst.sh
+-rw-r--r-- root/root       774 2021-09-25 09:57 install/slack-desc
+drwxr-xr-x root/root         0 2021-09-25 09:57 usr/
+drwxr-xr-x root/root         0 2021-09-25 09:57 usr/bin/
+-rwxr-xr-x root/root    260448 2021-09-25 09:57 usr/bin/cmark
+drwxr-xr-x root/root         0 2021-09-25 09:57 usr/doc/
+drwxr-xr-x root/root         0 2021-09-25 09:57 usr/doc/cmark-0.30.2/
+-rw-r--r-- root/root      7567 2021-09-24 17:56 usr/doc/cmark-0.30.2/COPYING
+-rw-r--r-- root/root      6937 2021-09-24 17:56 usr/doc/cmark-0.30.2/README.md
+-rw-r--r-- root/root       935 2021-09-24 17:56 usr/doc/cmark-0.30.2/benchmarks.md
+-rw-r--r-- root/root     68191 2021-09-24 17:56 usr/doc/cmark-0.30.2/changelog.txt
+-rw-r--r-- root/root      3567 2021-09-25 09:57 usr/doc/cmark-0.30.2/cmark.SlackBuild
+-rw-r--r-- root/root      1590 2021-09-24 17:56 usr/doc/cmark-0.30.2/why-cmark-and-not-x.md
+drwxr-xr-x root/root         0 2021-09-25 09:57 usr/include/
+-rw-r--r-- root/root     19549 2021-09-24 17:56 usr/include/cmark.h
+-rw-r--r-- root/root       983 2021-09-25 09:57 usr/include/cmark_export.h
+-rw-r--r-- root/root       146 2021-09-25 09:57 usr/include/cmark_version.h
+drwxr-xr-x root/root         0 2021-09-25 09:57 usr/lib64/
+drwxr-xr-x root/root         0 2021-09-25 09:57 usr/lib64/cmake/
+drwxr-xr-x root/root         0 2021-09-25 09:57 usr/lib64/cmake/cmark/
+-rw-r--r-- root/root      2881 2021-09-25 09:57 usr/lib64/cmake/cmark/cmark-config-version.cmake
+-rw-r--r-- root/root      1338 2021-09-25 09:57 usr/lib64/cmake/cmark/cmark-config.cmake
+-rw-r--r-- root/root      1715 2021-09-25 09:57 usr/lib64/cmake/cmark/cmark-targets-release.cmake
+-rw-r--r-- root/root      3943 2021-09-25 09:57 usr/lib64/cmake/cmark/cmark-targets.cmake
+-rw-r--r-- root/root    579376 2021-09-25 09:57 usr/lib64/libcmark.a
+-rwxr-xr-x root/root    313768 2021-09-25 09:57 usr/lib64/libcmark.so.0.30.2
+drwxr-xr-x root/root         0 2021-09-25 09:57 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       214 2021-09-25 09:57 usr/lib64/pkgconfig/libcmark.pc
+drwxr-xr-x root/root         0 2021-09-25 09:57 usr/man/
+drwxr-xr-x root/root         0 2021-09-25 09:57 usr/man/man1/
+-rw-r--r-- root/root      1162 2021-09-24 17:56 usr/man/man1/cmark.1.gz
+drwxr-xr-x root/root         0 2021-09-25 09:57 usr/man/man3/
+-rw-r--r-- root/root      4716 2021-09-24 17:56 usr/man/man3/cmark.3.gz
+
+

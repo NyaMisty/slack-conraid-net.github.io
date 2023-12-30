@@ -1,0 +1,18 @@
+PACKAGE NAME:  libbsd-0.11.3-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./libbsd
+PACKAGE SIZE (compressed):  204 K
+PACKAGE SIZE (uncompressed):  820 K
+PACKAGE DESCRIPTION:
+libbsd: libbsd (library of BSD functions)
+libbsd:
+libbsd: This library provides useful functions commonly found on BSD systems,
+libbsd: and lacking on others like GNU systems, thus making it easier to port
+libbsd: projects with strong BSD origins, without needing to embed the same
+libbsd: code over and over again on each project.
+libbsd:
+libbsd:
+libbsd:
+libbsd:
+libbsd:
+

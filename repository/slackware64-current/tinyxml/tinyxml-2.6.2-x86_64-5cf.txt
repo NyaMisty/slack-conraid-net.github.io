@@ -1,0 +1,11 @@
+tinyxml: tinyxml (A small xml parser)
+tinyxml:
+tinyxml: TinyXML is a simple, small, C++ XML parser that can be easily
+tinyxml: integrating into other programs.
+tinyxml:
+tinyxml:
+tinyxml:
+tinyxml:
+tinyxml:
+tinyxml:
+tinyxml:

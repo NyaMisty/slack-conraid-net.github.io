@@ -1,0 +1,11 @@
+node-browserify: node-browserify (browser-side require() the node.js way)
+node-browserify:
+node-browserify: Use a node-style require() to organize your browser code and load
+node-browserify: modules installed by npm.
+node-browserify:
+node-browserify:
+node-browserify:
+node-browserify:
+node-browserify:
+node-browserify:
+node-browserify:

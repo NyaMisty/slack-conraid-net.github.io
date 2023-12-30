@@ -1,0 +1,21 @@
+PACKAGE NAME:  urlwatch-2.25-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./urlwatch
+PACKAGE SIZE (compressed):  112 K
+PACKAGE SIZE (uncompressed):  420 K
+PACKAGE REQUIRED:  chump,python-keyring,minidb,lxml,python-pycodestyle
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+urlwatch: urlwatch (Watch web pages and arbitrary URLs for changes)
+urlwatch:
+urlwatch: This script is intended to help you watch URLs and get notified
+urlwatch: (via email or in your terminal) of any changes.
+urlwatch:
+urlwatch:
+urlwatch:
+urlwatch:
+urlwatch:
+urlwatch:
+urlwatch:
+

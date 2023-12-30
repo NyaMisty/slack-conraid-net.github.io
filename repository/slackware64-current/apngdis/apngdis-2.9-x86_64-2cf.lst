@@ -1,0 +1,17 @@
+++========================================
+||
+||   Package:  ./apngdis/apngdis-2.9-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 10:53 ./
+drwxr-xr-x root/root         0 2020-10-05 10:53 install/
+-rw-r--r-- root/root       733 2020-10-05 10:53 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 10:53 usr/
+drwxr-xr-x root/root         0 2020-10-05 10:53 usr/bin/
+-rwxr-xr-x root/root     27080 2020-10-05 10:53 usr/bin/apngdis
+drwxr-xr-x root/root         0 2020-10-05 10:53 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 10:53 usr/doc/apngdis-2.9/
+-rw-r--r-- root/root      2762 2020-10-05 10:53 usr/doc/apngdis-2.9/apngdis.SlackBuild
+-rw-r--r-- root/root       757 2017-04-24 00:36 usr/doc/apngdis-2.9/readme.txt
+
+

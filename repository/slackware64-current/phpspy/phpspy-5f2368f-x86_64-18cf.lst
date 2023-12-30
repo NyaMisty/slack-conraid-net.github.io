@@ -1,0 +1,19 @@
+++========================================
+||
+||   Package:  ./phpspy/phpspy-5f2368f-x86_64-18cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-21 13:14 ./
+drwxr-xr-x root/root         0 2022-07-21 13:14 bin/
+-rwxr-xr-x root/root     94088 2022-07-21 13:14 bin/phpspy
+drwxr-xr-x root/root         0 2022-07-21 13:14 install/
+-rw-r--r-- root/root       772 2022-07-21 13:14 install/slack-desc
+-rw-r--r-- root/root         9 2022-07-21 13:14 install/slack-required
+drwxr-xr-x root/root         0 2022-07-21 13:14 usr/
+drwxr-xr-x root/root         0 2022-07-21 13:14 usr/doc/
+drwxr-xr-x root/root         0 2022-07-21 13:14 usr/doc/phpspy-5f2368f/
+-rw-r--r-- root/root      1070 2020-12-01 00:07 usr/doc/phpspy-5f2368f/LICENSE
+-rw-r--r-- root/root     10344 2020-12-01 00:07 usr/doc/phpspy-5f2368f/README.md
+-rw-r--r-- root/root      3653 2022-07-21 13:14 usr/doc/phpspy-5f2368f/phpspy.SlackBuild
+
+

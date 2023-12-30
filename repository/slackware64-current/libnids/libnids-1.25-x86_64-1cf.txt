@@ -1,0 +1,11 @@
+libnids: libnids (NIDS E-component)
+libnids:
+libnids: Libnids is a library that provides a functionality of one of NIDS 
+libnids: (Network Intrusion Detection System) components, namely E-component. 
+libnids: It means a bit (quite a bit ;)), and provides convenient information 
+libnids: on them to analyzing modules of NIDS. Libnids performs:
+libnids: a) assembly of TCP segments into TCP streams
+libnids: b) IP defragmentation
+libnids: c) TCP port scan detection
+libnids:
+libnids:

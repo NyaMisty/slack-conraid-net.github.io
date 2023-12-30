@@ -1,0 +1,11 @@
+scanssh: ScanSSH (protocol scanner)
+scanssh:  
+scanssh: ScanSSH supports scanning a list of addresses and networks for open
+scanssh: proxies, SSH protocol servers, Web and SMTP servers. Where possible
+scanssh: ScanSSH, displays the version number of the running services.
+scanssh: ScanSSH protocol scanner supports random selection of IP addresses
+scanssh: from large network ranges and is useful for gathering statistics on
+scanssh: the deployment of SSH protocol servers in a company or the Internet
+scanssh: as whole.
+scanssh:
+scanssh:

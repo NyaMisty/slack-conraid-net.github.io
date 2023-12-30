@@ -1,0 +1,18 @@
+PACKAGE NAME:  splitjob-3.0-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./splitjob
+PACKAGE SIZE (compressed):  20 K
+PACKAGE SIZE (uncompressed):  70 K
+PACKAGE DESCRIPTION:
+splitjob: splitjob (split jobs utility)
+splitjob:
+splitjob: This is a small utility which splits up data read as input into
+splitjob: blocks of a chosen size, sends such blocks to parallel invocations
+splitjob: of some program and concatenates the output of those invocations
+splitjob:
+splitjob:
+splitjob:
+splitjob:
+splitjob:
+splitjob:
+

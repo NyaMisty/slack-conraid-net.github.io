@@ -1,0 +1,22 @@
+++========================================
+||
+||   Package:  ./lifstat/lifstat-20100318-x86_64-8cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 11:46 ./
+drwxr-xr-x root/root         0 2020-10-05 11:46 install/
+-rw-r--r-- root/root       769 2020-10-05 11:46 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/bin/
+-rwxr-xr-x root/root     18624 2020-10-05 11:46 usr/bin/lifstat
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/doc/lifstat-20100318/
+-rw-r--r-- root/root      1256 2010-03-19 03:29 usr/doc/lifstat-20100318/CHANGELOG
+-rw-r--r-- root/root      1481 2010-02-28 03:22 usr/doc/lifstat-20100318/LICENSE
+-rw-r--r-- root/root       617 2010-03-05 02:31 usr/doc/lifstat-20100318/README
+-rw-r--r-- root/root      3160 2020-10-05 11:46 usr/doc/lifstat-20100318/lifstat.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 11:46 usr/man/man8/
+-rw-r--r-- root/root       781 2020-10-05 11:46 usr/man/man8/lifstat.8.gz
+
+

@@ -1,0 +1,34 @@
+++========================================
+||
+||   Package:  ./potrace/potrace-1.16-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-01-24 10:08 ./
+drwxr-xr-x root/root         0 2021-01-24 10:08 install/
+-rw-r--r-- root/root       204 2021-01-24 10:08 install/doinst.sh
+-rw-r--r-- root/root       843 2021-01-24 10:08 install/slack-desc
+drwxr-xr-x root/root         0 2021-01-24 10:08 usr/
+drwxr-xr-x root/root         0 2021-01-24 10:08 usr/bin/
+-rwxr-xr-x root/root     55992 2021-01-24 10:08 usr/bin/mkbitmap
+-rwxr-xr-x root/root    123616 2021-01-24 10:08 usr/bin/potrace
+drwxr-xr-x root/root         0 2021-01-24 10:08 usr/doc/
+drwxr-xr-x root/root         0 2021-01-24 10:08 usr/doc/potrace-1.16/
+-rw-r--r-- root/root       324 2018-03-02 12:10 usr/doc/potrace-1.16/AUTHORS
+-rw-r--r-- root/root     18005 2018-03-02 12:10 usr/doc/potrace-1.16/COPYING
+-rw-r--r-- root/root     21472 2019-09-17 05:08 usr/doc/potrace-1.16/ChangeLog
+-rw-r--r-- root/root     15756 2019-09-17 05:12 usr/doc/potrace-1.16/INSTALL
+-rw-r--r-- root/root      7311 2019-09-17 05:08 usr/doc/potrace-1.16/NEWS
+-rw-r--r-- root/root      9607 2019-09-17 05:05 usr/doc/potrace-1.16/README
+-rw-r--r-- root/root      1564 2018-03-02 12:10 usr/doc/potrace-1.16/README-WIN
+-rw-r--r-- root/root     10374 2021-01-24 10:08 usr/doc/potrace-1.16/placement.pdf
+-rw-r--r-- root/root      3703 2021-01-24 10:08 usr/doc/potrace-1.16/potrace.SlackBuild
+drwxr-xr-x root/root         0 2021-01-24 10:08 usr/include/
+-rw-r--r-- root/root      4573 2021-01-24 10:08 usr/include/potracelib.h
+drwxr-xr-x root/root         0 2021-01-24 10:08 usr/lib64/
+-rwxr-xr-x root/root     34776 2021-01-24 10:08 usr/lib64/libpotrace.so.0.0.6
+drwxr-xr-x root/root         0 2021-01-24 10:08 usr/man/
+drwxr-xr-x root/root         0 2021-01-24 10:08 usr/man/man1/
+-rw-r--r-- root/root      3294 2021-01-24 10:08 usr/man/man1/mkbitmap.1.gz
+-rw-r--r-- root/root      7806 2021-01-24 10:08 usr/man/man1/potrace.1.gz
+
+

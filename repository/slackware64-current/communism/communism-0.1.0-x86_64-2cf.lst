@@ -1,0 +1,17 @@
+++========================================
+||
+||   Package:  ./communism/communism-0.1.0-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-04-15 12:40 ./
+drwxr-xr-x root/root         0 2022-04-15 12:40 install/
+-rw-r--r-- root/root       729 2022-04-15 12:40 install/slack-desc
+drwxr-xr-x root/root         0 2022-04-15 12:40 usr/
+drwxr-xr-x root/root         0 2022-04-15 12:40 usr/bin/
+-rwxr-xr-x root/root    370888 2022-04-15 12:40 usr/bin/communism
+drwxr-xr-x root/root         0 2022-04-15 12:40 usr/doc/
+drwxr-xr-x root/root         0 2022-04-15 12:40 usr/doc/communism-0.1.0/
+-rw-r--r-- root/root       143 2021-07-19 23:00 usr/doc/communism-0.1.0/README.md
+-rw-r--r-- root/root      4096 2022-04-15 12:40 usr/doc/communism-0.1.0/communism.SlackBuild
+
+

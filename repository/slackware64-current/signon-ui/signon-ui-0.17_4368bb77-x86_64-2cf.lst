@@ -1,0 +1,30 @@
+++========================================
+||
+||   Package:  ./signon-ui/signon-ui-0.17_4368bb77-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-31 14:12 ./
+drwxr-xr-x root/root         0 2022-07-31 14:12 install/
+-rw-r--r-- root/root       362 2022-07-31 14:12 install/doinst.sh
+-rw-r--r-- root/root       857 2022-07-31 14:12 install/slack-desc
+-rw-r--r-- root/root        43 2022-07-31 14:12 install/slack-required
+drwxr-xr-x root/root         0 2022-07-31 14:12 usr/
+drwxr-xr-x root/root         0 2022-07-31 14:12 usr/bin/
+-rwxr-xr-x root/root    238736 2022-07-31 14:12 usr/bin/signon-ui
+drwxr-xr-x root/root         0 2022-07-31 14:12 usr/doc/
+drwxr-xr-x root/root         0 2022-07-31 14:12 usr/doc/signon-ui-0.17_4368bb77/
+-rw-r--r-- root/root     35147 2017-10-23 17:39 usr/doc/signon-ui-0.17_4368bb77/COPYING
+-rw-r--r-- root/root        30 2017-10-23 17:39 usr/doc/signon-ui-0.17_4368bb77/INSTALL
+-rw-r--r-- root/root         1 2017-10-23 17:39 usr/doc/signon-ui-0.17_4368bb77/NOTES
+-rw-r--r-- root/root         1 2017-10-23 17:39 usr/doc/signon-ui-0.17_4368bb77/README
+-rw-r--r-- root/root         1 2017-10-23 17:39 usr/doc/signon-ui-0.17_4368bb77/TODO
+-rw-r--r-- root/root      4100 2022-07-31 14:12 usr/doc/signon-ui-0.17_4368bb77/signon-ui.SlackBuild
+drwxr-xr-x root/root         0 2022-07-31 14:12 usr/share/
+drwxr-xr-x root/root         0 2022-07-31 14:12 usr/share/applications/
+-rw-r--r-- root/root       215 2022-07-31 14:11 usr/share/applications/signon-ui.desktop
+drwxr-xr-x root/root         0 2022-07-31 14:12 usr/share/dbus-1/
+drwxr-xr-x root/root         0 2022-07-31 14:12 usr/share/dbus-1/services/
+-rw-r--r-- root/root       234 2022-07-31 14:11 usr/share/dbus-1/services/com.canonical.indicators.webcredentials.service
+-rw-r--r-- root/root       219 2022-07-31 14:11 usr/share/dbus-1/services/com.nokia.singlesignonui.service
+
+

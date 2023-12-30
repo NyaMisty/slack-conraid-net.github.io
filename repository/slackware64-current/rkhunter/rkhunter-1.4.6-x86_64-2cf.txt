@@ -1,0 +1,11 @@
+rkhunter: rkhunter
+rkhunter:
+rkhunter: Rootkit Hunter (RKH) is an easy-to-use tool which checks computers 
+rkhunter: running UNIX (clones) for the presence of rootkits and other unwanted
+rkhunter: tools
+rkhunter:
+rkhunter:
+rkhunter:
+rkhunter:
+rkhunter:
+rkhunter:

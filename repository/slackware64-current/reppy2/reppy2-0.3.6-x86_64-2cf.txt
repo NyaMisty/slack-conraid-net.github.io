@@ -1,0 +1,11 @@
+reppy2: reppy2 (Robots Exclusion Protocol Parser for Python)
+reppy2:
+reppy2: Replaces the built-in robotsparser with a RFC-conformant
+reppy2: implementation that supports modern robots.txt constructs like
+reppy2: Sitemaps, Allow, and Crawl-delay.
+reppy2:
+reppy2:
+reppy2:
+reppy2:
+reppy2:
+reppy2:

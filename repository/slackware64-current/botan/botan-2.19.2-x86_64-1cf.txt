@@ -1,0 +1,11 @@
+botan: botan (C++ crypto library)
+botan:
+botan: Botan is a BSD-licensed crypto library for C++. It provides
+botan: applications with the ability to use a number of cryptographic
+botan: algorithms, as well as SSL/TLS, X.509 certificates and CRLs, PKCS
+botan: #10 certificate requests, a filter/pipe message processing system,
+botan: and a wide variety of other features.
+botan:
+botan:
+botan:
+botan:

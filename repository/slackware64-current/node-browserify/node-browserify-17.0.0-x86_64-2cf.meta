@@ -1,0 +1,18 @@
+PACKAGE NAME:  node-browserify-17.0.0-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./node-browserify
+PACKAGE SIZE (compressed):  1204 K
+PACKAGE SIZE (uncompressed):  16810 K
+PACKAGE DESCRIPTION:
+node-browserify: node-browserify (browser-side require() the node.js way)
+node-browserify:
+node-browserify: Use a node-style require() to organize your browser code and load
+node-browserify: modules installed by npm.
+node-browserify:
+node-browserify:
+node-browserify:
+node-browserify:
+node-browserify:
+node-browserify:
+node-browserify:
+

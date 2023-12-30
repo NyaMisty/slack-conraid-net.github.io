@@ -1,0 +1,71 @@
+++========================================
+||
+||   Package:  ./ndisc6/ndisc6-1.0.6-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-12 11:28 ./
+drwxr-xr-x root/root         0 2022-07-12 11:28 etc/
+drwxr-xr-x root/root         0 2022-07-12 11:28 etc/rdnssd/
+-rwxr-xr-x root/root      2601 2022-07-12 11:28 etc/rdnssd/merge-hook
+drwxr-xr-x root/root         0 2022-07-12 11:28 install/
+-rw-r--r-- root/root       427 2022-07-12 11:28 install/doinst.sh
+-rw-r--r-- root/root       689 2022-07-12 11:28 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/bin/
+-rwxr-xr-x root/root        50 2022-07-12 11:28 usr/bin/addr2name
+-rwxr-xr-x root/root      1866 2022-07-12 11:28 usr/bin/dnssort
+-rwxr-xr-x root/root     14640 2022-07-12 11:28 usr/bin/name2addr
+-rwsr-xr-x root/root     18832 2022-07-12 11:28 usr/bin/ndisc6
+-rwsr-xr-x root/root     22920 2022-07-12 11:28 usr/bin/rdisc6
+-rwsr-xr-x root/root     31336 2022-07-12 11:28 usr/bin/rltraceroute6
+-rwxr-xr-x root/root     22976 2022-07-12 11:28 usr/bin/tcpspray
+-rwxr-xr-x root/root        49 2022-07-12 11:28 usr/bin/tcpspray6
+-rwxr-xr-x root/root     14608 2022-07-12 11:28 usr/bin/tcptraceroute6
+-rwxr-xr-x root/root        54 2022-07-12 11:28 usr/bin/tracert6
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/doc/
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/doc/ndisc6-1.0.6/
+-rw-r--r-- root/root     93787 2015-01-26 21:14 usr/doc/ndisc6-1.0.6/ABOUT-NLS
+-rw-r--r-- root/root       153 2021-09-21 19:13 usr/doc/ndisc6-1.0.6/AUTHORS
+-rw-r--r-- root/root     17987 2011-08-29 19:00 usr/doc/ndisc6-1.0.6/COPYING
+-rw-r--r-- root/root    134216 2022-07-11 18:48 usr/doc/ndisc6-1.0.6/ChangeLog
+-rw-r--r-- root/root     15766 2022-03-18 14:09 usr/doc/ndisc6-1.0.6/INSTALL
+-rw-r--r-- root/root     10959 2022-07-11 18:51 usr/doc/ndisc6-1.0.6/NEWS
+-rw-r--r-- root/root      1381 2011-09-22 17:59 usr/doc/ndisc6-1.0.6/README
+-rw-r--r-- root/root      3310 2022-07-12 11:28 usr/doc/ndisc6-1.0.6/ndisc6.SlackBuild
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/man/
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/man/man1/
+-rw-r--r-- root/root      1239 2022-07-12 11:28 usr/man/man1/addr2name.1.gz
+-rw-r--r-- root/root       771 2022-07-12 11:28 usr/man/man1/dnssort.1.gz
+-rw-r--r-- root/root      1745 2022-07-12 11:28 usr/man/man1/tcpspray.1.gz
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/man/man8/
+-rw-r--r-- root/root      1910 2022-07-12 11:28 usr/man/man8/ndisc6.8.gz
+-rw-r--r-- root/root      1643 2022-07-12 11:28 usr/man/man8/rdisc6.8.gz
+-rw-r--r-- root/root      1703 2022-07-12 11:28 usr/man/man8/rdnssd.8.gz
+-rw-r--r-- root/root      3724 2022-07-12 11:28 usr/man/man8/rltraceroute6.8.gz
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/sbin/
+-rwxr-xr-x root/root     23176 2022-07-12 11:28 usr/sbin/rdnssd
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/share/
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/share/locale/
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/share/locale/cs/
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/share/locale/cs/LC_MESSAGES/
+-rw-r--r-- root/root     16667 2022-07-12 11:28 usr/share/locale/cs/LC_MESSAGES/ndisc6.mo
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/share/locale/de/
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/share/locale/de/LC_MESSAGES/
+-rw-r--r-- root/root     16708 2022-07-12 11:28 usr/share/locale/de/LC_MESSAGES/ndisc6.mo
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/share/locale/en/
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/share/locale/en/LC_MESSAGES/
+-rw-r--r-- root/root      6141 2022-07-12 11:28 usr/share/locale/en/LC_MESSAGES/ndisc6.mo
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/share/locale/en_GB/
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/share/locale/en_GB/LC_MESSAGES/
+-rw-r--r-- root/root      7435 2022-07-12 11:28 usr/share/locale/en_GB/LC_MESSAGES/ndisc6.mo
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/share/locale/fr/
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/share/locale/fr/LC_MESSAGES/
+-rw-r--r-- root/root     18286 2022-07-12 11:28 usr/share/locale/fr/LC_MESSAGES/ndisc6.mo
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/share/locale/sv/
+drwxr-xr-x root/root         0 2022-07-12 11:28 usr/share/locale/sv/LC_MESSAGES/
+-rw-r--r-- root/root     16159 2022-07-12 11:28 usr/share/locale/sv/LC_MESSAGES/ndisc6.mo
+drwxr-xr-x root/root         0 2022-07-12 11:28 var/
+drwxr-xr-x root/root         0 2022-07-12 11:28 var/run/
+drwxr-xr-x nobody/root       0 2022-07-12 11:28 var/run/rdnssd/
+
+

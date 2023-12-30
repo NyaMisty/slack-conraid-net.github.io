@@ -1,0 +1,39 @@
+++========================================
+||
+||   Package:  ./libmanette/libmanette-0.2.6-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-01-12 13:16 ./
+drwxr-xr-x root/root         0 2021-01-12 13:16 install/
+-rw-r--r-- root/root       108 2021-01-12 13:16 install/doinst.sh
+-rw-r--r-- root/root       716 2021-01-12 13:16 install/slack-desc
+drwxr-xr-x root/root         0 2021-01-12 13:16 usr/
+drwxr-xr-x root/root         0 2021-01-12 13:16 usr/doc/
+drwxr-xr-x root/root         0 2021-01-12 13:16 usr/doc/libmanette-0.2.6/
+-rw-r--r-- root/root     26530 2020-11-28 18:58 usr/doc/libmanette-0.2.6/COPYING
+-rw-r--r-- root/root      5333 2020-11-28 18:58 usr/doc/libmanette-0.2.6/NEWS
+-rw-r--r-- root/root      1053 2020-11-28 18:58 usr/doc/libmanette-0.2.6/README.md
+-rw-r--r-- root/root      4427 2021-01-12 13:16 usr/doc/libmanette-0.2.6/libmanette.SlackBuild
+drwxr-xr-x root/root         0 2021-01-12 13:16 usr/include/
+drwxr-xr-x root/root         0 2021-01-12 13:16 usr/include/libmanette/
+-rw-r--r-- root/root       998 2020-11-28 18:58 usr/include/libmanette/libmanette.h
+-rw-r--r-- root/root      1880 2020-11-28 18:58 usr/include/libmanette/manette-device.h
+-rw-r--r-- root/root      3019 2020-11-28 18:58 usr/include/libmanette/manette-event.h
+-rw-r--r-- root/root      1426 2020-11-28 18:58 usr/include/libmanette/manette-monitor-iter.h
+-rw-r--r-- root/root      1272 2020-11-28 18:58 usr/include/libmanette/manette-monitor.h
+-rw-r--r-- root/root      2799 2021-01-12 13:16 usr/include/libmanette/manette-version.h
+drwxr-xr-x root/root         0 2021-01-12 13:16 usr/lib64/
+drwxr-xr-x root/root         0 2021-01-12 13:16 usr/lib64/girepository-1.0/
+-rw-r--r-- root/root      3740 2021-01-12 13:16 usr/lib64/girepository-1.0/Manette-0.2.typelib
+-rwxr-xr-x root/root    187560 2021-01-12 13:16 usr/lib64/libmanette-0.2.so.0
+drwxr-xr-x root/root         0 2021-01-12 13:16 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       237 2021-01-12 13:16 usr/lib64/pkgconfig/manette-0.2.pc
+drwxr-xr-x root/root         0 2021-01-12 13:16 usr/share/
+drwxr-xr-x root/root         0 2021-01-12 13:16 usr/share/gir-1.0/
+-rw-r--r-- root/root     35273 2021-01-12 13:16 usr/share/gir-1.0/Manette-0.2.gir
+drwxr-xr-x root/root         0 2021-01-12 13:16 usr/share/vala/
+drwxr-xr-x root/root         0 2021-01-12 13:16 usr/share/vala/vapi/
+-rw-r--r-- root/root        30 2021-01-12 13:16 usr/share/vala/vapi/manette-0.2.deps
+-rw-r--r-- root/root      2860 2021-01-12 13:16 usr/share/vala/vapi/manette-0.2.vapi
+
+

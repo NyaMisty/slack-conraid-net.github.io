@@ -1,0 +1,23 @@
+++========================================
+||
+||   Package:  ./smmap2/smmap2-3.0.1-x86_64-5cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-11-05 10:21 ./
+drwxr-xr-x root/root         0 2021-11-05 10:21 install/
+-rw-r--r-- root/root       866 2021-11-05 10:21 install/slack-desc
+drwxr-xr-x root/root         0 2021-11-05 10:21 usr/
+drwxr-xr-x root/root         0 2021-11-05 10:21 usr/doc/
+drwxr-xr-x root/root         0 2021-11-05 10:21 usr/doc/smmap2-3.0.1/
+-rw-r--r-- root/root      3099 2021-11-05 10:21 usr/doc/smmap2-3.0.1/smmap2.SlackBuild
+drwxr-xr-x root/root         0 2021-11-05 10:21 usr/lib64/
+drwxr-xr-x root/root         0 2021-11-05 10:21 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2021-11-05 10:21 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2021-11-05 10:21 usr/lib64/python3.9/site-packages/smmap2-3.0.1-py3.9.egg-info/
+-rw-r--r-- root/root       351 2021-11-05 10:21 usr/lib64/python3.9/site-packages/smmap2-3.0.1-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       167 2021-11-05 10:21 usr/lib64/python3.9/site-packages/smmap2-3.0.1-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2021-11-05 10:21 usr/lib64/python3.9/site-packages/smmap2-3.0.1-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root        13 2021-11-05 10:21 usr/lib64/python3.9/site-packages/smmap2-3.0.1-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root         1 2021-11-05 10:21 usr/lib64/python3.9/site-packages/smmap2-3.0.1-py3.9.egg-info/top_level.txt
+
+

@@ -1,0 +1,28 @@
+++========================================
+||
+||   Package:  ./python2-selectors2/python2-selectors2-2.0.2-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-11-29 12:44 ./
+drwxr-xr-x root/root         0 2020-11-29 12:44 install/
+-rw-r--r-- root/root       889 2020-11-29 12:44 install/slack-desc
+drwxr-xr-x root/root         0 2020-11-29 12:44 usr/
+drwxr-xr-x root/root         0 2020-11-29 12:44 usr/doc/
+drwxr-xr-x root/root         0 2020-11-29 12:44 usr/doc/python2-selectors2-2.0.2/
+-rw-r--r-- root/root      1444 2020-07-22 00:36 usr/doc/python2-selectors2-2.0.2/CHANGELOG.rst
+-rw-r--r-- root/root      1076 2020-07-22 00:33 usr/doc/python2-selectors2-2.0.2/LICENSE
+-rw-r--r-- root/root      5249 2020-07-22 00:33 usr/doc/python2-selectors2-2.0.2/README.rst
+-rw-r--r-- root/root      3274 2020-11-29 12:44 usr/doc/python2-selectors2-2.0.2/python2-selectors2.SlackBuild
+drwxr-xr-x root/root         0 2020-11-29 12:44 usr/lib64/
+drwxr-xr-x root/root         0 2020-11-29 12:44 usr/lib64/python2.7/
+drwxr-xr-x root/root         0 2020-11-29 12:44 usr/lib64/python2.7/site-packages/
+drwxr-xr-x root/root         0 2020-11-29 12:44 usr/lib64/python2.7/site-packages/selectors2-2.0.2-py2.7.egg-info/
+-rw-r--r-- root/root      8878 2020-11-29 12:44 usr/lib64/python2.7/site-packages/selectors2-2.0.2-py2.7.egg-info/PKG-INFO
+-rw-r--r-- root/root       335 2020-11-29 12:44 usr/lib64/python2.7/site-packages/selectors2-2.0.2-py2.7.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2020-11-29 12:44 usr/lib64/python2.7/site-packages/selectors2-2.0.2-py2.7.egg-info/dependency_links.txt
+-rw-r--r-- root/root         1 2020-07-22 00:40 usr/lib64/python2.7/site-packages/selectors2-2.0.2-py2.7.egg-info/not-zip-safe
+-rw-r--r-- root/root        11 2020-11-29 12:44 usr/lib64/python2.7/site-packages/selectors2-2.0.2-py2.7.egg-info/top_level.txt
+-rw-r--r-- root/root     27774 2020-07-22 00:33 usr/lib64/python2.7/site-packages/selectors2.py
+-rw-r--r-- root/root     25357 2020-11-29 12:44 usr/lib64/python2.7/site-packages/selectors2.pyc
+
+

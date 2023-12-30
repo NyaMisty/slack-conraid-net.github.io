@@ -1,0 +1,11 @@
+libx86emu: libx86emu (x86 emulation library )
+libx86emu:
+libx86emu: Small x86 emulation library with focus of easy usage and extended
+libx86emu: execution logging functions. The library features an API to create
+libx86emu: emulation objects for x86 architecture. 
+libx86emu:
+libx86emu:
+libx86emu:
+libx86emu:
+libx86emu:
+libx86emu:

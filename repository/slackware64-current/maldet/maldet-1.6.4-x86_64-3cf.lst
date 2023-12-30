@@ -1,0 +1,79 @@
+++========================================
+||
+||   Package:  ./maldet/maldet-1.6.4-x86_64-3cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-04-26 08:35 ./
+drwxr-xr-x root/root         0 2021-04-26 08:35 etc/
+drwxr-xr-x root/root         0 2021-04-26 08:35 etc/cron.d/
+-rw-r--r-- root/root        59 2021-04-26 08:35 etc/cron.d/maldet_pub
+drwxr-xr-x root/root         0 2021-04-26 08:35 etc/cron.daily/
+-rw-r--r-- root/root      3767 2021-04-26 08:35 etc/cron.daily/maldet
+drwxr-xr-x root/root         0 2021-04-26 08:35 etc/maldet/
+-rw-r--r-- root/root         0 2021-04-26 08:35 etc/maldet/ignore_file_ext.new
+-rw-r--r-- root/root       201 2021-04-26 08:35 etc/maldet/ignore_inotify.new
+-rw-r--r-- root/root        44 2021-04-26 08:35 etc/maldet/ignore_paths.new
+-rw-r--r-- root/root         0 2021-04-26 08:35 etc/maldet/ignore_sigs.new
+-rw-r--r-- root/root      4324 2021-04-26 08:35 etc/maldet/internals.conf
+-rw-r--r-- root/root     12625 2021-04-26 08:35 etc/maldet/maldet.conf.new
+-rw-r--r-- root/root         0 2021-04-26 08:35 etc/maldet/monitor_paths.new
+drwxr-xr-x root/root         0 2021-04-26 08:35 etc/rc.d/
+-rw-r--r-- root/root      1715 2021-04-26 08:35 etc/rc.d/rc.maldet.new
+drwxr-xr-x root/root         0 2021-04-26 08:35 install/
+-rw-r--r-- root/root       652 2021-04-26 08:35 install/doinst.sh
+-rw-r--r-- root/root       949 2021-04-26 08:35 install/slack-desc
+drwxr-xr-x root/root         0 2021-04-26 08:35 usr/
+drwxr-xr-x root/root         0 2021-04-26 08:35 usr/bin/
+-rwxr-xr-x root/root      7366 2021-04-26 08:35 usr/bin/maldet
+drwxr-xr-x root/root         0 2021-04-26 08:35 usr/doc/
+drwxr-xr-x root/root         0 2021-04-26 08:35 usr/doc/maldet-1.6.4/
+-rw-r--r-- root/root     46407 2019-04-15 18:09 usr/doc/maldet-1.6.4/CHANGELOG
+-rw-r--r-- root/root      3186 2019-04-15 18:09 usr/doc/maldet-1.6.4/CHANGELOG.RELEASE
+-rw-r--r-- root/root      1491 2019-04-15 18:09 usr/doc/maldet-1.6.4/CHANGELOG.VARIABLES
+-rw-r--r-- root/root     18093 2019-04-15 18:09 usr/doc/maldet-1.6.4/COPYING.GPL
+-rw-r--r-- root/root     24188 2019-04-15 18:09 usr/doc/maldet-1.6.4/README
+-rw-r--r-- root/root      5137 2021-04-26 08:35 usr/doc/maldet-1.6.4/maldet.SlackBuild
+drwxr-xr-x root/root         0 2021-04-26 08:35 usr/man/
+drwxr-xr-x root/root         0 2021-04-26 08:35 usr/man/man1/
+-rw-r--r-- root/root      3973 2021-04-26 08:35 usr/man/man1/maldet.1.gz
+drwxr-xr-x root/root         0 2021-04-26 08:35 usr/share/
+drwxr-xr-x root/root         0 2021-04-26 08:35 usr/share/maldet/
+-rw-r--r-- root/root        65 2021-04-26 08:35 usr/share/maldet/VERSION.hash
+drwxr-xr-x root/root         0 2021-04-26 08:35 usr/share/maldet/clean/
+-rwxr-xr-x root/root       339 2021-04-26 08:35 usr/share/maldet/clean/base64.inject.unclassed
+-rwxr-xr-x root/root       367 2021-04-26 08:35 usr/share/maldet/clean/gzbase64.inject.unclassed
+-rwxr-xr-x root/root       339 2021-04-26 08:35 usr/share/maldet/clean/js.inject.VisitorTracker
+-rwxr-xr-x root/root       375 2021-04-26 08:35 usr/share/maldet/clean/js.inject.fakejquery02
+-rwxr-xr-x root/root       275 2021-04-26 08:35 usr/share/maldet/clean/php.brute.bf1lic
+-rwxr-xr-x root/root       429 2021-04-26 08:35 usr/share/maldet/clean/php.malware.magentocore_ccskim
+-rwxr-xr-x root/root       429 2021-04-26 08:35 usr/share/maldet/clean/php_malware_hexinject
+drwxr-xr-x root/root         0 2021-04-26 08:35 usr/share/maldet/cron/
+-rw-r--r-- root/root       155 2021-04-26 08:35 usr/share/maldet/cron/conf.maldet.cron
+-rwxr-xr-x root/root        98 2021-04-26 08:35 usr/share/maldet/cron/custom.cron
+-rwxr-xr-x root/root       702 2021-04-26 08:35 usr/share/maldet/hookscan.sh
+drwxr-xr-x root/root         0 2021-04-26 08:35 usr/share/maldet/internals/
+-rw-r--r-- root/root      3923 2021-04-26 08:35 usr/share/maldet/internals/compat.conf
+-rw-r--r-- root/root     75985 2021-04-26 08:35 usr/share/maldet/internals/functions
+-rw-r--r-- root/root      1414 2021-04-26 08:35 usr/share/maldet/internals/hexfifo.pl
+-rw-r--r-- root/root       644 2021-04-26 08:35 usr/share/maldet/internals/hexstring.pl
+-rw-r--r-- root/root     12531 2021-04-26 08:35 usr/share/maldet/internals/importconf
+-rw-r--r-- root/root      2346 2021-04-26 08:35 usr/share/maldet/internals/scan.etpl
+-rwxr-xr-x root/root      2497 2021-04-26 08:35 usr/share/maldet/internals/tlog
+drwxr-xr-x root/root         0 2021-04-26 08:35 usr/share/maldet/service/
+-rw-r--r-- root/root       362 2021-04-26 08:35 usr/share/maldet/service/maldet.service
+-rw-r--r-- root/root      3046 2021-04-26 08:35 usr/share/maldet/service/maldet.sh
+-rw-r--r-- root/root       431 2021-04-26 08:35 usr/share/maldet/service/maldet.sysconfig
+drwxr-xr-x root/root         0 2021-04-26 08:35 var/
+drwxr-xr-x root/root         0 2021-04-26 08:35 var/lib/
+drwxr-xr-x root/root         0 2021-04-26 08:35 var/lib/maldet/
+drwxr-xr-x root/root         0 2021-04-26 08:35 var/lib/maldet/clean/
+drwxr-xr-x root/root         0 2021-04-26 08:35 var/lib/maldet/internals/
+drwxr-xr-x root/root         0 2021-04-26 08:35 var/lib/maldet/pub/
+drwxr-xr-x root/root         0 2021-04-26 08:35 var/lib/maldet/quarantine/
+drwxr-xr-x root/root         0 2021-04-26 08:35 var/lib/maldet/sess/
+drwxr-xr-x root/root         0 2021-04-26 08:35 var/lib/maldet/sigs/
+drwxr-xr-x root/root         0 2021-04-26 08:35 var/lib/maldet/tmp/
+drwxr-xr-x root/root         0 2021-04-26 08:35 var/log/
+drwxr-xr-x root/root         0 2021-04-26 08:35 var/log/maldet/
+
+

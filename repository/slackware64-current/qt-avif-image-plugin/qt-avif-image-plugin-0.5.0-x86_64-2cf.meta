@@ -1,0 +1,21 @@
+PACKAGE NAME:  qt-avif-image-plugin-0.5.0-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./qt-avif-image-plugin
+PACKAGE SIZE (compressed):  20 K
+PACKAGE SIZE (uncompressed):  70 K
+PACKAGE REQUIRED:  libavif
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+qt-avif-image-plugin: qt-avif-image-plugin (Qt plugin for AVIF images)
+qt-avif-image-plugin:
+qt-avif-image-plugin: Qt plug-in to allow Qt and KDE based applications to read/write AVIF
+qt-avif-image-plugin: images.
+qt-avif-image-plugin:
+qt-avif-image-plugin:
+qt-avif-image-plugin:
+qt-avif-image-plugin:
+qt-avif-image-plugin:
+qt-avif-image-plugin:
+qt-avif-image-plugin:
+

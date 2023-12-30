@@ -1,0 +1,40 @@
+++========================================
+||
+||   Package:  ./pv/pv-1.6.6-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-05-12 09:00 ./
+drwxr-xr-x root/root         0 2021-05-12 09:00 install/
+-rw-r--r-- root/root       883 2021-05-12 09:00 install/slack-desc
+drwxr-xr-x root/root         0 2021-05-12 09:00 usr/
+drwxr-xr-x root/root         0 2021-05-12 09:00 usr/bin/
+-rwxr-xr-x root/root     61248 2021-05-12 09:00 usr/bin/pv
+drwxr-xr-x root/root         0 2021-05-12 09:00 usr/doc/
+drwxr-xr-x root/root         0 2021-05-12 09:00 usr/doc/pv-1.6.6/
+-rw-r--r-- root/root      8875 2012-05-06 18:22 usr/doc/pv-1.6.6/COPYING
+-rw-r--r-- root/root      7832 2012-05-06 18:22 usr/doc/pv-1.6.6/INSTALL
+-rw-r--r-- root/root     12761 2017-06-30 23:18 usr/doc/pv-1.6.6/NEWS
+-rw-r--r-- root/root         3 2012-05-06 18:22 usr/doc/pv-1.6.6/PACKAGE
+-rw-r--r-- root/root      7182 2017-06-24 00:10 usr/doc/pv-1.6.6/README
+-rw-r--r-- root/root      1903 2017-06-24 00:14 usr/doc/pv-1.6.6/TODO
+-rw-r--r-- root/root         6 2017-06-30 23:15 usr/doc/pv-1.6.6/VERSION
+-rw-r--r-- root/root      3612 2021-05-12 09:00 usr/doc/pv-1.6.6/pv.SlackBuild
+drwxr-xr-x root/root         0 2021-05-12 09:00 usr/man/
+drwxr-xr-x root/root         0 2021-05-12 09:00 usr/man/man1/
+-rw-r--r-- root/root      5511 2021-05-12 09:00 usr/man/man1/pv.1.gz
+drwxr-xr-x root/root         0 2021-05-12 09:00 usr/share/
+drwxr-xr-x root/root         0 2021-05-12 09:00 usr/share/locale/
+drwxr-xr-x root/root         0 2021-05-12 09:00 usr/share/locale/de/
+drwxr-xr-x root/root         0 2021-05-12 09:00 usr/share/locale/de/LC_MESSAGES/
+-rw-r--r-- root/root      5114 2021-05-12 09:00 usr/share/locale/de/LC_MESSAGES/pv.mo
+drwxr-xr-x root/root         0 2021-05-12 09:00 usr/share/locale/fr/
+drwxr-xr-x root/root         0 2021-05-12 09:00 usr/share/locale/fr/LC_MESSAGES/
+-rw-r--r-- root/root      5846 2021-05-12 09:00 usr/share/locale/fr/LC_MESSAGES/pv.mo
+drwxr-xr-x root/root         0 2021-05-12 09:00 usr/share/locale/pl/
+drwxr-xr-x root/root         0 2021-05-12 09:00 usr/share/locale/pl/LC_MESSAGES/
+-rw-r--r-- root/root      3851 2021-05-12 09:00 usr/share/locale/pl/LC_MESSAGES/pv.mo
+drwxr-xr-x root/root         0 2021-05-12 09:00 usr/share/locale/pt/
+drwxr-xr-x root/root         0 2021-05-12 09:00 usr/share/locale/pt/LC_MESSAGES/
+-rw-r--r-- root/root      4208 2021-05-12 09:00 usr/share/locale/pt/LC_MESSAGES/pv.mo
+
+

@@ -1,0 +1,36 @@
+++========================================
+||
+||   Package:  ./libbfio/libbfio-20220120-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-01-22 19:08 ./
+drwxr-xr-x root/root         0 2022-01-22 19:08 install/
+-rw-r--r-- root/root       186 2022-01-22 19:08 install/doinst.sh
+-rw-r--r-- root/root       704 2022-01-22 19:08 install/slack-desc
+drwxr-xr-x root/root         0 2022-01-22 19:08 usr/
+drwxr-xr-x root/root         0 2022-01-22 19:08 usr/doc/
+drwxr-xr-x root/root         0 2022-01-22 19:08 usr/doc/libbfio-20220120/
+-rw-r--r-- root/root       174 2022-01-20 20:49 usr/doc/libbfio-20220120/AUTHORS
+-rw-r--r-- root/root     35149 2022-01-20 20:49 usr/doc/libbfio-20220120/COPYING
+-rw-r--r-- root/root      1151 2020-11-25 10:44 usr/doc/libbfio-20220120/ChangeLog
+-rw-r--r-- root/root         0 2022-01-20 20:49 usr/doc/libbfio-20220120/NEWS
+-rw-r--r-- root/root       301 2022-01-20 20:49 usr/doc/libbfio-20220120/README
+-rw-r--r-- root/root      3885 2022-01-22 19:08 usr/doc/libbfio-20220120/libbfio.SlackBuild
+drwxr-xr-x root/root         0 2022-01-22 19:08 usr/include/
+drwxr-xr-x root/root         0 2022-01-22 19:08 usr/include/libbfio/
+-rw-r--r-- root/root     23405 2022-01-22 19:08 usr/include/libbfio.h
+-rw-r--r-- root/root      5195 2022-01-22 19:08 usr/include/libbfio/codepage.h
+-rw-r--r-- root/root      2447 2022-01-22 19:08 usr/include/libbfio/definitions.h
+-rw-r--r-- root/root      6689 2022-01-22 19:08 usr/include/libbfio/error.h
+-rw-r--r-- root/root      1412 2022-01-22 19:08 usr/include/libbfio/extern.h
+-rw-r--r-- root/root      1378 2022-01-22 19:08 usr/include/libbfio/features.h
+-rw-r--r-- root/root      4837 2022-01-22 19:08 usr/include/libbfio/types.h
+drwxr-xr-x root/root         0 2022-01-22 19:08 usr/lib64/
+-rwxr-xr-x root/root    985264 2022-01-22 19:08 usr/lib64/libbfio.so.1.0.0
+drwxr-xr-x root/root         0 2022-01-22 19:08 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       271 2022-01-22 19:08 usr/lib64/pkgconfig/libbfio.pc
+drwxr-xr-x root/root         0 2022-01-22 19:08 usr/man/
+drwxr-xr-x root/root         0 2022-01-22 19:08 usr/man/man3/
+-rw-r--r-- root/root      1883 2022-01-22 19:08 usr/man/man3/libbfio.3.gz
+
+

@@ -1,0 +1,18 @@
+PACKAGE NAME:  psensor-1.2.1-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./psensor
+PACKAGE SIZE (compressed):  300 K
+PACKAGE SIZE (uncompressed):  1680 K
+PACKAGE DESCRIPTION:
+psensor: psensor (graphical hardware temperature monitor)
+psensor:
+psensor: psensor is a graphical hardware temperature monitor for Linux.
+psensor: It can monitor the temperature of:
+psensor:    the motherboard and CPU sensors (using lm-sensors).
+psensor:    the NVidia GPUs (using XNVCtrl).
+psensor:    the ATI/AMD GPUs (using ATI ADL SDK or lm-sensors).
+psensor:    the Hard Disk Drives (using libatasmart or hddtemp).
+psensor: And:
+psensor:    the rotation speed of the fans (using lm-sensors).
+psensor:    the CPU usage (since 0.6.2.10 and using Gtop2).
+

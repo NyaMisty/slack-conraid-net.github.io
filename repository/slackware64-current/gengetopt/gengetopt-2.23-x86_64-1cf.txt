@@ -1,0 +1,11 @@
+gengetopt: gengetopt (write command line option parsing code for C programs)
+gengetopt:
+gengetopt: Gengetopt is a tool to generate C code to parse the command line
+gengetopt: arguments argc and argv that are part of every C or C++ program.
+gengetopt:
+gengetopt:
+gengetopt:
+gengetopt:
+gengetopt:
+gengetopt:
+gengetopt:

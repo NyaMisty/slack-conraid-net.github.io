@@ -1,0 +1,11 @@
+python-rfc3986: python-rfc3986 (RFC 3986)
+python-rfc3986:
+python-rfc3986: A Python implementation of RFC 3986 including validation and
+python-rfc3986: authority parsing.
+python-rfc3986:
+python-rfc3986:
+python-rfc3986:
+python-rfc3986:
+python-rfc3986:
+python-rfc3986:
+python-rfc3986:

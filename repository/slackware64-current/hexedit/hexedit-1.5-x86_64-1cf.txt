@@ -1,0 +1,11 @@
+hexedit: hexedit (hex editor)
+hexedit:
+hexedit: hexedit shows a file both in ASCII and in hexadecimal. The file can
+hexedit: be a device as the file is read a piece at a time. You can modify
+hexedit: the file and search through it.
+hexedit:
+hexedit:
+hexedit:
+hexedit:
+hexedit:
+hexedit:

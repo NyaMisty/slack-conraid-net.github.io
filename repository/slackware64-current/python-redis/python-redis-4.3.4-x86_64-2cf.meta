@@ -1,0 +1,21 @@
+PACKAGE NAME:  python-redis-4.3.4-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./python-redis
+PACKAGE SIZE (compressed):  308 K
+PACKAGE SIZE (uncompressed):  1940 K
+PACKAGE REQUIRED:  redis
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+python-redis: python-redis (Redis Python client)
+python-redis:
+python-redis: The Python interface to the Redis key-value store.
+python-redis:
+python-redis:
+python-redis:
+python-redis:
+python-redis:
+python-redis:
+python-redis:
+python-redis:
+

@@ -1,0 +1,18 @@
+PACKAGE NAME:  httperf-de8cd6a-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./httperf
+PACKAGE SIZE (compressed):  76 K
+PACKAGE SIZE (uncompressed):  210 K
+PACKAGE DESCRIPTION:
+httperf: httperf (HTTP load generator)
+httperf:
+httperf: Httperf is a tool for measuring web server performance. It provides
+httperf: a flexible facility for generating various HTTP workloads and for
+httperf: measuring server performance.
+httperf:
+httperf:
+httperf:
+httperf:
+httperf:
+httperf:
+

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Conraid Repository</title>
+  </head>
+  <body>
+<h1>Conraid's Repository</h1>
+<h2>for Slackware</h2>
+
+  <table>
+   <tr><th valign="top">&nbsp;</th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th></tr>
+   <tr><th colspan="4"><hr></th></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="/repository/slackware64-current/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="README">README</a></td><td align="right">2022-07-22 10:23  </td><td align="right">1.6K</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="postgresql-14.3-x86_64-4cf.lst">postgresql-14.3-x86_64-4cf.lst</a></td><td align="right">2022-07-22 10:23  </td><td align="right">273K</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="postgresql-14.3-x86_64-4cf.meta">postgresql-14.3-x86_64-4cf.meta</a></td><td align="right">2022-07-22 10:23  </td><td align="right">734 </td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="postgresql-14.3-x86_64-4cf.txt">postgresql-14.3-x86_64-4cf.txt</a></td><td align="right">2022-07-22 10:23  </td><td align="right">426 </td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="postgresql-14.3-x86_64-4cf.txz">postgresql-14.3-x86_64-4cf.txz</a></td><td align="right">2022-07-22 10:23  </td><td align="right">9.4M</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="postgresql-14.3-x86_64-4cf.txz.asc">postgresql-14.3-x86_64-4cf.txz.asc</a></td><td align="right">2022-07-22 10:23  </td><td align="right">508 </td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="postgresql-14.3-x86_64-4cf.txz.md5">postgresql-14.3-x86_64-4cf.txz.md5</a></td><td align="right">2022-07-22 10:23  </td><td align="right"> 65 </td></tr>
+   <tr><th colspan="4"><hr></th></tr>
+</table>
+<pre>
+
+Slackware Current Repository by Conraid
+
+======================================================================
+
+postgresql (object-relational database management system)
+
+PostgreSQL is an advanced object-relational database management
+system (ORDBMS) based on POSTGRES. With more than 15 years of
+development history, it is quickly becoming the de facto
+database for enterprise level open source solutions.
+
+HOME: http://www.postgresql.org
+
+======================================================================
+NOTE: 
+
+Before you can run postgresql you'll need to create the
+database files in /var/lib/pgsql. The following should do
+the trick.
+	# su postgres -c "initdb -D /var/lib/pgsql/%PG_VERSION%/data --locale=en_US.UTF-8 -A md5 -W"
+
+For production level log file handling please read
+http://www.postgresql.org/docs/%PG_VERSION%/interactive/logfile-maintenance.html
+
+In order to start postgresql at boot and stop it properly at shutdown, 
+make sure rc.postgresql is executable and add the following lines to 
+the following files:
+
+	/etc/rc.d/rc.local
+	==================
+	# Startup postgresql
+	if [ -x /etc/rc.d/rc.postgresql ]; then
+		/etc/rc.d/rc.postgresql start
+	fi
+
+	/etc/rc.d/rc.local_shutdown
+	===========================
+	# Stop postgres
+	if [ -x /etc/rc.d/rc.postgresql ]; then
+		/etc/rc.d/rc.postgresql stop
+	fi
+
+Additionally, rc.postgresql script has additional modes for stop/restart:
+  force-stop|force-restart (i.e. pg_ctl 'fast' mode)
+  unclean-stop|unclean-restart (i.e. pg_ctl 'immediate' mode)
+See http://www.postgresql.org/docs/%PG_VERSION%/static/app-pg-ctl.html
+
+
+======================
+</pre>
+</body></html>

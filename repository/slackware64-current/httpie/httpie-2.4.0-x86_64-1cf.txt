@@ -1,0 +1,11 @@
+httpie: httpie (modern command line HTTP client)
+httpie:
+httpie: HTTPie (pronounced aitch-tee-tee-pie) is a command line HTTP client.
+httpie: Its goal is to make CLI interaction with web services as
+httpie: human-friendly as possible. It provides a simple http command that
+httpie: allows for sending arbitrary HTTP requests using a simple and natural
+httpie: syntax, and displays colorized output. HTTPie can be used for testing,
+httpie: debugging, and generally interacting with HTTP servers.
+httpie:
+httpie:
+httpie:

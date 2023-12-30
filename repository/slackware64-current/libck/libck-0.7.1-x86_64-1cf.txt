@@ -1,0 +1,11 @@
+libck: libck (A concurrency primitives, safe memory reclamation mechanisms)
+libck:
+libck: Concurrency primitives, safe memory reclamation mechanisms and
+libck: non-blocking data structures for the research, design and
+libck: implementation of high performance concurrent systems.
+libck:
+libck:
+libck:
+libck:
+libck:
+libck:

@@ -1,0 +1,11 @@
+packeth: packETH (ethernet packet generator)
+packeth:
+packeth: packETH is a Linux GUI packet generator tool for ethernet.
+packeth: It allows you to create and send any possible packet or sequence
+packeth: of packets on the ethernet.
+packeth:
+packeth:
+packeth:
+packeth:
+packeth:
+packeth:

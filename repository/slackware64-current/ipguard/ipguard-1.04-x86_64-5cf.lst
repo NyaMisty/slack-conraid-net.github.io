@@ -1,0 +1,31 @@
+++========================================
+||
+||   Package:  ./ipguard/ipguard-1.04-x86_64-5cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-27 18:43 ./
+drwxr-xr-x root/root         0 2022-07-27 18:43 etc/
+drwxr-xr-x root/root         0 2022-07-27 18:43 etc/rc.d/
+-rwxr-xr-x root/root       689 2022-07-27 18:43 etc/rc.d/rc.ipguard.new
+drwxr-xr-x root/root         0 2022-07-27 18:43 install/
+-rw-r--r-- root/root       604 2022-07-27 18:43 install/doinst.sh
+-rw-r--r-- root/root       952 2022-07-27 18:43 install/slack-desc
+-rw-r--r-- root/root         7 2022-07-27 18:43 install/slack-required
+drwxr-xr-x root/root         0 2022-07-27 18:43 usr/
+drwxr-xr-x root/root         0 2022-07-27 18:43 usr/doc/
+drwxr-xr-x root/root         0 2022-07-27 18:43 usr/doc/ipguard-1.04/
+-rw-r--r-- root/root      1351 2010-04-12 14:52 usr/doc/ipguard-1.04/COPYRIGHT
+-rw-r--r-- root/root      3238 2010-07-09 11:54 usr/doc/ipguard-1.04/NEWS
+-rw-r--r-- root/root      2014 2010-07-12 05:46 usr/doc/ipguard-1.04/README
+-rw-r--r-- root/root      2810 2010-07-12 05:46 usr/doc/ipguard-1.04/README.log
+-rw-r--r-- root/root      4285 2010-07-12 05:46 usr/doc/ipguard-1.04/README.tcpdump
+-rw-r--r-- root/root       898 2010-07-09 11:54 usr/doc/ipguard-1.04/ethers.sample
+-rw-r--r-- root/root      3896 2022-07-27 18:43 usr/doc/ipguard-1.04/ipguard.SlackBuild
+-rw-r--r-- root/root     21556 2009-10-26 07:57 usr/doc/ipguard-1.04/rfc826.txt
+drwxr-xr-x root/root         0 2022-07-27 18:43 usr/man/
+drwxr-xr-x root/root         0 2022-07-27 18:43 usr/man/man8/
+-rw-r--r-- root/root      2901 2022-07-27 18:43 usr/man/man8/ipguard.8.gz
+drwxr-xr-x root/root         0 2022-07-27 18:43 usr/sbin/
+-rwxr-xr-x root/root     39448 2022-07-27 18:43 usr/sbin/ipguard
+
+

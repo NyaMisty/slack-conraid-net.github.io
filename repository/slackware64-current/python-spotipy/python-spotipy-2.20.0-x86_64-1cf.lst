@@ -1,0 +1,42 @@
+++========================================
+||
+||   Package:  ./python-spotipy/python-spotipy-2.20.0-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-06-19 09:53 ./
+drwxr-xr-x root/root         0 2022-06-19 09:53 install/
+-rw-r--r-- root/root       785 2022-06-19 09:53 install/slack-desc
+drwxr-xr-x root/root         0 2022-06-19 09:53 usr/
+drwxr-xr-x root/root         0 2022-06-19 09:53 usr/doc/
+drwxr-xr-x root/root         0 2022-06-19 09:53 usr/doc/python-spotipy-2.20.0/
+-rw-r--r-- root/root     13706 2022-06-19 00:07 usr/doc/python-spotipy-2.20.0/CHANGELOG.md
+-rw-r--r-- root/root      1718 2021-08-12 11:36 usr/doc/python-spotipy-2.20.0/CONTRIBUTING.md
+-rw-r--r-- root/root      1859 2021-08-12 11:36 usr/doc/python-spotipy-2.20.0/FAQ.md
+-rw-r--r-- root/root      1068 2021-08-12 12:26 usr/doc/python-spotipy-2.20.0/LICENSE.md
+-rw-r--r-- root/root      2352 2021-08-12 11:36 usr/doc/python-spotipy-2.20.0/README.md
+-rw-r--r-- root/root      3426 2022-06-19 09:53 usr/doc/python-spotipy-2.20.0/python-spotipy.SlackBuild
+drwxr-xr-x root/root         0 2022-06-19 09:53 usr/lib64/
+drwxr-xr-x root/root         0 2022-06-19 09:53 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-06-19 09:53 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-06-19 09:53 usr/lib64/python3.9/site-packages/spotipy/
+drwxr-xr-x root/root         0 2022-06-19 09:53 usr/lib64/python3.9/site-packages/spotipy-2.20.0-py3.9.egg-info/
+-rw-r--r-- root/root      2706 2022-06-19 09:53 usr/lib64/python3.9/site-packages/spotipy-2.20.0-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       360 2022-06-19 09:53 usr/lib64/python3.9/site-packages/spotipy-2.20.0-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2022-06-19 09:53 usr/lib64/python3.9/site-packages/spotipy-2.20.0-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root        99 2022-06-19 09:53 usr/lib64/python3.9/site-packages/spotipy-2.20.0-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root         8 2022-06-19 09:53 usr/lib64/python3.9/site-packages/spotipy-2.20.0-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root       159 2021-08-12 11:36 usr/lib64/python3.9/site-packages/spotipy/__init__.py
+drwxr-xr-x root/root         0 2022-06-19 09:53 usr/lib64/python3.9/site-packages/spotipy/__pycache__/
+-rw-r--r-- root/root       249 2022-06-19 09:53 usr/lib64/python3.9/site-packages/spotipy/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      6109 2022-06-19 09:53 usr/lib64/python3.9/site-packages/spotipy/__pycache__/cache_handler.cpython-39.pyc
+-rw-r--r-- root/root     67922 2022-06-19 09:53 usr/lib64/python3.9/site-packages/spotipy/__pycache__/client.cpython-39.pyc
+-rw-r--r-- root/root       788 2022-06-19 09:53 usr/lib64/python3.9/site-packages/spotipy/__pycache__/exceptions.cpython-39.pyc
+-rw-r--r-- root/root     38433 2022-06-19 09:53 usr/lib64/python3.9/site-packages/spotipy/__pycache__/oauth2.cpython-39.pyc
+-rw-r--r-- root/root      2525 2022-06-19 09:53 usr/lib64/python3.9/site-packages/spotipy/__pycache__/util.cpython-39.pyc
+-rw-r--r-- root/root      5233 2022-06-19 00:07 usr/lib64/python3.9/site-packages/spotipy/cache_handler.py
+-rw-r--r-- root/root     71276 2022-06-19 00:07 usr/lib64/python3.9/site-packages/spotipy/client.py
+-rw-r--r-- root/root       568 2021-08-12 11:36 usr/lib64/python3.9/site-packages/spotipy/exceptions.py
+-rw-r--r-- root/root     53622 2021-08-12 11:36 usr/lib64/python3.9/site-packages/spotipy/oauth2.py
+-rw-r--r-- root/root      3995 2021-08-12 11:36 usr/lib64/python3.9/site-packages/spotipy/util.py
+
+

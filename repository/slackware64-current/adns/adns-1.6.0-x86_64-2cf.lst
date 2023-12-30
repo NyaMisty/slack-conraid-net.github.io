@@ -1,0 +1,32 @@
+++========================================
+||
+||   Package:  ./adns/adns-1.6.0-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-11-20 16:54 ./
+drwxr-xr-x root/root         0 2020-11-20 16:54 install/
+-rw-r--r-- root/root       180 2020-11-20 16:54 install/doinst.sh
+-rw-r--r-- root/root       693 2020-11-20 16:54 install/slack-desc
+drwxr-xr-x root/root         0 2020-11-20 16:54 usr/
+drwxr-xr-x root/root         0 2020-11-20 16:54 usr/bin/
+-rwxr-xr-x root/root     14560 2020-11-20 16:54 usr/bin/adnsheloex
+-rwxr-xr-x root/root     39368 2020-11-20 16:54 usr/bin/adnshost
+-rwxr-xr-x root/root     14552 2020-11-20 16:54 usr/bin/adnslogres
+-rwxr-xr-x root/root     18688 2020-11-20 16:54 usr/bin/adnsresfilter
+drwxr-xr-x root/root         0 2020-11-20 16:54 usr/doc/
+drwxr-xr-x root/root         0 2020-11-20 16:54 usr/doc/adns-1.6.0/
+-rw-r--r-- root/root     35147 2017-03-06 01:40 usr/doc/adns-1.6.0/COPYING
+-rw-r--r-- root/root      4606 2017-03-06 01:40 usr/doc/adns-1.6.0/GPL-vs-LGPL
+-rw-r--r-- root/root      5299 2020-06-11 17:43 usr/doc/adns-1.6.0/INSTALL
+-rw-r--r-- root/root      3098 2020-06-11 17:43 usr/doc/adns-1.6.0/NEWS
+-rw-r--r-- root/root      7312 2020-06-11 17:07 usr/doc/adns-1.6.0/README
+-rw-r--r-- root/root      8174 2020-06-11 17:07 usr/doc/adns-1.6.0/README.html
+-rw-r--r-- root/root      3501 2020-11-20 16:54 usr/doc/adns-1.6.0/adns.SlackBuild
+-rw-r--r-- root/root     24967 2020-06-11 17:43 usr/doc/adns-1.6.0/changelog
+drwxr-xr-x root/root         0 2020-11-20 16:54 usr/include/
+-rw-r--r-- root/root     43527 2020-11-20 16:54 usr/include/adns.h
+drwxr-xr-x root/root         0 2020-11-20 16:54 usr/lib64/
+-rw-r--r-- root/root    183870 2020-11-20 16:54 usr/lib64/libadns.a
+-rwxr-xr-x root/root    117832 2020-11-20 16:54 usr/lib64/libadns.so.1.6
+
+

@@ -1,0 +1,73 @@
+++========================================
+||
+||   Package:  ./rkhunter/rkhunter-1.4.6-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 12:31 ./
+drwxr-xr-x root/root         0 2020-10-05 12:31 etc/
+-rw------- root/root     48672 2020-10-05 12:31 etc/rkhunter.conf.new
+drwxr-xr-x root/root         0 2020-10-05 12:31 install/
+-rw-r--r-- root/root       224 2020-10-05 12:31 install/doinst.sh
+-rw-r--r-- root/root       722 2020-10-05 12:31 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 12:31 usr/
+drwxr-xr-x root/root         0 2020-10-05 12:31 usr/bin/
+-rwx------ root/root    575851 2020-10-05 12:31 usr/bin/rkhunter
+drwxr-xr-x root/root         0 2020-10-05 12:31 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 12:31 usr/doc/rkhunter-1.4.6/
+-rw-r--r-- root/root      1579 2020-10-05 12:31 usr/doc/rkhunter-1.4.6/ACKNOWLEDGMENTS
+-rw-r--r-- root/root    106711 2020-10-05 12:31 usr/doc/rkhunter-1.4.6/CHANGELOG
+-rw-r--r-- root/root     26535 2020-10-05 12:31 usr/doc/rkhunter-1.4.6/FAQ
+-rw-r--r-- root/root     18010 2020-10-05 12:31 usr/doc/rkhunter-1.4.6/LICENSE
+-rw-r--r-- root/root     33910 2020-10-05 12:31 usr/doc/rkhunter-1.4.6/README
+drwxr-xr-x root/root         0 2017-11-29 17:14 usr/doc/rkhunter-1.4.6/contrib/
+-rw-r--r-- root/root       547 2017-11-29 17:14 usr/doc/rkhunter-1.4.6/contrib/README.txt
+-rw-r--r-- root/root      3445 2017-11-29 17:14 usr/doc/rkhunter-1.4.6/contrib/rkhunter_remote_howto.txt
+-rw-r--r-- root/root      2752 2017-11-29 17:14 usr/doc/rkhunter-1.4.6/contrib/run_rkhunter.sh
+-rw-r--r-- root/root      2637 2020-10-05 12:31 usr/doc/rkhunter-1.4.6/rkhunter.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 12:31 usr/lib64/
+drwx------ root/root         0 2020-10-05 12:31 usr/lib64/rkhunter/
+drwx------ root/root         0 2020-10-05 12:31 usr/lib64/rkhunter/scripts/
+-rwx------ root/root      1894 2020-10-05 12:31 usr/lib64/rkhunter/scripts/check_modules.pl
+-rwx------ root/root       689 2020-10-05 12:31 usr/lib64/rkhunter/scripts/filehashsha.pl
+-rwx------ root/root      3227 2020-10-05 12:31 usr/lib64/rkhunter/scripts/readlink.sh
+-rwx------ root/root      3091 2020-10-05 12:31 usr/lib64/rkhunter/scripts/stat.pl
+drwxr-xr-x root/root         0 2020-10-05 12:31 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 12:31 usr/man/man8/
+-rw-r--r-- root/root      6501 2020-10-05 12:31 usr/man/man8/rkhunter.8.gz
+drwxr-xr-x root/root         0 2020-10-05 12:31 var/
+drwxr-xr-x root/root         0 2020-10-05 12:31 var/lib/
+drwx------ root/root         0 2020-10-05 12:31 var/lib/rkhunter/
+drwx------ root/root         0 2020-10-05 12:31 var/lib/rkhunter/db/
+-rw------- root/root      1055 2020-10-05 12:31 var/lib/rkhunter/db/backdoorports.dat
+drwx------ root/root         0 2020-10-05 12:31 var/lib/rkhunter/db/i18n/
+-rw------- root/root     28735 2020-10-05 12:31 var/lib/rkhunter/db/i18n/cn
+-rw------- root/root     43264 2020-10-05 12:31 var/lib/rkhunter/db/i18n/de
+-rw------- root/root     38456 2020-10-05 12:31 var/lib/rkhunter/db/i18n/en
+-rw------- root/root     53067 2020-10-05 12:31 var/lib/rkhunter/db/i18n/ja
+-rw------- root/root     39587 2020-10-05 12:31 var/lib/rkhunter/db/i18n/tr
+-rw------- root/root     41774 2020-10-05 12:31 var/lib/rkhunter/db/i18n/tr.utf8
+-rw------- root/root     24257 2020-10-05 12:31 var/lib/rkhunter/db/i18n/zh
+-rw------- root/root     28611 2020-10-05 12:31 var/lib/rkhunter/db/i18n/zh.utf8
+-rw------- root/root        97 2020-10-05 12:31 var/lib/rkhunter/db/mirrors.dat
+-rw------- root/root      3605 2020-10-05 12:31 var/lib/rkhunter/db/programs_bad.dat
+drwx------ root/root         0 2020-10-05 12:31 var/lib/rkhunter/db/signatures/
+-rw------- root/root       421 2020-10-05 12:31 var/lib/rkhunter/db/signatures/RKH_BillGates.ldb
+-rw------- root/root       159 2020-10-05 12:31 var/lib/rkhunter/db/signatures/RKH_Glubteba.ldb
+-rw------- root/root       821 2020-10-05 12:31 var/lib/rkhunter/db/signatures/RKH_MMD-0028-2014.ldb
+-rw------- root/root      2111 2020-10-05 12:31 var/lib/rkhunter/db/signatures/RKH_dso.ldb
+-rw------- root/root       562 2020-10-05 12:31 var/lib/rkhunter/db/signatures/RKH_iptablex.ldb
+-rw------- root/root       203 2020-10-05 12:31 var/lib/rkhunter/db/signatures/RKH_jynx.ldb
+-rw------- root/root       396 2020-10-05 12:31 var/lib/rkhunter/db/signatures/RKH_kbeast.ldb
+-rw------- root/root       310 2020-10-05 12:31 var/lib/rkhunter/db/signatures/RKH_libkeyutils.ldb
+-rw------- root/root       201 2020-10-05 12:31 var/lib/rkhunter/db/signatures/RKH_libkeyutils1.ldb
+-rw------- root/root       487 2020-10-05 12:31 var/lib/rkhunter/db/signatures/RKH_libncom.ldb
+-rw------- root/root       156 2020-10-05 12:31 var/lib/rkhunter/db/signatures/RKH_pamunixtrojan.ldb
+-rw------- root/root       328 2020-10-05 12:31 var/lib/rkhunter/db/signatures/RKH_shv.ldb
+-rw------- root/root       119 2020-10-05 12:31 var/lib/rkhunter/db/signatures/RKH_sniffer.ldb
+-rw------- root/root       645 2020-10-05 12:31 var/lib/rkhunter/db/signatures/RKH_sshd.ldb
+-rw------- root/root       404 2020-10-05 12:31 var/lib/rkhunter/db/signatures/RKH_turtle.ldb
+-rw------- root/root       923 2020-10-05 12:31 var/lib/rkhunter/db/signatures/RKH_xsyslog.ldb
+-rw------- root/root      1904 2020-10-05 12:31 var/lib/rkhunter/db/suspscan.dat
+drwx------ root/root         0 2020-10-05 12:31 var/lib/rkhunter/tmp/
+
+

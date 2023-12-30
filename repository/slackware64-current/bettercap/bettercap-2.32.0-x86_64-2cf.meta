@@ -1,0 +1,21 @@
+PACKAGE NAME:  bettercap-2.32.0-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./bettercap
+PACKAGE SIZE (compressed):  12072 K
+PACKAGE SIZE (uncompressed):  33540 K
+PACKAGE REQUIRED:  go
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+bettercap: bettercap (Swiss army knife for network attacks and monitoring)
+bettercap:
+bettercap: bettercap is the Swiss Army knife for 802.11, BLE and Ethernet
+bettercap: networks reconnaissance and attacks.
+bettercap:
+bettercap:
+bettercap:
+bettercap:
+bettercap:
+bettercap:
+bettercap:
+

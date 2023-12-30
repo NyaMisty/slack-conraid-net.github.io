@@ -1,0 +1,23 @@
+++========================================
+||
+||   Package:  ./unoconv/unoconv-0.9.0-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-01-04 15:50 ./
+drwxr-xr-x root/root         0 2021-01-04 15:50 install/
+-rw-r--r-- root/root       911 2021-01-04 15:50 install/slack-desc
+drwxr-xr-x root/root         0 2021-01-04 15:50 usr/
+drwxr-xr-x root/root         0 2021-01-04 15:50 usr/bin/
+-rwxr-xr-x root/root     71463 2019-10-21 20:23 usr/bin/unoconv
+drwxr-xr-x root/root         0 2021-01-04 15:50 usr/doc/
+drwxr-xr-x root/root         0 2021-01-04 15:50 usr/doc/unoconv-0.9.0/
+-rw-r--r-- root/root        28 2019-10-21 20:23 usr/doc/unoconv-0.9.0/AUTHORS
+-rw-r--r-- root/root     17992 2019-10-21 20:23 usr/doc/unoconv-0.9.0/COPYING
+-rw-r--r-- root/root      6771 2019-10-21 20:23 usr/doc/unoconv-0.9.0/ChangeLog
+-rw-r--r-- root/root     10690 2019-10-21 20:23 usr/doc/unoconv-0.9.0/README.adoc
+-rw-r--r-- root/root      3068 2021-01-04 15:50 usr/doc/unoconv-0.9.0/unoconv.SlackBuild
+drwxr-xr-x root/root         0 2021-01-04 15:50 usr/man/
+drwxr-xr-x root/root         0 2021-01-04 15:50 usr/man/man1/
+-rw-r--r-- root/root      5349 2019-10-21 20:23 usr/man/man1/unoconv.1.gz
+
+

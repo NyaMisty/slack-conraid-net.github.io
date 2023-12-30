@@ -1,0 +1,19 @@
+PACKAGE NAME:  arpwatch-3.1-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./arpwatch
+PACKAGE SIZE (compressed):  32 K
+PACKAGE SIZE (uncompressed):  130 K
+PACKAGE DESCRIPTION:
+customary to leave one space after the ':'.
+arpwatch: arpwatch (Monitoring tools for tracking IP addresses on a network)
+arpwatch:
+arpwatch: The arpwatch package contains arpwatch and arpsnmp.  Arpwatch and
+arpwatch: arpsnmp are both network monitoring tools.  Both utilities monitor
+arpwatch: Ethernet or FDDI network traffic and build databases of Ethernet/IP
+arpwatch: address pairs, and can report certain changes via email.
+arpwatch:
+arpwatch:
+arpwatch:
+arpwatch:
+arpwatch:
+

@@ -1,0 +1,11 @@
+atool: atool (A script for managing file archives of various types)
+atool:
+atool: atool is a script for managing file archives of various types
+atool: (tar, tar+gzip, zip etc).
+atool:
+atool:
+atool:
+atool:
+atool:
+atool:
+atool:

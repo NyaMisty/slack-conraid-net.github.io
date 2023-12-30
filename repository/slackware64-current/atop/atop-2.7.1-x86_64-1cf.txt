@@ -1,0 +1,11 @@
+atop: Acounting Top (advanced interactive monitor)
+atop:
+atop: ATOP is an advanced interactive monitor for Linux-systems
+atop: to view the load on system-level and process-level.
+atop:
+atop: atop was wtitten and is maintained by Gerlof Langeveld of
+atop: AT Consultancy bv, Nijmegen, The Netherlands
+atop:
+atop:
+atop:
+atop:

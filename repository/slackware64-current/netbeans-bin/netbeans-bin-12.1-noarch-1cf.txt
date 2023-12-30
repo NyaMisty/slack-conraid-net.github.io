@@ -1,0 +1,11 @@
+netbeans-bin: netbeans (IDE for Java, HTML5, PHP, C and C++)
+netbeans-bin:
+netbeans-bin: Apache NetBeans is an open source development environment, tooling
+netbeans-bin: platform, and application framework.
+netbeans-bin:
+netbeans-bin: This is the BINARY VERSION
+netbeans-bin:
+netbeans-bin:
+netbeans-bin:
+netbeans-bin:
+netbeans-bin:

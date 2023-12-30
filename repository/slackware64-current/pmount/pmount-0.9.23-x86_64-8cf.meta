@@ -1,0 +1,18 @@
+PACKAGE NAME:  pmount-0.9.23-x86_64-8cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./pmount
+PACKAGE SIZE (compressed):  92 K
+PACKAGE SIZE (uncompressed):  540 K
+PACKAGE DESCRIPTION:
+pmount: pmount (mount removable devices as normal project!)
+pmount:
+pmount: pmount is a wrapper around the standard mount program which 
+pmount: permits normal users to mount removable devices without a
+pmount: matching entry in /etc/fstab.
+pmount:
+pmount:
+pmount:
+pmount:
+pmount:
+pmount:
+

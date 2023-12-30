@@ -1,0 +1,11 @@
+icdiff: icdiff (improved colored diff )
+icdiff:
+icdiff: By highlighting changes, icdiff can show you the differences between
+icdiff: similar files without getting in the way.
+icdiff:
+icdiff:
+icdiff:
+icdiff:
+icdiff:
+icdiff:
+icdiff:

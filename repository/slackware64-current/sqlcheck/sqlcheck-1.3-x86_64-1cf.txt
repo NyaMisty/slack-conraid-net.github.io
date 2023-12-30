@@ -1,0 +1,11 @@
+sqlcheck: sqlcheck (Automatically identify anti-patterns in SQL queries)
+sqlcheck:
+sqlcheck: sqlcheck automatically detects common SQL anti-patterns.
+sqlcheck: Such anti-patterns often slow down queries. Addressing them will,
+sqlcheck: therefore, help accelerate queries.
+sqlcheck:
+sqlcheck:
+sqlcheck:
+sqlcheck:
+sqlcheck:
+sqlcheck:

@@ -1,0 +1,11 @@
+htmlhint: htmlhint (Static code analysis tool)
+htmlhint:
+htmlhint: Static code analysis tool you need for your HTML
+htmlhint:
+htmlhint:
+htmlhint:
+htmlhint:
+htmlhint:
+htmlhint:
+htmlhint:
+htmlhint:

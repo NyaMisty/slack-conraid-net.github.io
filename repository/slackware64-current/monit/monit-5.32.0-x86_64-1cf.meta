@@ -1,0 +1,18 @@
+PACKAGE NAME:  monit-5.32.0-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./monit
+PACKAGE SIZE (compressed):  360 K
+PACKAGE SIZE (uncompressed):  1070 K
+PACKAGE DESCRIPTION:
+monit: monit (Unix System Management)
+monit:
+monit: Monit is a utility for managing and monitoring processes,
+monit: files, directories and devices on a Unix system. Monit conducts
+monit: automatic maintenance and repair and can execute meaningful causal
+monit: actions in error situations.
+monit:
+monit:
+monit:
+monit:
+monit:
+

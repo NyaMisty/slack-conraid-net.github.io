@@ -1,0 +1,11 @@
+samhain: samhain (file integrity / intrusion detection system)
+samhain:
+samhain: The Samhain host-based intrusion detection system (HIDS) provides
+samhain: file integrity checking and log file monitoring/analysis, as well as
+samhain: rootkit detection, port monitoring, detection of rogue SUID
+samhain: executables, and hidden processes.
+samhain: Samhain been designed to monitor multiple hosts with potentially
+samhain: different operating systems, providing centralized logging and
+samhain: maintenance, although it can also be used as standalone application
+samhain: on a single host.
+samhain:

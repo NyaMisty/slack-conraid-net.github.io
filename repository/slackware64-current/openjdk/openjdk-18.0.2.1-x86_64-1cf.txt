@@ -1,0 +1,11 @@
+openjdk: Java(TM) 2 Platform Standard Edition Development Kit.
+openjdk:
+openjdk: The Java 2 SDK software includes tools for developing, testing, and
+openjdk: running programs written in the Java programming language. This
+openjdk: package contains everything you need to run Java(TM).
+openjdk:
+openjdk: For additional information, refer to this web page:
+openjdk:  http://java.com/
+openjdk:
+openjdk:
+openjdk:

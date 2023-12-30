@@ -1,0 +1,11 @@
+httraqt: HTTraQt
+httraqt:
+httraqt: HTTraQt is the clone from WinHTTrack tool.
+httraqt: GUI is based on Qt4 libriaries.
+httraqt:
+httraqt:
+httraqt:
+httraqt:
+httraqt:
+httraqt:
+httraqt:

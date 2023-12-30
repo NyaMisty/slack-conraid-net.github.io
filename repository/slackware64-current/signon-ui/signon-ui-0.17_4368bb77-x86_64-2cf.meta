@@ -1,0 +1,21 @@
+PACKAGE NAME:  signon-ui-0.17_4368bb77-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./signon-ui
+PACKAGE SIZE (compressed):  84 K
+PACKAGE SIZE (uncompressed):  300 K
+PACKAGE REQUIRED:  libaccounts-qt,signond,accounts-qml-module
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+signon-ui: signon-ui (Online Accounts Sign-on UI)
+signon-ui:
+signon-ui: Sign-on UI is the component responsible for handling the user
+signon-ui: interactions which can happen during the login process of an online
+signon-ui: account.
+signon-ui: It can show password dialogs and dialogs with embedded web pages.
+signon-ui:
+signon-ui:
+signon-ui:
+signon-ui:
+signon-ui:
+

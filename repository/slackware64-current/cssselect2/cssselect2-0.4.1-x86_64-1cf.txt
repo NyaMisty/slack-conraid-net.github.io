@@ -1,0 +1,11 @@
+cssselect2: cssselect2 (straightforward implementation of CSS3)
+cssselect2:
+cssselect2: cssselect2 is a straightforward implementation of CSS3 Selectors for
+cssselect2: markup documents (HTML, XML, etc.) that can be read by
+cssselect2: ElementTree-like parsers (including cElementTree, lxml, html5lib...)
+cssselect2:
+cssselect2:
+cssselect2:
+cssselect2:
+cssselect2:
+cssselect2:

@@ -1,0 +1,18 @@
+PACKAGE NAME:  txt2man-1.7.1-noarch-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./txt2man
+PACKAGE SIZE (compressed):  24 K
+PACKAGE SIZE (uncompressed):  70 K
+PACKAGE DESCRIPTION:
+txt2man: txt2man (converts text to man page)
+txt2man:
+txt2man: Txt2man converts flat ASCII text to man page format. It is a shell
+txt2man: script using gnu awk, that should run on any Unix like system.
+txt2man:
+txt2man:
+txt2man:
+txt2man:
+txt2man:
+txt2man:
+txt2man:
+

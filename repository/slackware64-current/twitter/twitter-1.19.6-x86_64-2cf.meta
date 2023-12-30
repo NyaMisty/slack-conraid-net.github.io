@@ -1,0 +1,21 @@
+PACKAGE NAME:  twitter-1.19.6-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./twitter
+PACKAGE SIZE (compressed):  68 K
+PACKAGE SIZE (uncompressed):  330 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+twitter: twitter (Python Twitter API and command-line toolset)
+twitter:
+twitter: The Minimalist Twitter API for Python is a Python API for Twitter,
+twitter: everyone's favorite Web 2.0 Facebook-style status updater for people
+twitter: on the go.
+twitter: Also included is a twitter command-line tool for getting your friends'
+twitter: tweets and setting your own tweet from the safety and security of your
+twitter: favorite shell and an IRC bot that can announce Twitter updates to an
+twitter: IRC channel.
+twitter:
+twitter:
+

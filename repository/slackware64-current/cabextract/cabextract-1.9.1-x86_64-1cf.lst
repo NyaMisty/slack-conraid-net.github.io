@@ -1,0 +1,26 @@
+++========================================
+||
+||   Package:  ./cabextract/cabextract-1.9.1-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2019-03-27 09:56 ./
+drwxr-xr-x root/root         0 2019-03-27 09:56 install/
+-rw-r--r-- root/root       954 2019-03-27 09:56 install/slack-desc
+drwxr-xr-x root/root         0 2019-03-27 09:56 usr/
+drwxr-xr-x root/root         0 2019-03-27 09:56 usr/bin/
+-rwxr-xr-x root/root     72584 2019-03-27 09:56 usr/bin/cabextract
+drwxr-xr-x root/root         0 2019-03-27 09:56 usr/doc/
+drwxr-xr-x root/root         0 2019-03-27 09:56 usr/doc/cabextract-1.9.1/
+-rw-r--r-- root/root       560 2018-07-31 10:15 usr/doc/cabextract-1.9.1/AUTHORS
+-rw-r--r-- root/root     35147 2019-03-04 01:39 usr/doc/cabextract-1.9.1/COPYING
+-rw-r--r-- root/root     29685 2018-12-03 11:07 usr/doc/cabextract-1.9.1/ChangeLog
+-rw-r--r-- root/root     15756 2019-03-04 01:39 usr/doc/cabextract-1.9.1/INSTALL
+-rw-r--r-- root/root      8650 2018-11-04 00:08 usr/doc/cabextract-1.9.1/NEWS
+-rw-r--r-- root/root      1832 2019-03-04 01:10 usr/doc/cabextract-1.9.1/README
+-rw-r--r-- root/root       861 2015-06-05 10:10 usr/doc/cabextract-1.9.1/TODO
+-rw-r--r-- root/root      3216 2019-03-27 09:56 usr/doc/cabextract-1.9.1/cabextract.SlackBuild
+drwxr-xr-x root/root         0 2019-03-27 09:56 usr/man/
+drwxr-xr-x root/root         0 2019-03-27 09:56 usr/man/man1/
+-rw-r--r-- root/root      1386 2019-03-27 09:56 usr/man/man1/cabextract.1.gz
+
+

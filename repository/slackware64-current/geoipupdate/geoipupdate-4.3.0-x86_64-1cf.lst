@@ -1,0 +1,31 @@
+++========================================
+||
+||   Package:  ./geoipupdate/geoipupdate-4.3.0-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-04-17 11:53 ./
+drwxr-xr-x root/root         0 2020-04-17 11:53 etc/
+-rw-r--r-- root/root      1536 2020-04-17 11:53 etc/GeoIP.conf.new
+drwxr-xr-x root/root         0 2020-04-17 11:53 install/
+-rw-r--r-- root/root       376 2020-04-17 11:53 install/doinst.sh
+-rw-r--r-- root/root       851 2020-04-17 11:53 install/slack-desc
+drwxr-xr-x root/root         0 2020-04-17 11:53 usr/
+drwxr-xr-x root/root         0 2020-04-17 11:53 usr/bin/
+-rwxr-xr-x root/root   5588312 2020-04-17 11:53 usr/bin/geoipupdate
+drwxr-xr-x root/root         0 2020-04-17 11:53 usr/doc/
+drwxr-xr-x root/root         0 2020-04-17 11:53 usr/doc/geoipupdate-4.3.0/
+-rw-r--r-- root/root      3702 2020-04-16 18:35 usr/doc/geoipupdate-4.3.0/CHANGELOG.md
+-rw-r--r-- root/root      2016 2020-04-17 11:53 usr/doc/geoipupdate-4.3.0/GeoIP.conf.md
+-rw-r--r-- root/root     11358 2020-04-16 18:35 usr/doc/geoipupdate-4.3.0/LICENSE-APACHE
+-rw-r--r-- root/root      1023 2020-04-16 18:35 usr/doc/geoipupdate-4.3.0/LICENSE-MIT
+-rw-r--r-- root/root      1352 2020-04-16 18:35 usr/doc/geoipupdate-4.3.0/README.dev.md
+-rw-r--r-- root/root      4652 2020-04-16 18:35 usr/doc/geoipupdate-4.3.0/README.md
+-rw-r--r-- root/root      3867 2020-04-17 11:53 usr/doc/geoipupdate-4.3.0/geoipupdate.SlackBuild
+-rw-r--r-- root/root      2167 2020-04-17 11:53 usr/doc/geoipupdate-4.3.0/geoipupdate.md
+drwxr-xr-x root/root         0 2020-04-17 11:53 usr/man/
+drwxr-xr-x root/root         0 2020-04-17 11:53 usr/man/man1/
+-rw-r--r-- root/root      1247 2020-04-17 11:53 usr/man/man1/geoipupdate.1.gz
+drwxr-xr-x root/root         0 2020-04-17 11:53 usr/man/man5/
+-rw-r--r-- root/root      1107 2020-04-17 11:53 usr/man/man5/GeoIP.conf.5.gz
+
+

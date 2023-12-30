@@ -1,0 +1,18 @@
+PACKAGE NAME:  sqlitebrowser-3.12.0-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./sqlitebrowser
+PACKAGE SIZE (compressed):  2008 K
+PACKAGE SIZE (uncompressed):  5400 K
+PACKAGE DESCRIPTION:
+sqlitebrowser: sqlitebrowser (QT GUI editor for SQLite databases)
+sqlitebrowser:
+sqlitebrowser: DB Browser for SQLite is a high quality, visual, open source tool to
+sqlitebrowser: create, design, and edit database files compatible with SQLite.
+sqlitebrowser: It is for users and developers wanting to create databases, search,
+sqlitebrowser: and edit data. It uses a familiar spreadsheet-like interface, and
+sqlitebrowser: you don't need to learn complicated SQL commands.
+sqlitebrowser:
+sqlitebrowser:
+sqlitebrowser:
+sqlitebrowser:
+

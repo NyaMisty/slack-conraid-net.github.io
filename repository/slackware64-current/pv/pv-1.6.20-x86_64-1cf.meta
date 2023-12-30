@@ -1,0 +1,18 @@
+PACKAGE NAME:  pv-1.6.20-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./pv
+PACKAGE SIZE (compressed):  56 K
+PACKAGE SIZE (uncompressed):  170 K
+PACKAGE DESCRIPTION:
+pv: pv (Pipe Viewer)
+pv:
+pv: Pipe Viewer is a terminal-based tool for monitoring the progress of
+pv: data through a pipeline. It can be inserted into any normal pipeline
+pv: between two processes to give a visual indication of how quickly data
+pv: is passing through, how long it has taken, how near to completion it
+pv: is, and an estimate of how long it will be until completion.
+pv:
+pv:
+pv:
+pv:
+

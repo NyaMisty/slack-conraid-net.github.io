@@ -1,0 +1,18 @@
+PACKAGE NAME:  siege-4.0.8-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./siege
+PACKAGE SIZE (compressed):  108 K
+PACKAGE SIZE (uncompressed):  330 K
+PACKAGE DESCRIPTION:
+siege: siege (http server benchmark)
+siege:
+siege: Siege is an http regression testing and benchmarking utility.
+siege: It was designed to let web developers measure the performance
+siege: of their code under duress, to see how it will stand up to
+siege: load on the internet.
+siege:
+siege:
+siege:
+siege:
+siege:
+

@@ -1,0 +1,11 @@
+libdbi: libdbi (Database Independent Abstraction Layer for C)
+libdbi:
+libdbi: libdbi implements a database-independent abstraction layer in C,
+libdbi: similar to the DBI/DBD layer in Perl. Writing one generic set
+libdbi: set of code, programmers can leverage the power of multiple
+libdbi: databases and multiple simultaneous database connections by using
+libdbi: this framework.
+libdbi:
+libdbi:
+libdbi:
+libdbi:

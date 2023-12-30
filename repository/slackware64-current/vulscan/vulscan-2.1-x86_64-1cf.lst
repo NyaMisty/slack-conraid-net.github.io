@@ -1,0 +1,31 @@
+++========================================
+||
+||   Package:  ./vulscan/vulscan-2.1-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-05-20 13:59 ./
+drwxr-xr-x root/root         0 2020-05-20 13:59 install/
+-rw-r--r-- root/root       894 2020-05-20 13:59 install/slack-desc
+drwxr-xr-x root/root         0 2020-05-20 13:59 usr/
+drwxr-xr-x root/root         0 2020-05-20 13:59 usr/doc/
+drwxr-xr-x root/root         0 2020-05-20 13:59 usr/doc/vulscan-2.1/
+-rw-r--r-- root/root      2802 2020-05-20 13:59 usr/doc/vulscan-2.1/vulscan.SlackBuild
+drwxr-xr-x root/root         0 2020-05-20 13:59 usr/share/
+drwxr-xr-x root/root         0 2020-05-20 13:59 usr/share/nmap/
+drwxr-xr-x root/root         0 2020-05-20 13:59 usr/share/nmap/scripts/
+drwxr-xr-x root/root         0 2020-05-20 13:59 usr/share/nmap/scripts/vulscan/
+-rw-r--r-- root/root     70364 2020-05-20 13:59 usr/share/nmap/scripts/vulscan/COPYING.TXT
+-rw-r--r-- root/root      5662 2020-05-20 13:59 usr/share/nmap/scripts/vulscan/README.md
+-rw-r--r-- root/root        27 2020-05-20 13:59 usr/share/nmap/scripts/vulscan/_config.yml
+-rw-r--r-- root/root  16756993 2020-05-20 13:59 usr/share/nmap/scripts/vulscan/cve.csv
+-rw-r--r-- root/root   1864748 2020-05-20 13:59 usr/share/nmap/scripts/vulscan/exploitdb.csv
+-rw-r--r-- root/root     53779 2020-05-20 13:59 usr/share/nmap/scripts/vulscan/logo.png
+-rw-r--r-- root/root   1524310 2020-05-20 13:59 usr/share/nmap/scripts/vulscan/openvas.csv
+-rw-r--r-- root/root   6718903 2020-05-20 13:59 usr/share/nmap/scripts/vulscan/osvdb.csv
+-rw-r--r-- root/root   7001128 2020-05-20 13:59 usr/share/nmap/scripts/vulscan/scipvuldb.csv
+-rw-r--r-- root/root   7227028 2020-05-20 13:59 usr/share/nmap/scripts/vulscan/securityfocus.csv
+-rw-r--r-- root/root   1826138 2020-05-20 13:59 usr/share/nmap/scripts/vulscan/securitytracker.csv
+-rw-r--r-- root/root     17230 2020-05-20 13:59 usr/share/nmap/scripts/vulscan/vulscan.nse
+-rw-r--r-- root/root   4576711 2020-05-20 13:59 usr/share/nmap/scripts/vulscan/xforce.csv
+
+

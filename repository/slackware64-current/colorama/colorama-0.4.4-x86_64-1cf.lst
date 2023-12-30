@@ -1,0 +1,39 @@
+++========================================
+||
+||   Package:  ./colorama/colorama-0.4.4-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-01-03 11:18 ./
+drwxr-xr-x root/root         0 2021-01-03 11:18 install/
+-rw-r--r-- root/root       895 2021-01-03 11:18 install/slack-desc
+drwxr-xr-x root/root         0 2021-01-03 11:18 usr/
+drwxr-xr-x root/root         0 2021-01-03 11:18 usr/doc/
+drwxr-xr-x root/root         0 2021-01-03 11:18 usr/doc/colorama-0.4.4/
+-rw-r--r-- root/root      8421 2020-10-15 20:32 usr/doc/colorama-0.4.4/CHANGELOG.rst
+-rw-r--r-- root/root      1491 2020-10-12 23:22 usr/doc/colorama-0.4.4/LICENSE.txt
+-rw-r--r-- root/root     13753 2020-10-15 20:32 usr/doc/colorama-0.4.4/README.rst
+-rw-r--r-- root/root      3187 2021-01-03 11:18 usr/doc/colorama-0.4.4/colorama.SlackBuild
+drwxr-xr-x root/root         0 2021-01-03 11:18 usr/lib64/
+drwxr-xr-x root/root         0 2021-01-03 11:18 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2021-01-03 11:18 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2021-01-03 11:18 usr/lib64/python3.9/site-packages/colorama/
+drwxr-xr-x root/root         0 2021-01-03 11:18 usr/lib64/python3.9/site-packages/colorama-0.4.4-py3.9.egg-info/
+-rw-r--r-- root/root     18199 2021-01-03 11:18 usr/lib64/python3.9/site-packages/colorama-0.4.4-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       492 2021-01-03 11:18 usr/lib64/python3.9/site-packages/colorama-0.4.4-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2021-01-03 11:18 usr/lib64/python3.9/site-packages/colorama-0.4.4-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root         9 2021-01-03 11:18 usr/lib64/python3.9/site-packages/colorama-0.4.4-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root       239 2020-10-15 20:32 usr/lib64/python3.9/site-packages/colorama/__init__.py
+drwxr-xr-x root/root         0 2021-01-03 11:18 usr/lib64/python3.9/site-packages/colorama/__pycache__/
+-rw-r--r-- root/root       397 2021-01-03 11:18 usr/lib64/python3.9/site-packages/colorama/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      3182 2021-01-03 11:18 usr/lib64/python3.9/site-packages/colorama/__pycache__/ansi.cpython-39.pyc
+-rw-r--r-- root/root      7648 2021-01-03 11:18 usr/lib64/python3.9/site-packages/colorama/__pycache__/ansitowin32.cpython-39.pyc
+-rw-r--r-- root/root      1664 2021-01-03 11:18 usr/lib64/python3.9/site-packages/colorama/__pycache__/initialise.cpython-39.pyc
+-rw-r--r-- root/root      3896 2021-01-03 11:18 usr/lib64/python3.9/site-packages/colorama/__pycache__/win32.cpython-39.pyc
+-rw-r--r-- root/root      4618 2021-01-03 11:18 usr/lib64/python3.9/site-packages/colorama/__pycache__/winterm.cpython-39.pyc
+-rw-r--r-- root/root      2522 2020-10-12 23:22 usr/lib64/python3.9/site-packages/colorama/ansi.py
+-rw-r--r-- root/root     10517 2020-10-12 23:22 usr/lib64/python3.9/site-packages/colorama/ansitowin32.py
+-rw-r--r-- root/root      1915 2020-10-12 23:22 usr/lib64/python3.9/site-packages/colorama/initialise.py
+-rw-r--r-- root/root      5404 2020-10-12 23:22 usr/lib64/python3.9/site-packages/colorama/win32.py
+-rw-r--r-- root/root      6438 2020-10-12 23:22 usr/lib64/python3.9/site-packages/colorama/winterm.py
+
+

@@ -1,0 +1,11 @@
+lwatch: lwatch (Colourizing a system logs for easier reading)
+lwatch:
+lwatch: lwatch is a log parser/analyzer written in C with the PCRE library.
+lwatch: It is small and efficient. You are able to define your own colors
+lwatch: using regexp patterns. The biggest advantage compared to other tools
+lwatch: written in Perl is its speed.
+lwatch:
+lwatch:
+lwatch:
+lwatch:
+lwatch:

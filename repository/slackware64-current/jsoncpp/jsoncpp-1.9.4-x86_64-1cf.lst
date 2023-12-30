@@ -1,0 +1,46 @@
+++========================================
+||
+||   Package:  ./jsoncpp/jsoncpp-1.9.4-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-09-26 12:20 ./
+drwxr-xr-x root/root         0 2020-09-26 12:20 install/
+-rw-r--r-- root/root       203 2020-09-26 12:20 install/doinst.sh
+-rw-r--r-- root/root       657 2020-09-26 12:20 install/slack-desc
+drwxr-xr-x root/root         0 2020-09-26 12:20 usr/
+drwxr-xr-x root/root         0 2020-09-26 12:20 usr/doc/
+drwxr-xr-x root/root         0 2020-09-26 12:20 usr/doc/jsoncpp-1.9.4/
+-rw-r--r-- root/root      4200 2020-09-26 04:19 usr/doc/jsoncpp-1.9.4/AUTHORS
+-rw-r--r-- root/root      5813 2020-09-26 04:19 usr/doc/jsoncpp-1.9.4/CONTRIBUTING.md
+-rw-r--r-- root/root      2723 2020-09-26 04:19 usr/doc/jsoncpp-1.9.4/LICENSE
+-rw-r--r-- root/root      3756 2020-09-26 04:19 usr/doc/jsoncpp-1.9.4/README.md
+-rw-r--r-- root/root      3803 2020-09-26 12:20 usr/doc/jsoncpp-1.9.4/jsoncpp.SlackBuild
+drwxr-xr-x root/root         0 2020-09-26 12:20 usr/include/
+drwxr-xr-x root/root         0 2020-09-26 12:20 usr/include/jsoncpp/
+drwxr-xr-x root/root         0 2020-09-26 12:20 usr/include/jsoncpp/json/
+-rw-r--r-- root/root      2481 2020-09-26 04:19 usr/include/jsoncpp/json/allocator.h
+-rw-r--r-- root/root      2817 2020-09-26 04:19 usr/include/jsoncpp/json/assertions.h
+-rw-r--r-- root/root      5272 2020-09-26 04:19 usr/include/jsoncpp/json/config.h
+-rw-r--r-- root/root       917 2020-09-26 04:19 usr/include/jsoncpp/json/forwards.h
+-rw-r--r-- root/root       447 2020-09-26 04:19 usr/include/jsoncpp/json/json.h
+-rw-r--r-- root/root      1793 2020-09-26 04:19 usr/include/jsoncpp/json/json_features.h
+-rw-r--r-- root/root     14110 2020-09-26 04:19 usr/include/jsoncpp/json/reader.h
+-rw-r--r-- root/root     30180 2020-09-26 04:19 usr/include/jsoncpp/json/value.h
+-rw-r--r-- root/root       966 2020-09-26 04:19 usr/include/jsoncpp/json/version.h
+-rw-r--r-- root/root     12202 2020-09-26 04:19 usr/include/jsoncpp/json/writer.h
+drwxr-xr-x root/root         0 2020-09-26 12:20 usr/lib64/
+drwxr-xr-x root/root         0 2020-09-26 12:20 usr/lib64/cmake/
+drwxr-xr-x root/root         0 2020-09-26 12:20 usr/lib64/cmake/jsoncpp/
+-rw-r--r-- root/root      1647 2020-09-26 12:20 usr/lib64/cmake/jsoncpp/jsoncppConfig-release.cmake
+-rw-r--r-- root/root      4905 2020-09-26 12:20 usr/lib64/cmake/jsoncpp/jsoncppConfig.cmake
+-rw-r--r-- root/root      1722 2020-09-26 12:20 usr/lib64/cmake/jsoncpp/jsoncppConfigVersion.cmake
+-rwxr-xr-x root/root    234144 2020-09-26 12:20 usr/lib64/libjsoncpp.so.1.9.4
+drwxr-xr-x root/root         0 2020-09-26 12:20 usr/lib64/objects-Release/
+drwxr-xr-x root/root         0 2020-09-26 12:20 usr/lib64/objects-Release/jsoncpp_object/
+-rw-r--r-- root/root    156944 2020-09-26 12:20 usr/lib64/objects-Release/jsoncpp_object/json_reader.cpp.o
+-rw-r--r-- root/root    135192 2020-09-26 12:20 usr/lib64/objects-Release/jsoncpp_object/json_value.cpp.o
+-rw-r--r-- root/root    100560 2020-09-26 12:20 usr/lib64/objects-Release/jsoncpp_object/json_writer.cpp.o
+drwxr-xr-x root/root         0 2020-09-26 12:20 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       266 2020-09-26 12:20 usr/lib64/pkgconfig/jsoncpp.pc
+
+

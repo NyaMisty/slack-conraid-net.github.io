@@ -1,0 +1,18 @@
+PACKAGE NAME:  unix-privesc-check-2.1_git4239100-x86_64-6cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./unix-privesc-check
+PACKAGE SIZE (compressed):  32 K
+PACKAGE SIZE (uncompressed):  300 K
+PACKAGE DESCRIPTION:
+unix-privesc-check: unix-privesc-check (Shell script to check for privilege escalation)
+unix-privesc-check:
+unix-privesc-check: Unix-privesc-checker is a script that runs on Unix systems.
+unix-privesc-check: It tries to find misconfigurations that could allow local
+unix-privesc-check: unprivileged users to escalate privileges to other users or
+unix-privesc-check: to access local apps (e.g. databases).
+unix-privesc-check:
+unix-privesc-check:
+unix-privesc-check:
+unix-privesc-check:
+unix-privesc-check:
+

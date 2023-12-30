@@ -1,0 +1,27 @@
+++========================================
+||
+||   Package:  ./bmon/bmon-4.0-x86_64-7cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 11:01 ./
+drwxr-xr-x root/root         0 2020-10-05 11:01 etc/
+-rw-r--r-- root/root      2039 2020-10-05 11:01 etc/bmon.conf.new
+drwxr-xr-x root/root         0 2020-10-05 11:01 install/
+-rw-r--r-- root/root       368 2020-10-05 11:01 install/doinst.sh
+-rw-r--r-- root/root      1012 2020-10-05 11:01 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 11:01 usr/
+drwxr-xr-x root/root         0 2020-10-05 11:01 usr/bin/
+-rwxr-xr-x root/root    108520 2020-10-05 11:01 usr/bin/bmon
+drwxr-xr-x root/root         0 2020-10-05 11:01 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 11:01 usr/doc/bmon-4.0/
+-rw-r--r-- root/root         0 2013-07-05 16:11 usr/doc/bmon-4.0/ChangeLog
+-rw-r--r-- root/root      1192 2014-05-08 11:03 usr/doc/bmon-4.0/LICENSE.BSD
+-rw-r--r-- root/root      1023 2014-05-08 11:03 usr/doc/bmon-4.0/LICENSE.MIT
+-rw-r--r-- root/root      1186 2016-12-13 11:54 usr/doc/bmon-4.0/NEWS
+-rw-r--r-- root/root      2498 2016-12-13 11:54 usr/doc/bmon-4.0/README.md
+-rw-r--r-- root/root      3674 2020-10-05 11:01 usr/doc/bmon-4.0/bmon.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 11:01 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 11:01 usr/man/man8/
+-rw-r--r-- root/root      2316 2020-10-05 11:01 usr/man/man8/bmon.8.gz
+
+

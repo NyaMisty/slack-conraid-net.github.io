@@ -1,0 +1,73 @@
+++========================================
+||
+||   Package:  ./shtool/shtool-2.0.8-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-11 09:53 ./
+drwxr-xr-x root/root         0 2022-05-11 09:53 install/
+-rw-r--r-- root/root       720 2022-05-11 09:53 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-11 09:53 usr/
+drwxr-xr-x root/root         0 2022-05-11 09:53 usr/bin/
+-rwxr-xr-x root/root    141926 2022-05-11 09:53 usr/bin/shtool
+-rwxr-xr-x root/root     15521 2022-05-11 09:53 usr/bin/shtoolize
+drwxr-xr-x root/root         0 2022-05-11 09:53 usr/doc/
+drwxr-xr-x root/root         0 2022-05-11 09:53 usr/doc/shtool-2.0.8/
+-rw-r--r-- root/root       606 2008-04-02 22:10 usr/doc/shtool-2.0.8/AUTHORS
+-rw-r--r-- root/root     15239 2008-04-02 22:10 usr/doc/shtool-2.0.8/COPYING
+-rw-r--r-- root/root     35156 2008-07-18 09:57 usr/doc/shtool-2.0.8/ChangeLog
+-rw-r--r-- root/root      1579 2008-04-02 22:10 usr/doc/shtool-2.0.8/INSTALL
+-rw-r--r-- root/root      1597 2008-04-02 22:10 usr/doc/shtool-2.0.8/NEWS
+-rw-r--r-- root/root      6645 2008-04-02 22:10 usr/doc/shtool-2.0.8/RATIONAL
+-rw-r--r-- root/root      3217 2008-07-18 09:58 usr/doc/shtool-2.0.8/README
+-rw-r--r-- root/root      2184 2008-06-06 14:10 usr/doc/shtool-2.0.8/THANKS
+-rw-r--r-- root/root       173 2008-07-18 09:58 usr/doc/shtool-2.0.8/VERSION
+-rw-r--r-- root/root      3890 2022-05-11 09:53 usr/doc/shtool-2.0.8/shtool.SlackBuild
+drwxr-xr-x root/root         0 2022-05-11 09:53 usr/man/
+drwxr-xr-x root/root         0 2022-05-11 09:53 usr/man/man1/
+-rw-r--r-- root/root      2661 2022-05-11 09:53 usr/man/man1/shtool-arx.1.gz
+-rw-r--r-- root/root      2788 2022-05-11 09:53 usr/man/man1/shtool-echo.1.gz
+-rw-r--r-- root/root      2426 2022-05-11 09:53 usr/man/man1/shtool-fixperm.1.gz
+-rw-r--r-- root/root      3200 2022-05-11 09:53 usr/man/man1/shtool-install.1.gz
+-rw-r--r-- root/root      2749 2022-05-11 09:53 usr/man/man1/shtool-mdate.1.gz
+-rw-r--r-- root/root      2794 2022-05-11 09:53 usr/man/man1/shtool-mkdir.1.gz
+-rw-r--r-- root/root      2496 2022-05-11 09:53 usr/man/man1/shtool-mkln.1.gz
+-rw-r--r-- root/root      2530 2022-05-11 09:53 usr/man/man1/shtool-mkshadow.1.gz
+-rw-r--r-- root/root      2582 2022-05-11 09:53 usr/man/man1/shtool-move.1.gz
+-rw-r--r-- root/root      2619 2022-05-11 09:53 usr/man/man1/shtool-path.1.gz
+-rw-r--r-- root/root      4672 2022-05-11 09:53 usr/man/man1/shtool-platform.1.gz
+-rw-r--r-- root/root      2351 2022-05-11 09:53 usr/man/man1/shtool-prop.1.gz
+-rw-r--r-- root/root      4242 2022-05-11 09:53 usr/man/man1/shtool-rotate.1.gz
+-rw-r--r-- root/root      3769 2022-05-11 09:53 usr/man/man1/shtool-scpp.1.gz
+-rw-r--r-- root/root      2821 2022-05-11 09:53 usr/man/man1/shtool-slo.1.gz
+-rw-r--r-- root/root      2914 2022-05-11 09:53 usr/man/man1/shtool-subst.1.gz
+-rw-r--r-- root/root      2368 2022-05-11 09:53 usr/man/man1/shtool-table.1.gz
+-rw-r--r-- root/root      2897 2022-05-11 09:53 usr/man/man1/shtool-tarball.1.gz
+-rw-r--r-- root/root      3118 2022-05-11 09:53 usr/man/man1/shtool-version.1.gz
+-rw-r--r-- root/root      3945 2022-05-11 09:53 usr/man/man1/shtool.1.gz
+-rw-r--r-- root/root      3201 2022-05-11 09:53 usr/man/man1/shtoolize.1.gz
+drwxr-xr-x root/root         0 2022-05-11 09:53 usr/share/
+drwxr-xr-x root/root         0 2022-05-11 09:53 usr/share/aclocal/
+-rw-r--r-- root/root      2095 2022-05-11 09:53 usr/share/aclocal/shtool.m4
+drwxr-xr-x root/root         0 2022-05-11 09:53 usr/share/shtool/
+-rw-r--r-- root/root      4938 2022-05-11 09:53 usr/share/shtool/sh.arx
+-rw-r--r-- root/root      6104 2022-05-11 09:53 usr/share/shtool/sh.common
+-rw-r--r-- root/root     14835 2022-05-11 09:53 usr/share/shtool/sh.echo
+-rw-r--r-- root/root      3598 2022-05-11 09:53 usr/share/shtool/sh.fixperm
+-rw-r--r-- root/root      8619 2022-05-11 09:53 usr/share/shtool/sh.install
+-rw-r--r-- root/root      6555 2022-05-11 09:53 usr/share/shtool/sh.mdate
+-rw-r--r-- root/root      6146 2022-05-11 09:53 usr/share/shtool/sh.mkdir
+-rw-r--r-- root/root      6620 2022-05-11 09:53 usr/share/shtool/sh.mkln
+-rw-r--r-- root/root      5640 2022-05-11 09:53 usr/share/shtool/sh.mkshadow
+-rw-r--r-- root/root      5147 2022-05-11 09:53 usr/share/shtool/sh.move
+-rw-r--r-- root/root      6546 2022-05-11 09:53 usr/share/shtool/sh.path
+-rw-r--r-- root/root     30235 2022-05-11 09:53 usr/share/shtool/sh.platform
+-rw-r--r-- root/root      3064 2022-05-11 09:53 usr/share/shtool/sh.prop
+-rw-r--r-- root/root     19964 2022-05-11 09:53 usr/share/shtool/sh.rotate
+-rw-r--r-- root/root     11390 2022-05-11 09:53 usr/share/shtool/sh.scpp
+-rw-r--r-- root/root      7217 2022-05-11 09:53 usr/share/shtool/sh.slo
+-rw-r--r-- root/root      8538 2022-05-11 09:53 usr/share/shtool/sh.subst
+-rw-r--r-- root/root      3842 2022-05-11 09:53 usr/share/shtool/sh.table
+-rw-r--r-- root/root      8485 2022-05-11 09:53 usr/share/shtool/sh.tarball
+-rw-r--r-- root/root     13845 2022-05-11 09:53 usr/share/shtool/sh.version
+
+

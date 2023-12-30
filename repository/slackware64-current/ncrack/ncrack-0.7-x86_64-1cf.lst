@@ -1,0 +1,32 @@
+++========================================
+||
+||   Package:  ./ncrack/ncrack-0.7-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 13:04 ./
+drwxr-xr-x root/root         0 2020-10-05 13:04 install/
+-rw-r--r-- root/root       934 2020-10-05 13:04 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 13:04 usr/
+drwxr-xr-x root/root         0 2020-10-05 13:04 usr/bin/
+-rwxr-xr-x root/root    653760 2020-10-05 13:04 usr/bin/ncrack
+drwxr-xr-x root/root         0 2020-10-05 13:04 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 13:04 usr/doc/ncrack-0.7/
+-rw-r--r-- root/root     10079 2019-08-25 00:25 usr/doc/ncrack-0.7/CHANGELOG
+-rw-r--r-- root/root     27921 2019-08-25 00:25 usr/doc/ncrack-0.7/COPYING
+-rw-r--r-- root/root      3750 2020-10-05 13:04 usr/doc/ncrack-0.7/ncrack.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 13:04 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 13:04 usr/man/man1/
+-rw-r--r-- root/root     24363 2020-10-05 13:04 usr/man/man1/ncrack.1.gz
+drwxr-xr-x root/root         0 2020-10-05 13:04 usr/share/
+drwxr-xr-x root/root         0 2020-10-05 13:04 usr/share/ncrack/
+-rw-r--r-- root/root      5754 2020-10-05 13:04 usr/share/ncrack/common.usr
+-rw-r--r-- root/root     47070 2020-10-05 13:04 usr/share/ncrack/default.pwd
+-rw-r--r-- root/root      3451 2020-10-05 13:04 usr/share/ncrack/default.usr
+-rw-r--r-- root/root     22414 2020-10-05 13:04 usr/share/ncrack/jtr.pwd
+-rw-r--r-- root/root       266 2020-10-05 13:04 usr/share/ncrack/minimal.usr
+-rw-r--r-- root/root    356352 2020-10-05 13:04 usr/share/ncrack/myspace.pwd
+-rw-r--r-- root/root       748 2020-10-05 13:04 usr/share/ncrack/ncrack-services
+-rw-r--r-- root/root     58472 2020-10-05 13:04 usr/share/ncrack/phpbb.pwd
+-rw-r--r-- root/root    410725 2020-10-05 13:04 usr/share/ncrack/top50000.pwd
+
+

@@ -1,0 +1,68 @@
+++========================================
+||
+||   Package:  ./python-wheel/python-wheel-0.36.2-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-12-14 10:50 ./
+drwxr-xr-x root/root         0 2020-12-14 10:50 install/
+-rw-r--r-- root/root       910 2020-12-14 10:50 install/slack-desc
+drwxr-xr-x root/root         0 2020-12-14 10:50 usr/
+drwxr-xr-x root/root         0 2020-12-14 10:50 usr/bin/
+-rwxr-xr-x root/root       951 2020-12-14 10:50 usr/bin/wheel
+drwxr-xr-x root/root         0 2020-12-14 10:50 usr/doc/
+drwxr-xr-x root/root         0 2020-12-14 10:50 usr/doc/python-wheel-0.36.2/
+-rw-r--r-- root/root       941 2020-12-13 19:08 usr/doc/python-wheel-0.36.2/README.rst
+-rw-r--r-- root/root      3193 2020-12-14 10:50 usr/doc/python-wheel-0.36.2/python-wheel.SlackBuild
+drwxr-xr-x root/root         0 2020-12-14 10:50 usr/lib64/
+drwxr-xr-x root/root         0 2020-12-14 10:50 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2020-12-14 10:50 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/
+drwxr-xr-x root/root         0 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel-0.36.2-py3.9.egg-info/
+-rw-r--r-- root/root      2458 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel-0.36.2-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root      2072 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel-0.36.2-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel-0.36.2-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root       108 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel-0.36.2-py3.9.egg-info/entry_points.txt
+-rw-r--r-- root/root         1 2020-12-13 19:09 usr/lib64/python3.9/site-packages/wheel-0.36.2-py3.9.egg-info/not-zip-safe
+-rw-r--r-- root/root        33 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel-0.36.2-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root         6 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel-0.36.2-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root        23 2020-12-13 19:08 usr/lib64/python3.9/site-packages/wheel/__init__.py
+-rw-r--r-- root/root       417 2020-12-13 19:08 usr/lib64/python3.9/site-packages/wheel/__main__.py
+drwxr-xr-x root/root         0 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/__pycache__/
+-rw-r--r-- root/root       165 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root       562 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/__pycache__/__main__.cpython-39.pyc
+-rw-r--r-- root/root     13110 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/__pycache__/bdist_wheel.cpython-39.pyc
+-rw-r--r-- root/root      9944 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/__pycache__/macosx_libfile.cpython-39.pyc
+-rw-r--r-- root/root      3599 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/__pycache__/metadata.cpython-39.pyc
+-rw-r--r-- root/root      1604 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/__pycache__/pkginfo.cpython-39.pyc
+-rw-r--r-- root/root      1279 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/__pycache__/util.cpython-39.pyc
+-rw-r--r-- root/root      5551 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/__pycache__/wheelfile.cpython-39.pyc
+-rw-r--r-- root/root     19075 2020-12-13 19:08 usr/lib64/python3.9/site-packages/wheel/bdist_wheel.py
+drwxr-xr-x root/root         0 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/cli/
+-rw-r--r-- root/root      2572 2020-12-13 19:08 usr/lib64/python3.9/site-packages/wheel/cli/__init__.py
+drwxr-xr-x root/root         0 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/cli/__pycache__/
+-rw-r--r-- root/root      3049 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/cli/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      6273 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/cli/__pycache__/convert.cpython-39.pyc
+-rw-r--r-- root/root      2864 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/cli/__pycache__/pack.cpython-39.pyc
+-rw-r--r-- root/root       934 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/cli/__pycache__/unpack.cpython-39.pyc
+-rw-r--r-- root/root      9498 2020-12-13 19:08 usr/lib64/python3.9/site-packages/wheel/cli/convert.py
+-rw-r--r-- root/root      3208 2020-12-13 19:08 usr/lib64/python3.9/site-packages/wheel/cli/pack.py
+-rw-r--r-- root/root       673 2020-12-13 19:08 usr/lib64/python3.9/site-packages/wheel/cli/unpack.py
+-rw-r--r-- root/root     15931 2020-12-13 19:08 usr/lib64/python3.9/site-packages/wheel/macosx_libfile.py
+-rw-r--r-- root/root      4344 2020-12-13 19:08 usr/lib64/python3.9/site-packages/wheel/metadata.py
+-rw-r--r-- root/root      1257 2020-12-13 19:08 usr/lib64/python3.9/site-packages/wheel/pkginfo.py
+-rw-r--r-- root/root       938 2020-12-13 19:08 usr/lib64/python3.9/site-packages/wheel/util.py
+drwxr-xr-x root/root         0 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/vendored/
+-rw-r--r-- root/root         0 2020-12-13 19:08 usr/lib64/python3.9/site-packages/wheel/vendored/__init__.py
+drwxr-xr-x root/root         0 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/vendored/__pycache__/
+-rw-r--r-- root/root       152 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/vendored/__pycache__/__init__.cpython-39.pyc
+drwxr-xr-x root/root         0 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/vendored/packaging/
+-rw-r--r-- root/root         0 2020-12-13 19:08 usr/lib64/python3.9/site-packages/wheel/vendored/packaging/__init__.py
+drwxr-xr-x root/root         0 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/vendored/packaging/__pycache__/
+-rw-r--r-- root/root       162 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/vendored/packaging/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      1457 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/vendored/packaging/__pycache__/_typing.cpython-39.pyc
+-rw-r--r-- root/root     18429 2020-12-14 10:50 usr/lib64/python3.9/site-packages/wheel/vendored/packaging/__pycache__/tags.cpython-39.pyc
+-rw-r--r-- root/root      1812 2020-12-13 19:08 usr/lib64/python3.9/site-packages/wheel/vendored/packaging/_typing.py
+-rw-r--r-- root/root     28937 2020-12-13 19:08 usr/lib64/python3.9/site-packages/wheel/vendored/packaging/tags.py
+-rw-r--r-- root/root      7336 2020-12-13 19:08 usr/lib64/python3.9/site-packages/wheel/wheelfile.py
+
+

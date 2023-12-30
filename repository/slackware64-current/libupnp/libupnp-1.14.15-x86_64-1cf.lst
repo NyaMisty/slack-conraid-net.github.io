@@ -1,0 +1,49 @@
+++========================================
+||
+||   Package:  ./libupnp/libupnp-1.14.15-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-11-22 11:27 ./
+drwxr-xr-x root/root         0 2022-11-22 11:27 install/
+-rw-r--r-- root/root       380 2022-11-22 11:27 install/doinst.sh
+-rw-r--r-- root/root       598 2022-11-22 11:27 install/slack-desc
+drwxr-xr-x root/root         0 2022-11-22 11:27 usr/
+drwxr-xr-x root/root         0 2022-11-22 11:27 usr/doc/
+drwxr-xr-x root/root         0 2022-11-22 11:27 usr/doc/libupnp-1.14.15/
+-rw-r--r-- root/root      2509 2022-10-05 19:49 usr/doc/libupnp-1.14.15/THANKS
+-rw-r--r-- root/root      3929 2022-11-22 11:27 usr/doc/libupnp-1.14.15/libupnp.SlackBuild
+drwxr-xr-x root/root         0 2022-11-22 11:27 usr/include/
+drwxr-xr-x root/root         0 2022-11-22 11:27 usr/include/upnp/
+-rw-r--r-- root/root      5456 2022-11-22 11:27 usr/include/upnp/Callback.h
+-rw-r--r-- root/root      2823 2022-11-22 11:27 usr/include/upnp/UpnpActionComplete.h
+-rw-r--r-- root/root      7452 2022-11-22 11:27 usr/include/upnp/UpnpActionRequest.h
+-rw-r--r-- root/root      8566 2022-11-22 11:27 usr/include/upnp/UpnpDiscovery.h
+-rw-r--r-- root/root      2027 2022-11-22 11:27 usr/include/upnp/UpnpEvent.h
+-rw-r--r-- root/root      3445 2022-11-22 11:27 usr/include/upnp/UpnpEventSubscribe.h
+-rw-r--r-- root/root      3554 2022-11-22 11:27 usr/include/upnp/UpnpExtraHeaders.h
+-rw-r--r-- root/root      3868 2022-11-22 11:27 usr/include/upnp/UpnpFileInfo.h
+-rw-r--r-- root/root      3723 2022-11-22 11:27 usr/include/upnp/UpnpGlobal.h
+-rw-r--r-- root/root      1362 2022-11-22 11:27 usr/include/upnp/UpnpInet.h
+-rw-r--r-- root/root       203 2022-11-22 11:27 usr/include/upnp/UpnpIntTypes.h
+-rw-r--r-- root/root      3851 2022-11-22 11:27 usr/include/upnp/UpnpStateVarComplete.h
+-rw-r--r-- root/root      6464 2022-11-22 11:27 usr/include/upnp/UpnpStateVarRequest.h
+-rw-r--r-- root/root       336 2022-11-22 11:27 usr/include/upnp/UpnpStdInt.h
+-rw-r--r-- root/root      3200 2022-11-22 11:27 usr/include/upnp/UpnpString.h
+-rw-r--r-- root/root      4219 2022-11-22 11:27 usr/include/upnp/UpnpSubscriptionRequest.h
+-rw-r--r-- root/root       218 2022-11-22 11:27 usr/include/upnp/UpnpUniStd.h
+-rw-r--r-- root/root     33259 2022-11-22 11:27 usr/include/upnp/ithread.h
+-rw-r--r-- root/root     59380 2022-11-22 11:27 usr/include/upnp/ixml.h
+-rw-r--r-- root/root      1373 2022-11-22 11:27 usr/include/upnp/ixmldebug.h
+-rw-r--r-- root/root      3453 2022-11-22 11:27 usr/include/upnp/list.h
+-rw-r--r-- root/root      1610 2022-11-22 11:27 usr/include/upnp/posix_overwrites.h
+-rw-r--r-- root/root    112294 2022-11-22 11:27 usr/include/upnp/upnp.h
+-rw-r--r-- root/root      5259 2022-11-22 11:27 usr/include/upnp/upnpconfig.h
+-rw-r--r-- root/root      7204 2022-11-22 11:27 usr/include/upnp/upnpdebug.h
+-rw-r--r-- root/root     10041 2022-11-22 11:27 usr/include/upnp/upnptools.h
+drwxr-xr-x root/root         0 2022-11-22 11:27 usr/lib64/
+-rwxr-xr-x root/root     44848 2022-11-22 11:27 usr/lib64/libixml.so.11.1.2
+-rwxr-xr-x root/root    207008 2022-11-22 11:27 usr/lib64/libupnp.so.17.1.6
+drwxr-xr-x root/root         0 2022-11-22 11:27 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       249 2022-11-22 11:27 usr/lib64/pkgconfig/libupnp.pc
+
+

@@ -1,0 +1,11 @@
+afl: afl (security-oriented fuzzer )
+afl:
+afl: American fuzzy lop is a security-oriented fuzzer that employs a novel
+afl: type of compile-time instrumentation and genetic algorithms to
+afl: automatically discover clean, interesting test cases that trigger
+afl: new internal states in the targeted binary
+afl:
+afl:
+afl:
+afl:
+afl:

@@ -1,0 +1,18 @@
+PACKAGE NAME:  masscan-1.3.2-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./masscan
+PACKAGE SIZE (compressed):  208 K
+PACKAGE SIZE (uncompressed):  500 K
+PACKAGE DESCRIPTION:
+masscan: masscan (Mass IP port scanner)
+masscan:
+masscan: Masscan provides simple, fast TCP port scanning.  It's usage is
+masscan: similar to nmap, but much faster.
+masscan:
+masscan:
+masscan:
+masscan:
+masscan:
+masscan:
+masscan:
+

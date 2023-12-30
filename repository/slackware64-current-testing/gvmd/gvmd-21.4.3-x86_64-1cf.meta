@@ -1,0 +1,18 @@
+PACKAGE NAME:  gvmd-21.4.3-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./gvmd
+PACKAGE SIZE (compressed):  676 K
+PACKAGE SIZE (uncompressed):  4450 K
+PACKAGE DESCRIPTION:
+gvmd: gvmd (Greenbone Vulnerability Manager)
+gvmd:
+gvmd: The Greenbone Vulnerability Manager is the central management service
+gvmd: between security scanners and the user clients.
+gvmd:
+gvmd: Previously known as OpenVAS Manager
+gvmd:
+gvmd:
+gvmd:
+gvmd:
+gvmd:
+

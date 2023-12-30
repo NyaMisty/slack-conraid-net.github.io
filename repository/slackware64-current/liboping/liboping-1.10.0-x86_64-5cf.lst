@@ -1,0 +1,52 @@
+++========================================
+||
+||   Package:  ./liboping/liboping-1.10.0-x86_64-5cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-05-22 10:05 ./
+drwxr-xr-x root/root         0 2021-05-22 10:05 install/
+-rw-r--r-- root/root       192 2021-05-22 10:05 install/doinst.sh
+-rw-r--r-- root/root       792 2021-05-22 10:05 install/slack-desc
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/bin/
+-rwxr-xr-x root/root     35520 2021-05-22 10:05 usr/bin/noping
+-rwxr-xr-x root/root     31208 2021-05-22 10:05 usr/bin/oping
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/doc/
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/doc/liboping-1.10.0/
+-rw-r--r-- root/root       493 2017-05-11 09:32 usr/doc/liboping-1.10.0/AUTHORS
+-rw-r--r-- root/root     26530 2017-05-11 09:32 usr/doc/liboping-1.10.0/COPYING
+-rw-r--r-- root/root     11531 2017-05-11 09:32 usr/doc/liboping-1.10.0/ChangeLog
+-rw-r--r-- root/root     15752 2017-05-11 09:32 usr/doc/liboping-1.10.0/INSTALL
+-rw-r--r-- root/root         0 2017-05-11 09:32 usr/doc/liboping-1.10.0/NEWS
+-rw-r--r-- root/root      3875 2017-05-11 09:32 usr/doc/liboping-1.10.0/README
+-rw-r--r-- root/root      3473 2021-05-22 10:05 usr/doc/liboping-1.10.0/liboping.SlackBuild
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/include/
+-rw-r--r-- root/root      2832 2021-05-22 10:05 usr/include/oping.h
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/lib64/
+-rwxr-xr-x root/root     22728 2021-05-22 10:05 usr/lib64/liboping.so.0.3.0
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/lib64/perl5/
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/lib64/perl5/vendor_perl/
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/lib64/perl5/vendor_perl/Net/
+-r--r--r-- root/root     10538 2017-05-11 09:32 usr/lib64/perl5/vendor_perl/Net/Oping.pm
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/lib64/perl5/vendor_perl/auto/
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/lib64/perl5/vendor_perl/auto/Net/
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/lib64/perl5/vendor_perl/auto/Net/Oping/
+-r-xr-xr-x root/root     28032 2021-05-22 10:05 usr/lib64/perl5/vendor_perl/auto/Net/Oping/Oping.so
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       259 2021-05-22 10:05 usr/lib64/pkgconfig/liboping.pc
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/man/
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/man/man3/
+-rw-r--r-- root/root      3771 2021-05-22 10:05 usr/man/man3/Net::Oping.3.gz
+-rw-r--r-- root/root      3290 2021-05-22 10:05 usr/man/man3/liboping.3.gz
+-rw-r--r-- root/root      2260 2021-05-22 10:05 usr/man/man3/ping_construct.3.gz
+-rw-r--r-- root/root      2150 2021-05-22 10:05 usr/man/man3/ping_get_error.3.gz
+-rw-r--r-- root/root      2605 2021-05-22 10:05 usr/man/man3/ping_host_add.3.gz
+-rw-r--r-- root/root      2372 2021-05-22 10:05 usr/man/man3/ping_iterator_get.3.gz
+-rw-r--r-- root/root      2438 2021-05-22 10:05 usr/man/man3/ping_iterator_get_context.3.gz
+-rw-r--r-- root/root      3740 2021-05-22 10:05 usr/man/man3/ping_iterator_get_info.3.gz
+-rw-r--r-- root/root      2452 2021-05-22 10:05 usr/man/man3/ping_send.3.gz
+-rw-r--r-- root/root      3576 2021-05-22 10:05 usr/man/man3/ping_setopt.3.gz
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/man/man8/
+-rw-r--r-- root/root      6928 2021-05-22 10:05 usr/man/man8/oping.8.gz
+
+

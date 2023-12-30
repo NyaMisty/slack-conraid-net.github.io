@@ -1,0 +1,11 @@
+docker-proxy: docker-proxy (docker networking)
+docker-proxy:
+docker-proxy: docker-proxy enables a service consumer to communicate with the
+docker-proxy: service providing container.
+docker-proxy:
+docker-proxy:
+docker-proxy:
+docker-proxy:
+docker-proxy:
+docker-proxy:
+docker-proxy:

@@ -1,0 +1,18 @@
+PACKAGE NAME:  pcsc-lite-1.9.8-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./pcsc-lite
+PACKAGE SIZE (compressed):  396 K
+PACKAGE SIZE (uncompressed):  2150 K
+PACKAGE DESCRIPTION:
+pcsc-lite: pcsc-lite (Middleware to access a smart card using SCard API)
+pcsc-lite:
+pcsc-lite: Middleware to access a smart card using SCard API (PC/SC)
+pcsc-lite: Its purpose is to provide a Windows(R) SCard interface in a
+pcsc-lite: very small form factor for communicating to smart cards and
+pcsc-lite: readers.
+pcsc-lite:
+pcsc-lite:
+pcsc-lite:
+pcsc-lite:
+pcsc-lite:
+

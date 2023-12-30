@@ -1,0 +1,21 @@
+PACKAGE NAME:  python-structlog-22.3.0-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./python-structlog
+PACKAGE SIZE (compressed):  84 K
+PACKAGE SIZE (uncompressed):  440 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+python-structlog: python-structlog (Structured Logging for Python)
+python-structlog:
+python-structlog: structlog makes logging in Python less painful and more powerful by
+python-structlog: adding structure to your log entries.
+python-structlog:
+python-structlog:
+python-structlog:
+python-structlog:
+python-structlog:
+python-structlog:
+python-structlog:
+

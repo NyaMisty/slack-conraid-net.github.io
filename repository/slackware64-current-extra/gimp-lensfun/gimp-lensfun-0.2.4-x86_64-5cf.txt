@@ -1,0 +1,12 @@
+gimp-lensfun: gimp-lensfun (gimp plugin for use lenfuns)
+gimp-lensfun:
+gimp-lensfun: GimpLensfun is a Gimp plugin to correct lens distortion using the
+gimp-lensfun: lensfun library and database.
+gimp-lensfun:
+gimp-lensfun:
+gimp-lensfun:
+gimp-lensfun:
+gimp-lensfun:
+gimp-lensfun:
+gimp-lensfun:
+gimp-lensfun:

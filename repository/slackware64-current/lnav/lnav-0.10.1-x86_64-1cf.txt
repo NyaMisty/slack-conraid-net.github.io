@@ -1,0 +1,11 @@
+lnav: lnav (Logfile Navigator)
+lnav:
+lnav: The log file navigator, lnav, is an enhanced log file viewer that
+lnav: takes advantage of any semantic information that can be gleaned from
+lnav: the files being viewed, such as timestamps and log levels.
+lnav:
+lnav:
+lnav:
+lnav:
+lnav:
+lnav:

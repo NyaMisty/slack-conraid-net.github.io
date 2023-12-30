@@ -1,0 +1,18 @@
+PACKAGE NAME:  csscss-bac3e42-x86_64-4cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./csscss
+PACKAGE SIZE (compressed):  212 K
+PACKAGE SIZE (uncompressed):  1270 K
+PACKAGE DESCRIPTION:
+csscss: csscss (A CSS redundancy analyzer that analyzes redundancy)
+csscss:
+csscss: csscss will parse any CSS files you give it and let you know which
+csscss: rulesets have duplicated declarations.
+csscss:
+csscss:
+csscss:
+csscss:
+csscss:
+csscss:
+csscss:
+

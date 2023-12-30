@@ -1,0 +1,18 @@
+PACKAGE NAME:  pixiewps-1.4.2-x86_64-4cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./pixiewps
+PACKAGE SIZE (compressed):  52 K
+PACKAGE SIZE (uncompressed):  150 K
+PACKAGE DESCRIPTION:
+pixiewps: pixiewps (An offline WPS brute-force utility)
+pixiewps:
+pixiewps: Pixiewps is a tool written in C used to bruteforce offline the WPS
+pixiewps: pin exploiting the low or non-existing entropy of some Access Points,
+pixiewps: the so-called "pixie dust attack" discovered by Dominique Bongard in
+pixiewps: summer 2014. It is meant for educational purposes only.
+pixiewps:
+pixiewps:
+pixiewps:
+pixiewps:
+pixiewps:
+

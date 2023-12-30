@@ -1,0 +1,11 @@
+csscss: csscss (A CSS redundancy analyzer that analyzes redundancy)
+csscss:
+csscss: csscss will parse any CSS files you give it and let you know which
+csscss: rulesets have duplicated declarations.
+csscss:
+csscss:
+csscss:
+csscss:
+csscss:
+csscss:
+csscss:

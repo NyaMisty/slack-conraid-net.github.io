@@ -1,0 +1,18 @@
+PACKAGE NAME:  signond-8.60-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./signond
+PACKAGE SIZE (compressed):  968 K
+PACKAGE SIZE (uncompressed):  6220 K
+PACKAGE DESCRIPTION:
+signond: signond (SignOn Daemon (Qt))
+signond:
+signond: The SignOn daemon is a D-Bus service which performs user
+signond: authentication on behalf of its clients. There are currently
+signond: authentication plugins for OAuth 1.0 and 2.0, SASL, Digest-MD5,
+signond: and plain username/password combination
+signond:
+signond:
+signond:
+signond:
+signond:
+

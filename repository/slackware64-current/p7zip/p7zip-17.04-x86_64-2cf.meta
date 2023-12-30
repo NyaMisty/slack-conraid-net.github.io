@@ -1,0 +1,21 @@
+PACKAGE NAME:  p7zip-17.04-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./p7zip
+PACKAGE SIZE (compressed):  2328 K
+PACKAGE SIZE (uncompressed):  11750 K
+PACKAGE REQUIRED:  wxgtk
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+p7zip: p7zip (File Compression/Decompression Utility)
+p7zip:
+p7zip: 7-Zip is a well-known file compression utility for windows.
+p7zip: p7zip is a ported version for linux with nearly the same capabilities.
+p7zip:
+p7zip: Home: http://p7zip.sourceforge.net/
+p7zip:
+p7zip:
+p7zip:
+p7zip:
+p7zip:
+

@@ -1,0 +1,68 @@
+++========================================
+||
+||   Package:  ./libdbi-drivers/libdbi-drivers-0.9.0-x86_64-11cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-30 12:11 ./
+drwxr-xr-x root/root         0 2022-07-30 12:11 install/
+-rw-r--r-- root/root       867 2022-07-30 12:11 install/slack-desc
+-rw-r--r-- root/root         7 2022-07-30 12:11 install/slack-required
+drwxr-xr-x root/root         0 2022-07-30 12:11 usr/
+drwxr-xr-x root/root         0 2022-07-30 12:11 usr/doc/
+drwxr-xr-x root/root         0 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/
+-rw-r--r-- root/root      1453 2011-05-01 12:55 usr/doc/libdbi-drivers-0.9.0/AUTHORS
+-rwxr-xr-x root/root     26532 2007-12-07 01:30 usr/doc/libdbi-drivers-0.9.0/COPYING
+-rw-r--r-- root/root      8845 2013-03-12 01:28 usr/doc/libdbi-drivers-0.9.0/ChangeLog
+-rw-r--r-- root/root      8039 2010-09-26 21:55 usr/doc/libdbi-drivers-0.9.0/INSTALL
+-rw-r--r-- root/root      4955 2013-03-12 01:26 usr/doc/libdbi-drivers-0.9.0/NEWS
+-rw-r--r-- root/root      2777 2013-03-12 00:49 usr/doc/libdbi-drivers-0.9.0/README
+-rw-r--r-- root/root      1588 2004-01-10 20:52 usr/doc/libdbi-drivers-0.9.0/README.encodings
+-rw-r--r-- root/root       185 2003-04-12 19:10 usr/doc/libdbi-drivers-0.9.0/TODO
+drwxr-xr-x root/root         0 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_mysql/
+-rw-r--r-- root/root    161664 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_mysql.pdf
+-rw-r--r-- root/root      5756 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_mysql/c101.html
+-rw-r--r-- root/root      2266 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_mysql/c177.html
+-rw-r--r-- root/root      2269 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_mysql/c180.html
+-rw-r--r-- root/root      2187 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_mysql/c40.html
+-rw-r--r-- root/root      2187 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_mysql/c43.html
+-rw-r--r-- root/root      2163 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_mysql/c44.html
+-rw-r--r-- root/root      2163 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_mysql/c47.html
+-rw-r--r-- root/root      5755 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_mysql/c98.html
+-rw-r--r-- root/root     21631 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_mysql/copying-fdl.html
+-rw-r--r-- root/root      3028 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_mysql/f29.html
+-rw-r--r-- root/root      3028 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_mysql/f32.html
+-rw-r--r-- root/root      3580 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_mysql/index.html
+-rw-r--r-- root/root      2546 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_mysql/x180.html
+-rw-r--r-- root/root      3388 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_mysql/x183.html
+-rw-r--r-- root/root      2837 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_mysql/x47.html
+-rw-r--r-- root/root      2837 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_mysql/x50.html
+-rw-r--r-- root/root      5167 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_mysql/x61.html
+-rw-r--r-- root/root      5170 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_mysql/x64.html
+drwxr-xr-x root/root         0 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_sqlite3/
+-rw-r--r-- root/root    189850 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_sqlite3.pdf
+-rw-r--r-- root/root      2462 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_sqlite3/c134.html
+-rw-r--r-- root/root      3247 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_sqlite3/c34.html
+-rw-r--r-- root/root      2150 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_sqlite3/c47.html
+-rw-r--r-- root/root      4671 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_sqlite3/c98.html
+-rw-r--r-- root/root     21626 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_sqlite3/copying-fdl.html
+-rw-r--r-- root/root      3031 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_sqlite3/f23.html
+-rw-r--r-- root/root      3321 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_sqlite3/index.html
+-rw-r--r-- root/root      7645 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_sqlite3/x137.html
+-rw-r--r-- root/root      5594 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_sqlite3/x209.html
+-rw-r--r-- root/root      2785 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_sqlite3/x50.html
+-rw-r--r-- root/root      4763 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/dbd_sqlite3/x64.html
+-rw-r--r-- root/root      3437 2022-07-30 12:11 usr/doc/libdbi-drivers-0.9.0/libdbi-drivers.SlackBuild
+drwxr-xr-x root/root         0 2022-07-30 12:11 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-30 12:11 usr/lib64/dbd/
+-rwxr-xr-x root/root       975 2022-07-30 12:11 usr/lib64/dbd/libdbdmysql.la
+-rwxr-xr-x root/root     37816 2022-07-30 12:11 usr/lib64/dbd/libdbdmysql.so
+-rwxr-xr-x root/root       964 2022-07-30 12:11 usr/lib64/dbd/libdbdsqlite3.la
+-rwxr-xr-x root/root     46168 2022-07-30 12:11 usr/lib64/dbd/libdbdsqlite3.so
+drwxr-xr-x root/root         0 2022-07-30 12:11 var/
+drwxr-xr-x root/root         0 2022-07-30 12:11 var/lib/
+drwxr-xr-x root/root         0 2022-07-30 12:11 var/lib/libdbi/
+drwxrwxrwt root/root         0 2022-07-30 12:11 var/lib/libdbi/firebird/
+drwxrwxrwt root/root         0 2022-07-30 12:11 var/lib/libdbi/sqlite/
+drwxrwxrwt root/root         0 2022-07-30 12:11 var/lib/libdbi/sqlite3/
+
+

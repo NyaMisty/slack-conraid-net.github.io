@@ -1,0 +1,11 @@
+john: john (John The Ripper)
+john:
+john: John the Ripper is a fast password cracker, currently available for 
+john: many flavors of Unix. Its primary purpose is to detect weak Unix 
+john: passwords. It supports several crypt(3) password hash types which are
+john: most commonly found on various Unix flavors, as well as Kerberos AFS
+john: and Windows NT/2000/XP LM hashes. 
+john:
+john:
+john:
+john:

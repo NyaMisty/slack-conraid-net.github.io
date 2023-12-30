@@ -1,0 +1,49 @@
+++========================================
+||
+||   Package:  ./tomb/tomb-2.9-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-01-05 16:41 ./
+drwxr-xr-x root/root         0 2021-01-05 16:41 install/
+-rw-r--r-- root/root       706 2021-01-05 16:41 install/slack-desc
+drwxr-xr-x root/root         0 2021-01-05 16:41 usr/
+drwxr-xr-x root/root         0 2021-01-05 16:41 usr/bin/
+-rwxr-xr-x root/root    103676 2021-01-05 16:41 usr/bin/tomb
+-rwxr-xr-x root/root     19272 2021-01-05 16:41 usr/bin/tomb-kdb-hexencode
+-rwxr-xr-x root/root     19536 2021-01-05 16:41 usr/bin/tomb-kdb-pbkdf2
+-rwxr-xr-x root/root     19192 2021-01-05 16:41 usr/bin/tomb-kdb-pbkdf2-gensalt
+-rwxr-xr-x root/root     19200 2021-01-05 16:41 usr/bin/tomb-kdb-pbkdf2-getiter
+drwxr-xr-x root/root         0 2021-01-05 16:41 usr/doc/
+drwxr-xr-x root/root         0 2021-01-05 16:41 usr/doc/tomb-2.9/
+-rw-r--r-- root/root     35147 2021-01-04 22:00 usr/doc/tomb-2.9/COPYING
+-rw-r--r-- root/root    133200 2021-01-04 22:00 usr/doc/tomb-2.9/Luks_on_disk_format.pdf
+-rw-r--r-- root/root   1084466 2021-01-04 22:00 usr/doc/tomb-2.9/New_methods_in_HD_encryption.pdf
+-rw-r--r-- root/root    107157 2021-01-04 22:00 usr/doc/tomb-2.9/TKS1-draft.pdf
+-rw-r--r-- root/root   2604475 2021-01-04 22:00 usr/doc/tomb-2.9/bertini_thesis.pdf
+-rw-r--r-- root/root      3182 2021-01-05 16:41 usr/doc/tomb-2.9/tomb.SlackBuild
+-rw-r--r-- root/root     30887 2021-01-04 22:00 usr/doc/tomb-2.9/tomb_manpage.pdf
+drwxr-xr-x root/root         0 2021-01-05 16:41 usr/man/
+drwxr-xr-x root/root         0 2021-01-05 16:41 usr/man/man1/
+-rw-r--r-- root/root      8818 2021-01-05 16:41 usr/man/man1/tomb.1.gz
+drwxr-xr-x root/root         0 2021-01-05 16:41 usr/share/
+drwxr-xr-x root/root         0 2021-01-05 16:41 usr/share/locale/
+drwxr-xr-x root/root         0 2021-01-05 16:41 usr/share/locale/de_DE/
+drwxr-xr-x root/root         0 2021-01-05 16:41 usr/share/locale/de_DE/LC_MESSAGES/
+-rw-r--r-- root/root     36365 2021-01-05 16:41 usr/share/locale/de_DE/LC_MESSAGES/tomb.mo
+drwxr-xr-x root/root         0 2021-01-05 16:41 usr/share/locale/es_ES/
+drwxr-xr-x root/root         0 2021-01-05 16:41 usr/share/locale/es_ES/LC_MESSAGES/
+-rw-r--r-- root/root     34279 2021-01-05 16:41 usr/share/locale/es_ES/LC_MESSAGES/tomb.mo
+drwxr-xr-x root/root         0 2021-01-05 16:41 usr/share/locale/fr_FR/
+drwxr-xr-x root/root         0 2021-01-05 16:41 usr/share/locale/fr_FR/LC_MESSAGES/
+-rw-r--r-- root/root     27972 2021-01-05 16:41 usr/share/locale/fr_FR/LC_MESSAGES/tomb.mo
+drwxr-xr-x root/root         0 2021-01-05 16:41 usr/share/locale/it_IT/
+drwxr-xr-x root/root         0 2021-01-05 16:41 usr/share/locale/it_IT/LC_MESSAGES/
+-rw-r--r-- root/root     33305 2021-01-05 16:41 usr/share/locale/it_IT/LC_MESSAGES/tomb.mo
+drwxr-xr-x root/root         0 2021-01-05 16:41 usr/share/locale/ru_RU/
+drwxr-xr-x root/root         0 2021-01-05 16:41 usr/share/locale/ru_RU/LC_MESSAGES/
+-rw-r--r-- root/root     40833 2021-01-05 16:41 usr/share/locale/ru_RU/LC_MESSAGES/tomb.mo
+drwxr-xr-x root/root         0 2021-01-05 16:41 usr/share/locale/sv_SV/
+drwxr-xr-x root/root         0 2021-01-05 16:41 usr/share/locale/sv_SV/LC_MESSAGES/
+-rw-r--r-- root/root     32585 2021-01-05 16:41 usr/share/locale/sv_SV/LC_MESSAGES/tomb.mo
+
+

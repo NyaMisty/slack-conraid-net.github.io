@@ -1,0 +1,31 @@
+++========================================
+||
+||   Package:  ./icdiff/icdiff-2.0.6-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-12-25 09:38 ./
+drwxr-xr-x root/root         0 2022-12-25 09:38 install/
+-rw-r--r-- root/root       720 2022-12-25 09:38 install/slack-desc
+drwxr-xr-x root/root         0 2022-12-25 09:38 usr/
+drwxr-xr-x root/root         0 2022-12-25 09:38 usr/bin/
+-rwxr-xr-x root/root       466 2022-12-21 15:51 usr/bin/git-icdiff
+-rwxr-xr-x root/root       953 2022-12-25 09:38 usr/bin/icdiff
+drwxr-xr-x root/root         0 2022-12-25 09:38 usr/doc/
+drwxr-xr-x root/root         0 2022-12-25 09:38 usr/doc/icdiff-2.0.6/
+-rw-r--r-- root/root     12763 2022-12-21 15:51 usr/doc/icdiff-2.0.6/LICENSE
+-rw-r--r-- root/root      4877 2022-12-21 15:51 usr/doc/icdiff-2.0.6/README.md
+-rw-r--r-- root/root      3824 2022-12-25 09:38 usr/doc/icdiff-2.0.6/icdiff.SlackBuild
+drwxr-xr-x root/root         0 2022-12-25 09:38 usr/lib64/
+drwxr-xr-x root/root         0 2022-12-25 09:38 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-12-25 09:38 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-12-25 09:38 usr/lib64/python3.9/site-packages/__pycache__/
+-rw-r--r-- root/root     23156 2022-12-25 09:38 usr/lib64/python3.9/site-packages/__pycache__/icdiff.cpython-39.pyc
+drwxr-xr-x root/root         0 2022-12-25 09:38 usr/lib64/python3.9/site-packages/icdiff-2.0.6-py3.9.egg-info/
+-rw-r--r-- root/root      5131 2022-12-25 09:38 usr/lib64/python3.9/site-packages/icdiff-2.0.6-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       212 2022-12-25 09:38 usr/lib64/python3.9/site-packages/icdiff-2.0.6-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2022-12-25 09:38 usr/lib64/python3.9/site-packages/icdiff-2.0.6-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root        40 2022-12-25 09:38 usr/lib64/python3.9/site-packages/icdiff-2.0.6-py3.9.egg-info/entry_points.txt
+-rw-r--r-- root/root         7 2022-12-25 09:38 usr/lib64/python3.9/site-packages/icdiff-2.0.6-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root     31488 2022-12-21 15:51 usr/lib64/python3.9/site-packages/icdiff.py
+
+

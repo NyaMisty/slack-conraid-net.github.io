@@ -1,0 +1,72 @@
+++========================================
+||
+||   Package:  ./wput/wput-0.6.2-x86_64-6cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 13:21 ./
+drwxr-xr-x root/root         0 2020-10-05 13:21 install/
+-rw-r--r-- root/root        63 2020-10-05 13:21 install/doinst.sh
+-rw-r--r-- root/root       676 2020-10-05 13:21 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/bin/
+-rwxr-xr-x root/root     98904 2020-10-05 13:21 usr/bin/wput
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/doc/wput-0.6.2/
+-rw-r--r-- root/root     53848 2008-09-27 12:31 usr/doc/wput-0.6.2/ABOUT-NLS
+-rw-r--r-- root/root     17976 2008-09-27 12:31 usr/doc/wput-0.6.2/COPYING
+-rw-r--r-- root/root     15279 2008-09-27 12:31 usr/doc/wput-0.6.2/ChangeLog
+-rw-r--r-- root/root      1588 2008-09-27 12:31 usr/doc/wput-0.6.2/INSTALL
+-rw-r--r-- root/root       700 2008-09-27 12:31 usr/doc/wput-0.6.2/TODO
+-rw-r--r-- root/root      2373 2008-09-27 12:31 usr/doc/wput-0.6.2/USAGE.examples
+-rw-r--r-- root/root       594 2008-09-27 12:31 usr/doc/wput-0.6.2/USAGE.resumehandling
+-rw-r--r-- root/root      1416 2008-09-27 12:31 usr/doc/wput-0.6.2/USAGE.urlhandling
+-rw-r--r-- root/root       596 2008-09-27 12:31 usr/doc/wput-0.6.2/passwordfile
+-rw-r--r-- root/root      3314 2020-10-05 13:21 usr/doc/wput-0.6.2/wput.SlackBuild
+-rw-r--r-- root/root      6208 2008-09-27 12:31 usr/doc/wput-0.6.2/wputrc
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/man/man1/
+-rw-r--r-- root/root      1168 2020-10-05 13:21 usr/man/man1/wdel.1.gz
+-rw-r--r-- root/root      5378 2020-10-05 13:21 usr/man/man1/wput.1.gz
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/da/
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/da/LC_MESSAGES/
+-rw-r--r-- root/root     11161 2020-10-05 13:21 usr/share/locale/da/LC_MESSAGES/wput.mo
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/de/
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/de/LC_MESSAGES/
+-rw-r--r-- root/root     20780 2020-10-05 13:21 usr/share/locale/de/LC_MESSAGES/wput.mo
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/el/
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/el/LC_MESSAGES/
+-rw-r--r-- root/root     21607 2020-10-05 13:21 usr/share/locale/el/LC_MESSAGES/wput.mo
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/es/
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/es/LC_MESSAGES/
+-rw-r--r-- root/root     19141 2020-10-05 13:21 usr/share/locale/es/LC_MESSAGES/wput.mo
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/fi/
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/fi/LC_MESSAGES/
+-rw-r--r-- root/root      5626 2020-10-05 13:21 usr/share/locale/fi/LC_MESSAGES/wput.mo
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/fr/
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/fr/LC_MESSAGES/
+-rw-r--r-- root/root      4871 2020-10-05 13:21 usr/share/locale/fr/LC_MESSAGES/wput.mo
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/it/
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/it/LC_MESSAGES/
+-rw-r--r-- root/root     18598 2020-10-05 13:21 usr/share/locale/it/LC_MESSAGES/wput.mo
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/nl/
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/nl/LC_MESSAGES/
+-rw-r--r-- root/root     18563 2020-10-05 13:21 usr/share/locale/nl/LC_MESSAGES/wput.mo
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/pl/
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/pl/LC_MESSAGES/
+-rw-r--r-- root/root     11208 2020-10-05 13:21 usr/share/locale/pl/LC_MESSAGES/wput.mo
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/ru/
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/ru/LC_MESSAGES/
+-rw-r--r-- root/root     23282 2020-10-05 13:21 usr/share/locale/ru/LC_MESSAGES/wput.mo
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/sv/
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/sv/LC_MESSAGES/
+-rw-r--r-- root/root      4298 2020-10-05 13:21 usr/share/locale/sv/LC_MESSAGES/wput.mo
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/tr/
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/tr/LC_MESSAGES/
+-rw-r--r-- root/root     19403 2020-10-05 13:21 usr/share/locale/tr/LC_MESSAGES/wput.mo
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/zh/
+drwxr-xr-x root/root         0 2020-10-05 13:21 usr/share/locale/zh/LC_MESSAGES/
+-rw-r--r-- root/root     18724 2020-10-05 13:21 usr/share/locale/zh/LC_MESSAGES/wput.mo
+
+

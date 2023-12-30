@@ -1,0 +1,18 @@
+PACKAGE NAME:  tree-sitter-0.20.6-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./tree-sitter
+PACKAGE SIZE (compressed):  1732 K
+PACKAGE SIZE (uncompressed):  13690 K
+PACKAGE DESCRIPTION:
+tree-sitter: tree-sitter (incremental parsing system for programming tools)
+tree-sitter:
+tree-sitter: Tree-sitter is a parser generator tool and an incremental parsing
+tree-sitter: library. It can build a concrete syntax tree for a source file and
+tree-sitter: efficiently update the syntax tree as the source file is edited.
+tree-sitter:
+tree-sitter:
+tree-sitter:
+tree-sitter:
+tree-sitter:
+tree-sitter:
+

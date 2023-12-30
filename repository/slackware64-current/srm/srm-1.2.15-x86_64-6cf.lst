@@ -1,0 +1,27 @@
+++========================================
+||
+||   Package:  ./srm/srm-1.2.15-x86_64-6cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 12:47 ./
+drwxr-xr-x root/root         0 2020-10-05 12:47 install/
+-rw-r--r-- root/root       941 2020-10-05 12:47 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 12:47 usr/
+drwxr-xr-x root/root         0 2020-10-05 12:47 usr/bin/
+-rwxr-xr-x root/root     14336 2020-10-05 12:47 usr/bin/fill_test
+-rwxr-xr-x root/root     31560 2020-10-05 12:47 usr/bin/srm
+drwxr-xr-x root/root         0 2020-10-05 12:47 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 12:47 usr/doc/srm-1.2.15/
+-rw-r--r-- root/root       955 2015-02-26 17:12 usr/doc/srm-1.2.15/AUTHORS
+-rw-r--r-- root/root      1338 2015-02-26 17:12 usr/doc/srm-1.2.15/COPYING
+-rw-r--r-- root/root        48 2015-02-26 17:12 usr/doc/srm-1.2.15/ChangeLog
+-rw-r--r-- root/root       371 2015-02-26 17:12 usr/doc/srm-1.2.15/INSTALL
+-rw-r--r-- root/root      4552 2015-02-26 17:12 usr/doc/srm-1.2.15/NEWS
+-rw-r--r-- root/root      1456 2015-02-26 17:12 usr/doc/srm-1.2.15/README
+-rw-r--r-- root/root      1374 2015-02-26 17:12 usr/doc/srm-1.2.15/TODO
+-rw-r--r-- root/root      3343 2020-10-05 12:47 usr/doc/srm-1.2.15/srm.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 12:47 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 12:47 usr/man/man1/
+-rw-r--r-- root/root      1938 2020-10-05 12:47 usr/man/man1/srm.1.gz
+
+

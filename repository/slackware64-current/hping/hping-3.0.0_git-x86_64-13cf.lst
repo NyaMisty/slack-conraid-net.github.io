@@ -1,0 +1,29 @@
+++========================================
+||
+||   Package:  ./hping/hping-3.0.0_git-x86_64-13cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 14:44 ./
+drwxr-xr-x root/root         0 2020-10-05 14:44 install/
+-rw-r--r-- root/root       136 2020-10-05 14:44 install/doinst.sh
+-rw-r--r-- root/root       862 2020-10-05 14:44 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 14:44 usr/
+drwxr-xr-x root/root         0 2020-10-05 14:44 usr/bin/
+-rwxr-xr-x root/root    153696 2020-10-05 14:44 usr/bin/hping3
+drwxr-xr-x root/root         0 2020-10-05 14:44 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 14:44 usr/doc/hping-3.0.0_git/
+-rw-r--r-- root/root      4295 2014-12-26 15:31 usr/doc/hping-3.0.0_git/APD.txt
+-rw-r--r-- root/root     18230 2014-12-26 15:31 usr/doc/hping-3.0.0_git/API.txt
+-rw-r--r-- root/root      1169 2014-12-26 15:31 usr/doc/hping-3.0.0_git/AS-BACKDOOR
+-rw-r--r-- root/root     19771 2014-12-26 15:31 usr/doc/hping-3.0.0_git/HPING2-HOWTO.txt
+-rw-r--r-- root/root       705 2014-12-26 15:31 usr/doc/hping-3.0.0_git/HPING2-IS-OPEN
+-rw-r--r-- root/root        28 2014-12-26 15:31 usr/doc/hping-3.0.0_git/HPING3.txt
+-rw-r--r-- root/root      1364 2014-12-26 15:31 usr/doc/hping-3.0.0_git/MORE-FUN-WITH-IPID
+-rw-r--r-- root/root      4481 2014-12-26 15:31 usr/doc/hping-3.0.0_git/SPOOFED_SCAN.txt
+-rw-r--r-- root/root      3574 2020-10-05 14:44 usr/doc/hping-3.0.0_git/hping.SlackBuild
+-rw-r--r-- root/root       397 2014-12-26 15:31 usr/doc/hping-3.0.0_git/hping2rc.example
+drwxr-xr-x root/root         0 2020-10-05 14:44 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 14:44 usr/man/man8/
+-rw-r--r-- root/root      8086 2020-10-05 14:44 usr/man/man8/hping3.8.gz
+
+

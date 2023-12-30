@@ -1,0 +1,11 @@
+testssl_sh: testssl_sh (Testing TLS/SSL encryption anywhere on any port)
+testssl_sh:
+testssl_sh: testssl.sh is a free command line tool which checks a server's
+testssl_sh: service on any port for the support of TLS/SSL ciphers, protocols as
+testssl_sh: well as some cryptographic flaws.
+testssl_sh:
+testssl_sh:
+testssl_sh:
+testssl_sh:
+testssl_sh:
+testssl_sh:

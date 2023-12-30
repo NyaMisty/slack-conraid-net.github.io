@@ -1,0 +1,11 @@
+php-memcache: PHP Memcache (memcached extension)
+php-memcache:
+php-memcache: This extension allows you to work with memcached through
+php-memcache: handy OO and procedural interfaces.
+php-memcache:
+php-memcache:
+php-memcache:
+php-memcache:
+php-memcache:
+php-memcache:
+php-memcache:

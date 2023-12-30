@@ -1,0 +1,21 @@
+PACKAGE NAME:  httraqt-1.4.11-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./httraqt
+PACKAGE SIZE (compressed):  684 K
+PACKAGE SIZE (uncompressed):  2210 K
+PACKAGE REQUIRED:  httrack
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+httraqt: HTTraQt
+httraqt:
+httraqt: HTTraQt is the clone from WinHTTrack tool.
+httraqt: GUI is based on Qt4 libriaries.
+httraqt:
+httraqt:
+httraqt:
+httraqt:
+httraqt:
+httraqt:
+httraqt:
+

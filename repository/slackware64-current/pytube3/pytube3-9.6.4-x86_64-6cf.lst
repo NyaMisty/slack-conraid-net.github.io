@@ -1,0 +1,66 @@
+++========================================
+||
+||   Package:  ./pytube3/pytube3-9.6.4-x86_64-6cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-31 10:56 ./
+drwxr-xr-x root/root         0 2022-07-31 10:56 install/
+-rw-r--r-- root/root       754 2022-07-31 10:56 install/slack-desc
+-rw-r--r-- root/root        25 2022-07-31 10:56 install/slack-required
+drwxr-xr-x root/root         0 2022-07-31 10:56 usr/
+drwxr-xr-x root/root         0 2022-07-31 10:56 usr/bin/
+-rwxr-xr-x root/root       958 2022-07-31 10:56 usr/bin/pytube3
+drwxr-xr-x root/root         0 2022-07-31 10:56 usr/doc/
+drwxr-xr-x root/root         0 2022-07-31 10:56 usr/doc/pytube3-9.6.4/
+-rw-r--r-- root/root      1155 2020-01-15 05:58 usr/doc/pytube3-9.6.4/LICENSE
+-rw-r--r-- root/root     15016 2020-02-16 02:39 usr/doc/pytube3-9.6.4/README.md
+-rw-r--r-- root/root      3556 2022-07-31 10:56 usr/doc/pytube3-9.6.4/pytube3.SlackBuild
+drwxr-xr-x root/root         0 2022-07-31 10:56 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-31 10:56 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-07-31 10:56 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube/
+-rw-r--r-- root/root       538 2020-02-14 03:41 usr/lib64/python3.9/site-packages/pytube/__init__.py
+-rw-r--r-- root/root     11401 2020-02-14 03:04 usr/lib64/python3.9/site-packages/pytube/__main__.py
+drwxr-xr-x root/root         0 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube/__pycache__/
+-rw-r--r-- root/root       713 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      9352 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube/__pycache__/__main__.cpython-39.pyc
+-rw-r--r-- root/root      4765 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube/__pycache__/captions.cpython-39.pyc
+-rw-r--r-- root/root      9112 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube/__pycache__/cipher.cpython-39.pyc
+-rw-r--r-- root/root     12829 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube/__pycache__/cli.cpython-39.pyc
+-rw-r--r-- root/root      2464 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube/__pycache__/exceptions.cpython-39.pyc
+-rw-r--r-- root/root     10374 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube/__pycache__/extract.cpython-39.pyc
+-rw-r--r-- root/root      4895 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube/__pycache__/helpers.cpython-39.pyc
+-rw-r--r-- root/root      2474 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube/__pycache__/itags.cpython-39.pyc
+-rw-r--r-- root/root      2087 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube/__pycache__/monostate.cpython-39.pyc
+-rw-r--r-- root/root     14271 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube/__pycache__/query.cpython-39.pyc
+-rw-r--r-- root/root      3014 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube/__pycache__/request.cpython-39.pyc
+-rw-r--r-- root/root     10245 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube/__pycache__/streams.cpython-39.pyc
+-rw-r--r-- root/root       211 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube/__pycache__/version.cpython-39.pyc
+-rw-r--r-- root/root      4640 2020-02-11 22:12 usr/lib64/python3.9/site-packages/pytube/captions.py
+-rw-r--r-- root/root      9509 2020-02-14 03:41 usr/lib64/python3.9/site-packages/pytube/cipher.py
+-rw-r--r-- root/root     14988 2020-02-16 02:39 usr/lib64/python3.9/site-packages/pytube/cli.py
+drwxr-xr-x root/root         0 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube/contrib/
+-rw-r--r-- root/root         0 2020-01-15 05:58 usr/lib64/python3.9/site-packages/pytube/contrib/__init__.py
+drwxr-xr-x root/root         0 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube/contrib/__pycache__/
+-rw-r--r-- root/root       152 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube/contrib/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      8904 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube/contrib/__pycache__/playlist.cpython-39.pyc
+-rw-r--r-- root/root      8883 2020-02-12 23:31 usr/lib64/python3.9/site-packages/pytube/contrib/playlist.py
+-rw-r--r-- root/root      1581 2020-02-12 23:31 usr/lib64/python3.9/site-packages/pytube/exceptions.py
+-rw-r--r-- root/root     10399 2020-02-14 03:41 usr/lib64/python3.9/site-packages/pytube/extract.py
+-rw-r--r-- root/root      4659 2020-02-16 02:39 usr/lib64/python3.9/site-packages/pytube/helpers.py
+-rw-r--r-- root/root      3647 2020-02-09 00:10 usr/lib64/python3.9/site-packages/pytube/itags.py
+-rw-r--r-- root/root      1451 2020-02-16 02:39 usr/lib64/python3.9/site-packages/pytube/monostate.py
+-rw-r--r-- root/root     12373 2020-02-14 02:40 usr/lib64/python3.9/site-packages/pytube/query.py
+-rw-r--r-- root/root      2797 2020-02-16 20:31 usr/lib64/python3.9/site-packages/pytube/request.py
+-rw-r--r-- root/root     11781 2020-02-16 20:31 usr/lib64/python3.9/site-packages/pytube/streams.py
+-rw-r--r-- root/root        98 2020-02-16 20:31 usr/lib64/python3.9/site-packages/pytube/version.py
+drwxr-xr-x root/root         0 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube3-9.6.4-py3.9.egg-info/
+-rw-r--r-- root/root     16337 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube3-9.6.4-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       894 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube3-9.6.4-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube3-9.6.4-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root        44 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube3-9.6.4-py3.9.egg-info/entry_points.txt
+-rw-r--r-- root/root        18 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube3-9.6.4-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root         7 2022-07-31 10:56 usr/lib64/python3.9/site-packages/pytube3-9.6.4-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root         1 2020-02-16 20:38 usr/lib64/python3.9/site-packages/pytube3-9.6.4-py3.9.egg-info/zip-safe
+
+

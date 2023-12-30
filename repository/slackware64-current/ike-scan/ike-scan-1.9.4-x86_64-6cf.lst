@@ -1,0 +1,33 @@
+++========================================
+||
+||   Package:  ./ike-scan/ike-scan-1.9.4-x86_64-6cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 11:35 ./
+drwxr-xr-x root/root         0 2020-10-05 11:35 install/
+-rw-r--r-- root/root       822 2020-10-05 11:35 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 11:35 usr/
+drwxr-xr-x root/root         0 2020-10-05 11:35 usr/bin/
+-rwxr-xr-x root/root    115240 2020-10-05 11:35 usr/bin/ike-scan
+-rwxr-xr-x root/root     35136 2020-10-05 11:35 usr/bin/psk-crack
+drwxr-xr-x root/root         0 2020-10-05 11:35 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 11:35 usr/doc/ike-scan-1.9.4/
+-rw-r--r-- root/root        73 2013-08-16 19:15 usr/doc/ike-scan-1.9.4/AUTHORS
+-rw-r--r-- root/root     35147 2013-08-16 19:15 usr/doc/ike-scan-1.9.4/COPYING
+-rw-r--r-- root/root     62033 2013-08-16 19:15 usr/doc/ike-scan-1.9.4/ChangeLog
+-rw-r--r-- root/root     15756 2020-10-05 11:35 usr/doc/ike-scan-1.9.4/INSTALL
+-rw-r--r-- root/root     14536 2013-08-16 19:15 usr/doc/ike-scan-1.9.4/NEWS
+-rw-r--r-- root/root     46946 2013-08-16 19:15 usr/doc/ike-scan-1.9.4/README
+-rw-r--r-- root/root      3544 2013-08-16 19:15 usr/doc/ike-scan-1.9.4/TODO
+-rw-r--r-- root/root      3351 2020-10-05 11:35 usr/doc/ike-scan-1.9.4/ike-scan.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 11:35 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 11:35 usr/man/man1/
+-rw-r--r-- root/root      7282 2020-10-05 11:35 usr/man/man1/ike-scan.1.gz
+-rw-r--r-- root/root      1439 2020-10-05 11:35 usr/man/man1/psk-crack.1.gz
+drwxr-xr-x root/root         0 2020-10-05 11:35 usr/share/
+drwxr-xr-x root/root         0 2020-10-05 11:35 usr/share/ike-scan/
+-rw-r--r-- root/root     13638 2020-10-05 11:35 usr/share/ike-scan/ike-backoff-patterns
+-rw-r--r-- root/root     35714 2020-10-05 11:35 usr/share/ike-scan/ike-vendor-ids
+-rw-r--r-- root/root   4040964 2020-10-05 11:35 usr/share/ike-scan/psk-crack-dictionary
+
+

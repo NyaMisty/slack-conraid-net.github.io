@@ -1,0 +1,63 @@
+++========================================
+||
+||   Package:  ./osm-gps-map/osm-gps-map-1.2.0-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-04-29 12:09 ./
+drwxr-xr-x root/root         0 2022-04-29 12:09 install/
+-rw-r--r-- root/root       240 2022-04-29 12:09 install/doinst.sh
+-rw-r--r-- root/root      1010 2022-04-29 12:09 install/slack-desc
+drwxr-xr-x root/root         0 2022-04-29 12:09 usr/
+drwxr-xr-x root/root         0 2022-04-29 12:09 usr/doc/
+drwxr-xr-x root/root         0 2022-04-29 12:09 usr/doc/osm-gps-map-1.2.0/
+-rw-r--r-- root/root       135 2021-02-07 15:15 usr/doc/osm-gps-map-1.2.0/AUTHORS
+-rw-r--r-- root/root     15171 2021-02-07 15:15 usr/doc/osm-gps-map-1.2.0/COPYING
+-rw-r--r-- root/root        61 2022-04-29 12:09 usr/doc/osm-gps-map-1.2.0/ChangeLog
+-rw-r--r-- root/root      6956 2021-02-07 15:15 usr/doc/osm-gps-map-1.2.0/NEWS
+-rw-r--r-- root/root       346 2021-02-07 15:15 usr/doc/osm-gps-map-1.2.0/README
+-rw-r--r-- root/root      4232 2022-04-29 12:09 usr/doc/osm-gps-map-1.2.0/osm-gps-map.SlackBuild
+drwxr-xr-x root/root         0 2022-04-29 12:09 usr/include/
+drwxr-xr-x root/root         0 2022-04-29 12:09 usr/include/osmgpsmap-1.0/
+-rw-r--r-- root/root       979 2022-04-29 12:09 usr/include/osmgpsmap-1.0/osm-gps-map-compat.h
+-rw-r--r-- root/root      3507 2022-04-29 12:09 usr/include/osmgpsmap-1.0/osm-gps-map-image.h
+-rw-r--r-- root/root      3536 2022-04-29 12:09 usr/include/osmgpsmap-1.0/osm-gps-map-layer.h
+-rw-r--r-- root/root      2032 2022-04-29 12:09 usr/include/osmgpsmap-1.0/osm-gps-map-osd.h
+-rw-r--r-- root/root      2385 2022-04-29 12:09 usr/include/osmgpsmap-1.0/osm-gps-map-point.h
+-rw-r--r-- root/root      2331 2022-04-29 12:09 usr/include/osmgpsmap-1.0/osm-gps-map-polygon.h
+-rw-r--r-- root/root      3549 2022-04-29 12:09 usr/include/osmgpsmap-1.0/osm-gps-map-source.h
+-rw-r--r-- root/root      4847 2022-04-29 12:09 usr/include/osmgpsmap-1.0/osm-gps-map-track.h
+-rw-r--r-- root/root      6531 2022-04-29 12:09 usr/include/osmgpsmap-1.0/osm-gps-map-widget.h
+-rw-r--r-- root/root      1150 2022-04-29 12:09 usr/include/osmgpsmap-1.0/osm-gps-map.h
+drwxr-xr-x root/root         0 2022-04-29 12:09 usr/lib64/
+drwxr-xr-x root/root         0 2022-04-29 12:09 usr/lib64/girepository-1.0/
+-rw-r--r-- root/root     14660 2022-04-29 12:09 usr/lib64/girepository-1.0/OsmGpsMap-1.0.typelib
+-rwxr-xr-x root/root    133552 2022-04-29 12:09 usr/lib64/libosmgpsmap-1.0.so.1.1.0
+drwxr-xr-x root/root         0 2022-04-29 12:09 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       275 2022-04-29 12:09 usr/lib64/pkgconfig/osmgpsmap-1.0.pc
+drwxr-xr-x root/root         0 2022-04-29 12:09 usr/share/
+drwxr-xr-x root/root         0 2022-04-29 12:09 usr/share/gir-1.0/
+-rw-r--r-- root/root    148631 2022-04-29 12:09 usr/share/gir-1.0/OsmGpsMap-1.0.gir
+drwxr-xr-x root/root         0 2022-04-29 12:09 usr/share/gtk-doc/
+drwxr-xr-x root/root         0 2022-04-29 12:09 usr/share/gtk-doc/html/
+drwxr-xr-x root/root         0 2022-04-29 12:09 usr/share/gtk-doc/html/libosmgpsmap/
+-rw-r--r-- root/root    116449 2022-04-29 12:09 usr/share/gtk-doc/html/libosmgpsmap/OsmGpsMap.html
+-rw-r--r-- root/root     15965 2022-04-29 12:09 usr/share/gtk-doc/html/libosmgpsmap/OsmGpsMapImage.html
+-rw-r--r-- root/root     24646 2022-04-29 12:09 usr/share/gtk-doc/html/libosmgpsmap/OsmGpsMapLayer.html
+-rw-r--r-- root/root     30957 2022-04-29 12:09 usr/share/gtk-doc/html/libosmgpsmap/OsmGpsMapPoint.html
+-rw-r--r-- root/root     34107 2022-04-29 12:09 usr/share/gtk-doc/html/libosmgpsmap/OsmGpsMapTrack.html
+-rw-r--r-- root/root     28016 2022-04-29 12:09 usr/share/gtk-doc/html/libosmgpsmap/annotation-glossary.html
+-rw-r--r-- root/root      1676 2022-04-29 12:09 usr/share/gtk-doc/html/libosmgpsmap/api-index-deprecated.html
+-rw-r--r-- root/root     36975 2022-04-29 12:09 usr/share/gtk-doc/html/libosmgpsmap/api-index-full.html
+-rw-r--r-- root/root      2434 2022-04-29 12:09 usr/share/gtk-doc/html/libosmgpsmap/api-reference.html
+-rw-r--r-- root/root       256 2022-04-29 12:09 usr/share/gtk-doc/html/libosmgpsmap/home.png
+-rw-r--r-- root/root      2200 2022-04-29 12:09 usr/share/gtk-doc/html/libosmgpsmap/index.html
+-rw-r--r-- root/root       395 2022-04-29 12:09 usr/share/gtk-doc/html/libosmgpsmap/left-insensitive.png
+-rw-r--r-- root/root       262 2022-04-29 12:09 usr/share/gtk-doc/html/libosmgpsmap/left.png
+-rw-r--r-- root/root     20697 2022-04-29 12:09 usr/share/gtk-doc/html/libosmgpsmap/libosmgpsmap.devhelp2
+-rw-r--r-- root/root       373 2022-04-29 12:09 usr/share/gtk-doc/html/libosmgpsmap/right-insensitive.png
+-rw-r--r-- root/root       261 2022-04-29 12:09 usr/share/gtk-doc/html/libosmgpsmap/right.png
+-rw-r--r-- root/root     12049 2022-04-29 12:09 usr/share/gtk-doc/html/libosmgpsmap/style.css
+-rw-r--r-- root/root       374 2022-04-29 12:09 usr/share/gtk-doc/html/libosmgpsmap/up-insensitive.png
+-rw-r--r-- root/root       260 2022-04-29 12:09 usr/share/gtk-doc/html/libosmgpsmap/up.png
+
+

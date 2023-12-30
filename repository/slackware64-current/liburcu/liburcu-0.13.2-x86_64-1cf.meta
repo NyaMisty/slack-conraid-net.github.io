@@ -1,0 +1,21 @@
+PACKAGE NAME:  liburcu-0.13.2-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./liburcu
+PACKAGE SIZE (compressed):  124 K
+PACKAGE SIZE (uncompressed):  1020 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+liburcu: liburcu (RCU Library)
+liburcu:
+liburcu: liburcu is a LGPLv2.1 userspace RCU (read-copy-update) library.
+liburcu: This data synchronization library provides read-side access which
+liburcu: scales linearly with the number of cores.
+liburcu:
+liburcu:
+liburcu:
+liburcu:
+liburcu:
+liburcu:
+

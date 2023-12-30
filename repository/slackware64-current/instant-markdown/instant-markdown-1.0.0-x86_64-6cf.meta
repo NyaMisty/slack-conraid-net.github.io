@@ -1,0 +1,18 @@
+PACKAGE NAME:  instant-markdown-1.0.0-x86_64-6cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./instant-markdown
+PACKAGE SIZE (compressed):  724 K
+PACKAGE SIZE (uncompressed):  5510 K
+PACKAGE DESCRIPTION:
+instant-markdown: instant-markdown (Instant Markdown previews from VIm)
+instant-markdown:
+instant-markdown: instant-markdown is a small Node.js server that enables instant
+instant-markdown: compilation and previewing of Markup files. A plugin can easily be
+instant-markdown: written for any text editor to interface with it. 
+instant-markdown:
+instant-markdown:
+instant-markdown:
+instant-markdown:
+instant-markdown:
+instant-markdown:
+

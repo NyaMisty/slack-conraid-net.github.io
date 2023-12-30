@@ -1,0 +1,11 @@
+gstreamermm: gstreamermm (GStreamer bindings for C++)
+gstreamermm:
+gstreamermm: The GStreamer API C++ bindings are actively developed and based on
+gstreamermm: gtkmm, using the same lifecycle mechanism.
+gstreamermm:
+gstreamermm:
+gstreamermm:
+gstreamermm:
+gstreamermm:
+gstreamermm:
+gstreamermm:

@@ -1,0 +1,38 @@
+++========================================
+||
+||   Package:  ./docker/docker-19.03.14-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-12-02 09:53 ./
+drwxr-xr-x root/root         0 2020-12-02 09:53 etc/
+drwxr-xr-x root/root         0 2020-12-02 09:53 etc/bash_completion.d/
+-rw-r--r-- root/root    116579 2020-12-02 09:53 etc/bash_completion.d/docker
+drwxr-xr-x root/root         0 2020-12-02 09:53 etc/default/
+-rw-r--r-- root/root       102 2020-12-02 09:53 etc/default/docker.new
+drwxr-xr-x root/root         0 2020-12-02 09:53 etc/logrotate.d/
+-rw-r--r-- root/root       124 2020-12-02 09:53 etc/logrotate.d/docker.new
+drwxr-xr-x root/root         0 2020-12-02 09:53 etc/rc.d/
+-rw-r--r-- root/root      1746 2020-12-02 09:53 etc/rc.d/rc.docker.new
+drwxr-xr-x root/root         0 2020-12-02 09:53 install/
+-rw-r--r-- root/root      1586 2020-12-02 09:53 install/doinst.sh
+-rw-r--r-- root/root       916 2020-12-02 09:53 install/slack-desc
+drwxr-xr-x root/root         0 2020-12-02 09:53 lib/
+drwxr-xr-x root/root         0 2020-12-02 09:53 lib/udev/
+drwxr-xr-x root/root         0 2020-12-02 09:53 lib/udev/rules.d/
+-rw-r--r-- root/root       343 2020-12-02 09:53 lib/udev/rules.d/80-docker.rules
+drwxr-xr-x root/root         0 2020-12-02 09:53 usr/
+drwxr-xr-x root/root         0 2020-12-02 09:53 usr/bin/
+-rwxr-xr-x root/root  64015208 2020-12-02 09:53 usr/bin/docker
+-rwxr-xr-x root/root  76309832 2020-12-02 09:53 usr/bin/dockerd
+drwxr-xr-x root/root         0 2020-12-02 09:53 usr/doc/
+drwxr-xr-x root/root         0 2020-12-02 09:53 usr/doc/docker-19.03.14/
+-rw-r--r-- root/root     28342 2020-12-01 20:10 usr/doc/docker-19.03.14/CHANGELOG.md
+-rw-r--r-- root/root      5290 2020-12-01 20:10 usr/doc/docker-19.03.14/CONTRIBUTING.md
+-rw-r--r-- root/root      3589 2020-12-01 20:10 usr/doc/docker-19.03.14/README.md
+-rw-r--r-- root/root      5143 2020-12-02 09:53 usr/doc/docker-19.03.14/docker.SlackBuild
+drwxr-xr-x root/root         0 2020-12-02 09:53 usr/share/
+drwxr-xr-x root/root         0 2020-12-02 09:53 usr/share/zsh/
+drwxr-xr-x root/root         0 2020-12-02 09:53 usr/share/zsh/site-functions/
+-rw-r--r-- root/root    126012 2020-12-02 09:53 usr/share/zsh/site-functions/_docker
+
+

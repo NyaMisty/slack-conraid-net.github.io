@@ -1,0 +1,38 @@
+++========================================
+||
+||   Package:  ./libcacard/libcacard-2.8.0-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-11-22 13:25 ./
+drwxr-xr-x root/root         0 2020-11-22 13:25 install/
+-rw-r--r-- root/root       194 2020-11-22 13:25 install/doinst.sh
+-rw-r--r-- root/root       908 2020-11-22 13:25 install/slack-desc
+drwxr-xr-x root/root         0 2020-11-22 13:25 usr/
+drwxr-xr-x root/root         0 2020-11-22 13:25 usr/doc/
+drwxr-xr-x root/root         0 2020-11-22 13:25 usr/doc/libcacard-2.8.0/
+-rw-r--r-- root/root     26426 2020-10-05 22:42 usr/doc/libcacard-2.8.0/COPYING
+-rw-r--r-- root/root    217382 2020-10-05 22:42 usr/doc/libcacard-2.8.0/ChangeLog
+-rw-r--r-- root/root      2452 2020-10-05 22:42 usr/doc/libcacard-2.8.0/NEWS
+-rw-r--r-- root/root      6245 2020-10-05 22:42 usr/doc/libcacard-2.8.0/README.md
+-rw-r--r-- root/root      3978 2020-11-22 13:25 usr/doc/libcacard-2.8.0/libcacard.SlackBuild
+drwxr-xr-x root/root         0 2020-11-22 13:25 usr/include/
+drwxr-xr-x root/root         0 2020-11-22 13:25 usr/include/cacard/
+-rw-r--r-- root/root      3063 2020-10-05 22:42 usr/include/cacard/cac.h
+-rw-r--r-- root/root      2147 2020-10-05 22:42 usr/include/cacard/card_7816.h
+-rw-r--r-- root/root      7073 2020-10-05 22:42 usr/include/cacard/card_7816t.h
+-rw-r--r-- root/root       515 2020-10-05 22:42 usr/include/cacard/eventt.h
+-rw-r--r-- root/root       533 2020-10-05 22:42 usr/include/cacard/libcacard.h
+-rw-r--r-- root/root      3425 2020-10-05 22:42 usr/include/cacard/vcard.h
+-rw-r--r-- root/root      2449 2020-10-05 22:42 usr/include/cacard/vcard_emul.h
+-rw-r--r-- root/root      1000 2020-10-05 22:42 usr/include/cacard/vcard_emul_type.h
+-rw-r--r-- root/root      1563 2020-10-05 22:42 usr/include/cacard/vcardt.h
+-rw-r--r-- root/root       559 2020-10-05 22:42 usr/include/cacard/vevent.h
+-rw-r--r-- root/root      1895 2020-10-05 22:42 usr/include/cacard/vreader.h
+-rw-r--r-- root/root       560 2020-10-05 22:42 usr/include/cacard/vreadert.h
+-rw-r--r-- root/root      5121 2020-10-05 22:42 usr/include/cacard/vscard_common.h
+drwxr-xr-x root/root         0 2020-11-22 13:25 usr/lib64/
+-rwxr-xr-x root/root     87632 2020-11-22 13:25 usr/lib64/libcacard.so.0.0.0
+drwxr-xr-x root/root         0 2020-11-22 13:25 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       271 2020-11-22 13:24 usr/lib64/pkgconfig/libcacard.pc
+
+

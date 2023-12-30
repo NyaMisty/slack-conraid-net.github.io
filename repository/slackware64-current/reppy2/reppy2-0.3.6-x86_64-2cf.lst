@@ -1,0 +1,36 @@
+++========================================
+||
+||   Package:  ./reppy2/reppy2-0.3.6-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-11-05 12:17 ./
+drwxr-xr-x root/root         0 2021-11-05 12:17 install/
+-rw-r--r-- root/root       783 2021-11-05 12:17 install/slack-desc
+drwxr-xr-x root/root         0 2021-11-05 12:17 usr/
+drwxr-xr-x root/root         0 2021-11-05 12:17 usr/doc/
+drwxr-xr-x root/root         0 2021-11-05 12:17 usr/doc/reppy2-0.3.6/
+-rw-r--r-- root/root      1049 2021-10-05 01:23 usr/doc/reppy2-0.3.6/LICENSE
+-rw-r--r-- root/root      5153 2021-10-05 01:23 usr/doc/reppy2-0.3.6/README.md
+-rw-r--r-- root/root      3373 2021-11-05 12:17 usr/doc/reppy2-0.3.6/reppy2.SlackBuild
+drwxr-xr-x root/root         0 2021-11-05 12:17 usr/lib64/
+drwxr-xr-x root/root         0 2021-11-05 12:17 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2021-11-05 12:17 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2021-11-05 12:17 usr/lib64/python3.9/site-packages/reppy/
+-rw-r--r-- root/root      5647 2021-10-05 01:23 usr/lib64/python3.9/site-packages/reppy/__init__.py
+drwxr-xr-x root/root         0 2021-11-05 12:17 usr/lib64/python3.9/site-packages/reppy/__pycache__/
+-rw-r--r-- root/root      3144 2021-11-05 12:17 usr/lib64/python3.9/site-packages/reppy/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      5236 2021-11-05 12:17 usr/lib64/python3.9/site-packages/reppy/__pycache__/cache.cpython-39.pyc
+-rw-r--r-- root/root      1674 2021-11-05 12:17 usr/lib64/python3.9/site-packages/reppy/__pycache__/exceptions.cpython-39.pyc
+-rw-r--r-- root/root      6566 2021-11-05 12:17 usr/lib64/python3.9/site-packages/reppy/__pycache__/parser.cpython-39.pyc
+-rw-r--r-- root/root      5948 2021-10-05 01:23 usr/lib64/python3.9/site-packages/reppy/cache.py
+-rw-r--r-- root/root      1980 2021-10-05 01:23 usr/lib64/python3.9/site-packages/reppy/exceptions.py
+-rw-r--r-- root/root     10329 2021-10-05 01:23 usr/lib64/python3.9/site-packages/reppy/parser.py
+drwxr-xr-x root/root         0 2021-11-05 12:17 usr/lib64/python3.9/site-packages/reppy2-0.3.6-py3.9.egg-info/
+-rw-r--r-- root/root       990 2021-11-05 12:17 usr/lib64/python3.9/site-packages/reppy2-0.3.6-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root      1997 2021-11-05 12:17 usr/lib64/python3.9/site-packages/reppy2-0.3.6-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2021-11-05 12:17 usr/lib64/python3.9/site-packages/reppy2-0.3.6-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root         1 2021-10-04 23:55 usr/lib64/python3.9/site-packages/reppy2-0.3.6-py3.9.egg-info/not-zip-safe
+-rw-r--r-- root/root       125 2021-11-05 12:17 usr/lib64/python3.9/site-packages/reppy2-0.3.6-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root         6 2021-11-05 12:17 usr/lib64/python3.9/site-packages/reppy2-0.3.6-py3.9.egg-info/top_level.txt
+
+

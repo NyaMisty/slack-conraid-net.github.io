@@ -1,0 +1,18 @@
+PACKAGE NAME:  termbox-1.1.2-x86_64-7cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./termbox
+PACKAGE SIZE (compressed):  52 K
+PACKAGE SIZE (uncompressed):  190 K
+PACKAGE DESCRIPTION:
+termbox: termbox (ncurses alternative)
+termbox:
+termbox: Termbox is a library that provides minimalistic API which allows the
+termbox: programmer to write text-based user interfaces.
+termbox:
+termbox:
+termbox:
+termbox:
+termbox:
+termbox:
+termbox:
+

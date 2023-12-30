@@ -1,0 +1,11 @@
+safecopy: safecopy
+safecopy:
+safecopy: safecopy is a data recovery tool which tries to extract as much data
+safecopy: as possible from a problematic (i.e. damaged sectors) source - like
+safecopy: floppy drives, harddisk partitions, CDs, tape devices, ..., where
+safecopy: other tools like dd would fail doe to I/O errors.
+safecopy:
+safecopy:
+safecopy:
+safecopy:
+safecopy:

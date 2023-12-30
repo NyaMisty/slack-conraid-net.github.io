@@ -1,0 +1,18 @@
+PACKAGE NAME:  timidity-2.15.0-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./timidity
+PACKAGE SIZE (compressed):  648 K
+PACKAGE SIZE (uncompressed):  2050 K
+PACKAGE DESCRIPTION:
+timidity: TiMidity++ (a software midi synthesizer)
+timidity:
+timidity: TiMidity++ is a software synthesizer.  It can play MIDI files by
+timidity: converting them into PCM waveform data or other various audio
+timidity: file formats.
+timidity:
+timidity:
+timidity:
+timidity:
+timidity:
+timidity:
+

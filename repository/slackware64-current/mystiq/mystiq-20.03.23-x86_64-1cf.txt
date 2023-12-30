@@ -1,0 +1,11 @@
+mystiq: mystiq (FFmpeg GUI front-end based on Qt5)
+mystiq:
+mystiq: MystiQ is a GUI for FFmpeg, a powerful media converter. FFmpeg can
+mystiq: read audio and video files in various formats and convert them into
+mystiq: other formats. MystiQ features an intuitive graphical interface and
+mystiq: a rich set of presets to help you convert media files within a few
+mystiq: clicks. Advanced users can also adjust conversion parameters in
+mystiq: detail.
+mystiq:
+mystiq:
+mystiq:

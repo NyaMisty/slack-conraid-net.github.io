@@ -1,0 +1,30 @@
+++========================================
+||
+||   Package:  ./libfdk-aac/libfdk-aac-2.0.2-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-04-29 10:52 ./
+drwxr-xr-x root/root         0 2021-04-29 10:52 install/
+-rw-r--r-- root/root       204 2021-04-29 10:52 install/doinst.sh
+-rw-r--r-- root/root       754 2021-04-29 10:52 install/slack-desc
+drwxr-xr-x root/root         0 2021-04-29 10:52 usr/
+drwxr-xr-x root/root         0 2021-04-29 10:52 usr/doc/
+drwxr-xr-x root/root         0 2021-04-29 10:52 usr/doc/libfdk-aac-2.0.2/
+-rw-r--r-- root/root      1910 2021-04-28 14:34 usr/doc/libfdk-aac-2.0.2/ChangeLog
+-rw-r--r-- root/root      4447 2021-04-28 14:34 usr/doc/libfdk-aac-2.0.2/NOTICE
+-rw-r--r-- root/root        39 2021-04-28 14:34 usr/doc/libfdk-aac-2.0.2/OWNERS
+-rw-r--r-- root/root      3704 2021-04-29 10:52 usr/doc/libfdk-aac-2.0.2/libfdk-aac.SlackBuild
+drwxr-xr-x root/root         0 2021-04-29 10:52 usr/include/
+drwxr-xr-x root/root         0 2021-04-29 10:52 usr/include/fdk-aac/
+-rw-r--r-- root/root     33885 2021-04-29 10:52 usr/include/fdk-aac/FDK_audio.h
+-rw-r--r-- root/root     55056 2021-04-29 10:52 usr/include/fdk-aac/aacdecoder_lib.h
+-rw-r--r-- root/root     87968 2021-04-29 10:52 usr/include/fdk-aac/aacenc_lib.h
+-rw-r--r-- root/root     25420 2021-04-29 10:52 usr/include/fdk-aac/genericStds.h
+-rw-r--r-- root/root     14123 2021-04-29 10:52 usr/include/fdk-aac/machine_type.h
+-rw-r--r-- root/root      8413 2021-04-29 10:52 usr/include/fdk-aac/syslib_channelMapDescr.h
+drwxr-xr-x root/root         0 2021-04-29 10:52 usr/lib64/
+-rwxr-xr-x root/root   1313600 2021-04-29 10:52 usr/lib64/libfdk-aac.so.2.0.2
+drwxr-xr-x root/root         0 2021-04-29 10:52 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       239 2021-04-29 10:52 usr/lib64/pkgconfig/fdk-aac.pc
+
+

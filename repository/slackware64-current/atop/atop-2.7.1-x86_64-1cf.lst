@@ -1,0 +1,53 @@
+++========================================
+||
+||   Package:  ./atop/atop-2.7.1-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-01-11 14:58 ./
+drwxr-xr-x root/root         0 2022-01-11 14:58 etc/
+drwxr-xr-x root/root         0 2022-01-11 14:58 etc/cron.daily/
+-rwx--x--x root/root      1447 2022-01-11 14:58 etc/cron.daily/atop.new
+drwxr-xr-x root/root         0 2022-01-11 14:58 etc/default/
+-rw-r--r-- root/root         0 2022-01-11 14:58 etc/default/atop.new
+drwxr-xr-x root/root         0 2022-01-11 14:58 etc/logrotate.d/
+-rw-r--r-- root/root       197 2022-01-11 14:58 etc/logrotate.d/psacct.new
+drwxr-xr-x root/root         0 2022-01-11 14:58 etc/rc.d/
+-rwxr-xr-x root/root      1350 2022-01-11 14:58 etc/rc.d/rc.atop.new
+-rwxr-xr-x root/root      1741 2022-01-11 14:58 etc/rc.d/rc.atopacct.new
+drwxr-xr-x root/root         0 2022-01-11 14:58 install/
+-rw-r--r-- root/root       913 2022-01-11 14:58 install/doinst.sh
+-rw-r--r-- root/root       809 2022-01-11 14:58 install/slack-desc
+drwxr-xr-x root/root         0 2022-01-11 14:58 usr/
+drwxr-xr-x root/root         0 2022-01-11 14:58 usr/bin/
+-rwx--x--x root/root    279208 2022-01-11 14:58 usr/bin/atop
+-rwx--x--x root/root     14496 2022-01-11 14:58 usr/bin/atopcat
+-rwx--x--x root/root     22600 2022-01-11 14:58 usr/bin/atopconvert
+drwxr-xr-x root/root         0 2022-01-11 14:58 usr/doc/
+drwxr-xr-x root/root         0 2022-01-11 14:58 usr/doc/atop-2.7.1/
+-rw-r--r-- root/root        48 2022-01-08 12:49 usr/doc/atop-2.7.1/AUTHOR
+-rw-r--r-- root/root     18009 2022-01-08 12:49 usr/doc/atop-2.7.1/COPYING
+-rw-r--r-- root/root     37789 2022-01-08 12:49 usr/doc/atop-2.7.1/ChangeLog
+-rw-r--r-- root/root      4379 2022-01-08 12:49 usr/doc/atop-2.7.1/README
+-rw-r--r-- root/root       447 2022-01-11 14:58 usr/doc/atop-2.7.1/README.SLACKWARE
+-rw-r--r-- root/root      4408 2022-01-11 14:58 usr/doc/atop-2.7.1/atop.SlackBuild
+drwxr-xr-x root/root         0 2022-01-11 14:58 usr/man/
+drwxr-xr-x root/root         0 2022-01-11 14:58 usr/man/man1/
+-rw-r--r-- root/root     23231 2022-01-11 14:58 usr/man/man1/atop.1.gz
+-rw-r--r-- root/root      1016 2022-01-11 14:58 usr/man/man1/atopcat.1.gz
+-rw-r--r-- root/root       673 2022-01-11 14:58 usr/man/man1/atopconvert.1.gz
+-rw-r--r-- root/root      7769 2022-01-11 14:58 usr/man/man1/atopsar.1.gz
+drwxr-xr-x root/root         0 2022-01-11 14:58 usr/man/man5/
+-rw-r--r-- root/root      3589 2022-01-11 14:58 usr/man/man5/atoprc.5.gz
+drwxr-xr-x root/root         0 2022-01-11 14:58 usr/man/man8/
+-rw-r--r-- root/root      1635 2022-01-11 14:58 usr/man/man8/atopacctd.8.gz
+-rw-r--r-- root/root      1815 2022-01-11 14:58 usr/man/man8/atopgpud.8.gz
+drwxr-xr-x root/root         0 2022-01-11 14:58 usr/sbin/
+-rwx------ root/root     23128 2022-01-11 14:58 usr/sbin/atopacctd
+-rwx------ root/root     19360 2022-01-11 14:58 usr/sbin/atopgpud
+drwxr-xr-x root/root         0 2022-01-11 14:58 var/
+drwxr-xr-x root/root         0 2022-01-11 14:58 var/log/
+drwxr-xr-x root/root         0 2022-01-11 14:58 var/log/atop/
+-rw-r--r-- root/root         0 2022-01-11 14:58 var/log/atop/dummy_after
+-rw-r--r-- root/root         0 2022-01-11 14:58 var/log/atop/dummy_before
+
+

@@ -1,0 +1,26 @@
+++========================================
+||
+||   Package:  ./whowatch/whowatch-1.8.6-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-11-25 15:31 ./
+drwxr-xr-x root/root         0 2020-11-25 15:31 install/
+-rw-r--r-- root/root      1041 2020-11-25 15:31 install/slack-desc
+drwxr-xr-x root/root         0 2020-11-25 15:31 usr/
+drwxr-xr-x root/root         0 2020-11-25 15:31 usr/bin/
+-rwxr-xr-x root/root     56856 2020-11-25 15:31 usr/bin/whowatch
+drwxr-xr-x root/root         0 2020-11-25 15:31 usr/doc/
+drwxr-xr-x root/root         0 2020-11-25 15:31 usr/doc/whowatch-1.8.6/
+-rw-r--r-- root/root       190 2018-04-11 08:10 usr/doc/whowatch-1.8.6/AUTHORS
+-rw-r--r-- root/root     18092 2018-04-11 08:10 usr/doc/whowatch-1.8.6/COPYING
+-rw-r--r-- root/root     20610 2018-04-11 08:20 usr/doc/whowatch-1.8.6/ChangeLog
+-rw-r--r-- root/root      1080 2018-04-11 08:17 usr/doc/whowatch-1.8.6/NEWS
+-rw-r--r-- root/root      8461 2018-04-11 08:10 usr/doc/whowatch-1.8.6/PLUGINS.readme
+-rw-r--r-- root/root       787 2018-04-11 08:10 usr/doc/whowatch-1.8.6/README
+-rw-r--r-- root/root      1163 2018-04-11 08:10 usr/doc/whowatch-1.8.6/TODO
+-rw-r--r-- root/root      3592 2020-11-25 15:31 usr/doc/whowatch-1.8.6/whowatch.SlackBuild
+drwxr-xr-x root/root         0 2020-11-25 15:31 usr/man/
+drwxr-xr-x root/root         0 2020-11-25 15:31 usr/man/man1/
+-rw-r--r-- root/root      1434 2020-11-25 15:31 usr/man/man1/whowatch.1.gz
+
+

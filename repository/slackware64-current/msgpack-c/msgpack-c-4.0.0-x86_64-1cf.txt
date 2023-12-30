@@ -1,0 +1,11 @@
+msgpack-c: msgpack-c (msgpack for C/C++)
+msgpack-c:
+msgpack-c: MessagePack is an efficient binary serialization format, which lets
+msgpack-c: you exchange data among multiple languages like JSON, except that
+msgpack-c: it's faster and smaller. Small integers are encoded into a single
+msgpack-c: byte while typical short strings require only one extra byte in
+msgpack-c: addition to the strings themselves.
+msgpack-c:
+msgpack-c:
+msgpack-c:
+msgpack-c:

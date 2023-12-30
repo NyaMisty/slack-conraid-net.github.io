@@ -1,0 +1,53 @@
+++========================================
+||
+||   Package:  ./qtcurve/qtcurve-0020a42-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-12-12 12:30 ./
+drwxr-xr-x root/root         0 2020-12-12 12:30 install/
+-rw-r--r-- root/root       452 2020-12-12 12:30 install/doinst.sh
+-rw-r--r-- root/root       791 2020-12-12 12:30 install/slack-desc
+drwxr-xr-x root/root         0 2020-12-12 12:30 usr/
+drwxr-xr-x root/root         0 2020-12-12 12:30 usr/doc/
+drwxr-xr-x root/root         0 2020-12-12 12:30 usr/doc/qtcurve-0020a42/
+-rw-r--r-- root/root       536 2020-09-25 06:31 usr/doc/qtcurve-0020a42/AUTHORS
+-rw-r--r-- root/root      2223 2020-09-25 06:31 usr/doc/qtcurve-0020a42/Bugs.md
+-rw-r--r-- root/root     26527 2020-09-25 06:31 usr/doc/qtcurve-0020a42/COPYING
+-rw-r--r-- root/root     22449 2020-09-25 06:31 usr/doc/qtcurve-0020a42/ChangeLog.md
+-rw-r--r-- root/root      5341 2020-09-25 06:31 usr/doc/qtcurve-0020a42/README.md
+-rw-r--r-- root/root      1021 2020-09-25 06:31 usr/doc/qtcurve-0020a42/TODO.md
+-rw-r--r-- root/root      3834 2020-12-12 12:30 usr/doc/qtcurve-0020a42/qtcurve.SlackBuild
+drwxr-xr-x root/root         0 2020-12-12 12:30 usr/lib/
+-rwxr-xr-x root/root     26920 2020-12-12 12:30 usr/lib/libqtcurve-cairo.so.1.0
+-rwxr-xr-x root/root     85392 2020-12-12 12:30 usr/lib/libqtcurve-utils.so.2.0
+drwxr-xr-x root/root         0 2020-12-12 12:30 usr/lib64/
+drwxr-xr-x root/root         0 2020-12-12 12:30 usr/lib64/gtk-2.0/
+drwxr-xr-x root/root         0 2020-12-12 12:30 usr/lib64/gtk-2.0/2.10.0/
+drwxr-xr-x root/root         0 2020-12-12 12:30 usr/lib64/gtk-2.0/2.10.0/engines/
+-rwxr-xr-x root/root    404496 2020-12-12 12:30 usr/lib64/gtk-2.0/2.10.0/engines/libqtcurve.so
+drwxr-xr-x root/root         0 2020-12-12 12:30 usr/lib64/qt5/
+drwxr-xr-x root/root         0 2020-12-12 12:30 usr/lib64/qt5/plugins/
+-rwxr-xr-x root/root    604184 2020-12-12 12:30 usr/lib64/qt5/plugins/kstyle_qtcurve5_config.so
+drwxr-xr-x root/root         0 2020-12-12 12:30 usr/lib64/qt5/plugins/styles/
+-rwxr-xr-x root/root    527096 2020-12-12 12:30 usr/lib64/qt5/plugins/styles/qtcurve.so
+drwxr-xr-x root/root         0 2020-12-12 12:30 usr/share/
+drwxr-xr-x root/root         0 2020-12-12 12:30 usr/share/kstyle/
+drwxr-xr-x root/root         0 2020-12-12 12:30 usr/share/kstyle/themes/
+-rw-r--r-- root/root      2296 2020-09-25 06:31 usr/share/kstyle/themes/qtcurve.themerc
+drwxr-xr-x root/root         0 2020-12-12 12:30 usr/share/kxmlgui5/
+drwxr-xr-x root/root         0 2020-12-12 12:30 usr/share/kxmlgui5/QtCurve/
+-rw-r--r-- root/root        92 2020-09-25 06:31 usr/share/kxmlgui5/QtCurve/QtCurveui.rc
+drwxr-xr-x root/root         0 2020-12-12 12:30 usr/share/themes/
+drwxr-xr-x root/root         0 2020-12-12 12:30 usr/share/themes/QtCurve/
+drwxr-xr-x root/root         0 2020-12-12 12:30 usr/share/themes/QtCurve/gtk-2.0/
+-rw-r--r-- root/root      8757 2020-09-25 06:31 usr/share/themes/QtCurve/gtk-2.0/gtkrc
+-rw-r--r-- root/root      5661 2020-09-25 06:31 usr/share/themes/QtCurve/gtk-2.0/icons3
+-rw-r--r-- root/root      6480 2020-09-25 06:31 usr/share/themes/QtCurve/gtk-2.0/icons4
+-rw-r--r-- root/root      1141 2020-09-25 06:31 usr/share/themes/QtCurve/gtk-2.0/kdeglobals
+-rwxr-xr-x root/root      5151 2020-09-25 06:31 usr/share/themes/QtCurve/gtk-2.0/map_kde_icons.pl
+drwxr-xr-x root/root         0 2020-12-12 12:30 usr/share/themes/QtCurve/mozilla/
+-rw-r--r-- root/root       341 2020-12-12 12:29 usr/share/themes/QtCurve/mozilla/QtCurve-KDEButtonOrder.css
+-rw-r--r-- root/root       719 2020-12-12 12:29 usr/share/themes/QtCurve/mozilla/QtCurve.css
+-rw-r--r-- root/root      2170 2020-09-25 06:31 usr/share/themes/QtCurve/mozilla/preferences-rev.xml
+
+

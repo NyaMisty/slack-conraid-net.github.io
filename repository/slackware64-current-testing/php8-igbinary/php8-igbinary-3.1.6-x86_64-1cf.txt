@@ -1,0 +1,11 @@
+php8-igbinary: php-igbinary (php igbinary extension)
+php8-igbinary:
+php8-igbinary: Igbinary is a drop in replacement for the standard php serializer.
+php8-igbinary: Instead of the time and space consuming textual representation used
+php8-igbinary: by PHP's serialize, igbinary stores php data structures in a compact
+php8-igbinary: binary form.
+php8-igbinary:
+php8-igbinary:
+php8-igbinary:
+php8-igbinary:
+php8-igbinary:

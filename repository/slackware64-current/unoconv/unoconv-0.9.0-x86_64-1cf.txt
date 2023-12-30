@@ -1,0 +1,11 @@
+unoconv: unoconv (Universal Office Converter)
+unoconv:
+unoconv: Universal Office Converter (unoconv) is a command line tool to
+unoconv: convert any document format that LibreOffice/OpenOffice can import
+unoconv: to any document format that LibreOffice/OpenOffice can export.
+unoconv: It makes use of the LibreOffice’s UNO bindings for non-interactive
+unoconv: conversion of documents.
+unoconv:
+unoconv:
+unoconv:
+unoconv:

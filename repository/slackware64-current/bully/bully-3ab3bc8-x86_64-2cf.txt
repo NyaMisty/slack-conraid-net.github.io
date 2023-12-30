@@ -1,0 +1,11 @@
+bully: bully (Retrieve WPA/WPA2 passphrase from a WPS enabled access point)
+bully:
+bully: Bully is a new implementation of the WPS brute force attack, written
+bully: in C. It is conceptually identical to other programs, in that it
+bully: exploits the (now well known) design flaw in the WPS specification.
+bully: It has several advantages over the original reaver code. 
+bully:
+bully:
+bully:
+bully:
+bully:

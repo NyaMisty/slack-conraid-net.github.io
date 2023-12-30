@@ -1,0 +1,35 @@
+++========================================
+||
+||   Package:  ./redis/redis-6.2.6-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-10-11 16:10 ./
+drwxr-xr-x root/root         0 2021-10-11 16:10 etc/
+drwxr-xr-x root/root         0 2021-10-11 16:10 etc/logrotate.d/
+-rw-r--r-- root/root       129 2021-10-11 16:10 etc/logrotate.d/redis.new
+drwxr-xr-x root/root         0 2021-10-11 16:10 etc/rc.d/
+-rw-r--r-- root/root       953 2021-10-11 16:10 etc/rc.d/rc.redis.new
+drwxr-xr-x root/root         0 2021-10-11 16:10 etc/redis/
+-rw-r--r-- root/root     93732 2021-10-11 16:10 etc/redis/redis.conf.new
+-rw-r--r-- root/root     13768 2021-10-11 16:10 etc/redis/sentinel.conf.new
+drwxr-xr-x root/root         0 2021-10-11 16:10 install/
+-rw-r--r-- root/root       955 2021-10-11 16:10 install/doinst.sh
+-rw-r--r-- root/root      1048 2021-10-11 16:10 install/slack-desc
+drwxr-xr-x root/root         0 2021-10-11 16:10 usr/
+drwxr-xr-x root/root         0 2021-10-11 16:10 usr/bin/
+-rwxr-xr-x root/root    343120 2021-10-11 16:10 usr/bin/redis-benchmark
+-rwxr-xr-x root/root    286272 2021-10-11 16:10 usr/bin/redis-cli
+-rwxr-xr-x root/root   1486672 2021-10-11 16:10 usr/bin/redis-server
+drwxr-xr-x root/root         0 2021-10-11 16:10 usr/doc/
+drwxr-xr-x root/root         0 2021-10-11 16:10 usr/doc/redis-6.2.6/
+-rw-r--r-- root/root     33624 2021-10-04 12:59 usr/doc/redis-6.2.6/00-RELEASENOTES
+-rw-r--r-- root/root        51 2021-10-04 12:59 usr/doc/redis-6.2.6/BUGS
+-rw-r--r-- root/root      3384 2021-10-04 12:59 usr/doc/redis-6.2.6/CONTRIBUTING
+-rw-r--r-- root/root      1487 2021-10-04 12:59 usr/doc/redis-6.2.6/COPYING
+-rw-r--r-- root/root      6888 2021-10-04 12:59 usr/doc/redis-6.2.6/MANIFESTO
+-rw-r--r-- root/root      4372 2021-10-11 16:10 usr/doc/redis-6.2.6/redis.SlackBuild
+drwxr-xr-x root/root         0 2021-10-11 16:10 var/
+drwxr-xr-x root/root         0 2021-10-11 16:10 var/lib/
+drwx------ root/root         0 2021-10-11 16:10 var/lib/redis/
+
+

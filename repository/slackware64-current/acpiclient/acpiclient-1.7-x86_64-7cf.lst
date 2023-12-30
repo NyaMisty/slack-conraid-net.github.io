@@ -1,0 +1,25 @@
+++========================================
+||
+||   Package:  ./acpiclient/acpiclient-1.7-x86_64-7cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 10:50 ./
+drwxr-xr-x root/root         0 2020-10-05 10:50 install/
+-rw-r--r-- root/root       781 2020-10-05 10:50 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 10:50 usr/
+drwxr-xr-x root/root         0 2020-10-05 10:50 usr/bin/
+-rwxr-xr-x root/root     23848 2020-10-05 10:50 usr/bin/acpi
+drwxr-xr-x root/root         0 2020-10-05 10:50 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 10:50 usr/doc/acpiclient-1.7/
+-rw-r--r-- root/root       205 2009-03-15 16:11 usr/doc/acpiclient-1.7/AUTHORS
+-rw-r--r-- root/root     17992 2009-03-15 16:11 usr/doc/acpiclient-1.7/COPYING
+-rw-r--r-- root/root      3635 2012-01-13 12:44 usr/doc/acpiclient-1.7/ChangeLog
+-rw-r--r-- root/root      7956 2009-03-15 16:11 usr/doc/acpiclient-1.7/INSTALL
+-rw-r--r-- root/root         0 2009-03-15 16:11 usr/doc/acpiclient-1.7/NEWS
+-rw-r--r-- root/root       789 2009-03-15 16:11 usr/doc/acpiclient-1.7/README
+-rw-r--r-- root/root      3607 2020-10-05 10:50 usr/doc/acpiclient-1.7/acpiclient.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 10:50 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 10:50 usr/man/man1/
+-rw-r--r-- root/root       736 2020-10-05 10:50 usr/man/man1/acpi.1.gz
+
+

@@ -1,0 +1,74 @@
+++========================================
+||
+||   Package:  ./timidity/timidity-2.15.0-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-03-15 12:03 ./
+drwxr-xr-x root/root         0 2020-03-15 12:03 etc/
+drwxr-xr-x root/root         0 2020-03-15 12:03 etc/X11/
+drwxr-xr-x root/root         0 2020-03-15 12:03 etc/X11/app-defaults/
+-rw-r--r-- root/root     18621 2020-03-15 12:03 etc/X11/app-defaults/TiMidity
+drwxr-xr-x root/root         0 2020-03-15 12:03 etc/X11/ja_JP.eucJP/
+drwxr-xr-x root/root         0 2020-03-15 12:03 etc/X11/ja_JP.eucJP/app-defaults/
+-rw-r--r-- root/root     19581 2020-03-15 12:03 etc/X11/ja_JP.eucJP/app-defaults/TiMidity
+drwxr-xr-x root/root         0 2020-03-15 12:03 etc/rc.d/
+-rwxr-xr-x root/root       265 2020-03-15 12:03 etc/rc.d/rc.timidity.new
+-rw-r--r-- root/root       295 2020-03-15 12:03 etc/timidity.cfg.new
+drwxr-xr-x root/root         0 2020-03-15 12:03 install/
+-rw-r--r-- root/root       404 2020-03-15 12:03 install/doinst.sh
+-rw-r--r-- root/root       747 2020-03-15 12:03 install/slack-desc
+drwxr-xr-x root/root         0 2020-03-15 12:03 usr/
+drwxr-xr-x root/root         0 2020-03-15 12:03 usr/bin/
+-rwxr-xr-x root/root   1032136 2020-03-15 12:03 usr/bin/timidity
+drwxr-xr-x root/root         0 2020-03-15 12:03 usr/doc/
+drwxr-xr-x root/root         0 2020-03-15 12:03 usr/doc/TiMidity++-2.15.0/
+-rw-r--r-- root/root      1653 2004-02-28 02:54 usr/doc/TiMidity++-2.15.0/AUTHORS
+-rw-r--r-- root/root     10196 1999-01-06 09:43 usr/doc/TiMidity++-2.15.0/CHANGES.02i
+-rw-r--r-- root/root     17992 2003-06-04 21:23 usr/doc/TiMidity++-2.15.0/COPYING
+-rw-r--r-- root/root     11737 2018-08-29 02:00 usr/doc/TiMidity++-2.15.0/ChangeLog
+-rw-r--r-- root/root     27828 1999-10-12 12:18 usr/doc/TiMidity++-2.15.0/ChangeLog.1
+-rw-r--r-- root/root    174559 2004-03-28 22:26 usr/doc/TiMidity++-2.15.0/ChangeLog.2
+-rw-r--r-- root/root     56519 2012-09-05 05:19 usr/doc/TiMidity++-2.15.0/ChangeLog.3
+-rw-r--r-- root/root      9328 1999-01-06 09:43 usr/doc/TiMidity++-2.15.0/FAQ
+-rw-r--r-- root/root     15756 2020-03-15 12:02 usr/doc/TiMidity++-2.15.0/INSTALL
+-rw-r--r-- root/root     20446 2004-03-01 09:01 usr/doc/TiMidity++-2.15.0/INSTALL.ja
+-rw-r--r-- root/root     16768 2018-08-29 01:33 usr/doc/TiMidity++-2.15.0/NEWS
+-rw-r--r-- root/root      3628 2016-03-19 15:22 usr/doc/TiMidity++-2.15.0/README
+-rw-r--r-- root/root      4498 2002-01-18 03:25 usr/doc/TiMidity++-2.15.0/README.alsaseq
+-rw-r--r-- root/root      1201 2004-10-27 14:21 usr/doc/TiMidity++-2.15.0/README.dl
+-rw-r--r-- root/root      3759 2016-03-19 15:22 usr/doc/TiMidity++-2.15.0/README.ja
+-rw-r--r-- root/root     14465 2004-02-28 02:54 usr/doc/TiMidity++-2.15.0/README.m2m
+-rw-r--r-- root/root     27441 2004-03-28 03:17 usr/doc/TiMidity++-2.15.0/README.mts
+-rw-r--r-- root/root      2106 1999-01-06 09:43 usr/doc/TiMidity++-2.15.0/README.sf
+-rw-r--r-- root/root      2434 1999-01-06 09:43 usr/doc/TiMidity++-2.15.0/README.tk
+-rw-r--r-- root/root     30769 2008-04-13 13:16 usr/doc/TiMidity++-2.15.0/README.w32
+-rw-r--r-- root/root     14292 2012-06-02 10:39 usr/doc/TiMidity++-2.15.0/README.xaw
+-rw-r--r-- root/root      2812 1999-01-06 09:43 usr/doc/TiMidity++-2.15.0/README.xskin
+-rw-r--r-- root/root       787 2012-08-20 09:33 usr/doc/TiMidity++-2.15.0/TODO
+-rw-r--r-- root/root      4219 2020-03-15 12:03 usr/doc/TiMidity++-2.15.0/timidity.SlackBuild
+drwxr-xr-x root/root         0 2020-03-15 12:03 usr/lib64/
+drwxr-xr-x root/root         0 2020-03-15 12:03 usr/lib64/timidity/
+-rw-r--r-- root/root      7020 2020-03-15 12:03 usr/lib64/timidity/browser.tcl
+-rwxr-xr-x root/root     22976 2020-03-15 12:03 usr/lib64/timidity/if_alsaseq.so
+-rwxr-xr-x root/root     18560 2020-03-15 12:03 usr/lib64/timidity/if_emacs.so
+-rwxr-xr-x root/root     79448 2020-03-15 12:03 usr/lib64/timidity/if_gtk.so
+-rwxr-xr-x root/root     60240 2020-03-15 12:03 usr/lib64/timidity/if_ncurses.so
+-rwxr-xr-x root/root     31648 2020-03-15 12:03 usr/lib64/timidity/if_server.so
+-rwxr-xr-x root/root     28352 2020-03-15 12:03 usr/lib64/timidity/if_tcltk.so
+-rwxr-xr-x root/root     27008 2020-03-15 12:03 usr/lib64/timidity/if_vt100.so
+-rwxr-xr-x root/root    158584 2020-03-15 12:03 usr/lib64/timidity/if_xaw.so
+-rw-r--r-- root/root      7648 2020-03-15 12:03 usr/lib64/timidity/misc.tcl
+-rw-r--r-- root/root      4080 2020-03-15 12:03 usr/lib64/timidity/tclIndex
+-rw-r--r-- root/root      2041 2020-03-15 12:03 usr/lib64/timidity/tkmidity.tcl
+-rw-r--r-- root/root     19976 2020-03-15 12:03 usr/lib64/timidity/tkpanel.tcl
+drwxr-xr-x root/root         0 2020-03-15 12:03 usr/man/
+drwxr-xr-x root/root         0 2020-03-15 12:03 usr/man/man1/
+-rw-r--r-- root/root     11917 2020-03-15 12:03 usr/man/man1/timidity.1.gz
+drwxr-xr-x root/root         0 2020-03-15 12:03 usr/man/man5/
+-rw-r--r-- root/root      6376 2020-03-15 12:03 usr/man/man5/timidity.cfg.5.gz
+drwxr-xr-x root/root         0 2020-03-15 12:03 usr/share/
+drwxr-xr-x root/root         0 2020-03-15 12:03 usr/share/emacs/
+drwxr-xr-x root/root         0 2020-03-15 12:03 usr/share/emacs/site-lisp/
+-rw-r--r-- root/root     18142 2020-03-15 12:03 usr/share/emacs/site-lisp/timidity.el
+
+

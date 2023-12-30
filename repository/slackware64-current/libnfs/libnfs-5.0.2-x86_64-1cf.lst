@@ -1,0 +1,45 @@
+++========================================
+||
+||   Package:  ./libnfs/libnfs-5.0.2-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-08-10 08:00 ./
+drwxr-xr-x root/root         0 2022-08-10 08:00 install/
+-rw-r--r-- root/root       184 2022-08-10 08:00 install/doinst.sh
+-rw-r--r-- root/root       673 2022-08-10 08:00 install/slack-desc
+drwxr-xr-x root/root         0 2022-08-10 08:00 usr/
+drwxr-xr-x root/root         0 2022-08-10 08:00 usr/bin/
+-rwxr-xr-x root/root     14512 2022-08-10 08:00 usr/bin/nfs-cat
+-rwxr-xr-x root/root     14584 2022-08-10 08:00 usr/bin/nfs-cp
+-rwxr-xr-x root/root     14568 2022-08-10 08:00 usr/bin/nfs-ls
+-rwxr-xr-x root/root     14552 2022-08-10 08:00 usr/bin/nfs-stat
+drwxr-xr-x root/root         0 2022-08-10 08:00 usr/doc/
+drwxr-xr-x root/root         0 2022-08-10 08:00 usr/doc/libnfs-5.0.2/
+-rw-r--r-- root/root      2688 2022-08-10 05:59 usr/doc/libnfs-5.0.2/CHANGELOG
+-rw-r--r-- root/root      1601 2022-08-10 05:59 usr/doc/libnfs-5.0.2/COPYING
+-rw-r--r-- root/root      7891 2022-08-10 05:59 usr/doc/libnfs-5.0.2/README
+-rw-r--r-- root/root      4000 2022-08-10 05:59 usr/doc/libnfs-5.0.2/README.multithreading
+-rw-r--r-- root/root      4049 2022-08-10 08:00 usr/doc/libnfs-5.0.2/libnfs.SlackBuild
+drwxr-xr-x root/root         0 2022-08-10 08:00 usr/include/
+drwxr-xr-x root/root         0 2022-08-10 08:00 usr/include/nfsc/
+-rw-r--r-- root/root      8240 2022-08-10 08:00 usr/include/nfsc/libnfs-raw-mount.h
+-rw-r--r-- root/root     54110 2022-08-10 08:00 usr/include/nfsc/libnfs-raw-nfs.h
+-rw-r--r-- root/root     76401 2022-08-10 08:00 usr/include/nfsc/libnfs-raw-nfs4.h
+-rw-r--r-- root/root     10534 2022-08-10 08:00 usr/include/nfsc/libnfs-raw-nlm.h
+-rw-r--r-- root/root      6442 2022-08-10 08:00 usr/include/nfsc/libnfs-raw-nsm.h
+-rw-r--r-- root/root     11652 2022-08-10 08:00 usr/include/nfsc/libnfs-raw-portmap.h
+-rw-r--r-- root/root      5589 2022-08-10 08:00 usr/include/nfsc/libnfs-raw-rquota.h
+-rw-r--r-- root/root     89958 2022-08-10 08:00 usr/include/nfsc/libnfs-raw.h
+-rw-r--r-- root/root      6770 2022-08-10 08:00 usr/include/nfsc/libnfs-zdr.h
+-rw-r--r-- root/root     57853 2022-08-10 08:00 usr/include/nfsc/libnfs.h
+drwxr-xr-x root/root         0 2022-08-10 08:00 usr/lib64/
+-rwxr-xr-x root/root    368256 2022-08-10 08:00 usr/lib64/libnfs.so.14.0.0
+drwxr-xr-x root/root         0 2022-08-10 08:00 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       286 2022-08-10 08:00 usr/lib64/pkgconfig/libnfs.pc
+drwxr-xr-x root/root         0 2022-08-10 08:00 usr/man/
+drwxr-xr-x root/root         0 2022-08-10 08:00 usr/man/man1/
+-rw-r--r-- root/root       706 2022-08-10 08:00 usr/man/man1/nfs-cat.1.gz
+-rw-r--r-- root/root       718 2022-08-10 08:00 usr/man/man1/nfs-cp.1.gz
+-rw-r--r-- root/root      1133 2022-08-10 08:00 usr/man/man1/nfs-ls.1.gz
+
+

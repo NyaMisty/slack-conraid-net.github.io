@@ -1,0 +1,42 @@
+++========================================
+||
+||   Package:  ./ferm/ferm-2.7-noarch-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-10 11:44 ./
+drwxr-xr-x root/root         0 2022-05-10 11:44 install/
+-rw-r--r-- root/root       938 2022-05-10 11:44 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-10 11:44 usr/
+drwxr-xr-x root/root         0 2022-05-10 11:44 usr/doc/
+drwxr-xr-x root/root         0 2022-05-10 11:44 usr/doc/ferm-2.7/
+-rw-r--r-- root/root      1344 2022-05-10 11:44 usr/doc/ferm-2.7/AUTHORS
+-rw-r--r-- root/root     18092 2022-05-10 11:44 usr/doc/ferm-2.7/COPYING
+-rw-r--r-- root/root     22492 2022-05-10 11:44 usr/doc/ferm-2.7/NEWS
+-rw-r--r-- root/root      2063 2022-05-10 11:44 usr/doc/ferm-2.7/README.rst
+-rw-r--r-- root/root        86 2022-05-10 11:44 usr/doc/ferm-2.7/TODO
+drwxr-xr-x root/root         0 2022-05-10 11:44 usr/doc/ferm-2.7/examples/
+-rw-r--r-- root/root      1592 2022-05-10 11:44 usr/doc/ferm-2.7/examples/antiddos.ferm
+-rw-r--r-- root/root       260 2022-05-10 11:44 usr/doc/ferm-2.7/examples/arptables.ferm
+-rw-r--r-- root/root      2842 2022-05-10 11:44 usr/doc/ferm-2.7/examples/dmz_router.ferm
+-rw-r--r-- root/root      1920 2022-05-10 11:44 usr/doc/ferm-2.7/examples/dsl_router.ferm
+-rw-r--r-- root/root       237 2022-05-10 11:44 usr/doc/ferm-2.7/examples/ebtables.ferm
+-rw-r--r-- root/root       953 2022-05-10 11:44 usr/doc/ferm-2.7/examples/fileserver.ferm
+-rw-r--r-- root/root       809 2022-05-10 11:44 usr/doc/ferm-2.7/examples/ipv6.ferm
+-rw-r--r-- root/root      1009 2022-05-10 11:44 usr/doc/ferm-2.7/examples/mailserver.ferm
+-rw-r--r-- root/root       464 2022-05-10 11:44 usr/doc/ferm-2.7/examples/resolve.ferm
+-rw-r--r-- root/root       902 2022-05-10 11:44 usr/doc/ferm-2.7/examples/webserver.ferm
+-rw-r--r-- root/root       836 2022-05-10 11:44 usr/doc/ferm-2.7/examples/workstation.ferm
+-rw-r--r-- root/root      2514 2022-05-10 11:44 usr/doc/ferm-2.7/ferm.SlackBuild
+-rw-r--r-- root/root     71047 2022-05-10 11:44 usr/doc/ferm-2.7/ferm.html
+-rw-r--r-- root/root     61953 2022-05-10 11:44 usr/doc/ferm-2.7/ferm.txt
+drwxr-xr-x root/root         0 2022-05-10 11:44 usr/doc/ferm-2.7/systemd/
+-rw-r--r-- root/root       246 2022-05-10 11:44 usr/doc/ferm-2.7/systemd/ferm.service
+drwxr-xr-x root/root         0 2022-05-10 11:44 usr/man/
+drwxr-xr-x root/root         0 2022-05-10 11:44 usr/man/man1/
+-rw-r--r-- root/root     23068 2022-05-10 11:44 usr/man/man1/ferm.1.gz
+-rw-r--r-- root/root      2089 2022-05-10 11:44 usr/man/man1/import-ferm.1.gz
+drwxr-xr-x root/root         0 2022-05-10 11:44 usr/sbin/
+-rwxr-xr-x root/root    104211 2022-05-10 11:44 usr/sbin/ferm
+-rwxr-xr-x root/root     17758 2022-05-10 11:44 usr/sbin/import-ferm
+
+

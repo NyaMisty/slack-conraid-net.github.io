@@ -1,0 +1,11 @@
+mping: mping (A simple multicast ping program)
+mping:
+mping: mping intends to be an easy to use and script friendly program.
+mping: Similar to the standard ping program, but unlike it, the response to
+mping: multicast ping is sent by another mping.
+mping:
+mping:
+mping:
+mping:
+mping:
+mping:

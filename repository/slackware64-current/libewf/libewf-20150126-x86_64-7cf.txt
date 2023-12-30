@@ -1,0 +1,11 @@
+libewf: libewf 
+libewf:
+libewf: Libewf is a library for support of the Expert Witness Compression 
+libewf: Format (EWF), it support both the SMART format (EWF-S01) and the 
+libewf: EnCase format (EWF-E01). Libewf allows you to read and write media 
+libewf: information within the EWF files.
+libewf:
+libewf:
+libewf:
+libewf:
+libewf:

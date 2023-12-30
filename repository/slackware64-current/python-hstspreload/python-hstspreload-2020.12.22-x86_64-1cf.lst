@@ -1,0 +1,30 @@
+++========================================
+||
+||   Package:  ./python-hstspreload/python-hstspreload-2020.12.22-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-12-23 14:01 ./
+drwxr-xr-x root/root         0 2020-12-23 14:01 install/
+-rw-r--r-- root/root       826 2020-12-23 14:01 install/slack-desc
+drwxr-xr-x root/root         0 2020-12-23 14:01 usr/
+drwxr-xr-x root/root         0 2020-12-23 14:01 usr/doc/
+drwxr-xr-x root/root         0 2020-12-23 14:01 usr/doc/python-hstspreload-2020.12.22/
+-rw-r--r-- root/root      1544 2020-12-22 17:59 usr/doc/python-hstspreload-2020.12.22/LICENSE
+-rw-r--r-- root/root       967 2020-12-22 17:59 usr/doc/python-hstspreload-2020.12.22/README.md
+-rw-r--r-- root/root      3227 2020-12-23 14:01 usr/doc/python-hstspreload-2020.12.22/python-hstspreload.SlackBuild
+drwxr-xr-x root/root         0 2020-12-23 14:01 usr/lib64/
+drwxr-xr-x root/root         0 2020-12-23 14:01 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2020-12-23 14:01 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2020-12-23 14:01 usr/lib64/python3.9/site-packages/hstspreload/
+drwxr-xr-x root/root         0 2020-12-23 14:01 usr/lib64/python3.9/site-packages/hstspreload-2020.12.22-py3.9.egg-info/
+-rw-r--r-- root/root      2053 2020-12-23 14:01 usr/lib64/python3.9/site-packages/hstspreload-2020.12.22-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       274 2020-12-23 14:01 usr/lib64/python3.9/site-packages/hstspreload-2020.12.22-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2020-12-23 14:01 usr/lib64/python3.9/site-packages/hstspreload-2020.12.22-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root         1 2020-12-22 18:02 usr/lib64/python3.9/site-packages/hstspreload-2020.12.22-py3.9.egg-info/not-zip-safe
+-rw-r--r-- root/root        12 2020-12-23 14:01 usr/lib64/python3.9/site-packages/hstspreload-2020.12.22-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root     18235 2020-12-22 18:00 usr/lib64/python3.9/site-packages/hstspreload/__init__.py
+drwxr-xr-x root/root         0 2020-12-23 14:01 usr/lib64/python3.9/site-packages/hstspreload/__pycache__/
+-rw-r--r-- root/root     14172 2020-12-23 14:01 usr/lib64/python3.9/site-packages/hstspreload/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root   1988769 2020-12-22 18:00 usr/lib64/python3.9/site-packages/hstspreload/hstspreload.bin
+
+

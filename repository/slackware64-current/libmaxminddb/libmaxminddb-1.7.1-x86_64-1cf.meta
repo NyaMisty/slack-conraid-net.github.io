@@ -1,0 +1,21 @@
+PACKAGE NAME:  libmaxminddb-1.7.1-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./libmaxminddb
+PACKAGE SIZE (compressed):  48 K
+PACKAGE SIZE (uncompressed):  170 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+libmaxminddb: libmaxminddb (C Library)
+libmaxminddb:
+libmaxminddb: This package provides a C library for reading MaxMind DB files,
+libmaxminddb: including the GeoIP2 databases from MaxMind.
+libmaxminddb:
+libmaxminddb: This is a custom binary format designed to facilitate fast
+libmaxminddb: lookups of IP addresses while allowing for great flexibility
+libmaxminddb: in the type of data associated with an address.
+libmaxminddb: The MaxMind DB format is an open format.
+libmaxminddb: The spec is available at http://maxmind.github.io/MaxMind-DB/.
+libmaxminddb:
+

@@ -1,0 +1,18 @@
+PACKAGE NAME:  ok_sh-0.7.0-noarch-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./ok_sh
+PACKAGE SIZE (compressed):  24 K
+PACKAGE SIZE (uncompressed):  140 K
+PACKAGE DESCRIPTION:
+ok_sh: ok_sh (GitHub API client library written in POSIX sh)
+ok_sh:
+ok_sh: ok.sh is a Bourne shell GitHub API client library focused on
+ok_sh: interfacing with shell scripts
+ok_sh:
+ok_sh:
+ok_sh:
+ok_sh:
+ok_sh:
+ok_sh:
+ok_sh:
+

@@ -1,0 +1,18 @@
+PACKAGE NAME:  vdt-5.4.68-x86_64-7cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./vdt
+PACKAGE SIZE (compressed):  60 K
+PACKAGE SIZE (uncompressed):  200 K
+PACKAGE DESCRIPTION:
+vdt: VDT - Visual Disk Test
+vdt:
+vdt: VDT performs I/O tests on files and/or devices. 
+vdt: The BUD Toolshed is a set of utility programs to improve operating
+vdt: system administration, ranging from security and storage to
+vdt: performance analysis; VDT is the I/O tester)
+vdt:
+vdt:
+vdt:
+vdt:
+vdt:
+

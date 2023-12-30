@@ -1,0 +1,87 @@
+++========================================
+||
+||   Package:  ./ruamel-yaml/ruamel-yaml-0.17.21-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-02-14 14:02 ./
+drwxr-xr-x root/root         0 2022-02-14 14:02 install/
+-rw-r--r-- root/root       807 2022-02-14 14:02 install/slack-desc
+drwxr-xr-x root/root         0 2022-02-14 14:02 usr/
+drwxr-xr-x root/root         0 2022-02-14 14:02 usr/doc/
+drwxr-xr-x root/root         0 2022-02-14 14:02 usr/doc/ruamel-yaml-0.17.21/
+-rw-r--r-- root/root      1121 2022-02-12 09:52 usr/doc/ruamel-yaml-0.17.21/LICENSE
+-rw-r--r-- root/root     11523 2022-02-12 09:48 usr/doc/ruamel-yaml-0.17.21/README.rst
+-rw-r--r-- root/root      3497 2022-02-14 14:02 usr/doc/ruamel-yaml-0.17.21/ruamel-yaml.SlackBuild
+drwxr-xr-x root/root         0 2022-02-14 14:02 usr/lib64/
+drwxr-xr-x root/root         0 2022-02-14 14:02 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-02-14 14:02 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/
+-rw-r--r-- root/root       539 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel.yaml-0.17.21-py3.9-nspkg.pth
+drwxr-xr-x root/root         0 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel.yaml-0.17.21-py3.9.egg-info/
+-rw-r--r-- root/root     12892 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel.yaml-0.17.21-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       699 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel.yaml-0.17.21-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel.yaml-0.17.21-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root         7 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel.yaml-0.17.21-py3.9.egg-info/namespace_packages.txt
+-rw-r--r-- root/root       142 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel.yaml-0.17.21-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root         7 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel.yaml-0.17.21-py3.9.egg-info/top_level.txt
+drwxr-xr-x root/root         0 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/
+-rw-r--r-- root/root      1897 2022-02-12 09:49 usr/lib64/python3.9/site-packages/ruamel/yaml/__init__.py
+drwxr-xr-x root/root         0 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/
+-rw-r--r-- root/root      1651 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root       762 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/anchor.cpython-39.pyc
+-rw-r--r-- root/root     35169 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/comments.cpython-39.pyc
+-rw-r--r-- root/root      6552 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/compat.cpython-39.pyc
+-rw-r--r-- root/root      5277 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/composer.cpython-39.pyc
+-rw-r--r-- root/root       457 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/configobjwalker.cpython-39.pyc
+-rw-r--r-- root/root     38359 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/constructor.cpython-39.pyc
+-rw-r--r-- root/root      3365 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/cyaml.cpython-39.pyc
+-rw-r--r-- root/root      2820 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/dumper.cpython-39.pyc
+-rw-r--r-- root/root     34242 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/emitter.cpython-39.pyc
+-rw-r--r-- root/root      7904 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/error.cpython-39.pyc
+-rw-r--r-- root/root      4787 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/events.cpython-39.pyc
+-rw-r--r-- root/root      2420 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/loader.cpython-39.pyc
+-rw-r--r-- root/root     36406 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/main.cpython-39.pyc
+-rw-r--r-- root/root      3024 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/nodes.cpython-39.pyc
+-rw-r--r-- root/root     16714 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/parser.cpython-39.pyc
+-rw-r--r-- root/root      6956 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/reader.cpython-39.pyc
+-rw-r--r-- root/root     25653 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/representer.cpython-39.pyc
+-rw-r--r-- root/root      9873 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/resolver.cpython-39.pyc
+-rw-r--r-- root/root      1596 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/scalarbool.cpython-39.pyc
+-rw-r--r-- root/root      3366 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/scalarfloat.cpython-39.pyc
+-rw-r--r-- root/root      3745 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/scalarint.cpython-39.pyc
+-rw-r--r-- root/root      4186 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/scalarstring.cpython-39.pyc
+-rw-r--r-- root/root     43909 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/scanner.cpython-39.pyc
+-rw-r--r-- root/root      5199 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/serializer.cpython-39.pyc
+-rw-r--r-- root/root      1450 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/timestamp.cpython-39.pyc
+-rw-r--r-- root/root     10423 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/tokens.cpython-39.pyc
+-rw-r--r-- root/root      5651 2022-02-14 14:02 usr/lib64/python3.9/site-packages/ruamel/yaml/__pycache__/util.cpython-39.pyc
+-rw-r--r-- root/root       508 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/anchor.py
+-rw-r--r-- root/root     39201 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/comments.py
+-rw-r--r-- root/root      7546 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/compat.py
+-rw-r--r-- root/root      8387 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/composer.py
+-rw-r--r-- root/root       342 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/configobjwalker.py
+-rw-r--r-- root/root     72207 2022-02-12 09:29 usr/lib64/python3.9/site-packages/ruamel/yaml/constructor.py
+-rw-r--r-- root/root      6544 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/cyaml.py
+-rw-r--r-- root/root      6585 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/dumper.py
+-rw-r--r-- root/root     67537 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/emitter.py
+-rw-r--r-- root/root      9506 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/error.py
+-rw-r--r-- root/root      5496 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/events.py
+-rw-r--r-- root/root      3071 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/loader.py
+-rw-r--r-- root/root     59295 2022-02-11 11:07 usr/lib64/python3.9/site-packages/ruamel/yaml/main.py
+-rw-r--r-- root/root      3774 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/nodes.py
+-rw-r--r-- root/root     36466 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/parser.py
+-rw-r--r-- root/root         0 2022-02-12 09:52 usr/lib64/python3.9/site-packages/ruamel/yaml/py.typed
+-rw-r--r-- root/root     10680 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/reader.py
+-rw-r--r-- root/root     44420 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/representer.py
+-rw-r--r-- root/root     15499 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/resolver.py
+-rw-r--r-- root/root      1380 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/scalarbool.py
+-rw-r--r-- root/root      4121 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/scalarfloat.py
+-rw-r--r-- root/root      4255 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/scalarint.py
+-rw-r--r-- root/root      4260 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/scalarstring.py
+-rw-r--r-- root/root     89221 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/scanner.py
+-rw-r--r-- root/root      8479 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/serializer.py
+-rw-r--r-- root/root      1815 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/timestamp.py
+-rw-r--r-- root/root     12106 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/tokens.py
+-rw-r--r-- root/root      8336 2022-02-09 08:22 usr/lib64/python3.9/site-packages/ruamel/yaml/util.py
+
+

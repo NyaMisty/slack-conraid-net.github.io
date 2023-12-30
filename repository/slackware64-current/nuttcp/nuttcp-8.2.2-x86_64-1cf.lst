@@ -1,0 +1,23 @@
+++========================================
+||
+||   Package:  ./nuttcp/nuttcp-8.2.2-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-11-23 14:30 ./
+drwxr-xr-x root/root         0 2020-11-23 14:30 install/
+-rw-r--r-- root/root       714 2020-11-23 14:30 install/slack-desc
+drwxr-xr-x root/root         0 2020-11-23 14:30 usr/
+drwxr-xr-x root/root         0 2020-11-23 14:30 usr/doc/
+drwxr-xr-x root/root         0 2020-11-23 14:30 usr/doc/nuttcp-8.2.2/
+-rw-r--r-- root/root     17987 2016-11-01 20:04 usr/doc/nuttcp-8.2.2/LICENSE
+-rw-r--r-- root/root      5228 2018-07-19 15:57 usr/doc/nuttcp-8.2.2/README
+-rw-r--r-- root/root      5933 2004-04-16 07:16 usr/doc/nuttcp-8.2.2/examples.txt
+-rw-r--r-- root/root      2846 2020-11-23 14:30 usr/doc/nuttcp-8.2.2/nuttcp.SlackBuild
+-rw-r--r-- root/root     22518 2016-11-01 23:31 usr/doc/nuttcp-8.2.2/nuttcp.html
+drwxr-xr-x root/root         0 2020-11-23 14:30 usr/man/
+drwxr-xr-x root/root         0 2020-11-23 14:30 usr/man/man8/
+-rw-r--r-- root/root      5715 2020-11-23 14:30 usr/man/man8/nuttcp.8.gz
+drwxr-xr-x root/root         0 2020-11-23 14:30 usr/sbin/
+-rwxr-xr-x root/root    142160 2020-11-23 14:30 usr/sbin/nuttcp
+
+

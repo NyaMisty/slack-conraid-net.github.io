@@ -1,0 +1,18 @@
+PACKAGE NAME:  cfpeek-1.2-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./cfpeek
+PACKAGE SIZE (compressed):  144 K
+PACKAGE SIZE (uncompressed):  460 K
+PACKAGE DESCRIPTION:
+cfpeek: cfpeek (Command line processor for structured configuration files)
+cfpeek:
+cfpeek: Cfpeek provides a uniform and consistent command line interface for
+cfpeek: various operations on structured configuration files, such as
+cfpeek: named.conf, .gitconfig, etc. It can be used to look up and retrieve
+cfpeek: settings, reformat the files and to apply external scripts to them.
+cfpeek:
+cfpeek:
+cfpeek:
+cfpeek:
+cfpeek:
+

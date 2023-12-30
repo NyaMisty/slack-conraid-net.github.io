@@ -1,0 +1,11 @@
+ferm: ferm (Tool to maintain complex firewalls)
+ferm:
+ferm: ferm is a tool to maintain complex firewalls, without having the
+ferm: trouble to rewrite the complex rules over and over again.
+ferm: ferm allows the entire firewall rule set to be stored in a separate
+ferm: file, and to be loaded with one command. The firewall configuration
+ferm: resembles structured programming-like language, which can contain
+ferm: levels and lists.
+ferm:
+ferm:
+ferm:

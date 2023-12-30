@@ -1,0 +1,32 @@
+++========================================
+||
+||   Package:  ./dkms/dkms-3.0.10-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2023-01-03 10:59 ./
+drwxr-xr-x root/root         0 2023-01-03 10:59 etc/
+drwxr-xr-x root/root         0 2023-01-03 10:59 etc/dkms/
+-rw-r--r-- root/root      1525 2023-01-03 10:59 etc/dkms/framework.conf
+drwxr-xr-x root/root         0 2023-01-03 10:59 etc/dkms/framework.conf.d/
+drwxr-xr-x root/root         0 2023-01-03 10:59 install/
+-rw-r--r-- root/root       643 2023-01-03 10:59 install/slack-desc
+drwxr-xr-x root/root         0 2023-01-03 10:59 usr/
+drwxr-xr-x root/root         0 2023-01-03 10:59 usr/doc/
+drwxr-xr-x root/root         0 2023-01-03 10:59 usr/doc/dkms-3.0.10/
+-rw-r--r-- root/root     18092 2023-01-03 10:29 usr/doc/dkms-3.0.10/COPYING
+-rw-r--r-- root/root      6600 2023-01-03 10:29 usr/doc/dkms-3.0.10/README.md
+-rw-r--r-- root/root      3586 2023-01-03 10:59 usr/doc/dkms-3.0.10/dkms.SlackBuild
+drwxr-xr-x root/root         0 2023-01-03 10:59 usr/lib/
+drwxr-xr-x root/root         0 2023-01-03 10:59 usr/lib/dkms/
+-rwxr-xr-x root/root      8147 2023-01-03 10:59 usr/lib/dkms/common.postinst
+-rwxr-xr-x root/root      1794 2023-01-03 10:59 usr/lib/dkms/dkms_autoinstaller
+drwxr-xr-x root/root         0 2023-01-03 10:59 usr/man/
+drwxr-xr-x root/root         0 2023-01-03 10:59 usr/man/man8/
+-rw-r--r-- root/root      9097 2023-01-03 10:59 usr/man/man8/dkms.8.gz
+drwxr-xr-x root/root         0 2023-01-03 10:59 usr/sbin/
+-rwxr-xr-x root/root     91504 2023-01-03 10:59 usr/sbin/dkms
+drwxr-xr-x root/root         0 2023-01-03 10:59 var/
+drwxr-xr-x root/root         0 2023-01-03 10:59 var/lib/
+drwxr-xr-x root/root         0 2023-01-03 10:59 var/lib/dkms/
+
+

@@ -1,0 +1,19 @@
+++========================================
+||
+||   Package:  ./pwgen/pwgen-2.08-x86_64-3cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 12:24 ./
+drwxr-xr-x root/root         0 2020-10-05 12:24 install/
+-rw-r--r-- root/root       702 2020-10-05 12:24 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 12:24 usr/
+drwxr-xr-x root/root         0 2020-10-05 12:24 usr/bin/
+-rwxr-xr-x root/root     28088 2020-10-05 12:24 usr/bin/pwgen
+drwxr-xr-x root/root         0 2020-10-05 12:24 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 12:24 usr/doc/pwgen-2.08/
+-rw-r--r-- root/root      3473 2020-10-05 12:24 usr/doc/pwgen-2.08/pwgen.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 12:24 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 12:24 usr/man/man1/
+-rw-r--r-- root/root      2068 2020-10-05 12:24 usr/man/man1/pwgen.1.gz
+
+

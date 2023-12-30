@@ -1,0 +1,18 @@
+PACKAGE NAME:  colorama-0.4.4-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./colorama
+PACKAGE SIZE (compressed):  28 K
+PACKAGE SIZE (uncompressed):  120 K
+PACKAGE DESCRIPTION:
+colorama: colorama (cross-platform colored terminal text)
+colorama:
+colorama: Makes ANSI escape character sequences for producing colored terminal
+colorama: text and cursor positioning work under MS Windows.
+colorama: ANSI escape character sequences have long been used to produce colored
+colorama: terminal text and cursor positioning on Unix and Macs.
+colorama:
+colorama:
+colorama:
+colorama:
+colorama:
+

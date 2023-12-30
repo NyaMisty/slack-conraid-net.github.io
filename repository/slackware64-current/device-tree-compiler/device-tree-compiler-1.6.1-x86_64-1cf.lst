@@ -1,0 +1,38 @@
+++========================================
+||
+||   Package:  ./device-tree-compiler/device-tree-compiler-1.6.1-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-06-09 08:03 ./
+drwxr-xr-x root/root         0 2021-06-09 08:03 install/
+-rw-r--r-- root/root       176 2021-06-09 08:03 install/doinst.sh
+-rw-r--r-- root/root      1054 2021-06-09 08:03 install/slack-desc
+drwxr-xr-x root/root         0 2021-06-09 08:03 usr/
+drwxr-xr-x root/root         0 2021-06-09 08:03 usr/bin/
+-rwxr-xr-x root/root     35248 2021-06-09 08:03 usr/bin/convert-dtsv0
+-rwxr-xr-x root/root    136200 2021-06-09 08:03 usr/bin/dtc
+-rwxr-xr-x root/root       680 2021-06-09 08:03 usr/bin/dtdiff
+-rwxr-xr-x root/root     18784 2021-06-09 08:03 usr/bin/fdtdump
+-rwxr-xr-x root/root     18840 2021-06-09 08:03 usr/bin/fdtget
+-rwxr-xr-x root/root     18808 2021-06-09 08:03 usr/bin/fdtoverlay
+-rwxr-xr-x root/root     27064 2021-06-09 08:03 usr/bin/fdtput
+drwxr-xr-x root/root         0 2021-06-09 08:03 usr/doc/
+drwxr-xr-x root/root         0 2021-06-09 08:03 usr/doc/device-tree-compiler-1.6.1/
+-rw-r--r-- root/root     18092 2021-06-08 09:00 usr/doc/device-tree-compiler-1.6.1/GPL
+-rw-r--r-- root/root      2768 2021-06-08 09:00 usr/doc/device-tree-compiler-1.6.1/README
+-rw-r--r-- root/root      2903 2021-06-08 09:00 usr/doc/device-tree-compiler-1.6.1/README.license
+-rw-r--r-- root/root      3428 2021-06-09 08:03 usr/doc/device-tree-compiler-1.6.1/device-tree-compiler.SlackBuild
+-rw-r--r-- root/root      8833 2021-06-08 09:00 usr/doc/device-tree-compiler-1.6.1/dt-object-internal.txt
+-rw-r--r-- root/root      1275 2021-06-08 09:00 usr/doc/device-tree-compiler-1.6.1/dtc-paper.bib
+-rw-r--r-- root/root     27634 2021-06-08 09:00 usr/doc/device-tree-compiler-1.6.1/dtc-paper.tex
+-rw-r--r-- root/root      4264 2021-06-08 09:00 usr/doc/device-tree-compiler-1.6.1/dts-format.txt
+-rw-r--r-- root/root     26797 2021-06-08 09:00 usr/doc/device-tree-compiler-1.6.1/manual.txt
+drwxr-xr-x root/root         0 2021-06-09 08:03 usr/include/
+-rw-r--r-- root/root      1761 2021-06-09 08:03 usr/include/fdt.h
+-rw-r--r-- root/root     75652 2021-06-09 08:03 usr/include/libfdt.h
+-rw-r--r-- root/root      2753 2021-06-09 08:03 usr/include/libfdt_env.h
+drwxr-xr-x root/root         0 2021-06-09 08:03 usr/lib64/
+-rwxr-xr-x root/root     39512 2021-06-09 08:03 usr/lib64/libfdt-1.6.1.so
+-rw-r--r-- root/root     58188 2021-06-09 08:03 usr/lib64/libfdt.a
+
+

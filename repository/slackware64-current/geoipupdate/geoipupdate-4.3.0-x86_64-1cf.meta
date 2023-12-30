@@ -1,0 +1,18 @@
+PACKAGE NAME:  geoipupdate-4.3.0-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./geoipupdate
+PACKAGE SIZE (compressed):  1772 K
+PACKAGE SIZE (uncompressed):  5510 K
+PACKAGE DESCRIPTION:
+geoipupdate: geoipupdate (GeoIP Update Program)
+geoipupdate:
+geoipupdate: MaxMind provides the GeoIP Update program,
+geoipupdate: which performs automatic updates for both GeoIP2
+geoipupdate: and GeoIP Legacy binary databases.
+geoipupdate: GeoIP updates require an active GeoIP subscription.
+geoipupdate:
+geoipupdate:
+geoipupdate:
+geoipupdate:
+geoipupdate:
+

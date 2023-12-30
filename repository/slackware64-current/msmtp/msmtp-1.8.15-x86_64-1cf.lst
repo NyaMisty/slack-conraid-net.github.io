@@ -1,0 +1,55 @@
+++========================================
+||
+||   Package:  ./msmtp/msmtp-1.8.15-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-03-15 10:13 ./
+drwxr-xr-x root/root         0 2021-03-15 10:13 install/
+-rw-r--r-- root/root       700 2021-03-15 10:13 install/slack-desc
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/bin/
+-rwxr-xr-x root/root    136024 2021-03-15 10:13 usr/bin/msmtp
+-rwxr-xr-x root/root     18752 2021-03-15 10:13 usr/bin/msmtpd
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/doc/
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/doc/msmtp-1.8.15/
+-rw-r--r-- root/root       215 2018-06-12 19:59 usr/doc/msmtp-1.8.15/AUTHORS
+-rw-r--r-- root/root     35147 2018-06-11 20:32 usr/doc/msmtp-1.8.15/COPYING
+-rw-r--r-- root/root    123025 2021-03-12 15:33 usr/doc/msmtp-1.8.15/ChangeLog
+-rw-r--r-- root/root     15756 2021-03-12 15:32 usr/doc/msmtp-1.8.15/INSTALL
+-rw-r--r-- root/root     21307 2020-12-26 09:45 usr/doc/msmtp-1.8.15/NEWS
+-rw-r--r-- root/root      1632 2020-12-26 09:48 usr/doc/msmtp-1.8.15/README
+-rw-r--r-- root/root       820 2018-06-11 20:32 usr/doc/msmtp-1.8.15/THANKS
+-rw-r--r-- root/root      3878 2021-03-15 10:13 usr/doc/msmtp-1.8.15/msmtp.SlackBuild
+-rw-r--r-- root/root       511 2019-11-19 14:46 usr/doc/msmtp-1.8.15/msmtprc-system.example
+-rw-r--r-- root/root      2578 2020-11-08 12:47 usr/doc/msmtp-1.8.15/msmtprc-user.example
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/info/
+-rw-r--r-- root/root     17939 2021-03-15 10:13 usr/info/msmtp.info.gz
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/man/
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/man/man1/
+-rw-r--r-- root/root     12667 2021-03-15 10:13 usr/man/man1/msmtp.1.gz
+-rw-r--r-- root/root      1235 2021-03-15 10:13 usr/man/man1/msmtpd.1.gz
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/share/
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/share/locale/
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/share/locale/de/
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/share/locale/de/LC_MESSAGES/
+-rw-r--r-- root/root     36269 2021-03-15 10:13 usr/share/locale/de/LC_MESSAGES/msmtp.mo
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/share/locale/eo/
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/share/locale/eo/LC_MESSAGES/
+-rw-r--r-- root/root     34281 2021-03-15 10:13 usr/share/locale/eo/LC_MESSAGES/msmtp.mo
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/share/locale/fr/
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/share/locale/fr/LC_MESSAGES/
+-rw-r--r-- root/root     36998 2021-03-15 10:13 usr/share/locale/fr/LC_MESSAGES/msmtp.mo
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/share/locale/pt_BR/
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/share/locale/pt_BR/LC_MESSAGES/
+-rw-r--r-- root/root     36879 2021-03-15 10:13 usr/share/locale/pt_BR/LC_MESSAGES/msmtp.mo
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/share/locale/sr/
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/share/locale/sr/LC_MESSAGES/
+-rw-r--r-- root/root     44726 2021-03-15 10:13 usr/share/locale/sr/LC_MESSAGES/msmtp.mo
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/share/locale/ta/
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/share/locale/ta/LC_MESSAGES/
+-rw-r--r-- root/root     13376 2021-03-15 10:13 usr/share/locale/ta/LC_MESSAGES/msmtp.mo
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/share/locale/uk/
+drwxr-xr-x root/root         0 2021-03-15 10:13 usr/share/locale/uk/LC_MESSAGES/
+-rw-r--r-- root/root     46504 2021-03-15 10:13 usr/share/locale/uk/LC_MESSAGES/msmtp.mo
+
+

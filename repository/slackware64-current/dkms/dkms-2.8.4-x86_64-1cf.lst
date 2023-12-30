@@ -1,0 +1,36 @@
+++========================================
+||
+||   Package:  ./dkms/dkms-2.8.4-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-11-30 12:32 ./
+drwxr-xr-x root/root         0 2020-11-30 12:32 etc/
+drwxr-xr-x root/root         0 2020-11-30 12:32 etc/dkms/
+-rw-r--r-- root/root      1042 2020-11-30 09:47 etc/dkms/framework.conf
+-rwxr-xr-x root/root       146 2020-11-30 09:47 etc/dkms/kernel_install.d_dkms
+-rwxr-xr-x root/root        93 2020-11-30 09:47 etc/dkms/sign_helper.sh
+drwxr-xr-x root/root         0 2020-11-30 12:32 install/
+-rw-r--r-- root/root       643 2020-11-30 12:32 install/slack-desc
+drwxr-xr-x root/root         0 2020-11-30 12:32 usr/
+drwxr-xr-x root/root         0 2020-11-30 12:32 usr/doc/
+drwxr-xr-x root/root         0 2020-11-30 12:32 usr/doc/dkms-2.8.4/
+-rw-r--r-- root/root       706 2020-11-30 09:47 usr/doc/dkms-2.8.4/AUTHORS
+-rw-r--r-- root/root     18007 2020-11-30 09:47 usr/doc/dkms-2.8.4/COPYING
+-rw-r--r-- root/root      5113 2020-11-30 09:47 usr/doc/dkms-2.8.4/README.md
+-rw-r--r-- root/root        63 2020-11-30 09:47 usr/doc/dkms-2.8.4/TODO
+-rw-r--r-- root/root      3146 2020-11-30 12:32 usr/doc/dkms-2.8.4/dkms.SlackBuild
+drwxr-xr-x root/root         0 2020-11-30 12:32 usr/lib/
+drwxr-xr-x root/root         0 2020-11-30 12:32 usr/lib/dkms/
+-rwxr-xr-x root/root      9242 2020-11-30 09:47 usr/lib/dkms/common.postinst
+-rwxr-xr-x root/root      1767 2020-11-30 09:47 usr/lib/dkms/dkms_autoinstaller
+drwxr-xr-x root/root         0 2020-11-30 12:32 usr/man/
+drwxr-xr-x root/root         0 2020-11-30 12:32 usr/man/man8/
+-rw-r--r-- root/root     13595 2020-11-30 09:47 usr/man/man8/dkms.8.gz
+drwxr-xr-x root/root         0 2020-11-30 12:32 usr/sbin/
+-rwxr-xr-x root/root    144884 2020-11-30 12:32 usr/sbin/dkms
+drwxr-xr-x root/root         0 2020-11-30 12:32 var/
+drwxr-xr-x root/root         0 2020-11-30 12:32 var/lib/
+drwxr-xr-x root/root         0 2020-11-30 12:32 var/lib/dkms/
+-rw-r--r-- root/root         6 2020-11-30 09:47 var/lib/dkms/dkms_dbversion
+
+

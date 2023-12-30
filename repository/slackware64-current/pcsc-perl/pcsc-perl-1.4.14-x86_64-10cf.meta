@@ -1,0 +1,21 @@
+PACKAGE NAME:  pcsc-perl-1.4.14-x86_64-10cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./pcsc-perl
+PACKAGE SIZE (compressed):  44 K
+PACKAGE SIZE (uncompressed):  160 K
+PACKAGE REQUIRED:  pcsc-lite
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+pcsc-perl: pcsc-perl (Perl wrapper to pcsc-lite)
+pcsc-perl:
+pcsc-perl: pcsc-perl, Perl module that allows you to communicate with a smart
+pcsc-perl: card using PC/SC (in this case, pcsc-lite).
+pcsc-perl:
+pcsc-perl:
+pcsc-perl:
+pcsc-perl:
+pcsc-perl:
+pcsc-perl:
+pcsc-perl:
+

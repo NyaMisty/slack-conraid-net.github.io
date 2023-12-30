@@ -1,0 +1,11 @@
+html5lib-python: html5lib-python (python-library for parsing HTML)
+html5lib-python:
+html5lib-python: html5lib is a pure-python library for parsing HTML. It is designed
+html5lib-python: to conform to the WHATWG HTML specification, as is implemented by
+html5lib-python: all major web browsers.
+html5lib-python:
+html5lib-python:
+html5lib-python:
+html5lib-python:
+html5lib-python:
+html5lib-python:

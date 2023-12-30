@@ -1,0 +1,11 @@
+libmanette: libmanette (Simple GObject game controller library)
+libmanette:
+libmanette: Simple GObject game controller library
+libmanette:
+libmanette:
+libmanette:
+libmanette:
+libmanette:
+libmanette:
+libmanette:
+libmanette:

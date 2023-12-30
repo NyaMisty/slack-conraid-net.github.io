@@ -1,0 +1,47 @@
+++========================================
+||
+||   Package:  ./ndpi/ndpi-3.4-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-19 17:06 ./
+drwxr-xr-x root/root         0 2020-10-19 17:06 install/
+-rw-r--r-- root/root       186 2020-10-19 17:06 install/doinst.sh
+-rw-r--r-- root/root       724 2020-10-19 17:06 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-19 17:06 usr/
+drwxr-xr-x root/root         0 2020-10-19 17:06 usr/bin/
+-rwxr-xr-x root/root    811392 2020-10-19 17:06 usr/bin/ndpiReader
+drwxr-xr-x root/root         0 2020-10-19 17:06 usr/doc/
+drwxr-xr-x root/root         0 2020-10-19 17:06 usr/doc/ndpi-3.4/
+-rw-r--r-- root/root     17015 2020-10-19 16:18 usr/doc/ndpi-3.4/CHANGELOG.md
+-rw-r--r-- root/root      1464 2020-10-19 16:18 usr/doc/ndpi-3.4/CONTRIBUTING.md
+-rw-r--r-- root/root      7637 2020-10-19 16:18 usr/doc/ndpi-3.4/COPYING
+-rw-r--r-- root/root     15578 2020-10-19 16:18 usr/doc/ndpi-3.4/INSTALL
+-rw-r--r-- root/root      3200 2020-10-19 16:18 usr/doc/ndpi-3.4/README.md
+-rw-r--r-- root/root       669 2020-10-19 16:18 usr/doc/ndpi-3.4/README.nDPI
+-rw-r--r-- root/root      1053 2020-10-19 16:18 usr/doc/ndpi-3.4/README.protocols
+-rw-r--r-- root/root      3623 2020-10-19 17:06 usr/doc/ndpi-3.4/ndpi.SlackBuild
+drwxr-xr-x root/root         0 2020-10-19 17:06 usr/include/
+drwxr-xr-x root/root         0 2020-10-19 17:06 usr/include/ndpi/
+-rw-r--r-- root/root     55130 2020-10-19 17:06 usr/include/ndpi/ndpi_api.h
+-rw-r--r-- root/root      3668 2020-10-19 17:06 usr/include/ndpi/ndpi_classify.h
+-rw-r--r-- root/root      2951 2020-10-19 17:06 usr/include/ndpi/ndpi_config.h
+-rw-r--r-- root/root     18363 2020-10-19 17:06 usr/include/ndpi/ndpi_define.h
+-rw-r--r-- root/root      1908 2020-10-19 17:06 usr/include/ndpi/ndpi_includes.h
+-rw-r--r-- root/root      1111 2020-10-19 17:06 usr/include/ndpi/ndpi_includes_OpenBSD.h
+-rw-r--r-- root/root      7022 2020-10-19 17:06 usr/include/ndpi/ndpi_main.h
+-rw-r--r-- root/root     15565 2020-10-19 17:06 usr/include/ndpi/ndpi_protocol_ids.h
+-rw-r--r-- root/root     23632 2020-10-19 17:06 usr/include/ndpi/ndpi_protocols.h
+-rw-r--r-- root/root     43043 2020-10-19 17:06 usr/include/ndpi/ndpi_typedefs.h
+-rw-r--r-- root/root      1298 2020-10-19 17:06 usr/include/ndpi/ndpi_unix.h
+-rw-r--r-- root/root      3229 2020-10-19 17:06 usr/include/ndpi/ndpi_win32.h
+drwxr-xr-x root/root         0 2020-10-19 17:06 usr/lib64/
+-rw-r--r-- root/root   1574840 2020-10-19 17:06 usr/lib64/libndpi.a
+-rwxr-xr-x root/root   1054800 2020-10-19 17:06 usr/lib64/libndpi.so.3.4.0
+drwxr-xr-x root/root         0 2020-10-19 17:06 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       227 2020-10-19 17:06 usr/lib64/pkgconfig/libndpi.pc
+drwxr-xr-x root/root         0 2020-10-19 17:06 usr/share/
+drwxr-xr-x root/root         0 2020-10-19 17:06 usr/share/ndpi/
+-rw-r--r-- root/root      4952 2020-10-19 17:06 usr/share/ndpi/ndpiCustomCategory.txt
+-rw-r--r-- root/root      1309 2020-10-19 17:06 usr/share/ndpi/ndpiProtos.txt
+
+

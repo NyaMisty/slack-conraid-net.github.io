@@ -1,0 +1,30 @@
+++========================================
+||
+||   Package:  ./jq/jq-1.6-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 11:36 ./
+drwxr-xr-x root/root         0 2020-10-05 11:36 install/
+-rw-r--r-- root/root       174 2020-10-05 11:36 install/doinst.sh
+-rw-r--r-- root/root       624 2020-10-05 11:36 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 11:36 usr/
+drwxr-xr-x root/root         0 2020-10-05 11:36 usr/bin/
+-rwxr-xr-x root/root     31256 2020-10-05 11:36 usr/bin/jq
+drwxr-xr-x root/root         0 2020-10-05 11:36 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 11:36 usr/doc/jq-1.6/
+-rw-r--r-- root/root      4180 2020-10-05 11:36 usr/doc/jq-1.6/AUTHORS
+-rw-r--r-- root/root      2940 2020-10-05 11:36 usr/doc/jq-1.6/COPYING
+-rw-r--r-- root/root     33283 2018-11-02 02:49 usr/doc/jq-1.6/ChangeLog
+-rw-r--r-- root/root      3045 2020-10-05 11:36 usr/doc/jq-1.6/README
+-rw-r--r-- root/root      3045 2020-10-05 11:36 usr/doc/jq-1.6/README.md
+-rw-r--r-- root/root      3836 2020-10-05 11:36 usr/doc/jq-1.6/jq.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 11:36 usr/include/
+-rw-r--r-- root/root      2371 2020-10-05 11:36 usr/include/jq.h
+-rw-r--r-- root/root     10047 2020-10-05 11:36 usr/include/jv.h
+drwxr-xr-x root/root         0 2020-10-05 11:36 usr/lib64/
+-rwxr-xr-x root/root    315568 2020-10-05 11:36 usr/lib64/libjq.so.1.0.4
+drwxr-xr-x root/root         0 2020-10-05 11:36 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 11:36 usr/man/man1/
+-rw-r--r-- root/root     31196 2020-10-05 11:36 usr/man/man1/jq.1.gz
+
+

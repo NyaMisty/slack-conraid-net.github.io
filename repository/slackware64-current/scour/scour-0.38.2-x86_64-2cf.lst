@@ -1,0 +1,42 @@
+++========================================
+||
+||   Package:  ./scour/scour-0.38.2-x86_64-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-01-24 10:08 ./
+drwxr-xr-x root/root         0 2021-01-24 10:08 install/
+-rw-r--r-- root/root       764 2021-01-24 10:08 install/slack-desc
+drwxr-xr-x root/root         0 2021-01-24 10:08 usr/
+drwxr-xr-x root/root         0 2021-01-24 10:08 usr/bin/
+-rwxr-xr-x root/root       951 2021-01-24 10:08 usr/bin/scour
+drwxr-xr-x root/root         0 2021-01-24 10:08 usr/doc/
+drwxr-xr-x root/root         0 2021-01-24 10:08 usr/doc/scour-0.38.2/
+-rw-r--r-- root/root     24543 2020-11-22 15:05 usr/doc/scour-0.38.2/HISTORY.md
+-rw-r--r-- root/root     11357 2020-11-22 15:05 usr/doc/scour-0.38.2/LICENSE
+-rw-r--r-- root/root      2317 2020-11-22 15:05 usr/doc/scour-0.38.2/README.md
+-rw-r--r-- root/root      3015 2021-01-24 10:08 usr/doc/scour-0.38.2/scour.SlackBuild
+drwxr-xr-x root/root         0 2021-01-24 10:08 usr/lib64/
+drwxr-xr-x root/root         0 2021-01-24 10:08 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2021-01-24 10:08 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2021-01-24 10:08 usr/lib64/python3.9/site-packages/scour/
+drwxr-xr-x root/root         0 2021-01-24 10:08 usr/lib64/python3.9/site-packages/scour-0.38.2-py3.9.egg-info/
+-rw-r--r-- root/root      1774 2021-01-24 10:08 usr/lib64/python3.9/site-packages/scour-0.38.2-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       312 2021-01-24 10:08 usr/lib64/python3.9/site-packages/scour-0.38.2-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2021-01-24 10:08 usr/lib64/python3.9/site-packages/scour-0.38.2-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root        43 2021-01-24 10:08 usr/lib64/python3.9/site-packages/scour-0.38.2-py3.9.egg-info/entry_points.txt
+-rw-r--r-- root/root        11 2021-01-24 10:08 usr/lib64/python3.9/site-packages/scour-0.38.2-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root         6 2021-01-24 10:08 usr/lib64/python3.9/site-packages/scour-0.38.2-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root         1 2021-01-24 10:08 usr/lib64/python3.9/site-packages/scour-0.38.2-py3.9.egg-info/zip-safe
+-rw-r--r-- root/root       813 2020-11-22 15:05 usr/lib64/python3.9/site-packages/scour/__init__.py
+drwxr-xr-x root/root         0 2021-01-24 10:08 usr/lib64/python3.9/site-packages/scour/__pycache__/
+-rw-r--r-- root/root       165 2021-01-24 10:08 usr/lib64/python3.9/site-packages/scour/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root     84178 2021-01-24 10:08 usr/lib64/python3.9/site-packages/scour/__pycache__/scour.cpython-39.pyc
+-rw-r--r-- root/root      7589 2021-01-24 10:08 usr/lib64/python3.9/site-packages/scour/__pycache__/svg_regex.cpython-39.pyc
+-rw-r--r-- root/root      6525 2021-01-24 10:08 usr/lib64/python3.9/site-packages/scour/__pycache__/svg_transform.cpython-39.pyc
+-rw-r--r-- root/root       608 2021-01-24 10:08 usr/lib64/python3.9/site-packages/scour/__pycache__/yocto_css.cpython-39.pyc
+-rw-r--r-- root/root    178585 2020-11-22 15:05 usr/lib64/python3.9/site-packages/scour/scour.py
+-rw-r--r-- root/root     11300 2020-11-22 15:05 usr/lib64/python3.9/site-packages/scour/svg_regex.py
+-rw-r--r-- root/root      7662 2020-11-22 15:05 usr/lib64/python3.9/site-packages/scour/svg_transform.py
+-rw-r--r-- root/root      3033 2020-11-22 15:05 usr/lib64/python3.9/site-packages/scour/yocto_css.py
+
+

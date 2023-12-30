@@ -1,0 +1,11 @@
+nicstat: nicstat (Network traffic statics utility)
+nicstat:
+nicstat: nicstat is a Solaris and Linux command-line that prints out network
+nicstat: statistics for all network interface cards (NICs), including packets,
+nicstat: kilobytes per second, average packet sizes and more.
+nicstat:
+nicstat:
+nicstat:
+nicstat:
+nicstat:
+nicstat:

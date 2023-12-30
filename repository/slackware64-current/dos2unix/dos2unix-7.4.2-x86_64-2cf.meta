@@ -1,0 +1,18 @@
+PACKAGE NAME:  dos2unix-7.4.2-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./dos2unix
+PACKAGE SIZE (compressed):  324 K
+PACKAGE SIZE (uncompressed):  1600 K
+PACKAGE DESCRIPTION:
+dos2unix: dos2unix (DOS/MAC to UNIX text file format converter)
+dos2unix:
+dos2unix: Convert text files with DOS line endings to Unix line endings and 
+dos2unix: vice versa.
+dos2unix: This is an update of Benjamin Lin's implementations of dos2unix and
+dos2unix: unix2dos. Benjamin Lin's implementations of dos2unix and unix2dos are
+dos2unix: part of all RedHat based Linux distributions and others.
+dos2unix:
+dos2unix:
+dos2unix:
+dos2unix:
+

@@ -1,0 +1,11 @@
+unicode-emoji: unicode-emoji (Unicode Emoji Data Files)
+unicode-emoji:
+unicode-emoji: Emoji are pictographs (pictorial symbols) that are typically
+unicode-emoji: presented in a colorful form and used inline in text. They represent
+unicode-emoji: things such as faces, weather, vehicles and buildings, food and drink,
+unicode-emoji: animals and plants, or icons that represent emotions, feelings, or
+unicode-emoji: activities.
+unicode-emoji:
+unicode-emoji:
+unicode-emoji:
+unicode-emoji:

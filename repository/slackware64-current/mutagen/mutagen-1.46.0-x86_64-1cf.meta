@@ -1,0 +1,21 @@
+PACKAGE NAME:  mutagen-1.46.0-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./mutagen
+PACKAGE SIZE (compressed):  268 K
+PACKAGE SIZE (uncompressed):  1310 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+mutagen: mutagen (Python 2/3 module for handling audio metadata)
+mutagen:
+mutagen: Mutagen is a Python module to handle audio metadata. It supports ASF,
+mutagen: FLAC, MP4, Monkey's Audio, MP3, Musepack, Ogg Opus, Ogg FLAC,
+mutange: Ogg Speex, Ogg Theora, Ogg Vorbis, True Audio, WavPack, OptimFROG,
+mutange: and AIFF audio files. All versions of ID3v2 are supported, and all
+mutange: standard ID3v2.4 frames are parsed. It can read Xing headers to
+mutange: accurately calculate the bitrate and length of MP3s.
+mutagen:
+mutagen:
+mutagen:
+

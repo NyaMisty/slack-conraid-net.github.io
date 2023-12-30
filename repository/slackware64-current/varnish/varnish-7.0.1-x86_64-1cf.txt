@@ -1,0 +1,11 @@
+varnish: varnish (high-performance HTTP accelerator)
+varnish:
+varnish: Varnish Cache is a web application accelerator also known as a
+varnish: caching HTTP reverse proxy. You install it in front of any server
+varnish: that speaks HTTP and configure it to cache the contents.
+varnish:
+varnish: BUILT WITHOUT DOC. USE ONLY FOR TESTING.
+varnish:
+varnish:
+varnish:
+varnish:

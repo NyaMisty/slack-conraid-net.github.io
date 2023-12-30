@@ -1,0 +1,18 @@
+PACKAGE NAME:  python-importlib-metadata-1.7.0-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./python-importlib-metadata
+PACKAGE SIZE (compressed):  40 K
+PACKAGE SIZE (uncompressed):  190 K
+PACKAGE DESCRIPTION:
+python-importlib-metadata: python-importlib-metadata (Read metadata from Python packages)
+python-importlib-metadata:
+python-importlib-metadata: importlib_metadata is a library which provides an API for accessing
+python-importlib-metadata: an installed package’s metadata (see PEP 566), such as its entry
+python-importlib-metadata: points or its top-level name.
+python-importlib-metadata:
+python-importlib-metadata:
+python-importlib-metadata:
+python-importlib-metadata:
+python-importlib-metadata:
+python-importlib-metadata:
+

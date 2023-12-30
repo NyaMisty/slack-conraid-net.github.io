@@ -1,0 +1,32 @@
+++========================================
+||
+||   Package:  ./checksec/checksec-2.6.0-noarch-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-28 07:09 ./
+drwxr-xr-x root/root         0 2022-05-28 07:09 install/
+-rw-r--r-- root/root       779 2022-05-28 07:09 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-28 07:09 usr/
+drwxr-xr-x root/root         0 2022-05-28 07:09 usr/bin/
+-rwxr-xr-x root/root     75721 2022-05-28 07:09 usr/bin/checksec
+drwxr-xr-x root/root         0 2022-05-28 07:09 usr/doc/
+drwxr-xr-x root/root         0 2022-05-28 07:09 usr/doc/checksec-2.6.0/
+-rw-r--r-- root/root     10264 2022-05-27 23:35 usr/doc/checksec-2.6.0/ChangeLog
+-rw-r--r-- root/root      1692 2022-05-27 23:35 usr/doc/checksec-2.6.0/LICENSE.txt
+-rw-r--r-- root/root      5658 2022-05-27 23:35 usr/doc/checksec-2.6.0/README.md
+-rw-r--r-- root/root      3216 2022-05-28 07:09 usr/doc/checksec-2.6.0/checksec.SlackBuild
+drwxr-xr-x root/root         0 2022-05-27 23:35 usr/doc/checksec-2.6.0/tests/
+-rwxr-xr-x root/root      5391 2022-05-27 23:35 usr/doc/checksec-2.6.0/tests/json-checks.sh
+-rw-r--r-- root/root    120263 2022-05-27 23:35 usr/doc/checksec-2.6.0/tests/kernel.config
+-rw-r--r-- root/root        78 2022-05-27 23:35 usr/doc/checksec-2.6.0/tests/output.json
+-rwxr-xr-x root/root       186 2022-05-27 23:35 usr/doc/checksec-2.6.0/tests/test-checksec.sh
+-rwxr-xr-x root/root      4078 2022-05-27 23:35 usr/doc/checksec-2.6.0/tests/xml-checks.sh
+drwxr-xr-x root/root         0 2022-05-28 07:09 usr/man/
+drwxr-xr-x root/root         0 2022-05-28 07:09 usr/man/man1/
+-rw-r--r-- root/root       958 2022-05-28 07:09 usr/man/man1/checksec.1.gz
+drwxr-xr-x root/root         0 2022-05-28 07:09 usr/share/
+drwxr-xr-x root/root         0 2022-05-28 07:09 usr/share/zsh/
+drwxr-xr-x root/root         0 2022-05-28 07:09 usr/share/zsh/site-functions/
+-rw-r--r-- root/root      1477 2022-05-28 07:09 usr/share/zsh/site-functions/_checksec
+
+

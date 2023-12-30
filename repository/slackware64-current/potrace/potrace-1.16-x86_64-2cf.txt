@@ -1,0 +1,11 @@
+potrace: potrace (bitmap utility)
+potrace:
+potrace: Potrace is a utility for tracing a bitmap, which means, transforming
+potrace: a bitmap into a smooth, scalable image.  The input is a bitmap (PBM,
+potrace: PGM, PPM, or BMP format), and the default output is an encapsulated
+potrace: PostScript file (EPS).
+potrace:
+potrace:
+potrace:
+potrace:
+potrace:

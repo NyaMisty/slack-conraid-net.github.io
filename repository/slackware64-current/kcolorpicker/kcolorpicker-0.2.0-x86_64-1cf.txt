@@ -1,0 +1,11 @@
+kcolorpicker: kcolorpicker (Qt based Color Picker with popup menu)
+kcolorpicker:
+kcolorpicker: QToolButton with color popup menu with lets you select a color.
+kcolorpicker: The popup features a color dialog button which can be used to add
+kcolorpicker: custom colors to the popup menu.
+kcolorpicker:
+kcolorpicker:
+kcolorpicker:
+kcolorpicker:
+kcolorpicker:
+kcolorpicker:

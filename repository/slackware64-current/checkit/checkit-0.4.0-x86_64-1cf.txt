@@ -1,0 +1,11 @@
+checkit: checkit (A file integrity tool)
+checkit:
+checkit: Checkit is a file integrity tool for Linux and Unix systems. 
+checkit:
+checkit:
+checkit:
+checkit:
+checkit:
+checkit:
+checkit:
+checkit:

@@ -1,0 +1,34 @@
+++========================================
+||
+||   Package:  ./python-logzero/python-logzero-1.7.0-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-03-18 08:59 ./
+drwxr-xr-x root/root         0 2021-03-18 08:59 install/
+-rw-r--r-- root/root       787 2021-03-18 08:59 install/slack-desc
+drwxr-xr-x root/root         0 2021-03-18 08:59 usr/
+drwxr-xr-x root/root         0 2021-03-18 08:59 usr/doc/
+drwxr-xr-x root/root         0 2021-03-18 08:59 usr/doc/python-logzero-1.7.0/
+-rw-r--r-- root/root      3218 2021-03-17 12:24 usr/doc/python-logzero-1.7.0/CONTRIBUTING.rst
+-rw-r--r-- root/root      1071 2021-03-17 12:24 usr/doc/python-logzero-1.7.0/LICENSE
+-rw-r--r-- root/root      3221 2021-03-18 08:59 usr/doc/python-logzero-1.7.0/python-logzero.SlackBuild
+drwxr-xr-x root/root         0 2021-03-18 08:59 usr/lib64/
+drwxr-xr-x root/root         0 2021-03-18 08:59 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2021-03-18 08:59 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2021-03-18 08:59 usr/lib64/python3.9/site-packages/logzero/
+drwxr-xr-x root/root         0 2021-03-18 08:59 usr/lib64/python3.9/site-packages/logzero-1.7.0-py3.9.egg-info/
+-rw-r--r-- root/root     14394 2021-03-18 08:59 usr/lib64/python3.9/site-packages/logzero-1.7.0-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       732 2021-03-18 08:59 usr/lib64/python3.9/site-packages/logzero-1.7.0-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2021-03-18 08:59 usr/lib64/python3.9/site-packages/logzero-1.7.0-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root         1 2021-03-17 12:24 usr/lib64/python3.9/site-packages/logzero-1.7.0-py3.9.egg-info/not-zip-safe
+-rw-r--r-- root/root        35 2021-03-18 08:59 usr/lib64/python3.9/site-packages/logzero-1.7.0-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root         8 2021-03-18 08:59 usr/lib64/python3.9/site-packages/logzero-1.7.0-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root     22863 2021-03-17 12:24 usr/lib64/python3.9/site-packages/logzero/__init__.py
+drwxr-xr-x root/root         0 2021-03-18 08:59 usr/lib64/python3.9/site-packages/logzero/__pycache__/
+-rw-r--r-- root/root     17798 2021-03-18 08:59 usr/lib64/python3.9/site-packages/logzero/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      3185 2021-03-18 08:59 usr/lib64/python3.9/site-packages/logzero/__pycache__/colors.cpython-39.pyc
+-rw-r--r-- root/root      7553 2021-03-18 08:59 usr/lib64/python3.9/site-packages/logzero/__pycache__/jsonlogger.cpython-39.pyc
+-rw-r--r-- root/root      2226 2021-03-17 12:24 usr/lib64/python3.9/site-packages/logzero/colors.py
+-rw-r--r-- root/root      8827 2021-03-17 12:24 usr/lib64/python3.9/site-packages/logzero/jsonlogger.py
+
+

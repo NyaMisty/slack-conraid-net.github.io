@@ -1,0 +1,54 @@
+++========================================
+||
+||   Package:  ./msgpack-c/msgpack-c-4.0.0-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-10-24 10:26 ./
+drwxr-xr-x root/root         0 2021-10-24 10:26 install/
+-rw-r--r-- root/root       206 2021-10-24 10:26 install/doinst.sh
+-rw-r--r-- root/root       943 2021-10-24 10:26 install/slack-desc
+drwxr-xr-x root/root         0 2021-10-24 10:26 usr/
+drwxr-xr-x root/root         0 2021-10-24 10:26 usr/doc/
+drwxr-xr-x root/root         0 2021-10-24 10:26 usr/doc/msgpack-c-4.0.0/
+-rw-r--r-- root/root         0 2021-09-01 04:15 usr/doc/msgpack-c-4.0.0/AUTHORS
+-rw-r--r-- root/root       200 2021-09-01 01:42 usr/doc/msgpack-c-4.0.0/COPYING
+-rw-r--r-- root/root     17413 2021-09-01 04:15 usr/doc/msgpack-c-4.0.0/ChangeLog
+-rw-r--r-- root/root      1338 2021-09-01 01:42 usr/doc/msgpack-c-4.0.0/LICENSE_1_0.txt
+-rw-r--r-- root/root         0 2021-09-01 04:15 usr/doc/msgpack-c-4.0.0/NEWS
+-rw-r--r-- root/root       419 2021-09-01 01:42 usr/doc/msgpack-c-4.0.0/NOTICE
+-rw-r--r-- root/root      4027 2021-09-01 04:15 usr/doc/msgpack-c-4.0.0/README
+-rw-r--r-- root/root      4027 2021-09-01 04:12 usr/doc/msgpack-c-4.0.0/README.md
+-rw-r--r-- root/root      3876 2021-10-24 10:26 usr/doc/msgpack-c-4.0.0/msgpack-c.SlackBuild
+drwxr-xr-x root/root         0 2021-10-24 10:26 usr/include/
+drwxr-xr-x root/root         0 2021-10-24 10:26 usr/include/msgpack/
+-rw-r--r-- root/root       526 2021-09-01 01:54 usr/include/msgpack.h
+-rw-r--r-- root/root       750 2021-09-01 01:54 usr/include/msgpack/fbuffer.h
+-rw-r--r-- root/root       537 2021-09-01 01:54 usr/include/msgpack/gcc_atomic.h
+-rw-r--r-- root/root      2741 2021-09-01 01:54 usr/include/msgpack/object.h
+-rw-r--r-- root/root      5845 2021-09-01 01:54 usr/include/msgpack/pack.h
+-rw-r--r-- root/root       432 2021-09-01 01:54 usr/include/msgpack/pack_define.h
+-rw-r--r-- root/root     24963 2021-10-24 10:26 usr/include/msgpack/pack_template.h
+-rw-r--r-- root/root      2351 2021-09-01 01:54 usr/include/msgpack/sbuffer.h
+-rw-r--r-- root/root      7357 2021-10-24 10:26 usr/include/msgpack/sysdep.h
+-rw-r--r-- root/root      1399 2021-09-01 01:54 usr/include/msgpack/timestamp.h
+-rw-r--r-- root/root      7846 2021-09-01 01:54 usr/include/msgpack/unpack.h
+-rw-r--r-- root/root      2305 2021-09-01 01:54 usr/include/msgpack/unpack_define.h
+-rw-r--r-- root/root     16648 2021-09-01 01:54 usr/include/msgpack/unpack_template.h
+-rw-r--r-- root/root       362 2021-09-01 01:54 usr/include/msgpack/util.h
+-rw-r--r-- root/root       900 2021-09-01 01:54 usr/include/msgpack/version.h
+-rw-r--r-- root/root       105 2021-09-01 04:12 usr/include/msgpack/version_master.h
+-rw-r--r-- root/root      3811 2021-09-01 01:54 usr/include/msgpack/vrefbuffer.h
+-rw-r--r-- root/root      5066 2021-09-01 01:54 usr/include/msgpack/zbuffer.h
+-rw-r--r-- root/root      3923 2021-09-01 03:32 usr/include/msgpack/zone.h
+drwxr-xr-x root/root         0 2021-10-24 10:26 usr/lib64/
+drwxr-xr-x root/root         0 2021-10-24 10:26 usr/lib64/cmake/
+drwxr-xr-x root/root         0 2021-10-24 10:26 usr/lib64/cmake/msgpack/
+-rw-r--r-- root/root      2878 2021-10-24 10:26 usr/lib64/cmake/msgpack/msgpack-config-version.cmake
+-rw-r--r-- root/root      1538 2021-10-24 10:26 usr/lib64/cmake/msgpack/msgpack-config.cmake
+-rw-r--r-- root/root       818 2021-10-24 10:26 usr/lib64/cmake/msgpack/msgpack-targets-release.cmake
+-rw-r--r-- root/root      3600 2021-10-24 10:26 usr/lib64/cmake/msgpack/msgpack-targets.cmake
+-rwxr-xr-x root/root     34912 2021-10-24 10:26 usr/lib64/libmsgpackc.so.2.0.0
+drwxr-xr-x root/root         0 2021-10-24 10:26 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       241 2021-10-24 10:26 usr/lib64/pkgconfig/msgpack.pc
+
+

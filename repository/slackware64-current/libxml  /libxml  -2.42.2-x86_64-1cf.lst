@@ -1,0 +1,77 @@
+++========================================
+||
+||   Package:  ./libxml++/libxml++-2.42.2-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-09-10 15:04 ./
+drwxr-xr-x root/root         0 2022-09-10 15:04 install/
+-rw-r--r-- root/root       212 2022-09-10 15:04 install/doinst.sh
+-rw-r--r-- root/root       696 2022-09-10 15:04 install/slack-desc
+drwxr-xr-x root/root         0 2022-09-10 15:04 usr/
+drwxr-xr-x root/root         0 2022-09-10 15:04 usr/doc/
+drwxr-xr-x root/root         0 2022-09-10 15:04 usr/doc/libxml++-2.42.2/
+-rw-r--r-- root/root       298 2022-09-09 14:55 usr/doc/libxml++-2.42.2/AUTHORS
+-rw-r--r-- root/root     26430 2022-09-09 14:55 usr/doc/libxml++-2.42.2/COPYING
+-rw-r--r-- root/root     56678 2022-09-09 14:59 usr/doc/libxml++-2.42.2/ChangeLog
+-rwxr-xr-x root/root     22473 2022-09-09 14:55 usr/doc/libxml++-2.42.2/NEWS
+-rw-r--r-- root/root      3275 2022-09-09 14:55 usr/doc/libxml++-2.42.2/README
+-rw-r--r-- root/root      4442 2022-09-10 15:04 usr/doc/libxml++-2.42.2/libxml++.SlackBuild
+drwxr-xr-x root/root         0 2022-09-10 15:04 usr/include/
+drwxr-xr-x root/root         0 2022-09-10 15:04 usr/include/libxml++-2.6/
+drwxr-xr-x root/root         0 2022-09-10 15:04 usr/include/libxml++-2.6/libxml++/
+-rw-r--r-- root/root      2058 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/attribute.h
+-rw-r--r-- root/root      1162 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/attributedeclaration.h
+-rw-r--r-- root/root       689 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/attributenode.h
+-rw-r--r-- root/root     12122 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/document.h
+-rw-r--r-- root/root      1004 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/dtd.h
+drwxr-xr-x root/root         0 2022-09-10 15:04 usr/include/libxml++-2.6/libxml++/exceptions/
+-rw-r--r-- root/root      2453 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/exceptions/exception.h
+-rw-r--r-- root/root      1341 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/exceptions/internal_error.h
+-rw-r--r-- root/root      1414 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/exceptions/parse_error.h
+-rw-r--r-- root/root      1395 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/exceptions/validity_error.h
+-rw-r--r-- root/root      1719 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/exceptions/wrapped_exception.h
+drwxr-xr-x root/root         0 2022-09-10 15:04 usr/include/libxml++-2.6/libxml++/io/
+-rw-r--r-- root/root       886 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/io/istreamparserinputbuffer.h
+-rw-r--r-- root/root      1079 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/io/ostreamoutputbuffer.h
+-rw-r--r-- root/root      2437 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/io/outputbuffer.h
+-rw-r--r-- root/root      2124 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/io/parserinputbuffer.h
+-rw-r--r-- root/root       830 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/keepblanks.h
+-rw-r--r-- root/root      2872 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/libxml++.h
+drwxr-xr-x root/root         0 2022-09-10 15:04 usr/include/libxml++-2.6/libxml++/nodes/
+-rw-r--r-- root/root       598 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/nodes/cdatanode.h
+-rw-r--r-- root/root       611 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/nodes/commentnode.h
+-rw-r--r-- root/root      1213 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/nodes/contentnode.h
+-rw-r--r-- root/root      8909 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/nodes/element.h
+-rw-r--r-- root/root      1501 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/nodes/entitydeclaration.h
+-rw-r--r-- root/root      1223 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/nodes/entityreference.h
+-rw-r--r-- root/root     17057 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/nodes/node.h
+-rw-r--r-- root/root       589 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/nodes/processinginstructionnode.h
+-rw-r--r-- root/root       586 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/nodes/textnode.h
+-rw-r--r-- root/root      1199 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/nodes/xincludeend.h
+-rw-r--r-- root/root      1213 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/nodes/xincludestart.h
+-rw-r--r-- root/root       649 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/noncopyable.h
+drwxr-xr-x root/root         0 2022-09-10 15:04 usr/include/libxml++-2.6/libxml++/parsers/
+-rw-r--r-- root/root      4539 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/parsers/domparser.h
+-rw-r--r-- root/root      8455 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/parsers/parser.h
+-rw-r--r-- root/root      8830 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/parsers/saxparser.h
+-rw-r--r-- root/root      9769 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/parsers/textreader.h
+-rw-r--r-- root/root      3855 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/relaxngschema.h
+-rw-r--r-- root/root      3328 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/schema.h
+-rw-r--r-- root/root      2056 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/schemabase.h
+drwxr-xr-x root/root         0 2022-09-10 15:04 usr/include/libxml++-2.6/libxml++/validators/
+-rw-r--r-- root/root      3215 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/validators/dtdvalidator.h
+-rw-r--r-- root/root      5939 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/validators/relaxngvalidator.h
+-rw-r--r-- root/root      5671 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/validators/schemavalidator.h
+-rw-r--r-- root/root      3439 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/validators/schemavalidatorbase.h
+-rw-r--r-- root/root      1735 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/validators/validator.h
+-rw-r--r-- root/root      5443 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/validators/xsdvalidator.h
+-rw-r--r-- root/root      3415 2022-09-09 14:55 usr/include/libxml++-2.6/libxml++/xsdschema.h
+drwxr-xr-x root/root         0 2022-09-10 15:04 usr/lib64/
+drwxr-xr-x root/root         0 2022-09-10 15:04 usr/lib64/libxml++-2.6/
+-rwxr-xr-x root/root    226600 2022-09-10 15:04 usr/lib64/libxml++-2.6.so.2.0.7
+drwxr-xr-x root/root         0 2022-09-10 15:04 usr/lib64/libxml++-2.6/include/
+-rwxr-xr-x root/root      1072 2022-09-10 15:04 usr/lib64/libxml++-2.6/include/libxml++config.h
+drwxr-xr-x root/root         0 2022-09-10 15:04 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       598 2022-09-10 15:04 usr/lib64/pkgconfig/libxml++-2.6.pc
+
+

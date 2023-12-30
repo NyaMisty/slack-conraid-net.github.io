@@ -1,0 +1,11 @@
+python-importlib-metadata: python-importlib-metadata (Read metadata from Python packages)
+python-importlib-metadata:
+python-importlib-metadata: importlib_metadata is a library which provides an API for accessing
+python-importlib-metadata: an installed package’s metadata (see PEP 566), such as its entry
+python-importlib-metadata: points or its top-level name.
+python-importlib-metadata:
+python-importlib-metadata:
+python-importlib-metadata:
+python-importlib-metadata:
+python-importlib-metadata:
+python-importlib-metadata:

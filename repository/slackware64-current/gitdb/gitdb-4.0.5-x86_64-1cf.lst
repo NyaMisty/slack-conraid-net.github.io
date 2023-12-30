@@ -1,0 +1,85 @@
+++========================================
+||
+||   Package:  ./gitdb/gitdb-4.0.5-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-05-12 10:04 ./
+drwxr-xr-x root/root         0 2020-05-12 10:04 install/
+-rw-r--r-- root/root       889 2020-05-12 10:04 install/slack-desc
+drwxr-xr-x root/root         0 2020-05-12 10:04 usr/
+drwxr-xr-x root/root         0 2020-05-12 10:04 usr/doc/
+drwxr-xr-x root/root         0 2020-05-12 10:04 usr/doc/gitdb-4.0.5/
+-rw-r--r-- root/root        25 2020-02-15 02:33 usr/doc/gitdb-4.0.5/AUTHORS
+-rw-r--r-- root/root      1984 2020-02-15 02:33 usr/doc/gitdb-4.0.5/LICENSE
+-rw-r--r-- root/root      1808 2020-04-11 08:45 usr/doc/gitdb-4.0.5/README.rst
+-rw-r--r-- root/root      2980 2020-05-12 10:04 usr/doc/gitdb-4.0.5/gitdb.SlackBuild
+drwxr-xr-x root/root         0 2020-05-12 10:04 usr/lib64/
+drwxr-xr-x root/root         0 2020-05-12 10:04 usr/lib64/python3.8/
+drwxr-xr-x root/root         0 2020-05-12 10:04 usr/lib64/python3.8/site-packages/
+drwxr-xr-x root/root         0 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/
+drwxr-xr-x root/root         0 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb-4.0.5-py3.8.egg-info/
+-rw-r--r-- root/root       974 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb-4.0.5-py3.8.egg-info/PKG-INFO
+-rw-r--r-- root/root      1658 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb-4.0.5-py3.8.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb-4.0.5-py3.8.egg-info/dependency_links.txt
+-rw-r--r-- root/root         1 2020-05-05 05:50 usr/lib64/python3.8/site-packages/gitdb-4.0.5-py3.8.egg-info/not-zip-safe
+-rw-r--r-- root/root        16 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb-4.0.5-py3.8.egg-info/requires.txt
+-rw-r--r-- root/root         6 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb-4.0.5-py3.8.egg-info/top_level.txt
+-rw-r--r-- root/root      1127 2020-05-05 05:44 usr/lib64/python3.8/site-packages/gitdb/__init__.py
+drwxr-xr-x root/root         0 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/__pycache__/
+-rw-r--r-- root/root      1101 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/__pycache__/__init__.cpython-38.pyc
+-rw-r--r-- root/root     10847 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/__pycache__/base.cpython-38.pyc
+-rw-r--r-- root/root       273 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/__pycache__/const.cpython-38.pyc
+-rw-r--r-- root/root      2195 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/__pycache__/exc.cpython-38.pyc
+-rw-r--r-- root/root     16830 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/__pycache__/fun.cpython-38.pyc
+-rw-r--r-- root/root     30451 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/__pycache__/pack.cpython-38.pyc
+-rw-r--r-- root/root     17943 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/__pycache__/stream.cpython-38.pyc
+-rw-r--r-- root/root       335 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/__pycache__/typ.cpython-38.pyc
+-rw-r--r-- root/root     11070 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/__pycache__/util.cpython-38.pyc
+-rw-r--r-- root/root      8029 2020-02-15 02:33 usr/lib64/python3.8/site-packages/gitdb/base.py
+-rw-r--r-- root/root        90 2020-02-15 02:33 usr/lib64/python3.8/site-packages/gitdb/const.py
+drwxr-xr-x root/root         0 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/db/
+-rw-r--r-- root/root       377 2020-02-15 02:33 usr/lib64/python3.8/site-packages/gitdb/db/__init__.py
+drwxr-xr-x root/root         0 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/db/__pycache__/
+-rw-r--r-- root/root       299 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/db/__pycache__/__init__.cpython-38.pyc
+-rw-r--r-- root/root      9662 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/db/__pycache__/base.cpython-38.pyc
+-rw-r--r-- root/root      2335 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/db/__pycache__/git.cpython-38.pyc
+-rw-r--r-- root/root      5702 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/db/__pycache__/loose.cpython-38.pyc
+-rw-r--r-- root/root      3348 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/db/__pycache__/mem.cpython-38.pyc
+-rw-r--r-- root/root      6170 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/db/__pycache__/pack.cpython-38.pyc
+-rw-r--r-- root/root      2369 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/db/__pycache__/ref.cpython-38.pyc
+-rw-r--r-- root/root      8984 2020-02-15 02:33 usr/lib64/python3.8/site-packages/gitdb/db/base.py
+-rw-r--r-- root/root      2694 2020-02-15 02:33 usr/lib64/python3.8/site-packages/gitdb/db/git.py
+-rw-r--r-- root/root      8094 2020-02-17 04:15 usr/lib64/python3.8/site-packages/gitdb/db/loose.py
+-rw-r--r-- root/root      3440 2020-02-15 02:33 usr/lib64/python3.8/site-packages/gitdb/db/mem.py
+-rw-r--r-- root/root      7305 2020-02-17 04:15 usr/lib64/python3.8/site-packages/gitdb/db/pack.py
+-rw-r--r-- root/root      2659 2020-02-15 02:33 usr/lib64/python3.8/site-packages/gitdb/db/ref.py
+-rw-r--r-- root/root      1307 2020-02-15 02:33 usr/lib64/python3.8/site-packages/gitdb/exc.py
+-rw-r--r-- root/root     23254 2020-02-17 04:15 usr/lib64/python3.8/site-packages/gitdb/fun.py
+-rw-r--r-- root/root     39275 2020-02-17 04:15 usr/lib64/python3.8/site-packages/gitdb/pack.py
+-rw-r--r-- root/root     27642 2020-02-17 04:15 usr/lib64/python3.8/site-packages/gitdb/stream.py
+drwxr-xr-x root/root         0 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/test/
+-rw-r--r-- root/root       210 2020-02-15 02:33 usr/lib64/python3.8/site-packages/gitdb/test/__init__.py
+drwxr-xr-x root/root         0 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/test/__pycache__/
+-rw-r--r-- root/root       148 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/test/__pycache__/__init__.cpython-38.pyc
+-rw-r--r-- root/root      6220 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/test/__pycache__/lib.cpython-38.pyc
+-rw-r--r-- root/root      1967 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/test/__pycache__/test_base.cpython-38.pyc
+-rw-r--r-- root/root      1198 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/test/__pycache__/test_example.cpython-38.pyc
+-rw-r--r-- root/root      5786 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/test/__pycache__/test_pack.cpython-38.pyc
+-rw-r--r-- root/root      4124 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/test/__pycache__/test_stream.cpython-38.pyc
+-rw-r--r-- root/root      2104 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/test/__pycache__/test_util.cpython-38.pyc
+-rw-r--r-- root/root      6047 2020-02-17 04:15 usr/lib64/python3.8/site-packages/gitdb/test/lib.py
+-rw-r--r-- root/root      2828 2020-02-15 02:33 usr/lib64/python3.8/site-packages/gitdb/test/test_base.py
+-rw-r--r-- root/root      1371 2020-02-15 02:33 usr/lib64/python3.8/site-packages/gitdb/test/test_example.py
+-rw-r--r-- root/root      9243 2020-02-17 04:15 usr/lib64/python3.8/site-packages/gitdb/test/test_pack.py
+-rw-r--r-- root/root      5767 2020-02-15 02:33 usr/lib64/python3.8/site-packages/gitdb/test/test_stream.py
+-rw-r--r-- root/root      3261 2020-02-15 02:33 usr/lib64/python3.8/site-packages/gitdb/test/test_util.py
+-rw-r--r-- root/root       379 2020-02-15 02:33 usr/lib64/python3.8/site-packages/gitdb/typ.py
+-rw-r--r-- root/root     12351 2020-02-15 02:33 usr/lib64/python3.8/site-packages/gitdb/util.py
+drwxr-xr-x root/root         0 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/utils/
+-rw-r--r-- root/root         0 2020-02-15 02:33 usr/lib64/python3.8/site-packages/gitdb/utils/__init__.py
+drwxr-xr-x root/root         0 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/utils/__pycache__/
+-rw-r--r-- root/root       149 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/utils/__pycache__/__init__.cpython-38.pyc
+-rw-r--r-- root/root       534 2020-05-12 10:04 usr/lib64/python3.8/site-packages/gitdb/utils/__pycache__/encoding.cpython-38.pyc
+-rw-r--r-- root/root       372 2020-02-23 02:22 usr/lib64/python3.8/site-packages/gitdb/utils/encoding.py
+
+

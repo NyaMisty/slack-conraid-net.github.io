@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Conraid Repository</title>
+  </head>
+  <body>
+<h1>Conraid's Repository</h1>
+<h2>for Slackware</h2>
+
+  <table>
+   <tr><th valign="top">&nbsp;</th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th></tr>
+   <tr><th colspan="4"><hr></th></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="/repository/slackware64-current/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="README">README</a></td><td align="right">2023-04-28 12:34  </td><td align="right">1.4K</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="teamviewer-bin-15.41.7-x86_64-1cf.lst">teamviewer-bin-15.41.7-x86_64-1cf.lst</a></td><td align="right">2023-04-28 12:51  </td><td align="right">110K</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="teamviewer-bin-15.41.7-x86_64-1cf.meta">teamviewer-bin-15.41.7-x86_64-1cf.meta</a></td><td align="right">2023-04-28 12:51  </td><td align="right">879 </td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="teamviewer-bin-15.41.7-x86_64-1cf.txt">teamviewer-bin-15.41.7-x86_64-1cf.txt</a></td><td align="right">2023-04-28 12:51  </td><td align="right">548 </td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="teamviewer-bin-15.41.7-x86_64-1cf.txz">teamviewer-bin-15.41.7-x86_64-1cf.txz</a></td><td align="right">2023-04-28 12:34  </td><td align="right"> 75M</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="teamviewer-bin-15.41.7-x86_64-1cf.txz.asc">teamviewer-bin-15.41.7-x86_64-1cf.txz.asc</a></td><td align="right">2023-04-28 12:51  </td><td align="right">508 </td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="teamviewer-bin-15.41.7-x86_64-1cf.txz.md5">teamviewer-bin-15.41.7-x86_64-1cf.txz.md5</a></td><td align="right">2023-04-28 12:51  </td><td align="right"> 72 </td></tr>
+   <tr><th colspan="4"><hr></th></tr>
+</table>
+<pre>
+
+Slackware Current Repository by Conraid
+
+======================================================================
+
+teamviewer (remote control application)
+
+TeamViewer is a remote control application. TeamViewer provides easy,
+fast, and secure remote access to Linux, Windows PCs, and Macs.
+
+TeamViewer is free for personal use. You can use TeamViewer completely
+free of charge to access your private computers or to help your
+friends with their computer problems.
+
+THIS IS A BINARY VERSION
+
+HOME: https://www.teamviewer.com/
+
+======================================================================
+NOTE: 
+
+You must give execute permission on /etc/rc.d/rc.teamviewerd and run
+/etc/rc.d/rc.teamviewerd start prior launching TeamViewer application
+
+To make this process repeated on every boot sequence, add this line
+in your /etc/rc.d/rc.local:
+
+if [ -x /etc/rc.d/rc.teamviewerd ]; then
+        /etc/rc.d/rc.teamviewerd start
+fi
+
+NOTE:
+1. Newer version of Teamviewer can establish remote control connections
+to older version (version 3 and above), but not in the opposite direction.
+The same things goes to meetings (version 7 and above).
+
+2. Always stop teamviewerd service and remove the old version before
+attempting to upgrade as the path and configs may change on each major release.
+
+3. Starting from Teamviewer 13, it has come up with native 64 client package, so
+no multilib is required to use. It uses Qt as a foundation.
+
+======================
+REQUIRES: libminizip
+
+</pre>
+</body></html>

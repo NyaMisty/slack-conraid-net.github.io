@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0">
+   <channel>
+      <title>Conraid - Slackware current packages</title>
+      <link>http://slack.conraid.net/</link>
+      <image>
+        <title>Conraid - Slackware current packages</title>
+        <url>http://slack.conraid.net/images/bobtrip.png</url>
+        <link>http://slack.conraid.net/</link>
+      </image>
+      <description>Corrado Franco (Conraid) Slackware current package repository.</description>
+      <language>en-us</language>
+      <id xmlns="http://www.w3.org/2005/Atom">urn:uuid:5f918df8-684b-11dd-bffd-0013d49950e2</id>
+      <pubDate>Sat,  1 Apr 2023 10:40:31 UTC</pubDate>
+      <lastBuildDate>Sat,  1 Apr 2023 11:01:24 UTC</lastBuildDate>
+      <generator>gen_repos_files.sh v 1.99</generator>
+      <item>
+         <title>Sat,  1 Apr 2023 10:40:31 UTC</title>
+         <link>http://slack.conraid.net/repository/slackware64-current/ChangeLog.txt</link>
+         <pubDate>Sat,  1 Apr 2023 10:40:31 UTC</pubDate>
+         <guid isPermaLink="false">20230401124031</guid>
+         <description>
+           <![CDATA[<pre>
+asio-1.26.0-x86_64-1cf.txz:  Upgraded.
+aws-cli-1.27.104-x86_64-1cf.txz:  Upgraded.
+bash-language-server-4.8.4-x86_64-1cf.txz:  Upgraded.
+bat-0.23.0-x86_64-1cf.txz:  Upgraded.
+browser-sync-2.29.1-x86_64-1cf.txz:  Upgraded.
+browsertime-17.4.0-x86_64-1cf.txz:  Upgraded.
+cryptography-40.0.1-x86_64-1cf.txz:  Upgraded.
+dart-sass-bin-1.60.0-x86_64-1cf.txz:  Upgraded.
+element-desktop-bin-1.11.28-x86_64-1cf.txz:  Upgraded.
+exiftool-12.59-x86_64-1cf.txz:  Upgraded.
+github-cli-2.25.1-x86_64-1cf.txz:  Upgraded.
+goaccess-1.7.2-x86_64-1cf.txz:  Upgraded.
+google-api-python-client-2.83.0-x86_64-1cf.txz:  Upgraded.
+google-auth-2.17.1-x86_64-1cf.txz:  Upgraded.
+googleapis-common-protos-1.59.0-x86_64-1cf.txz:  Upgraded.
+graphviz-8.0.1-x86_64-1cf.txz:  Upgraded.
+helix-editor-23.03-x86_64-1cf.txz:  Upgraded.
+httplib2-0.22.0-x86_64-1cf.txz:  Upgraded.
+iperf3-3.13_mt1-x86_64-1cf.txz:  Upgraded.
+jpegoptim-1.5.3-x86_64-1cf.txz:  Upgraded.
+kdiff3-1.10.1-x86_64-1cf.txz:  Upgraded.
+lerna-6.6.1-x86_64-1cf.txz:  Upgraded.
+libheif-1.15.2-x86_64-1cf.txz:  Upgraded.
+libmediainfo-23.03-x86_64-1cf.txz:  Upgraded.
+librist-0.2.7-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against mbedtls-3.4.0-x86_64-1cf.
+libupnp-1.14.16-x86_64-1cf.txz:  Upgraded.
+libvirt-9.2.0-x86_64-1cf.txz:  Upgraded.
+libvirt-python-9.2.0-x86_64-1cf.txz:  Upgraded.
+libwebsockets-4.3.2-x86_64-3cf.txz:  Rebuilt.
+    - Recompiled against mbedtls-3.4.0-x86_64-1cf.
+libyuv-464c51a0353c71f08fe45f683d6a97a638d47833-x86_64-1cf.txz:  Upgraded.
+maldet-1.6.5-x86_64-1cf.txz:  Upgraded.
+mbedtls-3.4.0-x86_64-1cf.txz:  Upgraded.
+mkvtoolnix-75.0.0-x86_64-1cf.txz:  Upgraded.
+mu-1.10.0-x86_64-1cf.txz:  Upgraded.
+ndisc6-1.0.7-x86_64-1cf.txz:  Upgraded.
+neochat-23.03.90-x86_64-1cf.txz:  Upgraded.
+neomutt-20230322-x86_64-1cf.txz:  Upgraded.
+nginx-1.23.4-x86_64-1cf.txz:  Upgraded.
+nlohmann-json-3.11.2-x86_64-1cf.txz:  Upgraded.
+node-glob-9.3.2-x86_64-1cf.txz:  Upgraded.
+node-mkdirp-2.1.6-x86_64-1cf.txz:  Upgraded.
+node-nativefier-50.1.1-x86_64-1cf.txz:  Upgraded.
+npm-check-updates-16.9.0-x86_64-1cf.txz:  Upgraded.
+numpy-1.24.2-x86_64-2cf.txz:  Rebuilt.
+	- Recompiled against openblas-0.3.22.
+obs-studio-29.1.0_beta1-x86_64-1cf.txz:  Upgraded.
+openblas-0.3.22-x86_64-1cf.txz:  Upgraded.
+ostree-2023.2-x86_64-1cf.txz:  Upgraded.
+pandoc-bin-3.1.2-x86_64-1cf.txz:  Upgraded.
+percona-toolkit-3.5.2-x86_64-1cf.txz:  Upgraded.
+php-composer-2.5.5-noarch-1cf.txz:  Upgraded.
+php-xdebug-3.2.1-x86_64-1cf.txz:  Upgraded.
+postgresql-15.2-x86_64-3cf.txz:  Rebuilt.
+	- Compiled against llvm-16.0.0.
+python-botocore-1.29.104-x86_64-1cf.txz:  Upgraded.
+python-pikepdf-7.1.2-x86_64-1cf.txz:  Upgraded.
+python-rapidfuzz-2.14.0-x86_64-1cf.txz:  Upgraded.
+python-redis-4.5.4-x86_64-1cf.txz:  Upgraded.
+python-regex-2023.3.23-x86_64-1cf.txz:  Upgraded.
+pytz-2023.3-x86_64-1cf.txz:  Upgraded.
+qemu-7.2.0-x86_64-4cf.txz:  Rebuilt.
+    - Fix slackbuild and info file.
+qjackctl-0.9.10-x86_64-1cf.txz:  Upgraded.
+signal-desktop-bin-6.12.0-x86_64-1cf.txz:  Upgraded.
+skypeforlinux-bin-8.96.76.300-x86_64-1cf.txz:  Upgraded.
+sparse-0.6.4-x86_64-5cf.txz:  Removed.
+spotify-bin-1.2.8.923-x86_64-1cf.txz:  Upgraded.
+sqlalchemy-2.0.8-x86_64-1cf.txz:  Upgraded.
+stylelint-15.4.0-x86_64-1cf.txz:  Upgraded.
+stylelint-config-standard-32.0.0-x86_64-1cf.txz:  Upgraded.
+teamviewer-bin-15.40.8-x86_64-1cf.txz:  Upgraded.
+telegram-bin-4.7.1-x86_64-1cf.txz:  Upgraded.
+typescript-5.0.3-x86_64-1cf.txz:  Upgraded.
+vscodium-bin-1.77.0.23090-x86_64-1cf.txz:  Upgraded.
+websocketpp-0.8.2-x86_64-1cf.txz:  Upgraded.
+wpebackend-fdo-1.14.2-x86_64-1cf.txz:  Upgraded.
+yara-4.3.0-x86_64-1cf.txz:  Upgraded.
+yara-python-4.3.0-x86_64-1cf.txz:  Upgraded.
+           </pre>]]>
+         </description>
+      </item>
+      <item>
+         <title>Tue, 21 Mar 2023 10:57:16 UTC</title>
+         <link>http://slack.conraid.net/repository/slackware64-current/ChangeLog.txt</link>
+         <pubDate>Tue, 21 Mar 2023 10:57:16 UTC</pubDate>
+         <guid isPermaLink="false">20230321115716</guid>
+         <description>
+           <![CDATA[<pre>
+aws-cli-1.27.95-x86_64-1cf.txz:  Upgraded.
+cairosvg-2.7.0-x86_64-1cf.txz:  Upgraded.
+github-cli-2.25.0-x86_64-1cf.txz:  Upgraded.
+libcurl-gnutls-8.0.1-x86_64-1cf.txz:  Upgraded.
+node-fs-extra-11.1.1-x86_64-1cf.txz:  Upgraded.
+node-glob-9.3.1-x86_64-1cf.txz:  Upgraded.
+python-botocore-1.29.95-x86_64-1cf.txz:  Upgraded.
+teamviewer-bin-15.40.6-x86_64-1cf.txz:  Upgraded.
+           </pre>]]>
+         </description>
+      </item>
+      <item>
+         <title>Mon, 20 Mar 2023 13:49:30 UTC</title>
+         <link>http://slack.conraid.net/repository/slackware64-current/ChangeLog.txt</link>
+         <pubDate>Mon, 20 Mar 2023 13:49:30 UTC</pubDate>
+         <guid isPermaLink="false">20230320144930</guid>
+         <description>
+           <![CDATA[<pre>
+beautifulsoup4-4.12.0-x86_64-1cf.txz:  Upgraded.
+npm-check-updates-16.7.13-x86_64-1cf.txz:  Upgraded.
+python-pyzmq-25.0.2-x86_64-1cf.txz:  Upgraded.
+python-redis-4.5.2-x86_64-1cf.txz:  Upgraded.
+sqlalchemy-2.0.7-x86_64-1cf.txz:  Upgraded.
+telegram-bin-4.7.0-x86_64-1cf.txz:  Upgraded.
+           </pre>]]>
+         </description>
+      </item>
+      <item>
+         <title>Sat, 18 Mar 2023 14:03:55 UTC</title>
+         <link>http://slack.conraid.net/repository/slackware64-current/ChangeLog.txt</link>
+         <pubDate>Sat, 18 Mar 2023 14:03:55 UTC</pubDate>
+         <guid isPermaLink="false">20230318150355</guid>
+         <description>
+           <![CDATA[<pre>
+aws-cli-1.27.94-x86_64-1cf.txz:  Upgraded.
+cairocffi-1.5.0-x86_64-1cf.txz:  Upgraded.
+cimg-3.2.2-noarch-1cf.txz:  Upgraded.
+gmic-3.2.2-x86_64-1cf.txz:  Upgraded.
+kirigami-addons-0.7.2-x86_64-1cf.txz:  Upgraded.
+neochat-23.03.80-x86_64-1cf.txz:  Upgraded.
+python-botocore-1.29.94-x86_64-1cf.txz:  Upgraded.
+subfinder-2.5.7-x86_64-1cf.txz:  Upgraded.
+telegram-bin-4.6.12-x86_64-1cf.txz:  Upgraded.
+           </pre>]]>
+         </description>
+      </item>
+      <item>
+         <title>Fri, 17 Mar 2023 16:47:24 UTC</title>
+         <link>http://slack.conraid.net/repository/slackware64-current/ChangeLog.txt</link>
+         <pubDate>Fri, 17 Mar 2023 16:47:24 UTC</pubDate>
+         <guid isPermaLink="false">20230317174724</guid>
+         <description>
+           <![CDATA[<pre>
+ansifilter-2.19-x86_64-1cf.txz:  Upgraded.
+aws-cli-1.27.93-x86_64-1cf.txz:  Upgraded.
+awscrt-0.16.13-x86_64-1cf.txz:  Upgraded.
+browser-sync-2.29.0-x86_64-1cf.txz:  Upgraded.
+browsertime-17.2.1-x86_64-1cf.txz:  Upgraded.
+checkbashisms-2.23.3-noarch-1cf.txz:  Upgraded.
+dart-sass-bin-1.59.3-x86_64-1cf.txz:  Upgraded.
+dnsperf-2.11.2-x86_64-1cf.txz:  Upgraded.
+element-desktop-bin-1.11.25-x86_64-1cf.txz:  Upgraded.
+exiftool-12.58-x86_64-1cf.txz:  Upgraded.
+flatpak-1.14.4-x86_64-1cf.txz:  Upgraded.
+geoipupdate-4.11.1-x86_64-1cf.txz:  Upgraded.
+hardening-check-2.23.3-noarch-1cf.txz:  Upgraded.
+iperf2-2.1.9-x86_64-1cf.txz:  Upgraded.
+kimageannotator-0.6.1-x86_64-1cf.txz:  Upgraded.
+ksnip-1.10.1-x86_64-1cf.txz:  Upgraded.
+libyuv-3f219a3501e555ffef7aeaa90abbaf90a90d2258-x86_64-1cf.txz:  Upgraded.
+lua-mpack-1.0.10-x86_64-1cf.txz:  Upgraded.
+php-apcu-5.1.22-x86_64-8cf.txz:  Rebuilt.
+php-ast-1.1.0-x86_64-8cf.txz:  Rebuilt.
+php-igbinary-3.2.14-x86_64-3cf.txz:  Rebuilt.
+php-imagick-3.7.0-x86_64-14cf.txz:  Rebuilt.
+php-memcache-8.0-x86_64-27cf.txz:  Rebuilt.
+php-memcached-3.2.0-x86_64-14cf.txz:  Rebuilt.
+php-msgpack-2.1.2-x86_64-27cf.txz:  Rebuilt.
+php-oauth-2.0.7-x86_64-28cf.txz:  Rebuilt.
+php-redis-5.3.7-x86_64-15cf.txz:  Rebuilt.
+php-xdebug-3.2.0-x86_64-4cf.txz:  Rebuilt.
+phpspy-5f2368f-x86_64-25cf.txz:  Rebuilt.
+pybind11-2.10.4-x86_64-1cf.txz:  Upgraded.
+python-botocore-1.29.93-x86_64-1cf.txz:  Upgraded.
+python-wheel-0.40.0-x86_64-1cf.txz:  Upgraded.
+rclone-1.62.2-x86_64-1cf.txz:  Upgraded.
+responsively-app-1.1.0-x86_64-1cf.txz:  Upgraded.
+screamingfrogseospider-bin-18.4-x86_64-1cf.txz:  Upgraded.
+signal-desktop-bin-6.10.1-x86_64-1cf.txz:  Upgraded.
+simplejson-3.18.4-x86_64-1cf.txz:  Upgraded.
+skypeforlinux-bin-8.95.76.408-x86_64-1cf.txz:  Upgraded.
+slpkg-4.6.1-x86_64-1cf.txz:  Upgraded.
+spotify-downloader-4.1.3-x86_64-1cf.txz:  Upgraded.
+stylelint-15.3.0-x86_64-1cf.txz:  Upgraded.
+stylelint-config-recommended-11.0.0-x86_64-1cf.txz:  Upgraded.
+stylelint-config-standard-31.0.0-x86_64-1cf.txz:  Upgraded.
+telegram-bin-4.6.11-x86_64-1cf.txz:  Upgraded.
+typescript-5.0.2-x86_64-1cf.txz:  Upgraded.
+unifdef-2.12-x86_64-1cf.txz:  Added.
+valentina-studio-bin-13.1-x86_64-1cf.txz:  Upgraded.
+varnish-7.3.0-x86_64-1cf.txz:  Upgraded.
+vscodium-bin-1.76.2.23074-x86_64-1cf.txz:  Upgraded.
+webkitgtk-2.40.0-x86_64-1cf.txz:  Upgraded.
+           </pre>]]>
+         </description>
+      </item>
+      <item>
+         <title>Tue, 14 Mar 2023 14:58:39 UTC</title>
+         <link>http://slack.conraid.net/repository/slackware64-current/ChangeLog.txt</link>
+         <pubDate>Tue, 14 Mar 2023 14:58:39 UTC</pubDate>
+         <guid isPermaLink="false">20230314155839</guid>
+         <description>
+           <![CDATA[<pre>
+aws-cli-1.27.90-x86_64-1cf.txz:  Upgraded.
+awscrt-0.16.12-x86_64-1cf.txz:  Upgraded.
+device-tree-compiler-1.7.0-x86_64-1cf.txz:  Upgraded.
+gitkraken-bin-9.2.1-x86_64-1cf.txz:  Upgraded.
+google-api-python-client-2.81.0-x86_64-1cf.txz:  Upgraded.
+node-glob-9.3.0-x86_64-1cf.txz:  Upgraded.
+python-botocore-1.29.90-x86_64-1cf.txz:  Upgraded.
+qemu-7.2.0-x86_64-3cf.txz:  Rebuilt.
+sqlalchemy-2.0.6-x86_64-1cf.txz:  Upgraded.
+           </pre>]]>
+         </description>
+      </item>
+      <item>
+         <title>Mon, 13 Mar 2023 17:05:25 UTC</title>
+         <link>http://slack.conraid.net/repository/slackware64-current/ChangeLog.txt</link>
+         <pubDate>Mon, 13 Mar 2023 17:05:25 UTC</pubDate>
+         <guid isPermaLink="false">20230313180525</guid>
+         <description>
+           <![CDATA[<pre>
+aws-cli-1.27.89-x86_64-1cf.txz:  Upgraded.
+cargo-c-0.9.17-x86_64-1cf.txz:  Upgraded.
+converseen-0.9.11.1-x86_64-1cf.txz:  Upgraded.
+dart-sass-bin-1.59.2-x86_64-1cf.txz:  Upgraded.
+dnsperf-2.11.1-x86_64-1cf.txz:  Upgraded.
+github-cli-2.24.3-x86_64-1cf.txz:  Upgraded.
+memcached-1.6.19-x86_64-1cf.txz:  Upgraded.
+paramiko-3.1.0-x86_64-1cf.txz:  Upgraded.
+php-imagick-3.7.0-x86_64-13cf.txz:  Rebuilt.
+python-botocore-1.29.89-x86_64-1cf.txz:  Upgraded.
+python-pyzmq-25.0.1-x86_64-1cf.txz:  Upgraded.
+telegram-bin-4.6.10-x86_64-1cf.txz:  Upgraded.
+vscodium-bin-1.76.1.23069-x86_64-1cf.txz:  Upgraded.
+           </pre>]]>
+         </description>
+      </item>
+      <item>
+         <title>Fri, 10 Mar 2023 11:54:00 UTC</title>
+         <link>http://slack.conraid.net/repository/slackware64-current/ChangeLog.txt</link>
+         <pubDate>Fri, 10 Mar 2023 11:54:00 UTC</pubDate>
+         <guid isPermaLink="false">20230310125400</guid>
+         <description>
+           <![CDATA[<pre>
+aws-cli-1.27.88-x86_64-1cf.txz:  Upgraded.
+bash-language-server-4.8.3-x86_64-1cf.txz:  Upgraded.
+collectd-5.12.0-x86_64-28cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+github-cli-2.24.3-x86_64-1cf.txz:  Upgraded.
+imlib2-1.11.0-x86_64-1cf.txz:  Upgraded.
+libcurl-gnutls-7.88.1-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+memcached-1.6.19-x86_64-1cf.txz:  Upgraded.
+msgpack-python-1.0.5-x86_64-1cf.txz:  Upgraded.
+node-libcli-5.6.0-x86_64-1cf.txz:  Upgraded.
+nomacs-3.17.2206-x86_64-12cf.txz:  Rebuilt.
+npm-check-updates-16.7.12-x86_64-1cf.txz:  Upgraded.
+ntopng-5.6-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+osinfo-db-20230308-noarch-1cf.txz:  Upgraded.
+pipewire-jack-0.3.67-x86_64-1cf.txz:  Upgraded.
+poedit-3.2.2-x86_64-4cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+postcss-autoprefixer-10.4.14-x86_64-1cf.txz:  Upgraded.
+python-botocore-1.29.88-x86_64-1cf.txz:  Upgraded.
+signal-desktop-bin-6.9.0-x86_64-1cf.txz:  Upgraded.
+slpkg-4.5.8-x86_64-1cf.txz:  Upgraded.
+snappy-1.1.10-x86_64-1cf.txz:  Upgraded.
+spice-gtk-0.42-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+sqlmap-1.7.3-x86_64-1cf.txz:  Upgraded.
+tweepy-4.13.0-x86_64-1cf.txz:  Upgraded.
+           </pre>]]>
+         </description>
+      </item>
+      <item>
+         <title>Thu,  9 Mar 2023 15:03:22 UTC</title>
+         <link>http://slack.conraid.net/repository/slackware64-current/ChangeLog.txt</link>
+         <pubDate>Thu,  9 Mar 2023 15:03:22 UTC</pubDate>
+         <guid isPermaLink="false">20230309160322</guid>
+         <description>
+           <![CDATA[<pre>
+afflib-3.7.20-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+argyllcms-2.3.1-x86_64-3cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+authoscope-0.8.1-x86_64-2cf:  Removed.
+cargo-c-0.9.15-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+clamav-1.0.1-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+cpprestsdk-2.10.18-x86_64-9cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+cryptography-39.0.2-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+ctunnel-0.8-x86_64-3cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+dnsperf-2.11.0-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+ecryptfs-utils-111-x86_64-8cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+encfs-1.9.5-x86_64-8cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+ettercap-0.8.3.1-x86_64-4cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+goaccess-1.7.1-x86_64-3cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+hiredis-1.1.0-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+httperf-de8cd6a-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+httping-2.9-x86_64-1cf.txz:  Upgraded.
+    - Recompiled against openssl-3.0.8.
+httrack-3.49.2-x86_64-5cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+ike-scan-1.9.5-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+iperf3-3.13-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+lastpass-cli-1.3.4-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+libesmtp-1.1.0-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+libewf-20150126-x86_64-8cf.txz:  Rebuilt.
+	- Recompiled without openssl.
+libircclient-1.10-x86_64-4cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+libmesode-0.10.1-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+libtorrent-0.13.8-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+libtorrent-rasterbar-2.0.8-x86_64-3cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+lighttpd-1.4.69-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+lterm-1.5.1-x86_64-5cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+mongo-c-driver-1.23.2-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+monit-5.33.0-x86_64-3cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+mosh-1.4.0-x86_64-5cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+ncrack-0.7-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+neomutt-20220429-x86_64-5cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+netdata-1.38.1-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+nghttp2-app-1.52.0-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+nginx-1.23.3-x86_64-3cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+opensc-0.23.0-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+php-apcu-5.1.22-x86_64-7cf.txz:  Rebuilt.
+    - Recompiled against php-8.2.3.
+php-ast-1.1.0-x86_64-7cf.txz:  Rebuilt.
+php-igbinary-3.2.14-x86_64-2cf.txz:  Rebuilt.
+php-imagick-3.7.0-x86_64-12cf.txz:  Rebuilt.
+php-memcache-8.0-x86_64-26cf.txz:  Rebuilt.
+php-memcached-3.2.0-x86_64-13cf.txz:  Rebuilt.
+php-msgpack-2.1.2-x86_64-26cf.txz:  Rebuilt.
+php-oauth-2.0.7-x86_64-27cf.txz:  Rebuilt.
+php-redis-5.3.7-x86_64-14cf.txz:  Rebuilt.
+php-xdebug-3.2.0-x86_64-3cf.txz:  Rebuilt.
+phpspy-5f2368f-x86_64-24cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+pixiewps-1.4.2-x86_64-5cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+podofo-0.9.8-x86_64-5cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+postgresql-15.2-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+pyrit-0.5.0-x86_64-10cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+qbittorrent-4.5.2-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+s3fs-fuse-1.91-x86_64-3cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+sencrypt-4-x86_64-1cf:  Removed.
+siege-4.1.6-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+spice-0.15.1-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+sqlcipher-4.5.3-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+squid-5.8-x86_64-1cf.txz:  Upgraded.
+    - Recompiled against openssl-3.0.8.
+srt-1.5.1-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+sslscan-2.0.15-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+sslsplit-0.5.5-x86_64-4cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+thc-ipv6-3.8-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+tor-0.4.7.13-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+uget-2.2.3-x86_64-3cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+vde2-2.3.2-x86_64-10cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+w3m-0.5.3-x86_64-5cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+x11vnc-0.9.16-x86_64-4cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+xping-1.4.2-x86_64-3cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+yapet-2.6-x86_64-4cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+yara-4.2.3-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+yara-python-4.2.3-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against openssl-3.0.8.
+           </pre>]]>
+         </description>
+      </item>
+      <item>
+         <title>Wed,  8 Mar 2023 13:07:21 UTC</title>
+         <link>http://slack.conraid.net/repository/slackware64-current/ChangeLog.txt</link>
+         <pubDate>Wed,  8 Mar 2023 13:07:21 UTC</pubDate>
+         <guid isPermaLink="false">20230308140721</guid>
+         <description>
+           <![CDATA[<pre>
+aws-cli-1.27.86-x86_64-1cf.txz:  Upgraded.
+awscrt-0.16.11-x86_64-1cf.txz:  Upgraded.
+cpuid-20230306-x86_64-1cf.txz:  Upgraded.
+gitkraken-bin-9.2.0-x86_64-1cf.txz:  Upgraded.
+go-1.20.2-x86_64-1cf.txz:  Upgraded.
+photoqt-3.1-x86_64-1cf.txz:  Upgraded.
+python-botocore-1.29.86-x86_64-1cf.txz:  Upgraded.
+screamingfrogseospider-bin-18.3-x86_64-1cf.txz:  Upgraded.
+skypeforlinux-bin-8.95.76.301-x86_64-1cf.txz:  Upgraded.
+slpkg-4.5.6-x86_64-1cf.txz:  Upgraded.
+           </pre>]]>
+         </description>
+      </item>
+      <item>
+         <title>Mon,  6 Mar 2023 13:02:15 UTC</title>
+         <link>http://slack.conraid.net/repository/slackware64-current/ChangeLog.txt</link>
+         <pubDate>Mon,  6 Mar 2023 13:02:15 UTC</pubDate>
+         <guid isPermaLink="false">20230306140215</guid>
+         <description>
+           <![CDATA[<pre>
+aide-0.18.1-x86_64-1cf.txz:  Upgraded.
+aws-cli-1.27.84-x86_64-1cf.txz:  Upgraded.
+bash-language-server-4.8.2-x86_64-1cf.txz:  Upgraded.
+browser-sync-2.28.3-x86_64-1cf.txz:  Upgraded.
+browsertime-17.1.1-x86_64-1cf.txz:  Upgraded.
+element-desktop-bin-1.11.24-x86_64-1cf.txz:  Upgraded.
+filezilla-3.63.2.1-x86_64-1cf.txz:  Upgraded.
+flatbuffers-23.3.3-x86_64-1cf.txz:  Upgraded.
+gnome-color-manager-36ba6ff-x86_64-1cf.txz:  Upgraded.
+go-crypto-0.7.0-x86_64-1cf.txz:  Upgraded.
+go-net-0.8.0-x86_64-1cf.txz:  Upgraded.
+go-sys-0.6.0-x86_64-1cf.txz:  Upgraded.
+gst-plugins-ugly-1.22.1-x86_64-1cf.txz:  Upgraded.
+libyuv-f9b23b9cc0ca3bd27b9acc07ea0450cd5097175d-x86_64-1cf.txz:  Upgraded.
+msgpack-c-6.0.0-x86_64-1cf.txz:  Upgraded.
+neovim-0.8.3-x86_64-3cf.txz:  Rebuilt.
+    - Recompiled against msgpack-c-6.0.0.
+node-mkdirp-2.1.5-x86_64-1cf.txz:  Upgraded.
+pandoc-bin-3.1.1-x86_64-1cf.txz:  Upgraded.
+phan-5.4.2-noarch-1cf.txz:  Upgraded.
+php-igbinary-3.2.14-x86_64-1cf.txz:  Upgraded.
+python-botocore-1.29.84-x86_64-1cf.txz:  Upgraded.
+python-tqdm-4.65.0-x86_64-1cf.txz:  Upgraded.
+slpkg-4.5.5-x86_64-1cf.txz:  Upgraded.
+smb4k-3.1.90-x86_64-1cf.txz:  Upgraded.
+spotify-downloader-4.1.2-x86_64-1cf.txz:  Upgraded.
+sqlalchemy-2.0.5.post1-x86_64-1cf.txz:  Upgraded.
+valentina-studio-bin-13.0.3-x86_64-1cf.txz:  Upgraded.
+vscodium-bin-1.76.0.23062-x86_64-1cf.txz:  Upgraded.
+vuescan-bin-9.7.99-x86_64-1cf.txz:  Upgraded.
+wapiti3-3.1.7-x86_64-1cf.txz:  Upgraded.
+wpebackend-fdo-1.14.1-x86_64-1cf.txz:  Upgraded.
+yt-dlp-2023.3.4-x86_64-1cf.txz:  Upgraded.
+           </pre>]]>
+         </description>
+      </item>
+      <item>
+         <title>Mon,  6 Mar 2023 11:00:07 UTC</title>
+         <link>http://slack.conraid.net/repository/slackware64-current/ChangeLog.txt</link>
+         <pubDate>Mon,  6 Mar 2023 11:00:07 UTC</pubDate>
+         <guid isPermaLink="false">20230306120007</guid>
+         <description>
+           <![CDATA[<pre>
+audit-3.1-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against libnsl-2.0.0.
+autossh-1.4g-x86_64-3cf.txz:  Rebuilt.
+    - Recompiled against libnsl-2.0.0.
+collectd-5.12.0-x86_64-27cf.txz:  Rebuilt.
+    - Recompiled against libnsl-2.0.0.
+dnsscan-1.0-x86_64-16cf.txz:  Rebuilt.
+    - Recompiled against libnsl-2.0.0.
+goaccess-1.7.1-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against libnsl-2.0.0.
+graphviz-7.1.0-x86_64-3cf.txz:  Rebuilt.
+    - Recompiled against libnsl-2.0.0.
+libircclient-1.10-x86_64-3cf.txz:  Rebuilt.
+    - Recompiled against libnsl-2.0.0.
+libnids-1.26-x86_64-3cf.txz:  Rebuilt.
+    - Recompiled against libnsl-2.0.0.
+monit-5.33.0-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against libnsl-2.0.0.
+neovim-0.8.3-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against libnsl-2.0.0.
+nginx-1.23.3-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against libnsl-2.0.0.
+privoxy-3.0.34-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against libnsl-2.0.0.
+squid-4.17-x86_64-5cf.txz:  Rebuilt.
+    - Recompiled against libnsl-2.0.0.
+uuid-1.6.2-x86_64-9cf.txz:  Rebuilt.
+    - Recompiled against libnsl-2.0.0.
+varnish-7.2.1-x86_64-2cf.txz:  Rebuilt.
+    - Recompiled against libnsl-2.0.0.
+w3m-0.5.3-x86_64-4cf.txz:  Rebuilt.
+    - Recompiled against libnsl-2.0.0.
+weechat-3.8-x86_64-3cf.txz:  Rebuilt.
+    - Recompiled against libnsl-2.0.0.
+x11vnc-0.9.16-x86_64-3cf.txz:  Rebuilt.
+    - Recompiled against libnsl-2.0.0.
+           </pre>]]>
+         </description>
+      </item>
+      <item>
+         <title>Sat,  4 Mar 2023 15:15:33 UTC</title>
+         <link>http://slack.conraid.net/repository/slackware64-current/ChangeLog.txt</link>
+         <pubDate>Sat,  4 Mar 2023 15:15:33 UTC</pubDate>
+         <guid isPermaLink="false">20230304161533</guid>
+         <description>
+           <![CDATA[<pre>
+aws-cli-1.27.83-x86_64-1cf.txz:  Upgraded.
+cpuid-20230228-x86_64-1cf.txz:  Upgraded.
+cryptography-39.0.2-x86_64-1cf.txz:  Upgraded.
+csso-cli-4.0.2-x86_64-1cf.txz:  Upgraded.
+darktable-4.2.1-x86_64-2cf.txz:  Rebuilt.
+etcher-bin-1.18.4-x86_64-1cf.txz:  Upgraded.
+faudio-23.03-x86_64-1cf.txz:  Upgraded.
+gimagereader-3.4.1-x86_64-2cf.txz:  Rebuilt.
+gimp3-2.99.14-x86_64-6cf.txz:  Rebuilt.
+gmic-3.2.1-x86_64-2cf.txz:  Rebuilt.
+goaccess-1.7.1-x86_64-1cf.txz:  Upgraded.
+google-api-python-client-2.80.0-x86_64-1cf.txz:  Upgraded.
+google-auth-2.16.2-x86_64-1cf.txz:  Upgraded.
+graphviz-7.1.0-x86_64-2cf.txz:  Rebuilt.
+inkscape-1.2.2-x86_64-3cf.txz:  Rebuilt.
+kaccounts-integration-22.12.3-x86_64-1cf.txz:  Upgraded.
+kaccounts-providers-22.12.3-x86_64-1cf.txz:  Upgraded.
+libjxl-0.8.1-x86_64-2cf.txz:  Rebuilt.
+libvirt-9.1.0-x86_64-1cf.txz:  Upgraded.
+libvirt-python-9.1.0-x86_64-1cf.txz:  Upgraded.
+luminance-hdr-2.6.1.1-x86_64-6cf.txz:  Rebuilt.
+node-glob-9.2.1-x86_64-1cf.txz:  Upgraded.
+node-mkdirp-2.1.4-x86_64-1cf.txz:  Upgraded.
+pdf2svg-0.2.3-x86_64-3cf.txz:  Rebuilt.
+pdfgrep-2.1.2-x86_64-21cf.txz:  Rebuilt.
+photoqt-3.0-x86_64-2cf.txz:  Rebuilt.
+python-botocore-1.29.83-x86_64-1cf.txz:  Upgraded.
+qt5ct-1.7-x86_64-1cf.txz:  Upgraded.
+redis-6.2.11-x86_64-1cf.txz:  Upgraded.
+scribus-1.5.8-x86_64-16cf.txz:  Rebuilt.
+signal-desktop-bin-6.8.0-x86_64-1cf.txz:  Upgraded.
+signon-kwallet-extension-22.12.3-x86_64-1cf.txz:  Upgraded.
+skypeforlinux-bin-8.95.76.207-x86_64-1cf.txz:  Upgraded.
+slpkg-4.5.4-x86_64-1cf.txz:  Upgraded.
+telegram-bin-4.6.7-x86_64-1cf.txz:  Upgraded.
+tellico-3.4.6-x86_64-2cf.txz:  Rebuilt.
+wireshark-4.0.4-x86_64-1cf.txz:  Upgraded.
+           </pre>]]>
+         </description>
+      </item>
+      <item>
+         <title>Tue, 28 Feb 2023 17:32:03 UTC</title>
+         <link>http://slack.conraid.net/repository/slackware64-current/ChangeLog.txt</link>
+         <pubDate>Tue, 28 Feb 2023 17:32:03 UTC</pubDate>
+         <guid isPermaLink="false">20230228183203</guid>
+         <description>
+           <![CDATA[<pre>
+aws-cli-1.27.80-x86_64-1cf.txz:  Upgraded.
+browser-sync-2.28.1-x86_64-1cf.txz:  Upgraded.
+bubblewrap-0.8.0-x86_64-1cf.txz:  Upgraded.
+dpkg-1.21.21-x86_64-1cf.txz:  Upgraded.
+flatpak-1.14.3-x86_64-1cf.txz:  Upgraded.
+granite-6.2.0-x86_64-1cf.txz:  Upgraded.
+libass-0.17.1-x86_64-1cf.txz:  Upgraded.
+libmicrohttpd-0.9.76-x86_64-1cf.txz:  Upgraded.
+libyuv-e66f436560fa8a4773fbd079837bc602cf97e35a-x86_64-1cf.txz:  Upgraded.
+node-glob-9.0.1-x86_64-1cf.txz:  Upgraded.
+npm-check-updates-16.7.10-x86_64-1cf.txz:  Upgraded.
+prompt-toolkit-3.0.38-x86_64-1cf.txz:  Upgraded.
+python-botocore-1.29.80-x86_64-1cf.txz:  Upgraded.
+python-tld-0.13-x86_64-1cf.txz:  Upgraded.
+qbittorrent-4.5.2-x86_64-1cf.txz:  Upgraded.
+qt-avif-image-plugin-0.5.2-x86_64-1cf.txz:  Upgraded.
+qt5ct-1.6-x86_64-1cf.txz:  Upgraded.
+telegram-bin-4.6.5-x86_64-1cf.txz:  Upgraded.
+           </pre>]]>
+         </description>
+      </item>
+      <item>
+         <title>Sat, 25 Feb 2023 15:31:19 UTC</title>
+         <link>http://slack.conraid.net/repository/slackware64-current/ChangeLog.txt</link>
+         <pubDate>Sat, 25 Feb 2023 15:31:19 UTC</pubDate>
+         <guid isPermaLink="false">20230225163119</guid>
+         <description>
+           <![CDATA[<pre>
+aws-cli-1.27.79-x86_64-1cf.txz:  Upgraded.
+bluefish-2.2.13-x86_64-1cf.txz:  Upgraded.
+browser-sync-2.27.12-x86_64-1cf.txz:  Upgraded.
+browsertime-17.1.0-x86_64-1cf.txz:  Upgraded.
+byacc-20230219-x86_64-1cf.txz:  Upgraded.
+cabextract-1.11-x86_64-1cf.txz:  Upgraded.
+checkbashisms-2.23.2-noarch-1cf.txz:  Upgraded.
+cmocka-1.1.7-x86_64-1cf.txz:  Upgraded.
+darktable-4.2.1-x86_64-1cf.txz:  Upgraded.
+exiftool-12.57-x86_64-1cf.txz:  Upgraded.
+filezilla-3.63.2-x86_64-1cf.txz:  Upgraded.
+gnome-color-manager-a3f5d8b-x86_64-1cf.txz:  Upgraded.
+google-api-python-client-2.79.0-x86_64-1cf.txz:  Upgraded.
+hardening-check-2.23.2-noarch-1cf.txz:  Upgraded.
+hyperscan-5.4.1-x86_64-1cf.txz:  Upgraded.
+libcurl-gnutls-7.88.1-x86_64-1cf.txz:  Upgraded.
+libfilezilla-0.41.1-x86_64-1cf.txz:  Upgraded.
+libxmlb-0.3.11-x86_64-1cf.txz:  Upgraded.
+libyuv-88b050f337cc0ca2a51800fe7bf4737222c87344-x86_64-1cf.txz:  Upgraded.
+netbeans-bin-17-noarch-1cf.txz:  Upgraded.
+npm-check-updates-16.7.9-x86_64-1cf.txz:  Upgraded.
+onefetch-2.16.0-x86_64-1cf.txz:  Upgraded.
+openmpi-4.1.5-x86_64-1cf.txz:  Upgraded.
+p7zip-17.05-x86_64-1cf.txz:  Upgraded.
+prompt-toolkit-3.0.37-x86_64-1cf.txz:  Upgraded.
+python-botocore-1.29.79-x86_64-1cf.txz:  Upgraded.
+python-polib-1.2.0-x86_64-1cf.txz:  Upgraded.
+responsively-app-1.0.3-x86_64-1cf.txz:  Upgraded.
+signal-desktop-bin-6.7.0-x86_64-1cf.txz:  Upgraded.
+stylelint-15.2.0-x86_64-1cf.txz:  Upgraded.
+subfinder-2.5.6-x86_64-1cf.txz:  Upgraded.
+teamviewer-bin-15.39.3-x86_64-1cf.txz:  Upgraded.
+telegram-bin-4.6.4-x86_64-1cf.txz:  Upgraded.
+unrar-6.2.6-x86_64-1cf.txz:  Upgraded.
+valentina-studio-bin-13.0.2-x86_64-1cf.txz:  Upgraded.
+youtube-dl-2021.12.17-x86_64-1cf.txz:  Upgraded.
+           </pre>]]>
+         </description>
+      </item>
+      <item>
+         <title>Sat, 18 Feb 2023 15:10:51 UTC</title>
+         <link>http://slack.conraid.net/repository/slackware64-current/ChangeLog.txt</link>
+         <pubDate>Sat, 18 Feb 2023 15:10:51 UTC</pubDate>
+         <guid isPermaLink="false">20230218161051</guid>
+         <description>
+           <![CDATA[<pre>
+gif2png-3.0.0-x86_64-2cf:  Removed.
+go-crypto-0.6.0-x86_64-1cf.txz:  Upgraded.
+go-net-0.7.0-x86_64-1cf.txz:  Upgraded.
+go-sys-0.5.0-x86_64-1cf.txz:  Upgraded.
+           </pre>]]>
+         </description>
+      </item>
+      <item>
+         <title>Sat, 18 Feb 2023 13:50:09 UTC</title>
+         <link>http://slack.conraid.net/repository/slackware64-current/ChangeLog.txt</link>
+         <pubDate>Sat, 18 Feb 2023 13:50:09 UTC</pubDate>
+         <guid isPermaLink="false">20230218145009</guid>
+         <description>
+           <![CDATA[<pre>
+apachetop-0.23.2-x86_64-1cf.txz:  Upgraded.
+aws-cli-1.27.74-x86_64-1cf.txz:  Upgraded.
+cimg-3.2.1-noarch-1cf.txz:  Upgraded.
+clamav-1.0.1-x86_64-1cf.txz:  Upgraded.
+cmocka-1.1.6-x86_64-1cf.txz:  Upgraded.
+converseen-0.9.11.0-x86_64-1cf.txz:  Upgraded.
+dart-sass-bin-1.58.3-x86_64-1cf.txz:  Upgraded.
+dav1d-1.1.0-x86_64-1cf.txz:  Upgraded.
+element-desktop-bin-1.11.23-x86_64-1cf.txz:  Upgraded.
+gitkraken-bin-9.1.1-x86_64-1cf.txz:  Upgraded.
+gitpython-3.1.31-x86_64-1cf.txz:  Upgraded.
+gmic-3.2.1-x86_64-1cf.txz:  Upgraded.
+gnome-color-manager-9a33c71-x86_64-1cf.txz:  Upgraded.
+go-1.20.1-x86_64-1cf.txz:  Upgraded.
+google-api-python-client-2.78.0-x86_64-1cf.txz:  Upgraded.
+google-auth-2.16.1-x86_64-1cf.txz:  Upgraded.
+intel-microcode-20230214-noarch-1cf.txz:  Upgraded.
+iperf3-3.13-x86_64-1cf.txz:  Upgraded.
+lerna-6.5.1-x86_64-1cf.txz:  Upgraded.
+libcurl-gnutls-7.88.0-x86_64-1cf.txz:  Upgraded.
+libheif-1.15.1-x86_64-1cf.txz:  Upgraded.
+liburcu-0.14.0-x86_64-1cf.txz:  Upgraded.
+libyuv-2bdc210be9eb11ded16bf3ef1f6cadb0d4dcb0c2-x86_64-1cf.txz:  Upgraded.
+netdata-1.38.1-x86_64-1cf.txz:  Upgraded.
+nghttp2-app-1.52.0-x86_64-1cf.txz:  Upgraded.
+npm-check-updates-16.7.5-x86_64-1cf.txz:  Upgraded.
+ostree-2023.1-x86_64-1cf.txz:  Upgraded.
+php-composer-2.5.4-noarch-1cf.txz:  Upgraded.
+pipewire-jack-0.3.66-x86_64-1cf.txz:  Upgraded.
+python-botocore-1.29.74-x86_64-1cf.txz:  Upgraded.
+python-pikepdf-7.1.1-x86_64-1cf.txz:  Upgraded.
+python-typing-extensions-4.5.0-x86_64-1cf.txz:  Upgraded.
+signal-desktop-bin-6.6.0-x86_64-1cf.txz:  Upgraded.
+soupsieve-2.4-x86_64-1cf.txz:  Upgraded.
+sqlalchemy-2.0.4-x86_64-1cf.txz:  Upgraded.
+tbb-2021.8.0-x86_64-1cf.txz:  Upgraded.
+telegram-bin-4.6.3-x86_64-1cf.txz:  Upgraded.
+valentina-studio-bin-13.0.1-x86_64-1cf.txz:  Upgraded.
+webkitgtk-2.38.5-x86_64-1cf.txz:  Upgraded.
+wxgtk-3.2.2.1-x86_64-1cf.txz:  Upgraded.
+yt-dlp-2023.2.17-x86_64-1cf.txz:  Upgraded.
+           </pre>]]>
+         </description>
+      </item>
+   </channel>
+</rss>

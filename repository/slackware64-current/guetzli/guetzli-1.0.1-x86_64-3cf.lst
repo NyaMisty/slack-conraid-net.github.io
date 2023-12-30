@@ -1,0 +1,20 @@
+++========================================
+||
+||   Package:  ./guetzli/guetzli-1.0.1-x86_64-3cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 11:30 ./
+drwxr-xr-x root/root         0 2020-10-05 11:30 install/
+-rw-r--r-- root/root       931 2020-10-05 11:30 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 11:30 usr/
+drwxr-xr-x root/root         0 2020-10-05 11:30 usr/bin/
+-rwxr-xr-x root/root     68464 2020-10-05 11:30 usr/bin/butteraugli
+-rwxr-xr-x root/root    216016 2020-10-05 11:30 usr/bin/guetzli
+drwxr-xr-x root/root         0 2020-10-05 11:30 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 11:30 usr/doc/guetzli-1.0.1/
+-rw-r--r-- root/root      1589 2017-03-21 17:37 usr/doc/guetzli-1.0.1/CONTRIBUTING.md
+-rw-r--r-- root/root     11358 2017-03-21 17:37 usr/doc/guetzli-1.0.1/LICENSE
+-rw-r--r-- root/root      4254 2017-03-21 17:37 usr/doc/guetzli-1.0.1/README.md
+-rw-r--r-- root/root      3057 2020-10-05 11:30 usr/doc/guetzli-1.0.1/guetzli.SlackBuild
+
+

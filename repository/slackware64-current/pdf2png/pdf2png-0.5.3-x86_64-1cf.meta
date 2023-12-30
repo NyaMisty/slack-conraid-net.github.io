@@ -1,0 +1,21 @@
+PACKAGE NAME:  pdf2png-0.5.3-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./pdf2png
+PACKAGE SIZE (compressed):  12 K
+PACKAGE SIZE (uncompressed):  50 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+pdf2png: pdf2png (Converts pdf files to various image formats)
+pdf2png:
+pdf2png: pdf2png converts PDF files to various image formats with a simple
+pdf2png: graphical interface based on python, using ghostscript.
+pdf2png:
+pdf2png: It supports up to 4 different image extensions like PNG, JPEG,
+pdf2png: BMP and TIFF.
+pdf2png:
+pdf2png:
+pdf2png:
+pdf2png:
+

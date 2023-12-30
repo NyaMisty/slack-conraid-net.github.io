@@ -1,0 +1,11 @@
+cargo-c: cargo-c (build and install C-compatible libraries)
+cargo-c:
+cargo-c: cargo applet to build and install C-ABI compatible dynamic and static
+cargo-c: libraries.
+cargo-c:
+cargo-c:
+cargo-c:
+cargo-c:
+cargo-c:
+cargo-c:
+cargo-c:

@@ -1,0 +1,21 @@
+++========================================
+||
+||   Package:  ./ftjam/ftjam-2.5.2-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-18 15:09 ./
+drwxr-xr-x root/root         0 2022-07-18 15:09 install/
+-rw-r--r-- root/root      1027 2022-07-18 15:09 install/slack-desc
+drwxr-xr-x root/root         0 2022-07-18 15:09 usr/
+drwxr-xr-x root/root         0 2022-07-18 15:09 usr/bin/
+-rwxr-xr-x root/root    127520 2022-07-18 15:09 usr/bin/jam
+drwxr-xr-x root/root         0 2022-07-18 15:09 usr/doc/
+drwxr-xr-x root/root         0 2022-07-18 15:09 usr/doc/ftjam-2.5.2/
+-rwxr--r-- root/root      7359 2006-06-05 12:52 usr/doc/ftjam-2.5.2/CHANGES
+-rwxr--r-- root/root      3710 2006-06-05 12:52 usr/doc/ftjam-2.5.2/INSTALL
+-rwxr--r-- root/root      2984 2006-06-05 12:52 usr/doc/ftjam-2.5.2/README
+-rwxr--r-- root/root      4354 2006-06-05 12:52 usr/doc/ftjam-2.5.2/README.ORG
+-rwxr--r-- root/root     39504 2006-06-05 12:52 usr/doc/ftjam-2.5.2/RELNOTES
+-rw-r--r-- root/root      4206 2022-07-18 15:09 usr/doc/ftjam-2.5.2/ftjam.SlackBuild
+
+

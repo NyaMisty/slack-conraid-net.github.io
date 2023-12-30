@@ -1,0 +1,22 @@
+++========================================
+||
+||   Package:  ./mping/mping-1.5-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-09-05 11:26 ./
+drwxr-xr-x root/root         0 2021-09-05 11:26 install/
+-rw-r--r-- root/root       779 2021-09-05 11:26 install/slack-desc
+drwxr-xr-x root/root         0 2021-09-05 11:26 usr/
+drwxr-xr-x root/root         0 2021-09-05 11:26 usr/bin/
+-rwxr-xr-x root/root     27704 2021-09-05 11:26 usr/bin/mping
+drwxr-xr-x root/root         0 2021-09-05 11:26 usr/doc/
+drwxr-xr-x root/root         0 2021-09-05 11:26 usr/doc/mping-1.5/
+-rw-r--r-- root/root      1530 2021-09-05 11:00 usr/doc/mping-1.5/ChangeLog.md
+-rw-r--r-- root/root      1081 2021-09-05 11:00 usr/doc/mping-1.5/LICENSE
+-rw-r--r-- root/root      2489 2021-09-05 11:00 usr/doc/mping-1.5/README.md
+-rw-r--r-- root/root      3798 2021-09-05 11:26 usr/doc/mping-1.5/mping.SlackBuild
+drwxr-xr-x root/root         0 2021-09-05 11:26 usr/man/
+drwxr-xr-x root/root         0 2021-09-05 11:26 usr/man/man1/
+-rw-r--r-- root/root      2209 2021-09-05 11:26 usr/man/man1/mping.1.gz
+
+

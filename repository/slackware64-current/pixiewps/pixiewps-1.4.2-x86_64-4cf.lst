@@ -1,0 +1,21 @@
+++========================================
+||
+||   Package:  ./pixiewps/pixiewps-1.4.2-x86_64-4cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 12:24 ./
+drwxr-xr-x root/root         0 2020-10-05 12:24 install/
+-rw-r--r-- root/root       909 2020-10-05 12:24 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 12:24 usr/
+drwxr-xr-x root/root         0 2020-10-05 12:24 usr/bin/
+-rwxr-xr-x root/root     88312 2020-10-05 12:24 usr/bin/pixiewps
+drwxr-xr-x root/root         0 2020-10-05 12:24 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 12:24 usr/doc/pixiewps-1.4.2/
+-rw-r--r-- root/root     35178 2018-01-25 22:10 usr/doc/pixiewps-1.4.2/LICENSE.md
+-rw-r--r-- root/root      8067 2018-01-25 22:10 usr/doc/pixiewps-1.4.2/README.md
+-rw-r--r-- root/root      3348 2020-10-05 12:24 usr/doc/pixiewps-1.4.2/pixiewps.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 12:24 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 12:24 usr/man/man1/
+-rw-r--r-- root/root      1700 2020-10-05 12:24 usr/man/man1/pixiewps.1.gz
+
+

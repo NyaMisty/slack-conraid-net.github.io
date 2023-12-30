@@ -1,0 +1,54 @@
+++========================================
+||
+||   Package:  ./qdirstat/qdirstat-1.7.1-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-04-06 10:42 ./
+drwxr-xr-x root/root         0 2021-04-06 10:42 install/
+-rw-r--r-- root/root       518 2021-04-06 10:42 install/doinst.sh
+-rw-r--r-- root/root       749 2021-04-06 10:42 install/slack-desc
+drwxr-xr-x root/root         0 2021-04-06 10:42 usr/
+drwxr-xr-x root/root         0 2021-04-06 10:42 usr/bin/
+-rwxr-xr-x root/root   2070232 2021-04-06 10:42 usr/bin/qdirstat
+-rwxr-xr-x root/root     12542 2021-04-05 15:30 usr/bin/qdirstat-cache-writer
+drwxr-xr-x root/root         0 2021-04-06 10:42 usr/doc/
+drwxr-xr-x root/root         0 2021-04-06 10:42 usr/doc/qdirstat-1.7.1/
+-rw-r--r-- root/root      6814 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/Btrfs-Free-Size.md
+-rw-r--r-- root/root       113 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/Building.md
+-rw-r--r-- root/root      7156 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/Contributing.md
+-rw-r--r-- root/root      1664 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/Debugging-Tips.md
+-rw-r--r-- root/root    132591 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/DevHistory.md
+-rw-r--r-- root/root     11721 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/GitHub-Workflow.md
+-rw-r--r-- root/root       117 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/Installing.md
+-rw-r--r-- root/root     18047 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/LICENSE
+-rw-r--r-- root/root     11463 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/Pkg-View.md
+-rw-r--r-- root/root      7884 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/QDirStat-for-Servers.md
+-rw-r--r-- root/root     45246 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/README.md
+-rw-r--r-- root/root     27239 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/Shadowed-by-Mount.md
+-rw-r--r-- root/root      3197 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/Troubleshooting.md
+-rw-r--r-- root/root     11661 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/Unpkg-View.md
+-rw-r--r-- root/root      7280 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/cache-file-format.txt
+-rw-r--r-- root/root      3738 2021-04-06 10:42 usr/doc/qdirstat-1.7.1/qdirstat.SlackBuild
+drwxr-xr-x root/root         0 2021-04-06 10:42 usr/doc/qdirstat-1.7.1/stats/
+-rw-r--r-- root/root      1675 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/stats/Buckets-Table.md
+-rw-r--r-- root/root      7391 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/stats/File-Size-Histogram.md
+-rw-r--r-- root/root      1828 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/stats/Histogram-Options.md
+-rw-r--r-- root/root      4980 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/stats/Histograms-in-General.md
+-rw-r--r-- root/root      9991 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/stats/Median-Percentiles.md
+-rw-r--r-- root/root      4993 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/stats/Overflow-Area.md
+-rw-r--r-- root/root      2215 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/stats/Percentiles-Table.md
+-rw-r--r-- root/root      1049 2021-04-05 15:30 usr/doc/qdirstat-1.7.1/stats/Statistics.md
+drwxr-xr-x root/root         0 2021-04-06 10:42 usr/man/
+drwxr-xr-x root/root         0 2021-04-06 10:42 usr/man/man1/
+-rw-r--r-- root/root       959 2021-04-06 10:42 usr/man/man1/qdirstat-cache-writer.1.gz
+-rw-r--r-- root/root      3397 2021-04-06 10:42 usr/man/man1/qdirstat.1.gz
+drwxr-xr-x root/root         0 2021-04-06 10:42 usr/share/
+drwxr-xr-x root/root         0 2021-04-06 10:42 usr/share/applications/
+-rw-r--r-- root/root       263 2021-04-05 15:30 usr/share/applications/qdirstat.desktop
+drwxr-xr-x root/root         0 2021-04-06 10:42 usr/share/icons/
+drwxr-xr-x root/root         0 2021-04-06 10:42 usr/share/icons/hicolor/
+drwxr-xr-x root/root         0 2021-04-06 10:42 usr/share/icons/hicolor/scalable/
+drwxr-xr-x root/root         0 2021-04-06 10:42 usr/share/icons/hicolor/scalable/apps/
+-rw-r--r-- root/root      2356 2021-04-05 15:30 usr/share/icons/hicolor/scalable/apps/qdirstat.svg
+
+

@@ -1,0 +1,18 @@
+PACKAGE NAME:  nicstat-1.95-x86_64-6cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./nicstat
+PACKAGE SIZE (compressed):  24 K
+PACKAGE SIZE (uncompressed):  70 K
+PACKAGE DESCRIPTION:
+nicstat: nicstat (Network traffic statics utility)
+nicstat:
+nicstat: nicstat is a Solaris and Linux command-line that prints out network
+nicstat: statistics for all network interface cards (NICs), including packets,
+nicstat: kilobytes per second, average packet sizes and more.
+nicstat:
+nicstat:
+nicstat:
+nicstat:
+nicstat:
+nicstat:
+

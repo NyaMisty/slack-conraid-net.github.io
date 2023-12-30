@@ -1,0 +1,11 @@
+darkstat: darkstat (packet sniffing daemon that serves statistics over HTTP) 
+darkstat:
+darkstat: Traffic graphs, and reports per host, showing each port for each host.
+darkstat: Embedded web-server with deflate compression. 
+darkstat: Asynchronous reverse DNS resolution using a child process. 
+darkstat: Small. Portable. Single-threaded. Efficient. Uncomplicated. 
+darkstat:
+darkstat:
+darkstat:
+darkstat:
+darkstat:

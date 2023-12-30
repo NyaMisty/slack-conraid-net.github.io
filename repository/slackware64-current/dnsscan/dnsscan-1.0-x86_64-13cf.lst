@@ -1,0 +1,20 @@
+++========================================
+||
+||   Package:  ./dnsscan/dnsscan-1.0-x86_64-13cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-09-04 11:44 ./
+drwxr-xr-x root/root         0 2020-09-04 11:44 install/
+-rw-r--r-- root/root       741 2020-09-04 11:44 install/slack-desc
+drwxr-xr-x root/root         0 2020-09-04 11:44 usr/
+drwxr-xr-x root/root         0 2020-09-04 11:44 usr/bin/
+-rwxr-xr-x root/root     56696 2020-09-04 11:44 usr/bin/dnsreader
+-rwxr-xr-x root/root     44072 2020-09-04 11:44 usr/bin/dnsresponder
+-rwxr-xr-x root/root     88176 2020-09-04 11:44 usr/bin/dnsscan
+drwxr-xr-x root/root         0 2020-09-04 11:44 usr/doc/
+drwxr-xr-x root/root         0 2020-09-04 11:44 usr/doc/dnsscan-1.0/
+-rw-r--r-- root/root        17 2008-01-09 03:51 usr/doc/dnsscan-1.0/ChangeLog
+-rw-r--r-- root/root      1225 2008-01-09 03:58 usr/doc/dnsscan-1.0/README
+-rw-r--r-- root/root      3230 2020-09-04 11:44 usr/doc/dnsscan-1.0/dnsscan.SlackBuild
+
+

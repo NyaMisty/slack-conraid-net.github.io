@@ -1,0 +1,11 @@
+qtcurve: qtcurve (A configurable set of widget styles for KDE and Gtk)
+qtcurve:
+qtcurve: This is a set of widget styles for KDE4 and Gtk2 based apps.
+qtcurve: The   underlying  code  is  based  upon  Blue/FreeCurve  -  however
+qtcurve: *extensive* modifications have been made. 
+qtcurve:
+qtcurve:
+qtcurve:
+qtcurve:
+qtcurve:
+qtcurve:

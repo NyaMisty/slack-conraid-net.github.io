@@ -1,0 +1,21 @@
+PACKAGE NAME:  python-attrs-22.1.0-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./python-attrs
+PACKAGE SIZE (compressed):  84 K
+PACKAGE SIZE (uncompressed):  440 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+python-attrs: python-attrs (Attributes without boilerplate)
+python-attrs:
+python-attrs: attrs is the Python package that will bring back the joy of writing
+python-attrs: classes by relieving you from the drudgery of implementing object
+python-attrs: protocols (aka dunder methods).
+python-attrs:
+python-attrs:
+python-attrs:
+python-attrs:
+python-attrs:
+python-attrs:
+

@@ -1,0 +1,63 @@
+++========================================
+||
+||   Package:  ./unittest-cpp/unittest-cpp-2.0.0-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2019-12-02 15:12 ./
+drwxr-xr-x root/root         0 2019-12-02 15:12 install/
+-rw-r--r-- root/root       945 2019-12-02 15:12 install/slack-desc
+drwxr-xr-x root/root         0 2019-12-02 15:12 usr/
+drwxr-xr-x root/root         0 2019-12-02 15:12 usr/doc/
+drwxr-xr-x root/root         0 2019-12-02 15:12 usr/doc/unittest-cpp-2.0.0/
+-rw-r--r-- root/root       124 2017-01-13 22:55 usr/doc/unittest-cpp-2.0.0/AUTHORS
+-rw-r--r-- root/root      1077 2017-01-13 22:55 usr/doc/unittest-cpp-2.0.0/LICENSE
+-rw-r--r-- root/root      5218 2017-01-13 22:55 usr/doc/unittest-cpp-2.0.0/README.md
+-rw-r--r-- root/root      3699 2019-12-02 15:12 usr/doc/unittest-cpp-2.0.0/unittest-cpp.SlackBuild
+drwxr-xr-x root/root         0 2019-12-02 15:12 usr/include/
+drwxr-xr-x root/root         0 2019-12-02 15:12 usr/include/UnitTest++/
+-rw-r--r-- root/root       367 2017-01-13 22:55 usr/include/UnitTest++/AssertException.h
+-rw-r--r-- root/root     23309 2017-01-13 22:55 usr/include/UnitTest++/CheckMacros.h
+-rw-r--r-- root/root      5320 2017-01-13 22:55 usr/include/UnitTest++/Checks.h
+-rw-r--r-- root/root      1014 2017-01-13 22:55 usr/include/UnitTest++/CompositeTestReporter.h
+-rw-r--r-- root/root      3209 2017-01-13 22:55 usr/include/UnitTest++/Config.h
+-rw-r--r-- root/root       319 2017-01-13 22:55 usr/include/UnitTest++/CurrentTest.h
+-rw-r--r-- root/root       813 2017-01-13 22:55 usr/include/UnitTest++/DeferredTestReporter.h
+-rw-r--r-- root/root       953 2017-01-13 22:55 usr/include/UnitTest++/DeferredTestResult.h
+-rw-r--r-- root/root       724 2017-01-13 22:55 usr/include/UnitTest++/ExceptionMacros.h
+-rw-r--r-- root/root      1484 2017-01-13 22:55 usr/include/UnitTest++/ExecuteTest.h
+-rw-r--r-- root/root      1677 2017-01-13 22:55 usr/include/UnitTest++/HelperMacros.h
+-rw-r--r-- root/root      1932 2017-01-13 22:55 usr/include/UnitTest++/MemoryOutStream.h
+drwxr-xr-x root/root         0 2019-12-02 15:12 usr/include/UnitTest++/Posix/
+-rw-r--r-- root/root      1036 2017-01-13 22:55 usr/include/UnitTest++/Posix/SignalTranslator.h
+-rw-r--r-- root/root       338 2017-01-13 22:55 usr/include/UnitTest++/Posix/TimeHelpers.h
+-rw-r--r-- root/root       215 2017-01-13 22:55 usr/include/UnitTest++/ReportAssert.h
+-rw-r--r-- root/root      1310 2017-01-13 22:55 usr/include/UnitTest++/ReportAssertImpl.h
+-rw-r--r-- root/root       511 2017-01-13 22:55 usr/include/UnitTest++/RequireMacros.h
+-rw-r--r-- root/root       402 2017-01-13 22:55 usr/include/UnitTest++/RequiredCheckException.h
+-rw-r--r-- root/root       828 2017-01-13 22:55 usr/include/UnitTest++/RequiredCheckTestReporter.h
+-rw-r--r-- root/root       620 2017-01-13 22:55 usr/include/UnitTest++/Test.h
+-rw-r--r-- root/root       690 2017-01-13 22:55 usr/include/UnitTest++/TestDetails.h
+-rw-r--r-- root/root       426 2017-01-13 22:55 usr/include/UnitTest++/TestList.h
+-rw-r--r-- root/root      9555 2017-01-13 22:55 usr/include/UnitTest++/TestMacros.h
+-rw-r--r-- root/root       596 2017-01-13 22:55 usr/include/UnitTest++/TestReporter.h
+-rw-r--r-- root/root       567 2017-01-13 22:55 usr/include/UnitTest++/TestReporterStdout.h
+-rw-r--r-- root/root       929 2017-01-13 22:55 usr/include/UnitTest++/TestResults.h
+-rw-r--r-- root/root      1340 2017-01-13 22:55 usr/include/UnitTest++/TestRunner.h
+-rw-r--r-- root/root       172 2017-01-13 22:55 usr/include/UnitTest++/TestSuite.h
+-rw-r--r-- root/root       838 2017-01-13 22:55 usr/include/UnitTest++/ThrowingTestReporter.h
+-rw-r--r-- root/root       852 2017-01-13 22:55 usr/include/UnitTest++/TimeConstraint.h
+-rw-r--r-- root/root       129 2017-01-13 22:55 usr/include/UnitTest++/TimeHelpers.h
+-rw-r--r-- root/root        23 2017-01-13 22:55 usr/include/UnitTest++/UnitTest++.h
+-rw-r--r-- root/root       225 2017-01-13 22:55 usr/include/UnitTest++/UnitTestPP.h
+-rw-r--r-- root/root      1092 2017-01-13 22:55 usr/include/UnitTest++/XmlTestReporter.h
+drwxr-xr-x root/root         0 2019-12-02 15:12 usr/lib64/
+drwxr-xr-x root/root         0 2019-12-02 15:12 usr/lib64/cmake/
+drwxr-xr-x root/root         0 2019-12-02 15:12 usr/lib64/cmake/UnitTest++/
+-rw-r--r-- root/root       158 2017-01-13 22:55 usr/lib64/cmake/UnitTest++/UnitTest++Config.cmake
+-rw-r--r-- root/root       823 2019-12-02 15:12 usr/lib64/cmake/UnitTest++/UnitTest++Targets-release.cmake
+-rw-r--r-- root/root      3502 2019-12-02 15:12 usr/lib64/cmake/UnitTest++/UnitTest++Targets.cmake
+-rw-r--r-- root/root    154302 2019-12-02 15:12 usr/lib64/libUnitTest++.a
+drwxr-xr-x root/root         0 2019-12-02 15:12 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       280 2019-12-02 15:12 usr/lib64/pkgconfig/UnitTest++.pc
+
+

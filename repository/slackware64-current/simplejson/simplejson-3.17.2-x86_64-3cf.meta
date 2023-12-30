@@ -1,0 +1,18 @@
+PACKAGE NAME:  simplejson-3.17.2-x86_64-3cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./simplejson
+PACKAGE SIZE (compressed):  92 K
+PACKAGE SIZE (uncompressed):  480 K
+PACKAGE DESCRIPTION:
+simplejson: simplejson (extensible JSON encoder and decoder for Python)
+simplejson:
+simplejson: Simplejson is a simple, fast, complete, correct and extensible JSON
+simplejson: encoder and decoder for Python.
+simplejson: It is pure Python code with no dependencies, but includes an optional
+simplejson: C extension for a serious speed boost.
+simplejson:
+simplejson:
+simplejson:
+simplejson:
+simplejson:
+

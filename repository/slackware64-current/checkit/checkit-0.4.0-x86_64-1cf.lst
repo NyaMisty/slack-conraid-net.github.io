@@ -1,0 +1,28 @@
+++========================================
+||
+||   Package:  ./checkit/checkit-0.4.0-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-11-20 14:15 ./
+drwxr-xr-x root/root         0 2020-11-20 14:15 install/
+-rw-r--r-- root/root       683 2020-11-20 14:15 install/slack-desc
+drwxr-xr-x root/root         0 2020-11-20 14:15 usr/
+drwxr-xr-x root/root         0 2020-11-20 14:15 usr/bin/
+-rwxr-xr-x root/root     22808 2020-11-20 14:15 usr/bin/checkit
+drwxr-xr-x root/root         0 2020-11-20 14:15 usr/doc/
+drwxr-xr-x root/root         0 2020-11-20 14:15 usr/doc/checkit/
+drwxr-xr-x root/root         0 2020-11-20 14:15 usr/doc/checkit-0.4.0/
+-rw-r--r-- root/root         0 2014-03-22 04:18 usr/doc/checkit-0.4.0/AUTHORS
+-rw-r--r-- root/root     35147 2014-04-13 14:23 usr/doc/checkit-0.4.0/COPYING
+-rw-r--r-- root/root        62 2014-03-30 12:48 usr/doc/checkit-0.4.0/ChangeLog
+-rw-r--r-- root/root     15749 2014-04-13 14:23 usr/doc/checkit-0.4.0/INSTALL
+-rw-r--r-- root/root         0 2014-03-22 04:18 usr/doc/checkit-0.4.0/NEWS
+-rw-r--r-- root/root      6489 2020-08-15 08:36 usr/doc/checkit-0.4.0/README
+-rw-r--r-- root/root      3642 2020-11-20 14:15 usr/doc/checkit-0.4.0/checkit.SlackBuild
+-rw-r--r-- root/root     32472 2020-11-20 14:15 usr/doc/checkit/LICENSE
+-rw-r--r-- root/root      6489 2020-11-20 14:15 usr/doc/checkit/README
+drwxr-xr-x root/root         0 2020-11-20 14:15 usr/man/
+drwxr-xr-x root/root         0 2020-11-20 14:15 usr/man/man1/
+-rw-r--r-- root/root      1574 2020-11-20 14:15 usr/man/man1/checkit.1.gz
+
+

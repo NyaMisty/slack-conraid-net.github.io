@@ -1,0 +1,18 @@
+PACKAGE NAME:  libcsv-3.0.3-x86_64-3cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./libcsv
+PACKAGE SIZE (compressed):  32 K
+PACKAGE SIZE (uncompressed):  100 K
+PACKAGE DESCRIPTION:
+libcsv: libcsv (CSV library)
+libcsv:
+libcsv: libcsv is a small, simple and fast CSV library written in pure ANSI
+libcsv: C89 that can read and write CSV data. It provides a straight-forward
+libcsv: interface using callback functions to handle parsed fields and rows
+libcsv: and can parse improperly formatted CSV files.
+libcsv:
+libcsv:
+libcsv:
+libcsv:
+libcsv:
+

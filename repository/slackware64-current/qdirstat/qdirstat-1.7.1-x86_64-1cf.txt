@@ -1,0 +1,11 @@
+qdirstat: qdirstat (Qt-based directory statistics)
+qdirstat:
+qdirstat: QDirStat is a graphical application to show where your disk space
+qdirstat: has gone and to help you to clean it up.
+qdirstat:
+qdirstat:
+qdirstat:
+qdirstat:
+qdirstat:
+qdirstat:
+qdirstat:

@@ -1,0 +1,18 @@
+PACKAGE NAME:  mysqltuner-1.9.9-noarch-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./mysqltuner
+PACKAGE SIZE (compressed):  172 K
+PACKAGE SIZE (uncompressed):  2360 K
+PACKAGE DESCRIPTION:
+mysqltuner: mysqltuner (MySQL Tuning Script)
+mysqltuner:
+mysqltuner: MySQLTuner is a script written in Perl that allows you to review a
+mysqltuner: MySQL installation quickly and make adjustments to increase
+mysqltuner: performance and stability. The current configuration variables and
+mysqltuner: status data is retrieved and presented in a brief format along with
+mysqltuner: some basic performance suggestions.
+mysqltuner:
+mysqltuner:
+mysqltuner:
+mysqltuner:
+

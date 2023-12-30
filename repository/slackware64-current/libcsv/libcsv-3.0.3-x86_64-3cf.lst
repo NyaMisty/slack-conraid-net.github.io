@@ -1,0 +1,28 @@
+++========================================
+||
+||   Package:  ./libcsv/libcsv-3.0.3-x86_64-3cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-05-22 10:05 ./
+drwxr-xr-x root/root         0 2021-05-22 10:05 install/
+-rw-r--r-- root/root       180 2021-05-22 10:05 install/doinst.sh
+-rw-r--r-- root/root       849 2021-05-22 10:05 install/slack-desc
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/doc/
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/doc/libcsv-3.0.3/
+-rw-r--r-- root/root     15118 2012-05-01 23:07 usr/doc/libcsv-3.0.3/COPYING
+-rw-r--r-- root/root     24382 2006-10-24 11:19 usr/doc/libcsv-3.0.3/COPYING.LESSER
+-rw-r--r-- root/root      6090 2013-01-10 01:08 usr/doc/libcsv-3.0.3/ChangeLog
+-rw-r--r-- root/root      5176 2008-07-26 20:55 usr/doc/libcsv-3.0.3/FAQ
+-rw-r--r-- root/root      1250 2012-05-01 18:42 usr/doc/libcsv-3.0.3/INSTALL
+-rw-r--r-- root/root       801 2013-01-10 00:58 usr/doc/libcsv-3.0.3/README
+-rw-r--r-- root/root      3660 2021-05-22 10:05 usr/doc/libcsv-3.0.3/libcsv.SlackBuild
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/include/
+-rw-r--r-- root/root      3463 2021-05-22 10:05 usr/include/csv.h
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/lib64/
+-rwxr-xr-x root/root     18472 2021-05-22 10:05 usr/lib64/libcsv.so.3.0.2
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/man/
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/man/man3/
+-rw-r--r-- root/root      8055 2021-05-22 10:05 usr/man/man3/csv.3.gz
+
+

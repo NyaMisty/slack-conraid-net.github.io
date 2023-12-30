@@ -1,0 +1,43 @@
+++========================================
+||
+||   Package:  ./alien/alien-8.95-x86_64-7cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-05-22 09:35 ./
+drwxr-xr-x root/root         0 2021-05-22 09:35 install/
+-rw-r--r-- root/root       162 2021-05-22 09:35 install/doinst.sh
+-rw-r--r-- root/root       883 2021-05-22 09:35 install/slack-desc
+drwxr-xr-x root/root         0 2021-05-22 09:35 usr/
+drwxr-xr-x root/root         0 2021-05-22 09:35 usr/bin/
+-r-xr-xr-x root/root     16544 2021-05-22 09:35 usr/bin/alien
+drwxr-xr-x root/root         0 2021-05-22 09:35 usr/doc/
+drwxr-xr-x root/root         0 2021-05-22 09:35 usr/doc/alien-8.95/
+-rw-r--r-- root/root     17976 2014-07-02 21:17 usr/doc/alien-8.95/GPL
+-rw-r--r-- root/root      2719 2014-07-02 21:17 usr/doc/alien-8.95/README
+-rw-r--r-- root/root       448 2014-07-02 21:17 usr/doc/alien-8.95/TODO
+-rw-r--r-- root/root      3696 2021-05-22 09:35 usr/doc/alien-8.95/alien.SlackBuild
+drwxr-xr-x root/root         0 2021-05-22 09:35 usr/man/
+drwxr-xr-x root/root         0 2021-05-22 09:35 usr/man/man1/
+-rw-r--r-- root/root      4531 2021-05-22 09:35 usr/man/man1/alien.1.gz
+drwxr-xr-x root/root         0 2021-05-22 09:35 usr/man/man3/
+-rw-r--r-- root/root      3926 2021-05-22 09:35 usr/man/man3/Alien::Package.3.gz
+-rw-r--r-- root/root      2477 2021-05-22 09:35 usr/man/man3/Alien::Package::Deb.3.gz
+-rw-r--r-- root/root      1555 2021-05-22 09:35 usr/man/man3/Alien::Package::Lsb.3.gz
+-rw-r--r-- root/root      1597 2021-05-22 09:35 usr/man/man3/Alien::Package::Pkg.3.gz
+-rw-r--r-- root/root      2283 2021-05-22 09:35 usr/man/man3/Alien::Package::Rpm.3.gz
+-rw-r--r-- root/root      2095 2021-05-22 09:35 usr/man/man3/Alien::Package::Slp.3.gz
+-rw-r--r-- root/root      1631 2021-05-22 09:35 usr/man/man3/Alien::Package::Tgz.3.gz
+drwxr-xr-x root/root         0 2021-05-22 09:35 usr/share/
+drwxr-xr-x root/root         0 2021-05-22 09:35 usr/share/perl5/
+drwxr-xr-x root/root         0 2021-05-22 09:35 usr/share/perl5/vendor_perl/
+drwxr-xr-x root/root         0 2021-05-22 09:35 usr/share/perl5/vendor_perl/Alien/
+drwxr-xr-x root/root         0 2021-05-22 09:35 usr/share/perl5/vendor_perl/Alien/Package/
+-r--r--r-- root/root     10602 2015-09-10 23:38 usr/share/perl5/vendor_perl/Alien/Package.pm
+-r--r--r-- root/root     19774 2015-09-10 23:38 usr/share/perl5/vendor_perl/Alien/Package/Deb.pm
+-r--r--r-- root/root      2261 2014-07-02 21:17 usr/share/perl5/vendor_perl/Alien/Package/Lsb.pm
+-r--r--r-- root/root      7221 2014-07-02 21:17 usr/share/perl5/vendor_perl/Alien/Package/Pkg.pm
+-r--r--r-- root/root     16517 2015-09-10 23:38 usr/share/perl5/vendor_perl/Alien/Package/Rpm.pm
+-r--r--r-- root/root      7491 2015-09-10 23:38 usr/share/perl5/vendor_perl/Alien/Package/Slp.pm
+-r--r--r-- root/root      4739 2015-09-10 23:38 usr/share/perl5/vendor_perl/Alien/Package/Tgz.pm
+
+

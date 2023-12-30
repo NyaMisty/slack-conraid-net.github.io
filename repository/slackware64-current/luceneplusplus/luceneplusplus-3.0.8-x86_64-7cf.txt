@@ -1,0 +1,11 @@
+luceneplusplus: luceneplusplus ((text search engine)
+luceneplusplus:
+luceneplusplus: Lucene++ is an up to date C++ port of the popular Java Lucene library,
+luceneplusplus: a high-performance, and full-featured text search engine.
+luceneplusplus:
+luceneplusplus:
+luceneplusplus:
+luceneplusplus:
+luceneplusplus:
+luceneplusplus:
+luceneplusplus:

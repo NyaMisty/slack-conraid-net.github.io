@@ -1,0 +1,18 @@
+PACKAGE NAME:  dnsscan-1.0-x86_64-13cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./dnsscan
+PACKAGE SIZE (compressed):  44 K
+PACKAGE SIZE (uncompressed):  200 K
+PACKAGE DESCRIPTION:
+dnsscan: dnsscan
+dnsscan:
+dnsscan: Dnsscan is a tool for finger printing open recursive resolvers. 
+dnsscan: It runs in conjuction with a small server that knows how to reply 
+dnsscan: to queries forwarded from probed resolvers.
+dnsscan:
+dnsscan:
+dnsscan:
+dnsscan:
+dnsscan:
+dnsscan:
+

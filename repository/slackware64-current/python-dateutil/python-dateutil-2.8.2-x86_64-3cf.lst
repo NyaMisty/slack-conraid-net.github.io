@@ -1,0 +1,74 @@
+++========================================
+||
+||   Package:  ./python-dateutil/python-dateutil-2.8.2-x86_64-3cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-11-05 10:19 ./
+drwxr-xr-x root/root         0 2021-11-05 10:19 install/
+-rw-r--r-- root/root       790 2021-11-05 10:19 install/slack-desc
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/doc/
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/doc/python-dateutil-2.8.2/
+-rw-r--r-- root/root      6490 2021-07-14 10:18 usr/doc/python-dateutil-2.8.2/AUTHORS.md
+-rw-r--r-- root/root      6619 2021-07-14 10:18 usr/doc/python-dateutil-2.8.2/CONTRIBUTING.md
+-rw-r--r-- root/root      2889 2021-07-14 10:18 usr/doc/python-dateutil-2.8.2/LICENSE
+-rw-r--r-- root/root      6819 2021-07-14 10:18 usr/doc/python-dateutil-2.8.2/README.rst
+-rw-r--r-- root/root      3544 2021-07-14 10:18 usr/doc/python-dateutil-2.8.2/RELEASING
+-rw-r--r-- root/root      3402 2021-11-05 10:19 usr/doc/python-dateutil-2.8.2/python-dateutil.SlackBuild
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/
+-rw-r--r-- root/root       222 2021-07-14 10:18 usr/lib64/python3.9/site-packages/dateutil/__init__.py
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/__pycache__/
+-rw-r--r-- root/root       335 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      1395 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/__pycache__/_common.cpython-39.pyc
+-rw-r--r-- root/root       201 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/__pycache__/_version.cpython-39.pyc
+-rw-r--r-- root/root      2165 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/__pycache__/easter.cpython-39.pyc
+-rw-r--r-- root/root     14775 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/__pycache__/relativedelta.cpython-39.pyc
+-rw-r--r-- root/root     43357 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/__pycache__/rrule.cpython-39.pyc
+-rw-r--r-- root/root       166 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/__pycache__/tzwin.cpython-39.pyc
+-rw-r--r-- root/root      2234 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/__pycache__/utils.cpython-39.pyc
+-rw-r--r-- root/root       932 2021-07-14 10:18 usr/lib64/python3.9/site-packages/dateutil/_common.py
+-rw-r--r-- root/root       142 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/_version.py
+-rw-r--r-- root/root      2678 2021-07-14 10:18 usr/lib64/python3.9/site-packages/dateutil/easter.py
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/parser/
+-rw-r--r-- root/root      1766 2021-07-14 10:18 usr/lib64/python3.9/site-packages/dateutil/parser/__init__.py
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/parser/__pycache__/
+-rw-r--r-- root/root      2039 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/parser/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root     40534 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/parser/__pycache__/_parser.cpython-39.pyc
+-rw-r--r-- root/root     11284 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/parser/__pycache__/isoparser.cpython-39.pyc
+-rw-r--r-- root/root     58796 2021-07-14 10:18 usr/lib64/python3.9/site-packages/dateutil/parser/_parser.py
+-rw-r--r-- root/root     13247 2021-07-14 10:18 usr/lib64/python3.9/site-packages/dateutil/parser/isoparser.py
+-rw-r--r-- root/root     24904 2021-07-14 10:18 usr/lib64/python3.9/site-packages/dateutil/relativedelta.py
+-rw-r--r-- root/root     66556 2021-07-14 10:18 usr/lib64/python3.9/site-packages/dateutil/rrule.py
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/tz/
+-rw-r--r-- root/root       444 2021-07-14 10:18 usr/lib64/python3.9/site-packages/dateutil/tz/__init__.py
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/tz/__pycache__/
+-rw-r--r-- root/root       637 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/tz/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root     10733 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/tz/__pycache__/_common.cpython-39.pyc
+-rw-r--r-- root/root      2886 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/tz/__pycache__/_factories.cpython-39.pyc
+-rw-r--r-- root/root     44903 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/tz/__pycache__/tz.cpython-39.pyc
+-rw-r--r-- root/root     11375 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/tz/__pycache__/win.cpython-39.pyc
+-rw-r--r-- root/root     12977 2021-07-14 10:18 usr/lib64/python3.9/site-packages/dateutil/tz/_common.py
+-rw-r--r-- root/root      2569 2021-07-14 10:18 usr/lib64/python3.9/site-packages/dateutil/tz/_factories.py
+-rw-r--r-- root/root     62857 2021-07-14 10:18 usr/lib64/python3.9/site-packages/dateutil/tz/tz.py
+-rw-r--r-- root/root     12935 2021-07-14 10:18 usr/lib64/python3.9/site-packages/dateutil/tz/win.py
+-rw-r--r-- root/root        59 2021-07-14 10:18 usr/lib64/python3.9/site-packages/dateutil/tzwin.py
+-rw-r--r-- root/root      1965 2021-07-14 10:18 usr/lib64/python3.9/site-packages/dateutil/utils.py
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/zoneinfo/
+-rw-r--r-- root/root      5889 2021-07-14 10:18 usr/lib64/python3.9/site-packages/dateutil/zoneinfo/__init__.py
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/zoneinfo/__pycache__/
+-rw-r--r-- root/root      5687 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/zoneinfo/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      2639 2021-11-05 10:19 usr/lib64/python3.9/site-packages/dateutil/zoneinfo/__pycache__/rebuild.cpython-39.pyc
+-rw-r--r-- root/root    174394 2021-07-14 10:18 usr/lib64/python3.9/site-packages/dateutil/zoneinfo/dateutil-zoneinfo.tar.gz
+-rw-r--r-- root/root      2392 2021-07-14 10:18 usr/lib64/python3.9/site-packages/dateutil/zoneinfo/rebuild.py
+drwxr-xr-x root/root         0 2021-11-05 10:19 usr/lib64/python3.9/site-packages/python_dateutil-2.8.2-py3.9.egg-info/
+-rw-r--r-- root/root      8191 2021-11-05 10:19 usr/lib64/python3.9/site-packages/python_dateutil-2.8.2-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root      2157 2021-11-05 10:19 usr/lib64/python3.9/site-packages/python_dateutil-2.8.2-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2021-11-05 10:19 usr/lib64/python3.9/site-packages/python_dateutil-2.8.2-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root         9 2021-11-05 10:19 usr/lib64/python3.9/site-packages/python_dateutil-2.8.2-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root         9 2021-11-05 10:19 usr/lib64/python3.9/site-packages/python_dateutil-2.8.2-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root         1 2021-07-14 10:18 usr/lib64/python3.9/site-packages/python_dateutil-2.8.2-py3.9.egg-info/zip-safe
+
+

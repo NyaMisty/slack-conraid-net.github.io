@@ -1,0 +1,11 @@
+neomutt-vim: neomutt-vim (Vim syntax for neomutt)
+neomutt-vim:
+neomutt-vim: Vim syntax for neomutt.
+neomutt-vim:
+neomutt-vim:
+neomutt-vim:
+neomutt-vim:
+neomutt-vim:
+neomutt-vim:
+neomutt-vim:
+neomutt-vim:

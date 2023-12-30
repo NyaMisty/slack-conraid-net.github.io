@@ -1,0 +1,18 @@
+PACKAGE NAME:  docker-compose-1.28.5-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current-testing/
+PACKAGE LOCATION:  ./docker-compose
+PACKAGE SIZE (compressed):  208 K
+PACKAGE SIZE (uncompressed):  1060 K
+PACKAGE DESCRIPTION:
+docker-compose: docker-compose (multi-container orchestration for docker)
+docker-compose:
+docker-compose: Compose is a tool for defining and running multi-container Docker
+docker-compose: applications.  With Compose, you use a Compose file to configure your
+docker-compose: application's services.  Then, using a single command, you create and
+docker-compose: start all the services from your configuration.
+docker-compose:
+docker-compose:
+docker-compose:
+docker-compose:
+docker-compose:
+

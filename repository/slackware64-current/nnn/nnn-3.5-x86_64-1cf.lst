@@ -1,0 +1,29 @@
+++========================================
+||
+||   Package:  ./nnn/nnn-3.5-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-11-17 10:02 ./
+drwxr-xr-x root/root         0 2020-11-17 10:02 etc/
+drwxr-xr-x root/root         0 2020-11-17 10:02 etc/bash_completion.d/
+-rw-r--r-- root/root      1621 2020-11-17 10:02 etc/bash_completion.d/nnn
+drwxr-xr-x root/root         0 2020-11-17 10:02 install/
+-rw-r--r-- root/root       695 2020-11-17 10:02 install/slack-desc
+drwxr-xr-x root/root         0 2020-11-17 10:02 usr/
+drwxr-xr-x root/root         0 2020-11-17 10:02 usr/bin/
+-rwxr-xr-x root/root     93544 2020-11-17 10:02 usr/bin/nnn
+drwxr-xr-x root/root         0 2020-11-17 10:02 usr/doc/
+drwxr-xr-x root/root         0 2020-11-17 10:02 usr/doc/nnn-3.5/
+-rw-r--r-- root/root     34566 2020-11-17 03:49 usr/doc/nnn-3.5/CHANGELOG
+-rw-r--r-- root/root      1472 2020-11-17 03:49 usr/doc/nnn-3.5/LICENSE
+-rw-r--r-- root/root     10723 2020-11-17 03:49 usr/doc/nnn-3.5/README.md
+-rw-r--r-- root/root      3592 2020-11-17 10:02 usr/doc/nnn-3.5/nnn.SlackBuild
+drwxr-xr-x root/root         0 2020-11-17 10:02 usr/man/
+drwxr-xr-x root/root         0 2020-11-17 10:02 usr/man/man1/
+-rw-r--r-- root/root      6852 2020-11-17 10:02 usr/man/man1/nnn.1.gz
+drwxr-xr-x root/root         0 2020-11-17 10:02 usr/share/
+drwxr-xr-x root/root         0 2020-11-17 10:02 usr/share/zsh/
+drwxr-xr-x root/root         0 2020-11-17 10:02 usr/share/zsh/site-functions/
+-rw-r--r-- root/root      1487 2020-11-17 10:02 usr/share/zsh/site-functions/_nnn
+
+

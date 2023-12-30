@@ -1,0 +1,18 @@
+PACKAGE NAME:  acpiclient-1.7-x86_64-7cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./acpiclient
+PACKAGE SIZE (compressed):  24 K
+PACKAGE SIZE (uncompressed):  80 K
+PACKAGE DESCRIPTION:
+acpiclient: acpiclient (an acpi client for linux)
+acpiclient:
+acpiclient: Linux ACPI client is a command-line tool, similar to the "apm"
+acpiclient: command, that provides information on battery status, AC power, 
+acpiclient: and thermal readings.
+acpiclient:
+acpiclient:
+acpiclient:
+acpiclient:
+acpiclient:
+acpiclient:
+

@@ -1,0 +1,24 @@
+++========================================
+||
+||   Package:  ./cpuid/cpuid-20201006-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-12 09:04 ./
+drwxr-xr-x root/root         0 2020-10-12 09:04 install/
+-rw-r--r-- root/root       869 2020-10-12 09:04 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-12 09:04 usr/
+drwxr-xr-x root/root         0 2020-10-12 09:04 usr/bin/
+-rwxr-xr-x root/root    302880 2020-10-12 09:04 usr/bin/cpuid
+-rwxr-xr-x root/root      3272 2020-10-12 09:04 usr/bin/cpuinfo2cpuid
+drwxr-xr-x root/root         0 2020-10-12 09:04 usr/doc/
+drwxr-xr-x root/root         0 2020-10-12 09:04 usr/doc/cpuid-20201006/
+-rw-r--r-- root/root     84760 2020-10-06 14:39 usr/doc/cpuid-20201006/ChangeLog
+-rw-r--r-- root/root      3009 2020-10-06 14:38 usr/doc/cpuid-20201006/FUTURE
+-rw-r--r-- root/root     18092 2010-08-31 23:43 usr/doc/cpuid-20201006/LICENSE
+-rw-r--r-- root/root      2853 2020-10-12 09:04 usr/doc/cpuid-20201006/cpuid.SlackBuild
+drwxr-xr-x root/root         0 2020-10-12 09:04 usr/man/
+drwxr-xr-x root/root         0 2020-10-12 09:04 usr/man/man1/
+-r--r--r-- root/root      6012 2020-10-12 09:04 usr/man/man1/cpuid.1.gz
+-r--r--r-- root/root      2310 2020-10-12 09:04 usr/man/man1/cpuinfo2cpuid.1.gz
+
+

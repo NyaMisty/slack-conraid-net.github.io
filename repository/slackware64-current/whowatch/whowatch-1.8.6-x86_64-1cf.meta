@@ -1,0 +1,18 @@
+PACKAGE NAME:  whowatch-1.8.6-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./whowatch
+PACKAGE SIZE (compressed):  40 K
+PACKAGE SIZE (uncompressed):  130 K
+PACKAGE DESCRIPTION:
+whowatch: Whowatch (interactive who-like program)
+whowatch:
+whowatch: Whowatch is an interactive who-like program that displays information
+whowatch: about the users currently logged on to the machine, in real time.
+whowatch: Besides standard informations (login name, tty, host, user's process),
+whowatch: the type of the connection (ie. telnet or ssh) is shown.  You can
+whowatch: toggle display between users' command or idle time.  You can watch
+whowatch: processes tree, navigate in it and send INT and KILL signals.
+whowatch:
+whowatch:
+whowatch:
+

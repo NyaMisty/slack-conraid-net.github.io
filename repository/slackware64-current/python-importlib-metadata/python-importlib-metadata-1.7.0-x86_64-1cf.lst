@@ -1,0 +1,60 @@
+++========================================
+||
+||   Package:  ./python-importlib-metadata/python-importlib-metadata-1.7.0-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-06-27 14:40 ./
+drwxr-xr-x root/root         0 2020-06-27 14:40 install/
+-rw-r--r-- root/root      1033 2020-06-27 14:40 install/slack-desc
+drwxr-xr-x root/root         0 2020-06-27 14:40 usr/
+drwxr-xr-x root/root         0 2020-06-27 14:40 usr/doc/
+drwxr-xr-x root/root         0 2020-06-27 14:40 usr/doc/python-importlib-metadata-1.7.0/
+-rw-r--r-- root/root       571 2020-06-26 23:37 usr/doc/python-importlib-metadata-1.7.0/LICENSE
+-rw-r--r-- root/root      1019 2020-06-26 23:37 usr/doc/python-importlib-metadata-1.7.0/README.rst
+-rw-r--r-- root/root      3232 2020-06-27 14:40 usr/doc/python-importlib-metadata-1.7.0/python-importlib-metadata.SlackBuild
+drwxr-xr-x root/root         0 2020-06-27 14:40 usr/lib64/
+drwxr-xr-x root/root         0 2020-06-27 14:40 usr/lib64/python3.8/
+drwxr-xr-x root/root         0 2020-06-27 14:40 usr/lib64/python3.8/site-packages/
+drwxr-xr-x root/root         0 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata/
+drwxr-xr-x root/root         0 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata-1.7.0-py3.8.egg-info/
+-rw-r--r-- root/root      1993 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata-1.7.0-py3.8.egg-info/PKG-INFO
+-rw-r--r-- root/root      1234 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata-1.7.0-py3.8.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata-1.7.0-py3.8.egg-info/dependency_links.txt
+-rw-r--r-- root/root       187 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata-1.7.0-py3.8.egg-info/requires.txt
+-rw-r--r-- root/root        19 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata-1.7.0-py3.8.egg-info/top_level.txt
+-rw-r--r-- root/root     18961 2020-06-26 23:37 usr/lib64/python3.8/site-packages/importlib_metadata/__init__.py
+drwxr-xr-x root/root         0 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata/__pycache__/
+-rw-r--r-- root/root     22400 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata/__pycache__/__init__.cpython-38.pyc
+-rw-r--r-- root/root      4134 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata/__pycache__/_compat.cpython-38.pyc
+-rw-r--r-- root/root      4417 2020-06-26 23:37 usr/lib64/python3.8/site-packages/importlib_metadata/_compat.py
+drwxr-xr-x root/root         0 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata/docs/
+-rw-r--r-- root/root         0 2020-06-26 23:37 usr/lib64/python3.8/site-packages/importlib_metadata/docs/__init__.py
+drwxr-xr-x root/root         0 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata/docs/__pycache__/
+-rw-r--r-- root/root       161 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata/docs/__pycache__/__init__.cpython-38.pyc
+-rw-r--r-- root/root      1548 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata/docs/__pycache__/conf.cpython-38.pyc
+-rw-r--r-- root/root      8739 2020-06-26 23:37 usr/lib64/python3.8/site-packages/importlib_metadata/docs/changelog.rst
+-rw-r--r-- root/root      5578 2020-06-26 23:37 usr/lib64/python3.8/site-packages/importlib_metadata/docs/conf.py
+-rw-r--r-- root/root      1907 2020-06-26 23:37 usr/lib64/python3.8/site-packages/importlib_metadata/docs/index.rst
+-rw-r--r-- root/root      9504 2020-06-26 23:37 usr/lib64/python3.8/site-packages/importlib_metadata/docs/using.rst
+drwxr-xr-x root/root         0 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata/tests/
+-rw-r--r-- root/root         0 2020-06-26 23:37 usr/lib64/python3.8/site-packages/importlib_metadata/tests/__init__.py
+drwxr-xr-x root/root         0 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata/tests/__pycache__/
+-rw-r--r-- root/root       162 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata/tests/__pycache__/__init__.cpython-38.pyc
+-rw-r--r-- root/root      7521 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata/tests/__pycache__/fixtures.cpython-38.pyc
+-rw-r--r-- root/root      7449 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata/tests/__pycache__/test_api.cpython-38.pyc
+-rw-r--r-- root/root      2690 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata/tests/__pycache__/test_integration.cpython-38.pyc
+-rw-r--r-- root/root     12004 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata/tests/__pycache__/test_main.cpython-38.pyc
+-rw-r--r-- root/root      3479 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata/tests/__pycache__/test_zip.cpython-38.pyc
+drwxr-xr-x root/root         0 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata/tests/data/
+-rw-r--r-- root/root         0 2020-06-26 23:37 usr/lib64/python3.8/site-packages/importlib_metadata/tests/data/__init__.py
+drwxr-xr-x root/root         0 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata/tests/data/__pycache__/
+-rw-r--r-- root/root       167 2020-06-27 14:40 usr/lib64/python3.8/site-packages/importlib_metadata/tests/data/__pycache__/__init__.cpython-38.pyc
+-rw-r--r-- root/root      1455 2020-06-26 23:37 usr/lib64/python3.8/site-packages/importlib_metadata/tests/data/example-21.12-py3-none-any.whl
+-rw-r--r-- root/root      1497 2020-06-26 23:37 usr/lib64/python3.8/site-packages/importlib_metadata/tests/data/example-21.12-py3.6.egg
+-rw-r--r-- root/root      5752 2020-06-26 23:37 usr/lib64/python3.8/site-packages/importlib_metadata/tests/fixtures.py
+-rw-r--r-- root/root      5544 2020-06-26 23:37 usr/lib64/python3.8/site-packages/importlib_metadata/tests/test_api.py
+-rw-r--r-- root/root      1579 2020-06-26 23:37 usr/lib64/python3.8/site-packages/importlib_metadata/tests/test_integration.py
+-rw-r--r-- root/root      9026 2020-06-26 23:37 usr/lib64/python3.8/site-packages/importlib_metadata/tests/test_main.py
+-rw-r--r-- root/root      2675 2020-06-26 23:37 usr/lib64/python3.8/site-packages/importlib_metadata/tests/test_zip.py
+
+

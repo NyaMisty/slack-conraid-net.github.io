@@ -1,0 +1,18 @@
+PACKAGE NAME:  pstoedit-3.78-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./pstoedit
+PACKAGE SIZE (compressed):  772 K
+PACKAGE SIZE (uncompressed):  2630 K
+PACKAGE DESCRIPTION:
+pstoedit: pstoedit (vector graphics converter for ps and pdf files)
+pstoedit:
+pstoedit: pstoedit converts PostScript and PDF files to various vector graphic
+pstoedit: formats.  The resulting files can be edited or imported into various
+pstoedit: drawing packages.  Output formats include: AI, ASY, CGM, DXF, EMF,
+pstoedit: FIG, GMFA, GMFI, GSCHEM, HPGL, IDRAW, KIL, LATEX2E, LWO, MIF, MNA,
+pstoedit: MPOST, NOIXML, PCB, PCL, RIB, RPL, RTF, SK, SVG, SVM, SWF, TGIF,
+pstoedit: XAML, WMF, and variants of these.  Output is also possible to various
+pstoedit: text formats, Java, or TK code.
+pstoedit:
+pstoedit:
+

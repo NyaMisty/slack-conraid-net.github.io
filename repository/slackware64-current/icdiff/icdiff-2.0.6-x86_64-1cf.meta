@@ -1,0 +1,21 @@
+PACKAGE NAME:  icdiff-2.0.6-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./icdiff
+PACKAGE SIZE (compressed):  24 K
+PACKAGE SIZE (uncompressed):  100 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+icdiff: icdiff (improved colored diff )
+icdiff:
+icdiff: By highlighting changes, icdiff can show you the differences between
+icdiff: similar files without getting in the way.
+icdiff:
+icdiff:
+icdiff:
+icdiff:
+icdiff:
+icdiff:
+icdiff:
+

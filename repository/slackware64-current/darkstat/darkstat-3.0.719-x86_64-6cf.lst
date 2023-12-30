@@ -1,0 +1,26 @@
+++========================================
+||
+||   Package:  ./darkstat/darkstat-3.0.719-x86_64-6cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 11:03 ./
+drwxr-xr-x root/root         0 2020-10-05 11:03 install/
+-rw-r--r-- root/root       875 2020-10-05 11:03 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 11:03 usr/
+drwxr-xr-x root/root         0 2020-10-05 11:03 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 11:03 usr/doc/darkstat-3.0.719/
+-rw-r--r-- root/root      1335 2015-05-24 09:40 usr/doc/darkstat-3.0.719/AUTHORS
+-rw-r--r-- root/root     18092 2015-05-24 09:40 usr/doc/darkstat-3.0.719/COPYING.GPL
+-rw-r--r-- root/root      8280 2015-05-24 09:40 usr/doc/darkstat-3.0.719/ChangeLog
+-rw-r--r-- root/root      1004 2015-05-24 09:40 usr/doc/darkstat-3.0.719/INSTALL
+-rw-r--r-- root/root       552 2015-05-24 09:40 usr/doc/darkstat-3.0.719/LICENSE
+-rw-r--r-- root/root      1052 2015-05-24 09:40 usr/doc/darkstat-3.0.719/NEWS
+-rw-r--r-- root/root       558 2015-05-24 09:40 usr/doc/darkstat-3.0.719/README
+-rw-r--r-- root/root      3482 2020-10-05 11:03 usr/doc/darkstat-3.0.719/darkstat.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 11:03 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 11:03 usr/man/man8/
+-rw-r--r-- root/root      4597 2020-10-05 11:03 usr/man/man8/darkstat.8.gz
+drwxr-xr-x root/root         0 2020-10-05 11:03 usr/sbin/
+-r-xr-xr-x root/root    109360 2020-10-05 11:03 usr/sbin/darkstat
+
+

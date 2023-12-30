@@ -1,0 +1,18 @@
+PACKAGE NAME:  cpprestsdk-2.10.18-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./cpprestsdk
+PACKAGE SIZE (compressed):  1444 K
+PACKAGE SIZE (uncompressed):  6700 K
+PACKAGE DESCRIPTION:
+cpprestsdk: cpprestsdk (client-server using a modern asynchronous C++ API design)
+cpprestsdk:
+cpprestsdk: The C++ REST SDK is a Microsoft project for cloud-based client-server
+cpprestsdk: communication in native code using a modern asynchronous C++ API
+cpprestsdk: design. This project aims to help C++ developers connect to and
+cpprestsdk: interact with services.
+cpprestsdk:
+cpprestsdk:
+cpprestsdk:
+cpprestsdk:
+cpprestsdk:
+

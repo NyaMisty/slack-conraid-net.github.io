@@ -1,0 +1,11 @@
+phive: phive (The Phar Installation and Verification Environment)
+phive:
+phive: Installation and verification of phar distributed PHP applications
+phive: has never been this easy!
+phive:
+phive:
+phive:
+phive:
+phive:
+phive:
+phive:

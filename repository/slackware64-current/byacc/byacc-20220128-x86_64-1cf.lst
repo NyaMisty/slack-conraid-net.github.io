@@ -1,0 +1,29 @@
+++========================================
+||
+||   Package:  ./byacc/byacc-20220128-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-02-02 13:57 ./
+drwxr-xr-x root/root         0 2022-02-02 13:57 install/
+-rw-r--r-- root/root       756 2022-02-02 13:57 install/slack-desc
+drwxr-xr-x root/root         0 2022-02-02 13:57 usr/
+drwxr-xr-x root/root         0 2022-02-02 13:57 usr/bin/
+-rwxr-xr-x root/root    174880 2022-02-02 13:57 usr/bin/byacc
+drwxr-xr-x root/root         0 2022-02-02 13:57 usr/doc/
+drwxr-xr-x root/root         0 2022-02-02 13:57 usr/doc/byacc-20220128/
+-rw-r--r-- root/root       771 1990-06-04 01:49 usr/doc/byacc-20220128/ACKNOWLEDGEMENTS
+-rw-r--r-- root/root       247 2010-06-06 22:31 usr/doc/byacc-20220128/AUTHORS
+-rw-r--r-- root/root    209211 2022-01-28 21:35 usr/doc/byacc-20220128/CHANGES
+-rw-r--r-- root/root     47795 2022-01-28 23:16 usr/doc/byacc-20220128/MANIFEST
+-rw-r--r-- root/root      2050 1990-07-16 07:30 usr/doc/byacc-20220128/NEW_FEATURES
+-rw-r--r-- root/root       504 1993-02-22 07:11 usr/doc/byacc-20220128/NOTES
+-rw-r--r-- root/root       156 1989-11-22 13:25 usr/doc/byacc-20220128/NO_WARRANTY
+-rw-r--r-- root/root      1403 2004-03-28 19:24 usr/doc/byacc-20220128/README
+-rw-r--r-- root/root     22544 2014-04-22 10:18 usr/doc/byacc-20220128/README.BTYACC
+-rw-r--r-- root/root         9 2022-01-28 14:38 usr/doc/byacc-20220128/VERSION
+-rw-r--r-- root/root      3251 2022-02-02 13:57 usr/doc/byacc-20220128/byacc.SlackBuild
+drwxr-xr-x root/root         0 2022-02-02 13:57 usr/man/
+drwxr-xr-x root/root         0 2022-02-02 13:57 usr/man/man1/
+-rw-r--r-- root/root      4966 2022-02-02 13:57 usr/man/man1/byacc.1.gz
+
+

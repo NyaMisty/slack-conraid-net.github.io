@@ -1,0 +1,63 @@
+++========================================
+||
+||   Package:  ./testssl_sh/testssl_sh-3.0.8-noarch-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-09-30 15:08 ./
+drwxr-xr-x root/root         0 2022-09-30 15:08 install/
+-rw-r--r-- root/root       852 2022-09-30 15:08 install/slack-desc
+drwxr-xr-x root/root         0 2022-09-30 15:08 usr/
+drwxr-xr-x root/root         0 2022-09-30 15:08 usr/bin/
+-rwxr-xr-x root/root   1021021 2022-09-30 15:08 usr/bin/testssl.sh
+drwxr-xr-x root/root         0 2022-09-30 15:08 usr/doc/
+drwxr-xr-x root/root         0 2022-09-30 15:08 usr/doc/testssl_sh-3.0.8/
+-rw-r--r-- root/root     17614 2022-09-28 09:19 usr/doc/testssl_sh-3.0.8/CHANGELOG.md
+-rw-r--r-- root/root      3997 2022-09-28 09:19 usr/doc/testssl_sh-3.0.8/CREDITS.md
+-rw-r--r-- root/root     18025 2022-09-28 09:19 usr/doc/testssl_sh-3.0.8/LICENSE
+-rw-r--r-- root/root     49316 2022-09-28 09:19 usr/doc/testssl_sh-3.0.8/testssl.1.md
+-rw-r--r-- root/root      3077 2022-09-30 15:08 usr/doc/testssl_sh-3.0.8/testssl_sh.SlackBuild
+drwxr-xr-x root/root         0 2022-09-30 15:08 usr/man/
+drwxr-xr-x root/root         0 2022-09-30 15:08 usr/man/man1/
+-rw-r--r-- root/root     18531 2022-09-30 15:08 usr/man/man1/testssl.sh.1.gz
+drwxr-xr-x root/root         0 2022-09-30 15:08 usr/share/
+drwxr-xr-x root/root         0 2022-09-30 15:08 usr/share/testssl.sh/
+drwxr-xr-x root/root         0 2022-09-30 15:08 usr/share/testssl.sh/etc/
+-rw-r--r-- root/root    264379 2022-09-30 15:08 usr/share/testssl.sh/etc/Apple.pem
+-rw-r--r-- root/root      1215 2022-09-30 15:08 usr/share/testssl.sh/etc/DST Root CA X3.txt
+-rw-r--r-- root/root    145948 2022-09-30 15:08 usr/share/testssl.sh/etc/Java.pem
+-rw-r--r-- root/root    196424 2022-09-30 15:08 usr/share/testssl.sh/etc/Linux.pem
+-rw-r--r-- root/root    726722 2022-09-30 15:08 usr/share/testssl.sh/etc/Microsoft.pem
+-rw-r--r-- root/root    215352 2022-09-30 15:08 usr/share/testssl.sh/etc/Mozilla.pem
+-rw-r--r-- root/root      3183 2022-09-30 15:08 usr/share/testssl.sh/etc/README.md
+-rw-r--r-- root/root     62428 2022-09-30 15:08 usr/share/testssl.sh/etc/ca_hashes.txt
+-rw-r--r-- root/root     71005 2022-09-30 15:08 usr/share/testssl.sh/etc/cipher-mapping.txt
+-rw-r--r-- root/root    261119 2022-09-30 15:08 usr/share/testssl.sh/etc/client-simulation.txt
+-rw-r--r-- root/root      3087 2022-09-30 15:08 usr/share/testssl.sh/etc/client-simulation.wiresharked.md
+-rw-r--r-- root/root     71910 2022-09-30 15:08 usr/share/testssl.sh/etc/client-simulation.wiresharked.txt
+-rw-r--r-- root/root     52655 2022-09-30 15:08 usr/share/testssl.sh/etc/common-primes.txt
+-rw-r--r-- root/root      2038 2022-09-30 15:08 usr/share/testssl.sh/etc/curves-mapping.txt
+-rw-r--r-- root/root       610 2022-09-30 15:08 usr/share/testssl.sh/etc/curves.txt
+-rw-r--r-- root/root     10771 2022-09-30 15:08 usr/share/testssl.sh/etc/openssl.cnf
+-rw-r--r-- root/root     26950 2022-09-30 15:08 usr/share/testssl.sh/etc/tls_data.txt
+drwxr-xr-x root/root         0 2022-09-30 15:08 usr/share/testssl.sh/utils/
+-rwxr-xr-x root/root      2981 2022-09-30 15:08 usr/share/testssl.sh/utils/00_unittest_baseline.sh
+-rwxr-xr-x root/root      9543 2022-09-30 15:08 usr/share/testssl.sh/utils/ccs-injection.bash
+-rwxr-xr-x root/root     10477 2022-09-30 15:08 usr/share/testssl.sh/utils/checkcert.sh
+-rwxr-xr-x root/root      1744 2022-09-30 15:08 usr/share/testssl.sh/utils/create_ca_hashes.sh
+-rwxr-xr-x root/root      3048 2022-09-30 15:08 usr/share/testssl.sh/utils/curves.bash
+-rw-r--r-- root/root      1207 2022-09-30 15:08 usr/share/testssl.sh/utils/docker-debian10.tls13only.start.sh
+-rw-r--r-- root/root      1334 2022-09-30 15:08 usr/share/testssl.sh/utils/docker-nginx.tls13-earlydata.start.sh
+-rwxr-xr-x root/root     18959 2022-09-30 15:08 usr/share/testssl.sh/utils/generate_static_cipher_lists.sh
+-rwxr-xr-x root/root      5926 2022-09-30 15:08 usr/share/testssl.sh/utils/gmap2testssl.sh
+-rwxr-xr-x root/root      9263 2022-09-30 15:08 usr/share/testssl.sh/utils/heartbleed.bash
+-rwxr-xr-x root/root       745 2022-09-30 15:08 usr/share/testssl.sh/utils/hexstream2cipher.sh
+-rwxr-xr-x root/root      4431 2022-09-30 15:08 usr/share/testssl.sh/utils/make-openssl.sh
+-rwxr-xr-x root/root      2592 2022-09-30 15:08 usr/share/testssl.sh/utils/make-openssl111.sh
+-rwxr-xr-x root/root       915 2022-09-30 15:08 usr/share/testssl.sh/utils/parse_client_ciphers.pl
+-rwxr-xr-x root/root      6682 2022-09-30 15:08 usr/share/testssl.sh/utils/prototype.ssl2proto-check.bash
+-rwxr-xr-x root/root     12772 2022-09-30 15:08 usr/share/testssl.sh/utils/prototype.tls-protocol-checker.bash
+-rwxr-xr-x root/root      1017 2022-09-30 15:08 usr/share/testssl.sh/utils/resume.sh
+-rwxr-xr-x root/root     11823 2022-09-30 15:08 usr/share/testssl.sh/utils/ticketbleed.bash
+-rwxr-xr-x root/root     19103 2022-09-30 15:08 usr/share/testssl.sh/utils/update_client_sim_data.pl
+
+

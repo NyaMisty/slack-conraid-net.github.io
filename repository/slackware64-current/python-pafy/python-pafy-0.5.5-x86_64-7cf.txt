@@ -1,0 +1,11 @@
+python-pafy: python-pafy (download YouTube content and retrieve metadata)
+python-pafy:
+python-pafy: Python library to download YouTube content and retrieve metadata.
+python-pafy:
+python-pafy:
+python-pafy:
+python-pafy:
+python-pafy:
+python-pafy:
+python-pafy:
+python-pafy:

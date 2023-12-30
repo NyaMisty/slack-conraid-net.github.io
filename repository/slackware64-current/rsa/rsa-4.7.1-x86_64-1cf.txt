@@ -1,0 +1,11 @@
+rsa: rsa (Pure-Python RSA implementation)
+rsa:
+rsa: Python-RSA is a pure-Python RSA implementation. It supports 
+rsa: encryption and decryption, signing and verifying signatures, 
+rsa: and key generation according to PKCS#1 version 1.5.
+rsa:
+rsa:
+rsa:
+rsa:
+rsa:
+rsa:

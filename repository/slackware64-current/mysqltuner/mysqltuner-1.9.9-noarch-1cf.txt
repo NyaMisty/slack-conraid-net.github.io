@@ -1,0 +1,11 @@
+mysqltuner: mysqltuner (MySQL Tuning Script)
+mysqltuner:
+mysqltuner: MySQLTuner is a script written in Perl that allows you to review a
+mysqltuner: MySQL installation quickly and make adjustments to increase
+mysqltuner: performance and stability. The current configuration variables and
+mysqltuner: status data is retrieved and presented in a brief format along with
+mysqltuner: some basic performance suggestions.
+mysqltuner:
+mysqltuner:
+mysqltuner:
+mysqltuner:

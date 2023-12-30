@@ -1,0 +1,26 @@
+++========================================
+||
+||   Package:  ./xclip/xclip-0.13-x86_64-4cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 13:32 ./
+drwxr-xr-x root/root         0 2020-10-05 13:32 install/
+-rw-r--r-- root/root       818 2020-10-05 13:32 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 13:32 usr/
+drwxr-xr-x root/root         0 2020-10-05 13:32 usr/bin/
+-rwxr-xr-x root/root     27024 2020-10-05 13:32 usr/bin/xclip
+-rwxr-xr-x root/root       572 2020-10-05 13:32 usr/bin/xclip-copyfile
+-rwxr-xr-x root/root       386 2020-10-05 13:32 usr/bin/xclip-cutfile
+-rwxr-xr-x root/root       133 2020-10-05 13:32 usr/bin/xclip-pastefile
+drwxr-xr-x root/root         0 2020-10-05 13:32 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 13:32 usr/doc/xclip-0.13/
+-rw-r--r-- root/root     18009 2016-09-13 09:09 usr/doc/xclip-0.13/COPYING
+-rw-r--r-- root/root      8943 2016-09-13 09:09 usr/doc/xclip-0.13/ChangeLog
+-rw-r--r-- root/root      3896 2016-09-13 09:09 usr/doc/xclip-0.13/README
+-rw-r--r-- root/root      3752 2020-10-05 13:32 usr/doc/xclip-0.13/xclip.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 13:32 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 13:32 usr/man/man1/
+-rw-r--r-- root/root      1156 2020-10-05 13:32 usr/man/man1/xclip-copyfile.1.gz
+-rw-r--r-- root/root      2495 2020-10-05 13:32 usr/man/man1/xclip.1.gz
+
+

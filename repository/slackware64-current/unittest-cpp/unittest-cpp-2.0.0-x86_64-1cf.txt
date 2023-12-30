@@ -1,0 +1,11 @@
+unittest-cpp: unittest-cpp (A lightweight unit testing framework for C++)
+unittest-cpp:
+unittest-cpp: UnitTest++ is a lightweight unit testing framework for C++. It was
+unittest-cpp: designed to do test-driven development on a wide variety of
+unittest-cpp: platforms. Simplicity, portability, speed, and small footprint are
+unittest-cpp: all very important aspects of UnitTest++.
+unittest-cpp:
+unittest-cpp:
+unittest-cpp:
+unittest-cpp:
+unittest-cpp:

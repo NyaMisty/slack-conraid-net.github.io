@@ -1,0 +1,73 @@
+++========================================
+||
+||   Package:  ./python-structlog/python-structlog-22.3.0-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-11-24 14:09 ./
+drwxr-xr-x root/root         0 2022-11-24 14:09 install/
+-rw-r--r-- root/root       852 2022-11-24 14:09 install/slack-desc
+drwxr-xr-x root/root         0 2022-11-24 14:09 usr/
+drwxr-xr-x root/root         0 2022-11-24 14:09 usr/doc/
+drwxr-xr-x root/root         0 2022-11-24 14:09 usr/doc/python-structlog-22.3.0/
+-rw-r--r-- root/root     36862 2020-02-02 01:00 usr/doc/python-structlog-22.3.0/CHANGELOG.md
+-rw-r--r-- root/root      6573 2020-02-02 01:00 usr/doc/python-structlog-22.3.0/README.md
+-rw-r--r-- root/root      3553 2022-11-24 14:09 usr/doc/python-structlog-22.3.0/python-structlog.SlackBuild
+drwxr-xr-x root/root         0 2022-11-24 14:09 usr/lib64/
+drwxr-xr-x root/root         0 2022-11-24 14:09 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-11-24 14:09 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/
+drwxr-xr-x root/root         0 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog-22.3.0.dist-info/
+-rw-r--r-- root/root         4 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog-22.3.0.dist-info/INSTALLER
+-rw-r--r-- root/root      8422 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog-22.3.0.dist-info/METADATA
+-rw-r--r-- root/root      3437 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog-22.3.0.dist-info/RECORD
+-rw-r--r-- root/root         0 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog-22.3.0.dist-info/REQUESTED
+-rw-r--r-- root/root        87 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog-22.3.0.dist-info/WHEEL
+-rw-r--r-- root/root       106 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog-22.3.0.dist-info/direct_url.json
+drwxr-xr-x root/root         0 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog-22.3.0.dist-info/licenses/
+-rw-r--r-- root/root     10174 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog-22.3.0.dist-info/licenses/LICENSE-APACHE
+-rw-r--r-- root/root      1113 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog-22.3.0.dist-info/licenses/LICENSE-MIT
+-rw-r--r-- root/root        72 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog-22.3.0.dist-info/licenses/NOTICE
+-rw-r--r-- root/root      2910 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__init__.py
+drwxr-xr-x root/root         0 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__pycache__/
+-rw-r--r-- root/root      2495 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      6824 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__pycache__/_base.cpython-39.pyc
+-rw-r--r-- root/root     11254 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__pycache__/_config.cpython-39.pyc
+-rw-r--r-- root/root      1985 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__pycache__/_frames.cpython-39.pyc
+-rw-r--r-- root/root      1863 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__pycache__/_generic.cpython-39.pyc
+-rw-r--r-- root/root      1583 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__pycache__/_greenlets.cpython-39.pyc
+-rw-r--r-- root/root      7715 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__pycache__/_log_levels.cpython-39.pyc
+-rw-r--r-- root/root      9984 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__pycache__/_output.cpython-39.pyc
+-rw-r--r-- root/root      1169 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__pycache__/_utils.cpython-39.pyc
+-rw-r--r-- root/root      5217 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__pycache__/contextvars.cpython-39.pyc
+-rw-r--r-- root/root     12351 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__pycache__/dev.cpython-39.pyc
+-rw-r--r-- root/root       617 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__pycache__/exceptions.cpython-39.pyc
+-rw-r--r-- root/root     24616 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__pycache__/processors.cpython-39.pyc
+-rw-r--r-- root/root     30713 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__pycache__/stdlib.cpython-39.pyc
+-rw-r--r-- root/root      6405 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__pycache__/testing.cpython-39.pyc
+-rw-r--r-- root/root      9581 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__pycache__/threadlocal.cpython-39.pyc
+-rw-r--r-- root/root      6921 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__pycache__/tracebacks.cpython-39.pyc
+-rw-r--r-- root/root      9893 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__pycache__/twisted.cpython-39.pyc
+-rw-r--r-- root/root       633 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__pycache__/types.cpython-39.pyc
+-rw-r--r-- root/root      8786 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/__pycache__/typing.cpython-39.pyc
+-rw-r--r-- root/root      7239 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/_base.py
+-rw-r--r-- root/root     13395 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/_config.py
+-rw-r--r-- root/root      1764 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/_frames.py
+-rw-r--r-- root/root      1636 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/_generic.py
+-rw-r--r-- root/root      1186 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/_greenlets.py
+-rw-r--r-- root/root      7363 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/_log_levels.py
+-rw-r--r-- root/root      9268 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/_output.py
+-rw-r--r-- root/root      1434 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/_utils.py
+-rw-r--r-- root/root      5141 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/contextvars.py
+-rw-r--r-- root/root     15071 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/dev.py
+-rw-r--r-- root/root       503 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/exceptions.py
+-rw-r--r-- root/root     26895 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/processors.py
+-rw-r--r-- root/root         0 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/py.typed
+-rw-r--r-- root/root     33091 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/stdlib.py
+-rw-r--r-- root/root      5242 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/testing.py
+-rw-r--r-- root/root      9144 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/threadlocal.py
+-rw-r--r-- root/root      7549 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/tracebacks.py
+-rw-r--r-- root/root     10222 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/twisted.py
+-rw-r--r-- root/root       760 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/types.py
+-rw-r--r-- root/root      8033 2022-11-24 14:09 usr/lib64/python3.9/site-packages/structlog/typing.py
+
+

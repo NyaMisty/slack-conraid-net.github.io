@@ -1,0 +1,45 @@
+++========================================
+||
+||   Package:  ./gts/gts-0.7.6-x86_64-5cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 11:30 ./
+drwxr-xr-x root/root         0 2020-10-05 11:30 install/
+-rw-r--r-- root/root       196 2020-10-05 11:30 install/doinst.sh
+-rw-r--r-- root/root       834 2020-10-05 11:30 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 11:30 usr/
+drwxr-xr-x root/root         0 2020-10-05 11:30 usr/bin/
+-rwxr-xr-x root/root     23464 2020-10-05 11:30 usr/bin/delaunay
+-rwxr-xr-x root/root      2602 2020-10-05 11:30 usr/bin/gts-config
+-rwxr-xr-x root/root     14456 2020-10-05 11:30 usr/bin/gts2dxf
+-rwxr-xr-x root/root     32072 2020-10-05 11:30 usr/bin/gts2oogl
+-rwxr-xr-x root/root     14600 2020-10-05 11:30 usr/bin/gts2stl
+-rwxr-xr-x root/root     14536 2020-10-05 11:30 usr/bin/gtscheck
+-rwxr-xr-x root/root     27240 2020-10-05 11:30 usr/bin/gtscompare
+-rwxr-xr-x root/root      6110 2020-10-05 11:30 usr/bin/gtstemplate
+-rwxr-xr-x root/root     23304 2020-10-05 11:30 usr/bin/happrox
+-rwxr-xr-x root/root     18888 2020-10-05 11:30 usr/bin/stl2gts
+-rwxr-xr-x root/root     14984 2020-10-05 11:30 usr/bin/transform
+drwxr-xr-x root/root         0 2020-10-05 11:30 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 11:30 usr/doc/gts-0.7.6/
+-rw-r--r-- root/root       512 2005-01-19 05:48 usr/doc/gts-0.7.6/AUTHORS
+-rw-r--r-- root/root     25292 2005-01-19 05:47 usr/doc/gts-0.7.6/COPYING
+-rw-r--r-- root/root      8225 2006-03-29 05:59 usr/doc/gts-0.7.6/ChangeLog
+-rw-r--r-- root/root      9240 2005-02-06 07:27 usr/doc/gts-0.7.6/INSTALL
+-rw-r--r-- root/root      7384 2006-03-29 06:03 usr/doc/gts-0.7.6/NEWS
+-rw-r--r-- root/root      2756 2005-01-19 05:47 usr/doc/gts-0.7.6/README
+-rw-r--r-- root/root       464 2006-03-13 00:24 usr/doc/gts-0.7.6/THANKS
+-rw-r--r-- root/root       981 2005-01-19 05:47 usr/doc/gts-0.7.6/TODO
+-rw-r--r-- root/root      3524 2020-10-05 11:30 usr/doc/gts-0.7.6/gts.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 11:30 usr/include/
+-rw-r--r-- root/root     83365 2020-10-05 11:30 usr/include/gts.h
+-rw-r--r-- root/root       234 2020-10-05 11:30 usr/include/gtsconfig.h
+drwxr-xr-x root/root         0 2020-10-05 11:30 usr/lib64/
+-rwxr-xr-x root/root    389888 2020-10-05 11:30 usr/lib64/libgts-0.7.so.5.0.1
+drwxr-xr-x root/root         0 2020-10-05 11:30 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       245 2020-10-05 11:30 usr/lib64/pkgconfig/gts.pc
+drwxr-xr-x root/root         0 2020-10-05 11:30 usr/share/
+drwxr-xr-x root/root         0 2020-10-05 11:30 usr/share/aclocal/
+-rw-r--r-- root/root      8064 2020-10-05 11:30 usr/share/aclocal/gts.m4
+
+

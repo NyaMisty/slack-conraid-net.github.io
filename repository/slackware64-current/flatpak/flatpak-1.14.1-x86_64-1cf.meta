@@ -1,0 +1,21 @@
+PACKAGE NAME:  flatpak-1.14.1-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./flatpak
+PACKAGE SIZE (compressed):  1648 K
+PACKAGE SIZE (uncompressed):  10960 K
+PACKAGE REQUIRED:  xdg-desktop-portal-gtk,bubblewrap,ostree,appstream-glib,appstream
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+flatpak: flatpak (Linux application sandboxing and distribution framework)
+flatpak:
+flatpak: Flatpak is a system for building, distributing, and running sandboxed
+flatpak: desktop applications on Linux.
+flatpak:
+flatpak:
+flatpak:
+flatpak:
+flatpak:
+flatpak:
+flatpak:
+

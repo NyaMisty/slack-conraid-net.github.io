@@ -1,0 +1,19 @@
+++========================================
+||
+||   Package:  ./featuredetector/featuredetector-109624e-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-04-30 09:01 ./
+drwxr-xr-x root/root         0 2022-04-30 09:01 install/
+-rw-r--r-- root/root       110 2022-04-30 09:01 install/doinst.sh
+-rw-r--r-- root/root       848 2022-04-30 09:01 install/slack-desc
+drwxr-xr-x root/root         0 2022-04-30 09:01 usr/
+drwxr-xr-x root/root         0 2022-04-30 09:01 usr/bin/
+-rwxr-xr-x root/root     18704 2022-04-30 09:01 usr/bin/FeatureDetector_main
+drwxr-xr-x root/root         0 2022-04-30 09:01 usr/doc/
+drwxr-xr-x root/root         0 2022-04-30 09:01 usr/doc/featuredetector-109624e/
+-rw-r--r-- root/root      6555 2021-12-13 03:34 usr/doc/featuredetector-109624e/LICENSE
+-rw-r--r-- root/root      1161 2021-12-13 03:34 usr/doc/featuredetector-109624e/README.md
+-rw-r--r-- root/root      4142 2022-04-30 09:01 usr/doc/featuredetector-109624e/featuredetector.SlackBuild
+
+

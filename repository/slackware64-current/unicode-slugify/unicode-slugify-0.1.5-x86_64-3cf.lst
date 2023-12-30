@@ -1,0 +1,33 @@
+++========================================
+||
+||   Package:  ./unicode-slugify/unicode-slugify-0.1.5-x86_64-3cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-30 14:45 ./
+drwxr-xr-x root/root         0 2022-07-30 14:45 install/
+-rw-r--r-- root/root       998 2022-07-30 14:45 install/slack-desc
+-rw-r--r-- root/root        17 2022-07-30 14:45 install/slack-required
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/doc/
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/doc/unicode-slugify-0.1.5/
+-rw-r--r-- root/root      1531 2021-10-20 20:54 usr/doc/unicode-slugify-0.1.5/LICENSE
+-rw-r--r-- root/root      1381 2021-10-20 20:54 usr/doc/unicode-slugify-0.1.5/README.md
+-rw-r--r-- root/root      3492 2022-07-30 14:45 usr/doc/unicode-slugify-0.1.5/unicode-slugify.SlackBuild
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/lib64/python3.9/site-packages/slugify/
+-rw-r--r-- root/root      2779 2021-10-20 20:54 usr/lib64/python3.9/site-packages/slugify/__init__.py
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/lib64/python3.9/site-packages/slugify/__pycache__/
+-rw-r--r-- root/root      2522 2022-07-30 14:45 usr/lib64/python3.9/site-packages/slugify/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      6175 2022-07-30 14:45 usr/lib64/python3.9/site-packages/slugify/__pycache__/tests.cpython-39.pyc
+-rw-r--r-- root/root      6073 2021-10-20 20:54 usr/lib64/python3.9/site-packages/slugify/tests.py
+drwxr-xr-x root/root         0 2022-07-30 14:45 usr/lib64/python3.9/site-packages/unicode_slugify-0.1.5-py3.9.egg-info/
+-rw-r--r-- root/root      2213 2022-07-30 14:45 usr/lib64/python3.9/site-packages/unicode_slugify-0.1.5-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root       317 2022-07-30 14:45 usr/lib64/python3.9/site-packages/unicode_slugify-0.1.5-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2022-07-30 14:45 usr/lib64/python3.9/site-packages/unicode_slugify-0.1.5-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root         1 2021-10-20 21:00 usr/lib64/python3.9/site-packages/unicode_slugify-0.1.5-py3.9.egg-info/not-zip-safe
+-rw-r--r-- root/root        14 2022-07-30 14:45 usr/lib64/python3.9/site-packages/unicode_slugify-0.1.5-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root         8 2022-07-30 14:45 usr/lib64/python3.9/site-packages/unicode_slugify-0.1.5-py3.9.egg-info/top_level.txt
+
+

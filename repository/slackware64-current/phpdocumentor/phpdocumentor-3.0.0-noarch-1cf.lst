@@ -1,0 +1,16 @@
+++========================================
+||
+||   Package:  ./phpdocumentor/phpdocumentor-3.0.0-noarch-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-28 11:29 ./
+drwxr-xr-x root/root         0 2020-10-28 11:29 install/
+-rw-r--r-- root/root       859 2020-10-28 11:29 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-28 11:29 usr/
+drwxr-xr-x root/root         0 2020-10-28 11:29 usr/bin/
+-rwxr-xr-x root/root  25282818 2020-10-28 11:29 usr/bin/phpdoc
+drwxr-xr-x root/root         0 2020-10-28 11:29 usr/doc/
+drwxr-xr-x root/root         0 2020-10-28 11:29 usr/doc/phpdocumentor-3.0.0/
+-rw-r--r-- root/root      2128 2020-10-28 11:29 usr/doc/phpdocumentor-3.0.0/phpdocumentor.SlackBuild
+
+

@@ -1,0 +1,21 @@
+PACKAGE NAME:  logwatch-7.8-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./logwatch
+PACKAGE SIZE (compressed):  364 K
+PACKAGE SIZE (uncompressed):  2470 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+logwatch: logwatch (log analysis system)
+logwatch:
+logwatch: Logwatch is a customizable log analysis system. Logwatch parses
+logwatch: through your system's logs and creates a report analyzing areas tha
+logwatch: t you specify. Logwatch is easy to use and will work right out of
+logwatch: the package on most systems.
+logwatch:
+logwatch:
+logwatch:
+logwatch:
+logwatch:
+

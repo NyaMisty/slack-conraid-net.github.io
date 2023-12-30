@@ -1,0 +1,18 @@
+PACKAGE NAME:  lifstat-20100318-x86_64-8cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./lifstat
+PACKAGE SIZE (compressed):  12 K
+PACKAGE SIZE (uncompressed):  40 K
+PACKAGE DESCRIPTION:
+lifstat: lifstat
+lifstat:
+lifstat: lifstat is a small Linux utility that reads /proc/net/dev and reports
+lifstat: input and output statistics for available network interfaces over a
+lifstat: repeating time interval, similar to the BSD 'netstat -i' command.
+lifstat:
+lifstat:
+lifstat:
+lifstat:
+lifstat:
+lifstat:
+

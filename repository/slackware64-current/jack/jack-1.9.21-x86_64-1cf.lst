@@ -1,0 +1,67 @@
+++========================================
+||
+||   Package:  ./jack/jack-1.9.21-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-04-16 11:20 ./
+drwxr-xr-x root/root         0 2022-04-16 11:20 install/
+-rw-r--r-- root/root       612 2022-04-16 11:20 install/doinst.sh
+-rw-r--r-- root/root       763 2022-04-16 11:20 install/slack-desc
+drwxr-xr-x root/root         0 2022-04-16 11:20 usr/
+drwxr-xr-x root/root         0 2022-04-16 11:20 usr/bin/
+-rwxr-x--- root/audio    15680 2022-04-15 21:14 usr/bin/jack_control
+-rwxr-x--- root/audio    39712 2022-04-16 11:20 usr/bin/jackd
+-rwxr-x--- root/audio    98168 2022-04-16 11:20 usr/bin/jackdbus
+drwxr-xr-x root/root         0 2022-04-16 11:20 usr/doc/
+drwxr-xr-x root/root         0 2022-04-16 11:20 usr/doc/jack-1.9.21/
+-rw-r--r-- root/root      1593 2022-04-15 21:14 usr/doc/jack-1.9.21/AUTHORS.rst
+-rw-r--r-- root/root     42080 2022-04-15 21:14 usr/doc/jack-1.9.21/ChangeLog.rst
+-rw-r--r-- root/root      2160 2022-04-15 21:14 usr/doc/jack-1.9.21/README.rst
+-rw-r--r-- root/root     10372 2022-04-15 21:14 usr/doc/jack-1.9.21/README_NETJACK2
+-rw-r--r-- root/root      4180 2022-04-16 11:20 usr/doc/jack-1.9.21/jack.SlackBuild
+drwxr-xr-x root/root         0 2022-04-16 11:20 usr/include/
+drwxr-xr-x root/root         0 2022-04-16 11:20 usr/include/jack/
+-rw-r--r-- root/root     17473 2022-04-15 21:14 usr/include/jack/control.h
+-rw-r--r-- root/root      4828 2022-04-15 21:14 usr/include/jack/intclient.h
+-rw-r--r-- root/root     56052 2022-04-15 21:14 usr/include/jack/jack.h
+-rw-r--r-- root/root      5534 2022-04-15 21:14 usr/include/jack/jslist.h
+-rw-r--r-- root/root     11258 2022-04-15 21:14 usr/include/jack/metadata.h
+-rw-r--r-- root/root      6849 2022-04-15 21:14 usr/include/jack/midiport.h
+-rw-r--r-- root/root     15331 2022-04-15 21:14 usr/include/jack/net.h
+-rw-r--r-- root/root      7970 2022-04-15 21:14 usr/include/jack/ringbuffer.h
+-rw-r--r-- root/root      9704 2022-04-15 21:14 usr/include/jack/session.h
+-rw-r--r-- root/root      1836 2022-04-15 21:14 usr/include/jack/statistics.h
+-rw-r--r-- root/root      4999 2022-04-15 21:14 usr/include/jack/systemdeps.h
+-rw-r--r-- root/root      5205 2022-04-15 21:14 usr/include/jack/thread.h
+-rw-r--r-- root/root      8645 2022-04-15 21:14 usr/include/jack/transport.h
+-rw-r--r-- root/root     25058 2022-04-15 21:14 usr/include/jack/types.h
+-rw-r--r-- root/root      1645 2022-04-15 21:14 usr/include/jack/uuid.h
+-rw-r--r-- root/root      5364 2022-04-15 21:14 usr/include/jack/weakjack.h
+-rw-r--r-- root/root      2762 2022-04-15 21:14 usr/include/jack/weakmacros.h
+drwxr-xr-x root/root         0 2022-04-16 11:20 usr/lib64/
+drwxr-xr-x root/root         0 2022-04-16 11:20 usr/lib64/jack/
+-rwxr-xr-x root/root     52080 2022-04-16 11:20 usr/lib64/jack/audioadapter.so
+-rwxr-xr-x root/root    124160 2022-04-16 11:20 usr/lib64/jack/jack_alsa.so
+-rwxr-xr-x root/root     68800 2022-04-16 11:20 usr/lib64/jack/jack_alsarawmidi.so
+-rwxr-xr-x root/root     22728 2022-04-16 11:20 usr/lib64/jack/jack_dummy.so
+-rwxr-xr-x root/root     18616 2022-04-16 11:20 usr/lib64/jack/jack_loopback.so
+-rwxr-xr-x root/root     47848 2022-04-16 11:20 usr/lib64/jack/jack_net.so
+-rwxr-xr-x root/root     68752 2022-04-16 11:20 usr/lib64/jack/jack_netone.so
+-rwxr-xr-x root/root     39472 2022-04-16 11:20 usr/lib64/jack/jack_proxy.so
+-rwxr-xr-x root/root     47888 2022-04-16 11:20 usr/lib64/jack/netadapter.so
+-rwxr-xr-x root/root     48016 2022-04-16 11:20 usr/lib64/jack/netmanager.so
+-rwxr-xr-x root/root     18744 2022-04-16 11:20 usr/lib64/jack/profiler.so
+-rwxr-xr-x root/root    331432 2022-04-16 11:20 usr/lib64/libjack.so.0.1.0
+-rwxr-xr-x root/root    130816 2022-04-16 11:20 usr/lib64/libjacknet.so.0.1.0
+-rwxr-xr-x root/root    675784 2022-04-16 11:20 usr/lib64/libjackserver.so.0.1.0
+drwxr-xr-x root/root         0 2022-04-16 11:20 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       320 2022-04-16 11:20 usr/lib64/pkgconfig/jack.pc
+drwxr-xr-x root/root         0 2022-04-16 11:20 usr/man/
+drwxr-xr-x root/root         0 2022-04-16 11:20 usr/man/man1/
+-rw-r--r-- root/root      7828 2022-04-16 11:20 usr/man/man1/jackd.1.gz
+drwxr-xr-x root/root         0 2022-04-16 11:20 usr/share/
+drwxr-xr-x root/root         0 2022-04-16 11:20 usr/share/dbus-1/
+drwxr-xr-x root/root         0 2022-04-16 11:20 usr/share/dbus-1/services/
+-rw-r--r-- root/root        71 2022-04-16 11:20 usr/share/dbus-1/services/org.jackaudio.service
+
+

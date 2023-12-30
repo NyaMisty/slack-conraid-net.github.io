@@ -1,0 +1,11 @@
+dnsscan: dnsscan
+dnsscan:
+dnsscan: Dnsscan is a tool for finger printing open recursive resolvers. 
+dnsscan: It runs in conjuction with a small server that knows how to reply 
+dnsscan: to queries forwarded from probed resolvers.
+dnsscan:
+dnsscan:
+dnsscan:
+dnsscan:
+dnsscan:
+dnsscan:

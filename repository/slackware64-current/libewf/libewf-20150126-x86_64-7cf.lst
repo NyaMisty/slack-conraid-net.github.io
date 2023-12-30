@@ -1,0 +1,55 @@
+++========================================
+||
+||   Package:  ./libewf/libewf-20150126-x86_64-7cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 11:41 ./
+drwxr-xr-x root/root         0 2020-10-05 11:41 install/
+-rw-r--r-- root/root       180 2020-10-05 11:41 install/doinst.sh
+-rw-r--r-- root/root       788 2020-10-05 11:41 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 11:41 usr/
+drwxr-xr-x root/root         0 2020-10-05 11:41 usr/bin/
+-rwxr-xr-x root/root   1277760 2020-10-05 11:41 usr/bin/ewfacquire
+-rwxr-xr-x root/root    646264 2020-10-05 11:41 usr/bin/ewfacquirestream
+-rwxr-xr-x root/root    551576 2020-10-05 11:41 usr/bin/ewfdebug
+-rwxr-xr-x root/root   1011424 2020-10-05 11:41 usr/bin/ewfexport
+-rwxr-xr-x root/root    596984 2020-10-05 11:41 usr/bin/ewfinfo
+-rwxr-xr-x root/root    568184 2020-10-05 11:41 usr/bin/ewfmount
+-rwxr-xr-x root/root   1003232 2020-10-05 11:41 usr/bin/ewfrecover
+-rwxr-xr-x root/root    625720 2020-10-05 11:41 usr/bin/ewfverify
+drwxr-xr-x root/root         0 2020-10-05 11:41 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 11:41 usr/doc/libewf-20150126/
+-rw-r--r-- root/root      2069 2015-01-07 07:54 usr/doc/libewf-20150126/AUTHORS
+-rw-r--r-- root/root      7640 2009-11-14 10:35 usr/doc/libewf-20150126/COPYING
+-rw-r--r-- root/root    149333 2015-01-26 07:53 usr/doc/libewf-20150126/ChangeLog
+-rw-r--r-- root/root     15749 2015-01-26 08:29 usr/doc/libewf-20150126/INSTALL
+-rw-r--r-- root/root       139 2009-11-22 11:49 usr/doc/libewf-20150126/NEWS
+-rw-r--r-- root/root      1677 2014-12-25 11:19 usr/doc/libewf-20150126/README
+-rw-r--r-- root/root      3212 2020-10-05 11:41 usr/doc/libewf-20150126/libewf.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 11:41 usr/include/
+drwxr-xr-x root/root         0 2020-10-05 11:41 usr/include/libewf/
+-rw-r--r-- root/root    126586 2020-10-05 11:41 usr/include/libewf.h
+-rw-r--r-- root/root      5043 2020-10-05 11:41 usr/include/libewf/codepage.h
+-rw-r--r-- root/root      6957 2020-10-05 11:41 usr/include/libewf/definitions.h
+-rw-r--r-- root/root      6591 2020-10-05 11:41 usr/include/libewf/error.h
+-rw-r--r-- root/root      1364 2020-10-05 11:41 usr/include/libewf/extern.h
+-rw-r--r-- root/root      1405 2020-10-05 11:41 usr/include/libewf/features.h
+-rw-r--r-- root/root      4812 2020-10-05 11:41 usr/include/libewf/types.h
+drwxr-xr-x root/root         0 2020-10-05 11:41 usr/lib64/
+-rw-r--r-- root/root   2669506 2020-10-05 11:41 usr/lib64/libewf.a
+-rwxr-xr-x root/root   1533112 2020-10-05 11:41 usr/lib64/libewf.so.2.1.0
+drwxr-xr-x root/root         0 2020-10-05 11:41 usr/lib64/pkgconfig/
+-rw-r--r-- root/root       296 2020-10-05 11:41 usr/lib64/pkgconfig/libewf.pc
+drwxr-xr-x root/root         0 2020-10-05 11:41 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 11:41 usr/man/man1/
+-rw-r--r-- root/root      3530 2020-10-05 11:41 usr/man/man1/ewfacquire.1.gz
+-rw-r--r-- root/root      2468 2020-10-05 11:41 usr/man/man1/ewfacquirestream.1.gz
+-rw-r--r-- root/root      2113 2020-10-05 11:41 usr/man/man1/ewfexport.1.gz
+-rw-r--r-- root/root      1483 2020-10-05 11:41 usr/man/man1/ewfinfo.1.gz
+-rw-r--r-- root/root       928 2020-10-05 11:41 usr/man/man1/ewfmount.1.gz
+-rw-r--r-- root/root      1246 2020-10-05 11:41 usr/man/man1/ewfrecover.1.gz
+-rw-r--r-- root/root      1596 2020-10-05 11:41 usr/man/man1/ewfverify.1.gz
+drwxr-xr-x root/root         0 2020-10-05 11:41 usr/man/man3/
+-rw-r--r-- root/root      2842 2020-10-05 11:41 usr/man/man3/libewf.3.gz
+
+

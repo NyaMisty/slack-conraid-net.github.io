@@ -1,0 +1,11 @@
+byacc: byacc (Berkeley Yacc)
+byacc:
+byacc: Berkeley Yacc (byacc) is generally conceded to be the best yacc
+byacc: variant available. In contrast to bison, it is written to avoid
+byacc: dependencies upon a particular compiler.
+byacc:
+byacc:
+byacc:
+byacc:
+byacc:
+byacc:

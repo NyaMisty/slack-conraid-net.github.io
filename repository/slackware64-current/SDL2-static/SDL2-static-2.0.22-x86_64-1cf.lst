@@ -1,0 +1,17 @@
+++========================================
+||
+||   Package:  ./SDL2-static/SDL2-static-2.0.22-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-04-28 18:43 ./
+drwxr-xr-x root/root         0 2022-04-28 18:43 install/
+-rw-r--r-- root/root       905 2022-04-28 18:43 install/slack-desc
+drwxr-xr-x root/root         0 2022-04-28 18:43 usr/
+drwxr-xr-x root/root         0 2022-04-28 18:43 usr/doc/
+drwxr-xr-x root/root         0 2022-04-28 18:43 usr/doc/SDL2-static-2.0.22/
+-rw-r--r-- root/root      3758 2022-04-28 18:43 usr/doc/SDL2-static-2.0.22/SDL2-static.SlackBuild
+drwxr-xr-x root/root         0 2022-04-28 18:43 usr/lib64/
+-rw-r--r-- root/root   3295542 2022-04-28 18:43 usr/lib64/libSDL2.a
+-rw-r--r-- root/root      1414 2022-04-28 18:43 usr/lib64/libSDL2main.a
+
+

@@ -1,0 +1,51 @@
+++========================================
+||
+||   Package:  ./libmp4v2/libmp4v2-5.0.1-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-07-01 07:27 ./
+drwxr-xr-x root/root         0 2021-07-01 07:27 install/
+-rw-r--r-- root/root       192 2021-07-01 07:27 install/doinst.sh
+-rw-r--r-- root/root       854 2021-07-01 07:27 install/slack-desc
+drwxr-xr-x root/root         0 2021-07-01 07:27 usr/
+drwxr-xr-x root/root         0 2021-07-01 07:27 usr/bin/
+-rwxr-xr-x root/root     39608 2021-07-01 07:27 usr/bin/mp4art
+-rwxr-xr-x root/root     52128 2021-07-01 07:27 usr/bin/mp4chaps
+-rwxr-xr-x root/root     23112 2021-07-01 07:27 usr/bin/mp4extract
+-rwxr-xr-x root/root     23048 2021-07-01 07:27 usr/bin/mp4file
+-rwxr-xr-x root/root     27096 2021-07-01 07:27 usr/bin/mp4info
+-rwxr-xr-x root/root     22928 2021-07-01 07:27 usr/bin/mp4subtitle
+-rwxr-xr-x root/root     32792 2021-07-01 07:27 usr/bin/mp4tags
+-rwxr-xr-x root/root     72456 2021-07-01 07:27 usr/bin/mp4track
+-rwxr-xr-x root/root     14680 2021-07-01 07:27 usr/bin/mp4trackdump
+drwxr-xr-x root/root         0 2021-07-01 07:27 usr/doc/
+drwxr-xr-x root/root         0 2021-07-01 07:27 usr/doc/libmp4v2-5.0.1/
+-rw-r--r-- root/root     24969 2021-06-30 20:06 usr/doc/libmp4v2-5.0.1/COPYING
+-rw-r--r-- root/root      9512 2021-06-30 20:06 usr/doc/libmp4v2-5.0.1/INSTALL
+-rw-r--r-- root/root      3441 2021-07-01 07:27 usr/doc/libmp4v2-5.0.1/libmp4v2.SlackBuild
+drwxr-xr-x root/root         0 2021-07-01 07:27 usr/include/
+drwxr-xr-x root/root         0 2021-07-01 07:27 usr/include/mp4v2/
+-rw-r--r-- root/root      6088 2021-07-01 07:27 usr/include/mp4v2/chapter.h
+-rw-r--r-- root/root     14721 2021-07-01 07:27 usr/include/mp4v2/file.h
+-rw-r--r-- root/root      3821 2021-07-01 07:27 usr/include/mp4v2/file_prop.h
+-rw-r--r-- root/root     16270 2021-07-01 07:27 usr/include/mp4v2/general.h
+-rw-r--r-- root/root      2964 2021-07-01 07:27 usr/include/mp4v2/isma.h
+-rw-r--r-- root/root      8718 2021-07-01 07:27 usr/include/mp4v2/itmf_generic.h
+-rw-r--r-- root/root     11265 2021-07-01 07:27 usr/include/mp4v2/itmf_tags.h
+-rw-r--r-- root/root      2491 2021-07-01 07:27 usr/include/mp4v2/mp4v2.h
+-rw-r--r-- root/root      2437 2021-07-01 07:27 usr/include/mp4v2/platform.h
+-rw-r--r-- root/root      1539 2021-07-01 07:27 usr/include/mp4v2/project.h
+-rw-r--r-- root/root     22624 2021-07-01 07:27 usr/include/mp4v2/sample.h
+-rw-r--r-- root/root      4001 2021-07-01 07:27 usr/include/mp4v2/streaming.h
+-rw-r--r-- root/root     13849 2021-07-01 07:27 usr/include/mp4v2/track.h
+-rw-r--r-- root/root     11582 2021-07-01 07:27 usr/include/mp4v2/track_prop.h
+drwxr-xr-x root/root         0 2021-07-01 07:27 usr/lib64/
+-rwxr-xr-x root/root   1045528 2021-07-01 07:27 usr/lib64/libmp4v2.so.2.0.0
+drwxr-xr-x root/root         0 2021-07-01 07:27 usr/man/
+drwxr-xr-x root/root         0 2021-07-01 07:27 usr/man/man1/
+-rw-r--r-- root/root       855 2021-07-01 07:27 usr/man/man1/mp4art.1.gz
+-rw-r--r-- root/root       713 2021-07-01 07:27 usr/man/man1/mp4file.1.gz
+-rw-r--r-- root/root       805 2021-07-01 07:27 usr/man/man1/mp4subtitle.1.gz
+-rw-r--r-- root/root      1172 2021-07-01 07:27 usr/man/man1/mp4track.1.gz
+
+

@@ -1,0 +1,21 @@
+These are the MD5 message digests for the files in this directory.
+If you want to test your files, use 'md5sum' and compare the values to
+the ones listed here.
+
+To test all these files, use this command:
+
+tail +13 CHECKSUMS.md5 | md5sum --check | less
+
+'md5sum' can be found in the GNU coreutils package on ftp.gnu.org in
+/pub/gnu, or at any GNU mirror site.
+
+MD5 message digest                Filename
+3163d51ddd159759ac6488c88b11fdae  ./ChangeLog.rss
+a8efb02dd64d379f17e6aeefe8f146ee  ./ChangeLog.txt
+a7941126d1c09e6dce3f82b12671dbee  ./ChangeLog.txt.gz
+f8b0b86d499fb35d0c9dba37c938d2e3  ./FILELIST.TXT
+15e0169bdea45a253b87086080ce2fcb  ./GPG-KEY
+4059d198768f9f8dc9372dc1c54bc3c3  ./MANIFEST.bz2
+31739540e7025f5c81111f5d20f022f9  ./PACKAGES.TXT
+4ad1a557f6b6865abfed4dca98d8740a  ./PACKAGES.TXT.gz
+ee7f230b66bdc1dfa2400b4eb27be06a  ./README

@@ -1,0 +1,21 @@
+PACKAGE NAME:  svt-av1-1.2.1-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./svt-av1
+PACKAGE SIZE (compressed):  1824 K
+PACKAGE SIZE (uncompressed):  7410 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+svt-av1: svt-av1 (SVT-AV1 Encoder and Decoder)
+svt-av1:
+svt-av1: The Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
+svt-av1: is an AV1-compliant encoder/decoder library core. The SVT-AV1 encoder
+svt-av1: development is a work-in-progress targeting performance levels
+svt-av1: applicable to both VOD and Live encoding / transcoding video
+svt-av1: applications. The SVT-AV1 decoder implementation is targeting future
+svt-av1: codec research activities.
+svt-av1:
+svt-av1:
+svt-av1:
+

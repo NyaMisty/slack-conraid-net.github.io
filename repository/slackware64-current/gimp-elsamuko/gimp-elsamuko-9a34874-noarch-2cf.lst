@@ -1,0 +1,44 @@
+++========================================
+||
+||   Package:  ./gimp-elsamuko/gimp-elsamuko-9a34874-noarch-2cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 11:10 ./
+drwxr-xr-x root/root         0 2020-10-05 11:10 install/
+-rw-r--r-- root/root       759 2020-10-05 11:10 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 11:10 usr/
+drwxr-xr-x root/root         0 2020-10-05 11:10 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 11:10 usr/doc/gimp-elsamuko-9a34874/
+-rw-r--r-- root/root     35121 2018-07-11 20:11 usr/doc/gimp-elsamuko-9a34874/LICENSE
+-rw-r--r-- root/root      2454 2020-10-05 11:10 usr/doc/gimp-elsamuko-9a34874/gimp-elsamuko.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 11:10 usr/share/
+drwxr-xr-x root/root         0 2020-10-05 11:10 usr/share/gimp/
+drwxr-xr-x root/root         0 2020-10-05 11:10 usr/share/gimp/2.0/
+drwxr-xr-x root/root         0 2020-10-05 11:10 usr/share/gimp/2.0/scripts/
+-rw-r--r-- root/root      4919 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-antique-border.scm
+-rw-r--r-- root/root      4754 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-che-guevara.scm
+-rw-r--r-- root/root      4731 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-color-tint.scm
+-rw-r--r-- root/root      6462 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-cyanotype.scm
+-rw-r--r-- root/root      3258 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-difference-layers.scm
+-rw-r--r-- root/root      5013 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-erosion-sharpen.scm
+-rw-r--r-- root/root      3895 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-error-level-analysis.scm
+-rw-r--r-- root/root      4997 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-escape-lines.scm
+-rw-r--r-- root/root      3125 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-glass-displacement.scm
+-rw-r--r-- root/root      4561 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-grain.scm
+-rw-r--r-- root/root     25706 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-lomo-batch.scm
+-rw-r--r-- root/root     23918 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-lomo.scm
+-rw-r--r-- root/root      9547 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-movie-300.scm
+-rw-r--r-- root/root     10193 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-national-geographic.scm
+-rw-r--r-- root/root      9196 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-obama-hope.scm
+-rw-r--r-- root/root      6539 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-photo-border.scm
+-rw-r--r-- root/root     13458 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-photochrom.scm
+-rw-r--r-- root/root      4994 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-rainy-landscape.scm
+-rw-r--r-- root/root     14282 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-slide-with-sprockets.scm
+-rw-r--r-- root/root     10760 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-sunny-landscape.scm
+-rw-r--r-- root/root      7457 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-technicolor-2-color.scm
+-rw-r--r-- root/root     11209 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-technicolor-3-color.scm
+-rw-r--r-- root/root      3549 2020-10-05 11:10 usr/share/gimp/2.0/scripts/elsamuko-wb-puzzle.scm
+-rw-r--r-- root/root      4205 2020-10-05 11:10 usr/share/gimp/2.0/scripts/mm1-vintage-look.scm
+-rw-r--r-- root/root      5517 2020-10-05 11:10 usr/share/gimp/2.0/scripts/tuxcomputers-split-tone.scm
+
+

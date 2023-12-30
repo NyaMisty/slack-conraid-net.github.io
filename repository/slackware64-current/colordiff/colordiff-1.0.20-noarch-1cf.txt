@@ -1,0 +1,11 @@
+colordiff: colordiff (color wrapper for 'diff')
+colordiff:
+colordiff: The Perl script colordiff is a wrapper for 'diff' and produces
+colordiff: the same output but with pretty 'syntax' highlighting.
+colordiff: Colour schemes can be customized.
+colordiff:
+colordiff: 
+colordiff:
+colordiff:
+colordiff:
+colordiff:

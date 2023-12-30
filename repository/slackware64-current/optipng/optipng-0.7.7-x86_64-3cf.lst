@@ -1,0 +1,28 @@
+++========================================
+||
+||   Package:  ./optipng/optipng-0.7.7-x86_64-3cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 12:04 ./
+drwxr-xr-x root/root         0 2020-10-05 12:04 install/
+-rw-r--r-- root/root       836 2020-10-05 12:04 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 12:04 usr/
+drwxr-xr-x root/root         0 2020-10-05 12:04 usr/bin/
+-rwxr-xr-x root/root    141912 2020-10-05 12:04 usr/bin/optipng
+drwxr-xr-x root/root         0 2020-10-05 12:04 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 12:04 usr/doc/optipng-0.7.7/
+-rw-r--r-- root/root       671 2017-12-27 12:57 usr/doc/optipng-0.7.7/AUTHORS.txt
+-rw-r--r-- root/root      1016 2017-12-27 12:57 usr/doc/optipng-0.7.7/LICENSE.txt
+-rw-r--r-- root/root      1452 2017-12-27 12:57 usr/doc/optipng-0.7.7/README.txt
+-rw-r--r-- root/root     16916 2017-12-27 12:57 usr/doc/optipng-0.7.7/history.txt
+-rw-r--r-- root/root      3387 2020-10-05 12:04 usr/doc/optipng-0.7.7/optipng.SlackBuild
+-rw-r--r-- root/root     19419 2017-12-27 12:57 usr/doc/optipng-0.7.7/optipng.man.html
+-rw-r--r-- root/root     13295 2017-12-27 12:57 usr/doc/optipng-0.7.7/optipng.man.pdf
+-rw-r--r-- root/root     12969 2017-12-27 12:57 usr/doc/optipng-0.7.7/optipng.man.txt
+-rw-r--r-- root/root     25501 2008-05-11 00:21 usr/doc/optipng-0.7.7/png_optimization.html
+-rw-r--r-- root/root      1461 2017-12-27 12:57 usr/doc/optipng-0.7.7/todo.txt
+drwxr-xr-x root/root         0 2020-10-05 12:04 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 12:04 usr/man/man1/
+-rw-r--r-- root/root      4370 2017-12-27 12:57 usr/man/man1/optipng.1.gz
+
+

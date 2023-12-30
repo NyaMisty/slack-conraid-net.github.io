@@ -1,0 +1,18 @@
+PACKAGE NAME:  cssselect2-0.4.1-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./cssselect2
+PACKAGE SIZE (compressed):  24 K
+PACKAGE SIZE (uncompressed):  110 K
+PACKAGE DESCRIPTION:
+cssselect2: cssselect2 (straightforward implementation of CSS3)
+cssselect2:
+cssselect2: cssselect2 is a straightforward implementation of CSS3 Selectors for
+cssselect2: markup documents (HTML, XML, etc.) that can be read by
+cssselect2: ElementTree-like parsers (including cElementTree, lxml, html5lib...)
+cssselect2:
+cssselect2:
+cssselect2:
+cssselect2:
+cssselect2:
+cssselect2:
+

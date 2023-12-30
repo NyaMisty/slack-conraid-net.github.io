@@ -1,0 +1,19 @@
+++========================================
+||
+||   Package:  ./docker-proxy/docker-proxy-264bffc-x86_64-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-02-26 13:53 ./
+drwxr-xr-x root/root         0 2020-02-26 13:53 install/
+-rw-r--r-- root/root       775 2020-02-26 13:53 install/slack-desc
+drwxr-xr-x root/root         0 2020-02-26 13:53 usr/
+drwxr-xr-x root/root         0 2020-02-26 13:53 usr/bin/
+-rwxr-xr-x root/root   2100312 2020-02-26 13:53 usr/bin/docker-proxy
+drwxr-xr-x root/root         0 2020-02-26 13:53 usr/doc/
+drwxr-xr-x root/root         0 2020-02-26 13:53 usr/doc/docker-proxy-264bffc/
+-rw-r--r-- root/root      7685 2020-02-25 22:27 usr/doc/docker-proxy-264bffc/CHANGELOG.md
+-rw-r--r-- root/root     11325 2020-02-25 22:27 usr/doc/docker-proxy-264bffc/LICENSE
+-rw-r--r-- root/root      3681 2020-02-25 22:27 usr/doc/docker-proxy-264bffc/README.md
+-rw-r--r-- root/root      3672 2020-02-26 13:53 usr/doc/docker-proxy-264bffc/docker-proxy.SlackBuild
+
+

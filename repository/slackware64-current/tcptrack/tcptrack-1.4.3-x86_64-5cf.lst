@@ -1,0 +1,26 @@
+++========================================
+||
+||   Package:  ./tcptrack/tcptrack-1.4.3-x86_64-5cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-10-05 13:11 ./
+drwxr-xr-x root/root         0 2020-10-05 13:11 install/
+-rw-r--r-- root/root       716 2020-10-05 13:11 install/slack-desc
+drwxr-xr-x root/root         0 2020-10-05 13:11 usr/
+drwxr-xr-x root/root         0 2020-10-05 13:11 usr/bin/
+-rwxr-xr-x root/root     64304 2020-10-05 13:11 usr/bin/tcptrack
+drwxr-xr-x root/root         0 2020-10-05 13:11 usr/doc/
+drwxr-xr-x root/root         0 2020-10-05 13:11 usr/doc/tcptrack-1.4.3/
+-rw-r--r-- root/root       486 2015-04-23 10:04 usr/doc/tcptrack-1.4.3/AUTHORS
+-rw-r--r-- root/root     26416 2015-04-23 10:04 usr/doc/tcptrack-1.4.3/COPYING
+-rw-r--r-- root/root      4300 2015-04-23 10:04 usr/doc/tcptrack-1.4.3/ChangeLog
+-rw-r--r-- root/root      1066 2015-04-23 10:04 usr/doc/tcptrack-1.4.3/INSTALL
+-rw-r--r-- root/root         0 2015-04-23 10:04 usr/doc/tcptrack-1.4.3/NEWS
+-rw-r--r-- root/root      3359 2015-04-23 10:04 usr/doc/tcptrack-1.4.3/README
+-rw-r--r-- root/root      2875 2015-04-23 10:04 usr/doc/tcptrack-1.4.3/TODO
+-rw-r--r-- root/root      3642 2020-10-05 13:11 usr/doc/tcptrack-1.4.3/tcptrack.SlackBuild
+drwxr-xr-x root/root         0 2020-10-05 13:11 usr/man/
+drwxr-xr-x root/root         0 2020-10-05 13:11 usr/man/man1/
+-rw-r--r-- root/root      1925 2020-10-05 13:11 usr/man/man1/tcptrack.1.gz
+
+

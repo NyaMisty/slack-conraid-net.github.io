@@ -1,0 +1,11 @@
+hiredis: hiredis (Minimalistic C client for Redis)
+hiredis:
+hiredis: Hiredis is a minimalistic C client library for the Redis database.
+hiredis:
+hiredis:
+hiredis:
+hiredis:
+hiredis:
+hiredis:
+hiredis:
+hiredis:

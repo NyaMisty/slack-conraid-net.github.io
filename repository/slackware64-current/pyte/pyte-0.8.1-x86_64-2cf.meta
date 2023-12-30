@@ -1,0 +1,21 @@
+PACKAGE NAME:  pyte-0.8.1-x86_64-2cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./pyte
+PACKAGE SIZE (compressed):  44 K
+PACKAGE SIZE (uncompressed):  210 K
+PACKAGE REQUIRED:  wcwidth
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+pyte: pyte (Simple VTXXX-compatible linux terminal emulator)
+pyte:
+pyte: It's an in memory VTXXX-compatible terminal emulator. XXX stands for
+pyte: a series of video terminals, developed by DEC between 1970 and 1995.
+pyte: The first, and probably the most famous one, was VT100 terminal,
+pyte: which is now a de-facto standard for all virtual terminal emulators.
+pyte:
+pyte:
+pyte:
+pyte:
+pyte:
+

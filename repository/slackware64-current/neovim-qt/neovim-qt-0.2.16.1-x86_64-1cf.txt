@@ -1,0 +1,11 @@
+neovim-qt: neovim-qt (Neovim client library and GUI, in Qt5)
+neovim-qt:
+neovim-qt: Neovim is a client library and GUI for neovim in Qt5.
+neovim-qt:
+neovim-qt:
+neovim-qt:
+neovim-qt:
+neovim-qt:
+neovim-qt:
+neovim-qt:
+neovim-qt:

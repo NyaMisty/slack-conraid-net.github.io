@@ -1,0 +1,54 @@
+++========================================
+||
+||   Package:  ./httpry/httpry-0.1.8-x86_64-7cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-05-22 10:05 ./
+drwxr-xr-x root/root         0 2021-05-22 10:05 install/
+-rw-r--r-- root/root       275 2021-05-22 10:05 install/doinst.sh
+-rw-r--r-- root/root      1042 2021-05-22 10:05 install/slack-desc
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/doc/
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/doc/httpry-0.1.8/
+-rw-r--r-- root/root      1030 2014-06-04 18:08 usr/doc/httpry-0.1.8/AUTHORS
+-rw-r--r-- root/root     17987 2014-06-04 18:08 usr/doc/httpry-0.1.8/COPYING
+-rw-r--r-- root/root      5714 2014-06-04 18:08 usr/doc/httpry-0.1.8/ChangeLog
+-rw-r--r-- root/root      6642 2014-06-04 18:08 usr/doc/httpry-0.1.8/README
+-rw-r--r-- root/root      2692 2014-06-04 18:08 usr/doc/httpry-0.1.8/format-string
+-rw-r--r-- root/root      3236 2021-05-22 10:05 usr/doc/httpry-0.1.8/httpry.SlackBuild
+-rw-r--r-- root/root      1263 2014-06-04 18:08 usr/doc/httpry-0.1.8/method-string
+-rw-r--r-- root/root      4088 2014-06-04 18:08 usr/doc/httpry-0.1.8/perl-tools
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/lib64/
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/lib64/httpry/
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/lib64/httpry/scripts/
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/lib64/httpry/scripts/plugins/
+-rw-r--r-- root/root     11799 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/parse_log.pl
+drwxr-xr-x root/root         0 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/
+-rw-r--r-- root/root       693 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/common_log.cfg
+-rw-r--r-- root/root      6276 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/common_log.pm
+-rw-r--r-- root/root      1211 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/content_analysis.cfg
+-rw-r--r-- root/root     16996 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/content_analysis.pm
+-rw-r--r-- root/root       781 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/db_dump.cfg
+-rw-r--r-- root/root      1395 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/db_dump.mysql
+-rw-r--r-- root/root      5048 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/db_dump.pm
+-rw-r--r-- root/root       524 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/find_proxies.cfg
+-rw-r--r-- root/root      6679 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/find_proxies.pm
+-rw-r--r-- root/root       181 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/hostnames.cfg
+-rw-r--r-- root/root      2853 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/hostnames.pm
+-rw-r--r-- root/root       344 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/log_summary.cfg
+-rw-r--r-- root/root      7339 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/log_summary.pm
+-rw-r--r-- root/root      3714 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/sample_plugin.pm
+-rw-r--r-- root/root      1577 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/search_terms.cfg
+-rw-r--r-- root/root      5213 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/search_terms.pm
+-rw-r--r-- root/root       405 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/tokenize.cfg
+-rw-r--r-- root/root      2897 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/tokenize.pm
+-rw-r--r-- root/root       455 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/xml_output.cfg
+-rw-r--r-- root/root      1108 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/xml_output.css
+-rw-r--r-- root/root      2817 2014-06-04 18:08 usr/lib64/httpry/scripts/plugins/plugins/xml_output.pm
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/man/
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/man/man1/
+-rw-r--r-- root/root      1769 2021-05-22 10:05 usr/man/man1/httpry.1.gz
+drwxr-xr-x root/root         0 2021-05-22 10:05 usr/sbin/
+-rwxr-xr-x root/root     43912 2021-05-22 10:05 usr/sbin/httpry
+
+

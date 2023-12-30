@@ -1,0 +1,70 @@
+++========================================
+||
+||   Package:  ./nyx/nyx-2.1.0-x86_64-7cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-07-30 13:31 ./
+drwxr-xr-x root/root         0 2022-07-30 13:31 install/
+-rw-r--r-- root/root       804 2022-07-30 13:31 install/slack-desc
+-rw-r--r-- root/root         5 2022-07-30 13:31 install/slack-required
+drwxr-xr-x root/root         0 2022-07-30 13:31 usr/
+drwxr-xr-x root/root         0 2022-07-30 13:31 usr/bin/
+-rwxr-xr-x root/root       938 2022-07-30 13:31 usr/bin/nyx
+drwxr-xr-x root/root         0 2022-07-30 13:31 usr/doc/
+drwxr-xr-x root/root         0 2022-07-30 13:31 usr/doc/nyx-2.1.0/
+-rw-r--r-- root/root     35147 2015-04-19 21:25 usr/doc/nyx-2.1.0/LICENSE
+-rw-r--r-- root/root      3488 2022-07-30 13:31 usr/doc/nyx-2.1.0/nyx.SlackBuild
+drwxr-xr-x root/root         0 2022-07-30 13:31 usr/lib64/
+drwxr-xr-x root/root         0 2022-07-30 13:31 usr/lib64/python3.9/
+drwxr-xr-x root/root         0 2022-07-30 13:31 usr/lib64/python3.9/site-packages/
+drwxr-xr-x root/root         0 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx/
+drwxr-xr-x root/root         0 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx-2.1.0-py3.9.egg-info/
+-rw-r--r-- root/root       964 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx-2.1.0-py3.9.egg-info/PKG-INFO
+-rw-r--r-- root/root      2925 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx-2.1.0-py3.9.egg-info/SOURCES.txt
+-rw-r--r-- root/root         1 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx-2.1.0-py3.9.egg-info/dependency_links.txt
+-rw-r--r-- root/root        42 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx-2.1.0-py3.9.egg-info/entry_points.txt
+-rw-r--r-- root/root        12 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx-2.1.0-py3.9.egg-info/requires.txt
+-rw-r--r-- root/root         4 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx-2.1.0-py3.9.egg-info/top_level.txt
+-rw-r--r-- root/root     20879 2019-01-12 23:50 usr/lib64/python3.9/site-packages/nyx/__init__.py
+drwxr-xr-x root/root         0 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx/__pycache__/
+-rw-r--r-- root/root     20288 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root      3724 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx/__pycache__/arguments.cpython-39.pyc
+-rw-r--r-- root/root     29032 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx/__pycache__/curses.cpython-39.pyc
+-rw-r--r-- root/root     14269 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx/__pycache__/log.cpython-39.pyc
+-rw-r--r-- root/root      9816 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx/__pycache__/menu.cpython-39.pyc
+-rw-r--r-- root/root     15816 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx/__pycache__/popups.cpython-39.pyc
+-rw-r--r-- root/root      7460 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx/__pycache__/starter.cpython-39.pyc
+-rw-r--r-- root/root     25156 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx/__pycache__/tracker.cpython-39.pyc
+-rw-r--r-- root/root      4263 2019-01-10 20:11 usr/lib64/python3.9/site-packages/nyx/arguments.py
+-rw-r--r-- root/root     34171 2019-01-10 20:11 usr/lib64/python3.9/site-packages/nyx/curses.py
+-rw-r--r-- root/root     14958 2019-01-10 20:11 usr/lib64/python3.9/site-packages/nyx/log.py
+-rw-r--r-- root/root      8787 2019-01-10 20:11 usr/lib64/python3.9/site-packages/nyx/menu.py
+drwxr-xr-x root/root         0 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx/panel/
+-rw-r--r-- root/root      5359 2019-01-10 20:11 usr/lib64/python3.9/site-packages/nyx/panel/__init__.py
+drwxr-xr-x root/root         0 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx/panel/__pycache__/
+-rw-r--r-- root/root      6297 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx/panel/__pycache__/__init__.cpython-39.pyc
+-rw-r--r-- root/root     12202 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx/panel/__pycache__/config.cpython-39.pyc
+-rw-r--r-- root/root     23175 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx/panel/__pycache__/connection.cpython-39.pyc
+-rw-r--r-- root/root     22395 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx/panel/__pycache__/graph.cpython-39.pyc
+-rw-r--r-- root/root     14123 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx/panel/__pycache__/header.cpython-39.pyc
+-rw-r--r-- root/root      5284 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx/panel/__pycache__/interpreter.cpython-39.pyc
+-rw-r--r-- root/root     13249 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx/panel/__pycache__/log.cpython-39.pyc
+-rw-r--r-- root/root      5381 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx/panel/__pycache__/torrc.cpython-39.pyc
+-rw-r--r-- root/root     12658 2019-01-10 20:11 usr/lib64/python3.9/site-packages/nyx/panel/config.py
+-rw-r--r-- root/root     26823 2019-01-11 19:39 usr/lib64/python3.9/site-packages/nyx/panel/connection.py
+-rw-r--r-- root/root     25222 2019-01-10 20:11 usr/lib64/python3.9/site-packages/nyx/panel/graph.py
+-rw-r--r-- root/root     16356 2019-01-10 20:11 usr/lib64/python3.9/site-packages/nyx/panel/header.py
+-rw-r--r-- root/root      5391 2019-01-10 20:11 usr/lib64/python3.9/site-packages/nyx/panel/interpreter.py
+-rw-r--r-- root/root     14913 2019-01-10 20:11 usr/lib64/python3.9/site-packages/nyx/panel/log.py
+-rw-r--r-- root/root      6080 2019-01-10 20:11 usr/lib64/python3.9/site-packages/nyx/panel/torrc.py
+-rw-r--r-- root/root     17907 2019-01-10 20:11 usr/lib64/python3.9/site-packages/nyx/popups.py
+drwxr-xr-x root/root         0 2022-07-30 13:31 usr/lib64/python3.9/site-packages/nyx/settings/
+-rw-r--r-- root/root      3393 2019-01-09 19:18 usr/lib64/python3.9/site-packages/nyx/settings/attributes.cfg
+-rw-r--r-- root/root      6365 2019-01-12 22:36 usr/lib64/python3.9/site-packages/nyx/settings/dedup.cfg
+-rw-r--r-- root/root      7742 2019-01-10 20:11 usr/lib64/python3.9/site-packages/nyx/starter.py
+-rw-r--r-- root/root     28926 2019-01-10 20:11 usr/lib64/python3.9/site-packages/nyx/tracker.py
+drwxr-xr-x root/root         0 2022-07-30 13:31 usr/man/
+drwxr-xr-x root/root         0 2022-07-30 13:31 usr/man/man1/
+-rw-r--r-- root/root       785 2022-07-30 13:31 usr/man/man1/nyx.1.gz
+
+

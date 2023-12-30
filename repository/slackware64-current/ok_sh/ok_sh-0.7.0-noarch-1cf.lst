@@ -1,0 +1,27 @@
+++========================================
+||
+||   Package:  ./ok_sh/ok_sh-0.7.0-noarch-1cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2020-11-03 09:26 ./
+drwxr-xr-x root/root         0 2020-11-03 09:26 install/
+-rw-r--r-- root/root       711 2020-11-03 09:26 install/slack-desc
+drwxr-xr-x root/root         0 2020-11-03 09:26 usr/
+drwxr-xr-x root/root         0 2020-11-03 09:26 usr/bin/
+-rwxr-xr-x root/root     71394 2020-11-03 09:26 usr/bin/ok.sh
+drwxr-xr-x root/root         0 2020-11-03 09:26 usr/doc/
+drwxr-xr-x root/root         0 2020-11-03 09:26 usr/doc/ok_sh-0.7.0/
+-rw-r--r-- root/root      1496 2020-11-03 02:32 usr/doc/ok_sh-0.7.0/LICENSE
+-rw-r--r-- root/root     36678 2020-11-03 02:32 usr/doc/ok_sh-0.7.0/README.md
+-rw-r--r-- root/root      2297 2020-11-03 09:26 usr/doc/ok_sh-0.7.0/ok_sh.SlackBuild
+drwxr-xr-x root/root         0 2020-11-03 02:32 usr/doc/ok_sh-0.7.0/tests/
+-rw-r--r-- root/root        97 2020-11-03 02:32 usr/doc/ok_sh-0.7.0/tests/Makefile
+-rwxr-xr-x root/root      2636 2020-11-03 02:32 usr/doc/ok_sh-0.7.0/tests/integration.sh
+drwxr-xr-x root/root         0 2020-11-03 02:32 usr/doc/ok_sh-0.7.0/tests/mockhttpd/
+drwxr-xr-x root/root         0 2020-11-03 02:32 usr/doc/ok_sh-0.7.0/tests/mockhttpd/GET/
+-rw-r--r-- root/root         0 2020-11-03 02:32 usr/doc/ok_sh-0.7.0/tests/mockhttpd/GET/index
+-rwxr-xr-x root/root      3179 2020-11-03 02:32 usr/doc/ok_sh-0.7.0/tests/mockhttpd/mockhttpd.sh
+-rwxr-xr-x root/root       858 2020-11-03 02:32 usr/doc/ok_sh-0.7.0/tests/run_tests.sh
+-rwxr-xr-x root/root      5715 2020-11-03 02:32 usr/doc/ok_sh-0.7.0/tests/unit.sh
+
+

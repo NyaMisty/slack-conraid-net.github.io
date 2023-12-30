@@ -1,0 +1,11 @@
+node-uglifycss: node-uglifycss (minifier css)
+node-uglifycss:
+node-uglifycss: UglifyCSS is a port of YUI Compressor to NodeJS for its CSS part.
+node-uglifycss: Like YUI CSS Compressor, it applies many regexp replacements.
+node-uglifycss:
+node-uglifycss:
+node-uglifycss:
+node-uglifycss:
+node-uglifycss:
+node-uglifycss:
+node-uglifycss:

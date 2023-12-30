@@ -1,0 +1,11 @@
+spotify-bin: spotify-bin (digital music client)
+spotify-bin:
+spotify-bin: Spotify is a digital music service that gives you access to millions
+spotify-bin: of songs
+spotify-bin:
+spotify-bin: THIS IS A BINARY VERSION
+spotify-bin:
+spotify-bin:
+spotify-bin:
+spotify-bin:
+spotify-bin:

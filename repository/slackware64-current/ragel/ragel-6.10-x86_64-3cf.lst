@@ -1,0 +1,32 @@
+++========================================
+||
+||   Package:  ./ragel/ragel-6.10-x86_64-3cf.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2021-04-27 15:16 ./
+drwxr-xr-x root/root         0 2021-04-27 15:16 install/
+-rw-r--r-- root/root       996 2021-04-27 15:16 install/slack-desc
+drwxr-xr-x root/root         0 2021-04-27 15:16 usr/
+drwxr-xr-x root/root         0 2021-04-27 15:16 usr/bin/
+-rwxr-xr-x root/root   1846104 2021-04-27 15:16 usr/bin/ragel
+drwxr-xr-x root/root         0 2021-04-27 15:16 usr/doc/
+drwxr-xr-x root/root         0 2021-04-27 15:16 usr/doc/ragel-6.10/
+-rw-r--r-- root/root        13 2017-03-24 04:29 usr/doc/ragel-6.10/AUTHORS
+-rw-r--r-- root/root     18096 2017-03-24 04:29 usr/doc/ragel-6.10/COPYING
+-rw-r--r-- root/root      2004 2017-03-24 04:29 usr/doc/ragel-6.10/CREDITS
+-rw-r--r-- root/root     94139 2017-03-24 04:29 usr/doc/ragel-6.10/ChangeLog
+-rw-r--r-- root/root       129 2017-03-24 05:52 usr/doc/ragel-6.10/DIST
+-rw-r--r-- root/root       858 2017-03-24 04:29 usr/doc/ragel-6.10/README
+-rw-r--r-- root/root      4360 2017-03-24 04:29 usr/doc/ragel-6.10/TODO
+-rw-r--r-- root/root      3710 2021-04-27 15:16 usr/doc/ragel-6.10/ragel.SlackBuild
+-rw-r--r-- root/root      7128 2017-03-24 04:29 usr/doc/ragel-6.10/unicode2ragel.rb
+drwxr-xr-x root/root         0 2021-04-27 15:16 usr/man/
+drwxr-xr-x root/root         0 2021-04-27 15:16 usr/man/man1/
+-rw-r--r-- root/root      6741 2021-04-27 15:16 usr/man/man1/ragel.1.gz
+drwxr-xr-x root/root         0 2021-04-27 15:16 usr/share/
+drwxr-xr-x root/root         0 2021-04-27 15:16 usr/share/vim/
+drwxr-xr-x root/root         0 2021-04-27 15:16 usr/share/vim/vimfiles/
+drwxr-xr-x root/root         0 2021-04-27 15:16 usr/share/vim/vimfiles/syntax/
+-rw-r--r-- root/root      5897 2021-04-27 15:16 usr/share/vim/vimfiles/syntax/ragel.vim
+
+

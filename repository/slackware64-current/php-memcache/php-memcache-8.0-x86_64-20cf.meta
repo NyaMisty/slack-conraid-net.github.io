@@ -1,0 +1,21 @@
+PACKAGE NAME:  php-memcache-8.0-x86_64-20cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./php-memcache
+PACKAGE SIZE (compressed):  48 K
+PACKAGE SIZE (uncompressed):  150 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+php-memcache: PHP Memcache (memcached extension)
+php-memcache:
+php-memcache: This extension allows you to work with memcached through
+php-memcache: handy OO and procedural interfaces.
+php-memcache:
+php-memcache:
+php-memcache:
+php-memcache:
+php-memcache:
+php-memcache:
+php-memcache:
+

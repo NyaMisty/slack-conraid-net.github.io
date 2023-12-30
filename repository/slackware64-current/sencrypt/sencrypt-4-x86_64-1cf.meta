@@ -1,0 +1,18 @@
+PACKAGE NAME:  sencrypt-4-x86_64-1cf.txz
+PACKAGE MIRROR:  http://slack.conraid.net/repository/slackware64-current/
+PACKAGE LOCATION:  ./sencrypt
+PACKAGE SIZE (compressed):  16 K
+PACKAGE SIZE (uncompressed):  50 K
+PACKAGE DESCRIPTION:
+sencrypt: sencrypt (utilities for encrypting and decrypting data)
+sencrypt:
+sencrypt: sencrypt and sdecrypt are utilities for encrypting and decrypting
+sencrypt: data with the AES, DES, 3DES, and RC4 algorithms. It can read
+sencrypt: keys from files or ask for a passphrase and use that together
+sencrypt: with a salt to derive a key using the PBKDF2 key derivation
+sencrypt: function.
+sencrypt:
+sencrypt:
+sencrypt:
+sencrypt:
+

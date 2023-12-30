@@ -1,0 +1,11 @@
+neochat: neochat (a client for matrix)
+neochat:
+neochat: NeoChat is a client for matrix, the decentralized communication
+neochat: protocol.
+neochat:
+neochat:
+neochat:
+neochat:
+neochat:
+neochat:
+neochat:
